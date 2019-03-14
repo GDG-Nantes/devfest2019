@@ -8,27 +8,27 @@ menu:
 ---
 
 
-{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Toulouse 2019" %}}
+{{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Nantes 2019" %}}
 
-## October 3rd, 2019
-### Pierre Baudis congress center
+## OCTOBER 21-22, 2019
+### Cité des Congrès, Nantes
 
-<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Become a sponsor (🇫🇷 for now)</a>
+<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor (🇫🇷 for now)</a>
 
 
 {{% /jumbo %}}
 
 
 
-{{% home-info what="Participants:900,Day:1,Sessions:36,Parallel Tracks:4" class="primary" %}}
-## What is DevFest Toulouse?
+{{% home-info what="Participants:1800,Day:2,Sessions:70+,Parallel Tracks:4,Speakers:80+" class="primary" %}}
+## What is DevFest Nantes?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
 It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-{{< youtube-section link="ZQGRMJzi6yU" title="Watch 2018 best moments" class="" >}}
+{{< youtube-section link="BMI5lxkoanc" title="Watch 2018 best moments" class="" >}}
 
 <!-- ... -->
 
@@ -63,27 +63,27 @@ It is aimed at students, professionals or simply curious technophiles.
 # Tickets
 
 <ul>  
-<li>{{< ticket name="Blind Birds"
-           starts="2019-04-04"
-           ends="2019-11-08"
-           price="40 €"
-           info="50 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
 <li>{{< ticket name="Early Birds"
-           starts="2019-04-04"
-           ends="2019-11-08"
-           price="60 €"
+           starts="2019-05-01"
+           ends="2019-06-30"
+           price="78 €"
+           info="50 first places"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
+<li>{{< ticket name="Reduced Price"
+           starts="2019-05-01"
+           ends="2019-10-15"
+           price="20 €"
            info="70 first places"
-           soldOut="true"
-           url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-04-04"
-           ends="2019-11-08"
-           price="80 €"
-           info="250 last places"
+           ends="2019-10-15"
+           price="99 €"
+           info=""
            soldOut=""
-           url="https://www.billetweb.fr/devfest-toulouse-2018" >}}</li>
+           url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
@@ -96,17 +96,17 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-location
     image="/images/map.jpg"
-    address="11 Espl. Compans Caffarelli, 31000 Toulouse"
-    latitude="43.6110956"
-    longitude="1.4332799" %}}
+    address="5 rue de Valmy, 44000 Nantes"
+    latitude="47.2129658"
+    longitude="-1.5425652" %}}
 
 ## The venue
 
-### Centre de Congrès Pierre Baudis
+### Cité des Congrès, Nantes
 
-The Centre de Congrès Pierre Baudis is a modern place of exchange,
+The Cité des Congrès is a modern place of exchange,
 located on a privileged location,
-in the immediate vicinity of the centre of Toulouse and in a green environment.
+in the immediate vicinity of the centre of Nantes and in a green environment.
 
 {{% /home-location %}}
 
@@ -114,9 +114,9 @@ in the immediate vicinity of the centre of Toulouse and in a green environment.
 
 {{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
 
-### Some pictures of the **DevFest Toulouse 2018** with the 👾 _retro-gaming_ theme.
+### Some pictures of the **DevFest Nantes 2018** with the 👾 _space_ theme.
 
-<a class="btn primary" target="_blank" rel="noopener" href="https://photos.app.goo.gl/nJYFVReFUk9mnXbv9">
+<a class="btn primary" target="_blank" rel="noopener" href="https://www.flickr.com/photos/gdgnantes/albums/72157702575476534">
     See all photos
     {{% icon "right" %}}
 </a>

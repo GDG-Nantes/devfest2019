@@ -54,4 +54,4 @@ We expect all community participants to abide by this Code of Conduct in all com
 
 ## 7. Contact info
 
-<contact@devfesttoulouse.fr>
+<bureau@gdgnantes.com>

@@ -11,8 +11,8 @@ draft: true
 
 If you wish to become a sponsor, consult our sponsorship file and contact us at
 
-{{< button-link label="contact@devfesttoulouse.fr"
-                url="mailto:contact@devfesttoulouse.fr"
+{{< button-link label="bureau@gdgnantes.com"
+                url="mailto:bureau@gdgnantes.com"
                 icon="email" >}} 
 
 
@@ -21,6 +21,4 @@ If you wish to become a sponsor, consult our sponsorship file and contact us at
 
 <!-- Parteners list -->
 
-{{% partners categories="platinium,gold,soutien,media,communautes" %}}
-
-{{% /partners %}}
+{{< partners categories="platinium,after-party,gold,partner,communautes" >}}

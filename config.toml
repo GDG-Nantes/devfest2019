@@ -1,6 +1,6 @@
-baseURL = "https://sandbox-devfesttoulouse.firebaseapp.com/"
+baseURL = "https://sandbox-devfestnantes.firebaseapp.com/"
 languageCode = "en"
-title = "Devfest Toulouse 2019"
+title = "Devfest Nantes 2019"
 
 # Theme
 theme = "devfest-theme-hugo"
@@ -14,15 +14,15 @@ enableMissingTranslationPlaceholders = true
 googleAnalytics = "UA-37717223-8"
 
 [params]
-    title = "DevFest Toulouse 2019"
-    date = "2019-10-03"
+    title = "DevFest Nantes 2019"
+    date = "2019-10-21 & 2019-10-22"
     description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
     images = ["/images/social-share.jpg"]
-    email = "contact@devfesttoulouse.fr"
+    email = "bureau@gdgnantes.com"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
-    copyright = "We :heart:️ chocolatines"
-    cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
-    subscriptionUrl = "http://eepurl.com/dps1j5"
+    copyright = "Organized with ❤️ by GDG Nantes."
+  # cfpUrl = "https://conference-hall.io/public/event/HJRThubF4uYPkb7jSUxi"
+    subscriptionUrl = "https://gdgnantes.us9.list-manage.com/subscribe/post?u=b44affc3cdfd00b20bcae502c&amp;id=e0e7ceee5d"
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
