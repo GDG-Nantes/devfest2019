@@ -2,7 +2,7 @@
 title: Marie Cauchy
 type: volunteers
 subtitle: ADN Ouest
-photo: marie_cauchy.jpeg
+photo: marie.jpeg
 socials:
   - link: 'https://twitter.com/MarieCauchyy'
     name: Twitter

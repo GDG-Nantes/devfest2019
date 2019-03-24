@@ -97,15 +97,13 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 ### Cité des Congrès, Nantes
 
-La Cité des Congès de Nantes est un lieu d'échanges moderne,
-situé sur un emplacement privilégié,
-à proximité immédiate du centre de Nantes et dans un environnement verdoyant.
+Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le DevFest Nantes plus de 3000m² de salles de conférences, codelabs et lieu de rencontre...
 
 {{% /home-location %}}
 
 <!-- ... -->
 
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/2018/2018_1.jpg,/images/album/2018/2018_2.jpg,/images/album/2018/2018_3.jpg,/images/album/2018/2018_4.jpg,/images/album/2018/2018_5.jpg,/images/album/2018/2018_6.jpg,/images/album/2018/2018_7.jpg,/images/album/2018/2018_8.jpg" %}}
 
 ### Quelques photos du **DevFest Nantes 2018** avec le thème 👾 _espace_. 
 

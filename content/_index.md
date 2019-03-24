@@ -104,15 +104,13 @@ It is aimed at students, professionals or simply curious technophiles.
 
 ### Cité des Congrès, Nantes
 
-The Cité des Congrès is a modern place of exchange,
-located on a privileged location,
-in the immediate vicinity of the centre of Nantes and in a green environment.
+Located in the center of Nantes, the event takes place in the "Cité des Congrès" with more than 3000m² of conference rooms, hand's on and networking space...
 
 {{% /home-location %}}
 
 <!-- ... -->
 
-{{% album images="/images/album/2018/_25A9313.jpg,/images/album/2018/_25A9386.jpg,/images/album/2018/_25A9671.jpg,/images/album/2018/_25A9334.jpg,/images/album/2018/_25A9282.jpg,/images/album/2018/_25A9612.jpg,/images/album/2018/_25A9452.jpg,/images/album/2018/_25A9628.jpg" %}}
+{{% album images="/images/album/2018/2018_1.jpg,/images/album/2018/2018_2.jpg,/images/album/2018/2018_3.jpg,/images/album/2018/2018_4.jpg,/images/album/2018/2018_5.jpg,/images/album/2018/2018_6.jpg,/images/album/2018/2018_7.jpg,/images/album/2018/2018_8.jpg" %}}
 
 ### Some pictures of the **DevFest Nantes 2018** with the 👾 _space_ theme.
 
