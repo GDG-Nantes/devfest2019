@@ -8,7 +8,7 @@ talkType: "nop"
 draft: true    
 ---
 
-{{% hero %}}
+{{% hero img="/images/backgrounds/back-5.jpg" imgLabel="DevFest Nantes 2019"%}}
 
 <!-- TODO: filter and search -->
 

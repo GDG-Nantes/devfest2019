@@ -9,7 +9,7 @@ draft: false
 
 ---
 
-{{% hero %}}
+{{% hero img="/images/backgrounds/back-6.jpg" imgLabel="DevFest Nantes 2019"%}}
 
 DevFest Nantes is supported by GDG Nantes.
 

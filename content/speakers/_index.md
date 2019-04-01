@@ -7,7 +7,7 @@ menu:
 draft: true
 ---
 
-{{% hero %}}
+{{% hero img="/images/backgrounds/back-2.jpg" imgLabel="DevFest Nantes 2019"%}}
 <!-- TODO: filter and search -->
 {{% /hero %}}
 

@@ -8,7 +8,7 @@ menu:
 draft: false
 ---
 
-{{% hero %}}
+{{% hero img="/images/backgrounds/back-6.jpg" imgLabel="DevFest Nantes 2019"%}}
 Le DevFest Nantes est un événement organisé par le GDG Nantes.
 
 Les [Google Developers Groups (GDGs)](http://developers.google.com/groups) sont des regroupements de personnes intéressées par les technologies et plateformes de Google : Android, Chrome, Google Apps, GWT, AppEngine... partout dans le monde.
