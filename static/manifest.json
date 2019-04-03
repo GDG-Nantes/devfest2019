@@ -10,7 +10,7 @@
     { "src": "/images/logos/devfest_color512.png", "sizes": "512x512", "type": "image/png" }
   ],
   "start_url": "./?utm_source=web_app_manifest",
-  "theme_color": "#920046",
+  "theme_color": "#871C45",
   "background_color": "#FFF",
   "display": "standalone"
 }
