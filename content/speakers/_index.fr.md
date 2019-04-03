@@ -1,5 +1,5 @@
 ---
-title: Présentateurs
+title: Speakers
 menu:
   main:
     weight: 40
