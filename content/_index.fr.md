@@ -18,7 +18,7 @@ menu:
 
 <!-- ... -->
 
-{{% home-info what="Participants:1800,Journée:2,Conférences:70+,Tracks en parallèle:4,Speakers:80+" class="primary" %}}
+{{% home-info what="Participants:1800,Journées:2,Conférences:70+,Tracks en parallèle:4,Speakers:80+" class="primary" %}}
 ## Le DevFest Nantes, c'est quoi ?
 
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.

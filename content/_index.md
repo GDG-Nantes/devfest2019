@@ -20,7 +20,7 @@ menu:
 
 
 
-{{% home-info what="Participants:1800,Day:2,Sessions:70+,Parallel Tracks:4,Speakers:80+" class="primary" %}}
+{{% home-info what="Attendees:1800,Days:2,Sessions:70+,Parallel Tracks:4,Speakers:80+" class="primary" %}}
 ## What is DevFest Nantes?
 
 The DevFest, or 'Developers Festival', is a technical conference for developers. 
