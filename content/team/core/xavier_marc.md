@@ -1,7 +1,7 @@
 ---
 title: Xavier Marc
 type: core
-subtitle: Tech Lead Sogeti
+subtitle: Software Architect Bouygues Telecom
 photo: xavier.png
 socials:
   - link: 'https://twitter.com/xavmrc'
