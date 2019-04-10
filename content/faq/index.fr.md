@@ -9,121 +9,103 @@ draft: true
 
 ## Général
 
-### Qu'est ce que le DevFest Toulouse ?
+### Qu'est-ce que le DevFest ?
+Les DevFests sont des événements communautaires de grande envergure à travers le monde, suivant la tradition des Google Developer Days et organisés par des groupes d'utilisateurs locaux. Ils constituent une occasion unique de partager et d’échanger autour des technologies du Web et du Cloud ! Cet événement sera suivi d'une AfterParty afin de discuter de manière conviviale et faire du networking !
 
-Le DevFest, ou “Developers Festival”, est une conférence technique destinée aux développeur·se·s.
-Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
-Durant toute la journée, des orateurs reconnus viendront présenter des sujets variés : autour du développement mobile, du web, de la data, des objets connectés, du cloud, du DevOps, etc... ainsi que des bonnes pratiques de développement.
-Des pauses permettent d'engager le dialogue et d'approfondir les sujets présentés.
+### Qui organise cet événement ?
+Le DevFest Nantes 2019 est organisé par le <a href='http://gdgnantes.com' target='_blank'>GDG Nantes</a>. Plus d'infos sur la page [équipe](../team/).
 
-Le développement logiciel est un sujet très vaste et notre comité de sélection a à cœur de proposer un programme varié et intéressant.
-Cette journée sera l'occasion de rencontrer des orateurs de renommée internationale mais également nationale, en effet nous avons aussi pour objectif de faire une place importante aux conférenciers locaux.
-
-Le DevFest s'inscrit dans un [cadre international](https://developers.google.com/events/devfest/) et est organisé en partenariat avec Google.
-
-### Les communautés organisatrices
-
-Le DevFest Toulouse est un événement organisé par les communautés de développeurs de Toulouse, et porté administrativement par le GDG Toulouse.
-Vous retrouverez la liste des communautés en bas de page principale.
-
-Pour rendre tout cela possible, une équipe de bénévoles sur-vitaminée s’active en coulisse.
+### Comment devenir sponsor ou partenaire ?
+Simplement en consultant notre <a href='https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed' target='_blank'>dossier de partenariat</a>, ou en nous contactant par mail au <a href='mailto:bureau@gdgnantes.com'>bureau du GDG Nantes</a>.
 
 
 ## Conférence
 
-### Où et quand aura lieu le DevFest ?
+### Quand / Où ?
+La conférence a lieu les 21 et 22 Octobre 2019 à la Cité des Congrès de Nantes.
 
-Le DevFest Toulouse 2017 a lieu le jeudi 8 novembre au Centre de Congrés Pierre Baudis.
+### Est-ce que je peux déposer mes bagages ?
+Bien que l'événement soit sur plusieurs jours, nous n'autorisons pas les participants à laisser leurs bagages pendant l'événement. Un service de vestiaire est cependant accessible gratuitement durant les 2 journées pour déposer sacs à dos et vestes.
 
 ### Comment s'y rendre ?
+Toutes les informations relatives à la venue au DevFest sont disponibles sur la page [pratique](../attending/).
 
-Le centre de congrés est idéalement situé en centre ville.
+### Je suis en recherche d'emploi, puis-je bénéficier du ticket à tarif réduit ?
+Le tarif réduit est disponible pour les personnes suivantes :
 
-EN AVION :
-Depuis l'aéroport Blagnac, le plus simple est de prendre la navette aéroport pour descendre à Compans-Cafarelli. Vous pouvez aussi prendre le tramway jusqu'à la station Arènes puis la ligne A du métro jusqu'à Jean Jaurès, enfin la ligne B pour descendre à Compans-Cafarelli.
+ - Les étudiants
+ - Les enseignants
+ - Les demandeurs d'emplois
+ - Les personnes ayant un revenu justifiant des aides type RSA
+ 
+Dans tous les cas, l'accès à l'événement pour ces billets se fera sur présentation d'un justificatif. Sans justificatif, l'entrée à l'événement sera refusée. Aucun remboursement ne sera fait.
 
-EN VOITURE :
-Un parking (payant) est situé à deux pas de la conférence.
+### Comment va se dérouler le DevFest ?
+Les 2 journées comprendront trois types de sessions : les conférences (50mn), les quickies (20mn) et les codelabs (2h).
 
-EN TRAIN :
-Depuis la gare Matabiau, prenez simplement le métro ligne A jusqu'à Jean Jaurès, puis la ligne B pour descendre à Compans-Cafarelli.
+Les conférences et les quickies seront des présentations réalisées par des speakers renommés ou des Googlers évoquant leurs technologies préférées.
 
-EN METRO :
-Ligne B, descendez station Compans-Cafarelli.
+Les codelabs se veulent plus informels et seront l'occasion de mettre les mains (et les pieds) dans le code sur une technologie en compagnie d'un expert.
 
-### Comment devenir sponsor/partenaire ?
+### Quels sont les sujets abordés ? 
+Vous trouverez cette année des sujets autour du : Web, Mobile, IoT, Backend, Cloud, Big Data, Machine Learning, DevOps, Découverte ...
 
-Le dossier de partenariat est en cours de finalisation.
+### Comment s'inscrire et combien cela coûte-t-il ?
+L'inscription au DevFest Nantes peut se faire directement depuis le site actuel en cliquant sur le lien disponible sur la page d'accueil. L'entrée coûte 70€ pour le pass 2 jours jusqu'au 30 Juin 2019 puis 90€ passé cette date, et 20€ pour le tarif réduit.
 
-## CFP
+### Je n'ai pas pu venir, puis-je me faire rembourser ?
+Nous déléguons toute notre billetterie au prestataire, vous pourrez donc annuler vos billets dans les conditions définies par celui-ci. Passé la date de l'événement, aucun remboursement ne sera fait.
 
-### Quel est le format des conférences ?
+### Je ne pourrais pas venir. Puis-je céder ma place à un ami ?
+Nous acceptons les transferts de billets. Si vous avez connaissance de ce changement 2 semaines avant l'événement, vous pouvez nous prévenir pour que pouvoir modifier le nom sur le billet. Passé le délai des 2 semaines, votre "ami" devra se présenter avec votre billet et portera sur son badge votre nom.
 
-Deux types de conférences sont proposées :
+### Les présentations sont-elles filmées ?
+Toutes les sessions à l'exception des codelabs seront filmées et mises à disposition sur la chaîne Youtube <a href='http://youtube.com/user/francegdg' target='_blank'>GDG France</a>
 
-- Les **lightning talks**, d’une durée de **15 minutes**, sans question.
-- Les **conférences**, d’une durée de **40 minutes**, sans question dans la salle.
+### Les présentations sont-elles en anglais ou en français ?
+Etant donné que certains intervenants viennent de l'étranger, certaines sessions seront en anglais. Ces sessions seront indiquées par un pictogramme particulier.
 
-Les orateur·rice·s sont invités à rejoindre le speaker booth après leur conférence, où ils pourront interagir avec les spectateurs désireux de poursuivre le dialogue.
-Pour les conférences données en toute fin de de journée, 10 minutes de questions/réponses sont prévues dans le même auditoire à l’issue des 40 minutes de conférence.
+### Combien y-a-t-il de présentations en parallèle ?
+Il y aura toute la journée 5 sessions en parallèle (1 session par thème et 1 codelab)
 
+### Le DevFest est-il éligible au titre du CPF ?
+Le DevFest Nantes ne prend pas en charge la gestion des CPF (Compte Personnel de Formation).
 
-### Comment devenir orateur/oratrice ?
+### Qu'en est-il de mon droit à l'image ?
+En participant au DevFest, vous acceptez d’être filmés et/ou photographiés et que votre image soit diffusée dans le cadre de la promotion de l’événement sur tous supports.
+Plus spécifiquement, en tant que conférencier, vous acceptez :
 
-Le CFP est ouvert, il ferme le 1 Juillet 2018.
+- que votre présentation soit filmée, enregistrée et retransmise en direct;
+- que votre présentation soit diffusée gratuitement sur Youtube.
 
-Il vous suffit de soumettre un ou plusieurs sujets sur notre [CFP](https://devfest-toulouse.cfp.io).
+Conformément à la Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, vous disposez d’un droit d’accès aux données personnelles vous concernant et conservées le cas échéant par les organisateurs.
 
-Si votre sujet a été pré-sélectionné, nous vous offrons une place à la conférence, vous n'avez donc pas à acheter votre place à l'avance.
-Que vous présentiez un talk seul ou en duo, chaque conférencier a son entrée offerte.
+### Je me suis inscrit mais je ne peux pas y assister. Puis-je le donner à un ami ?
+Oui c'est possible, pour cela il faut faire le changement vous même sur votre interface de gestion de commande. Celle-ci est accessible sur le lien "Gérer ma commande" en bas du mail de confirmation d'achat.
 
-### Est-ce que l'on peut soumettre un talk a plusieurs ?
+### Je suis organisateur d'un User Group, comment puis-je vous aider ?
+En tant que User Group, vous pouvez nous aider sur plusieurs aspects :
 
-Oui, sur le site du CFP, si vous n'êtes pas seul lors de la présentation, renseignez l'e-mail des autres conférenciers, ceux-ci doivent s'être préalablement inscrits sur le CFP avec cette même adresse.
-Pour des raisons pratiques, nous n’acceptons pas les sujets impliquant plus de trois orateur·rice·s. 
-
-
-### J’ai proposé une conférence. Dois-je acheter mon entrée ?
-
-Si votre sujet (conférence ou lightning talk) a été sélectionné, nous vous offrons votre entrée au DevFest, vous n'avez donc pas à acheter votre place à l'avance.
-Si vous présentez un talk à plusieurs, deux entrées vous seront offertes par conférence, les autres intervenants devront acheter leur propre place (en l’absence d’autres conférences acceptées.)
-
-Au cas où votre sujet ne serait pas accepté, il vous sera encore possible d’acheter votre place après la notification, au tarif early-bird.
-
-### Prenez-vous en charge les frais de déplacement et d’hébergement?
-
-Les speakers présentant une conférence complète (40 minutes) peuvent demander un remboursement de leurs frais (transport et hébergement) sur présentation des factures, et dans une limite de 250€ par conférence (et non pas par speaker).
-Pour les lightning talks, les frais de déplacement ne sont pas remboursés.
-
-### Quels lieux recommandez-vous pour loger ?
-
-Le centre de congrès Pierre Baudis est situé à 15 minutes à pied de l’hyper-centre de Toulouse, ou 5 minutes en métro (arrêt Compans-Caffarelli).
-De nombreux hôtels et chambres d’hôtes sont disponibles à proximité.
-
-### Quel est le format attendu pour les slides ?
-
-Vous pouvez présenter votre conférence à partir de votre propre ordinateur, ou nous fournir au préalable les slides au format PDF.
-Le thème des slides est entièrement libre, et les présentations seront diffusées ensuite sur la chaîne YouTube GDG France, qui héberge déjà les présentations des années précédentes.
+- En nous aidant à trouver des speakers,
+- En diffusant l'événement dans votre réseau. Pour cela, nous avons mis à votre disposition plusieurs éléments dans la partie presse pour la diffusion : affiches, bannières.
 
 
-## Billetterie
+## CFP: Call for Paper
 
-### Quelles sont les conditions de remboursements de votre billet ?
+### Combien de temps dure le CFP ?
+Le CFP ouvrira le 1er Mai 2019 et se terminera le 30 Juin à 23h59
 
-Nous permettons un remboursement jusqu'à 15 jours avant l'événement hors frais de traitement de notre partenaire billetterie.
+### Ma présentation a été acceptée, dois-je payer mon entrée à la conférence ?
+Chaque intervenant a son entrée offerte. Il n'est donc pas nécessaire de prendre une place. Que vous soyez tout seul ou plusieurs à présenter et quelque soit le format de la session.
 
-### Faut-il se munir d'une pièce d'identité ou y-a-t-il un âge minimum pour entrer à l'événement ?
+### Ma présentation n'a pas encore été acceptée, dois-je acheter ma place au cas où ?
+Nous contacterons tous les intervenants et nous ouvrirons si nécessaire de nouvelles places pour permettre à ces derniers de s'inscrire.
 
-Votre billet suffit, il n'y a pas d'âge minimum.
+### En tant que speaker, je suis libre d'utiliser ce que je veux ?
+Vous vous engagez à n'utiliser que du contenu libre de droits ou pour lesquels vous aurez fait les achats de licences nécessaires (images, musiques).
 
-### Puis-je mettre à jour les informations de mon inscription ?
 
-Oui, vous pouvez modifier les informations de votre commande sur le site de notre partenaire billetterie.
+## Autres
 
-### Est-ce un problème si le nom indiqué sur mon billet ou mon inscription ne correspond pas à celui du participant ?
-
-Oui. Merci de nous contacter en cas de question précise.
-
-### J'aimerais une facture, comment l'obtenir ?
-
-Notre association est désormais soumise à TVA. Il vous est donc possible d'obtenir une facture auprès de notre partenaire billetterie.
+### D'autres questions ?
+Contactez nous par mail à l'adresse <a href="mailto:bureau@gdgnantes.com">bureau@gdgnantes.com</a>.
