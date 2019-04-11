@@ -16,7 +16,7 @@ menu:
 
 {{% /jumbo %}}
 
-<!-- ... -->
+
 
 {{% home-info what="Participants:1800,Journées:2,Conférences:70+,Tracks en parallèle:4,Speakers:80+" class="primary" %}}
 ## Le DevFest Nantes, c'est quoi ?
@@ -51,7 +51,6 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{% /home-subscribe %}}
 
-<!-- ... 
 
 {{% home-tickets %}}
 # Billets
@@ -61,14 +60,14 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            starts="2019-05-01"
            ends="2019-06-30"
            price="78 €"
-           info="50 first places"
+           info="300 premières places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Tarif réduit"
            starts="2019-05-01"
            ends="2019-10-15"
            price="20 €"
-           info="70 first places"
+           info="100 premières places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Normal"
@@ -83,7 +82,6 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 \* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.
 
 {{% /home-tickets %}}
--->
 
 <!-- ... -->
 

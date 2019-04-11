@@ -30,8 +30,6 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{< youtube-section link="BMI5lxkoanc" title="Watch 2018 best moments" class="" >}}
 
-<!-- ... -->
-
 <!-- ... 
 
 {{% home-speakers %}}
@@ -51,13 +49,12 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
-{{% home-subscribe  class="primary" %}}
+{{% home-subscribe class="primary" %}}
 
 ## Get notified about the important conference updates
 
 {{% /home-subscribe %}}
 
-<!-- ... 
 
 {{% home-tickets %}}
 # Tickets
@@ -67,14 +64,14 @@ It is aimed at students, professionals or simply curious technophiles.
            starts="2019-05-01"
            ends="2019-06-30"
            price="78 €"
-           info="50 first places"
+           info="300 first places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Reduced Price"
            starts="2019-05-01"
            ends="2019-10-15"
            price="20 €"
-           info="70 first places"
+           info="100 first places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Normal"
@@ -89,8 +86,6 @@ It is aimed at students, professionals or simply curious technophiles.
 \* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
 
 {{% /home-tickets %}}
-
--->
 
 <!-- ... -->
 
