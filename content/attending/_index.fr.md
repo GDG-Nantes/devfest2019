@@ -7,16 +7,6 @@ menu:
 draft: true
 ---
 
-{{% hero img="/images/backgrounds/back-7.jpg" imgLabel="DevFest Nantes 2019"%}}
-
-Si vous avez une question, contactez-nous à
-
-{{< button-link label="bureau@gdgnantes.com"
-                url="mailto:bureau@gdgnantes.com"
-                icon="email" >}} 
-
-{{% /hero %}}
-
 ## Plan des salles
 
 {{% centered-img src="/images/indoor_map.png" %}}
@@ -43,6 +33,7 @@ Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, 
 À La Cité des Congrès, toutes les zones sont accessibles aux utilisateurs de fauteuils roulants.
 
 ## Comment s'y rendre ?
+
 ### En train
 Nantes est à seulement 2h de Paris (Gare Montparnasse) en TGV.
 Arrivé(e) à Nantes, prenez la sortie 'Gare Sud' : vous serez à la Cité des Congrès en moins de 10 minutes à pied.

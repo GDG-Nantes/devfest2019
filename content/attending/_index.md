@@ -7,15 +7,6 @@ menu:
 draft: true
 ---
 
-{{% hero img="/images/backgrounds/back-7.jpg" imgLabel="DevFest Nantes 2019"%}}
-
-If you have any question, contact us at 
-{{< button-link label="bureau@gdgnantes.com"
-                url="mailto:bureau@gdgnantes.com"
-                icon="email" >}} 
-
-{{% /hero %}}
-
 ## Indoor map
 
 {{% centered-img src="/images/indoor_map.png" %}}
@@ -41,19 +32,20 @@ GDG Nantes strives to make this event open and accessible to everyone, regardles
 In La Cité des Congrès all areas are accessible for wheelchair users.
 
 ## How to get there?
+
 ### By train
 Nantes is only a 2 hour Train ride away from Paris (TGV from Gare Montparnasse).
 Once you are at the Nantes Railway station, take the Exit 'Gare Sud': the Cité des Congrès is only 10 minute walk away.
 
-###By tram
+### By tram
 By tram, take the Line 1: Tram station 'Duchesse Anne - Château des Ducs de Bretagne', it is the Tram station after the TGV Train station (Exit: sortie Nord), heading into the City Centre. The venue La Cité des Congrès is only a 5 minute walk away from the tram station.
 
 By the Busway, take the Line 4 of the Busway and alight at the 'Cité des Congrès' stop.
 
-###By car
+### By car
 La Cité des Congrès is in the City Centre of Nantes. We suggest to those planning on driving into Nantes, to park their cars at one of the ‘Park and Ride’ (usually free parking) near a major Tram/ Busway station. You can then take Public Transport to get to the Venue. There are also Paid parking options available.
 La Cité des Congrès proposes a Paid Parking that has 450 parking lots.
 Here is a list of the Park and Ride stations: Interactive map or on the website of the Tan, the Nantes Public Transport company.
 
-###By plane
+### By plane
 The airport is at the periphery of the town. To go to the Cité des Congrès, you can use the Bus Service (20 minute ride), taxis or rent a car.
