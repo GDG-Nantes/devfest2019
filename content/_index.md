@@ -13,7 +13,7 @@ menu:
 ## OCTOBER 21-22, 2019
 ### Cité des Congrès, Nantes
 
-<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor (🇫🇷 for now)</a>
+<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor</a>
 
 
 {{% /jumbo %}}

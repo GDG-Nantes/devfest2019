@@ -12,7 +12,7 @@ menu:
 ## 21-22 Octobre, 2019
 ### Cité des Congrès, Nantes
 
-<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Devenez Partenaire 🇫🇷</a>
+<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Devenez Partenaire</a>
 
 {{% /jumbo %}}
 
