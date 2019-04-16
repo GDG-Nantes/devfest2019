@@ -75,7 +75,7 @@ It is aimed at students, professionals or simply curious technophiles.
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Normal"
-           starts="2019-04-04"
+           starts="2019-05-01"
            ends="2019-10-15"
            price="99 €"
            info=""
