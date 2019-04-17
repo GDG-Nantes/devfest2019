@@ -31,9 +31,9 @@ googleAnalytics = "UA-35116426-1"
     themeColor = "#871C45" 
 
 [params.logos]
-    jumbo = "/images/logos/devfest_color_text.png"
-    header = "/images/logos/devfest_color_text.png"
-    footer = "/images/logos/devfest_color_text.png"
+    jumbo = "/images/logos/devfest_color_text.svg"
+    header = "/images/logos/devfest_color_text.svg"
+    footer = "/images/logos/devfest_color_text.svg"
 
 #[menu]
 #[[menu.main]]
