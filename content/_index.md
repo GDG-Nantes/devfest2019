@@ -13,7 +13,7 @@ menu:
 ## OCTOBER 21-22, 2019
 ### Cité des Congrès, Nantes
 
-<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor</a>
+<a class="btn primary btn-lg" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor</a>
 
 
 {{% /jumbo %}}
@@ -28,7 +28,7 @@ It is aimed at students, professionals or simply curious technophiles.
 {{% /home-info %}}
 
 
-{{< youtube-section link="BMI5lxkoanc" title="Watch 2018 best moments" class="" >}}
+{{< youtube-section link="BMI5lxkoanc" title="Watch 2018 best moments" class="primarydarker" >}}
 
 <!-- ... 
 
@@ -49,15 +49,8 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
-{{% home-subscribe class="primary" %}}
-
-## Get notified about the important conference updates
-
-{{% /home-subscribe %}}
-
-
-{{% home-tickets %}}
-# Tickets
+{{% home-tickets class="tertiary" %}}
+## Tickets
 
 <ul>  
 <li>{{< ticket name="Early Birds"
@@ -83,11 +76,18 @@ It is aimed at students, professionals or simply curious technophiles.
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
-\* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.
+<p class="caption">* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>
 
 {{% /home-tickets %}}
 
 <!-- ... -->
+
+{{% home-subscribe class="primary" %}}
+
+## Get notified about the important conference updates
+
+{{% /home-subscribe %}}
+
 
 {{% home-location
     image="/images/map.jpg"

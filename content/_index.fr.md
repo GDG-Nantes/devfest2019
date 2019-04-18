@@ -12,7 +12,7 @@ menu:
 ## 21-22 Octobre, 2019
 ### Cité des Congrès, Nantes
 
-<a class="btn primary btn-lg" style="margin-top: 20px;" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Devenez Partenaire</a>
+<a class="btn primary btn-lg" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Devenez Partenaire</a>
 
 {{% /jumbo %}}
 
@@ -24,7 +24,7 @@ menu:
 Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
-{{< youtube-section link="BMI5lxkoanc" title="Les meilleurs moments 2018" class="" >}}
+{{< youtube-section link="BMI5lxkoanc" title="Les meilleurs moments 2018" class="primarydarker" >}}
 
 <!-- ... 
 
@@ -45,15 +45,8 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 <!-- ... -->
 
-{{% home-subscribe class="primary" %}}
-
-## Soyez notifié des dernières informations !
-
-{{% /home-subscribe %}}
-
-
-{{% home-tickets %}}
-# Billets
+{{% home-tickets class="tertiary" %}}
+## Billets
 
 <ul>  
 <li>{{< ticket name="Early Birds"
@@ -79,11 +72,18 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
-\* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.
+<p class="caption">* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.</p>
 
 {{% /home-tickets %}}
 
 <!-- ... -->
+
+{{% home-subscribe class="primary" %}}
+
+## Soyez notifié des dernières informations !
+
+{{% /home-subscribe %}}
+
 
 {{% home-location
     image="/images/map.jpg"
