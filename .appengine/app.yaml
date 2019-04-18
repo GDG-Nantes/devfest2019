@@ -2,16 +2,26 @@ runtime: python27
 api_version: 1
 threadsafe: true
 
+#default_expiration: "30d"
+
 handlers:
   - url: /
     static_files: index.html
     upload: index.html
+    secure: always
+    expiration: "0d 5m"
+    http_headers:
+      Link: "</scripts/theme.js>; rel=preload; as=script, </styles/theme.css>; rel=preload; as=style, </images/backgrounds/back-0.jpg>; rel=preload; as=image"
   # index files
   - url: /(.+)/
     static_files: \1/index.html
     upload: (.+)/index.html
+    secure: always
+    http_headers:
+      Link: "</scripts/theme.js>; rel=preload; as=script, </styles/theme.css>; rel=preload; as=style, </images/backgrounds/back-0.jpg>; rel=preload; as=image"
   # access the static resources in the root director
   - url: /(.*)
     static_files: \1
     upload: (.*)
+    secure: always
 # gcloud app deploy --version dummy .
