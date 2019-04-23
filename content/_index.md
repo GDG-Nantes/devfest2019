@@ -15,6 +15,9 @@ menu:
 
 <a class="btn primary btn-lg" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor</a>
 
+<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z" target="_blank">
+    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
+</a>
 
 {{% /jumbo %}}
 
