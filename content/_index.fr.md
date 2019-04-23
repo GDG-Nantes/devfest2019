@@ -56,21 +56,21 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 <li>{{< ticket name="Early Birds"
            starts="2019-05-01"
            ends="2019-06-30"
-           price="78 €"
+           price="78€"
            info="300 premières places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Tarif réduit"
            starts="2019-05-01"
            ends="2019-10-15"
-           price="20 €"
+           price="20€"
            info="100 premières places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-05-01"
            ends="2019-10-15"
-           price="99 €"
+           price="99€"
            info=""
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
@@ -107,7 +107,7 @@ Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le
 
 {{% album images="/images/album/2018/2018_1.jpg,/images/album/2018/2018_2.jpg,/images/album/2018/2018_3.jpg,/images/album/2018/2018_4.jpg,/images/album/2018/2018_5.jpg,/images/album/2018/2018_6.jpg,/images/album/2018/2018_7.jpg,/images/album/2018/2018_8.jpg" %}}
 
-### Quelques photos du **DevFest Nantes 2018** avec le thème 👾 _espace_. 
+## Quelques photos du **DevFest Nantes 2018** avec le thème 👾 _espace_. 
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://www.flickr.com/photos/gdgnantes/albums/72157702575476534">
     Voir toutes les photos
