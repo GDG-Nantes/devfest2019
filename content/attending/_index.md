@@ -4,7 +4,7 @@ menu:
   main:
     weight: 5
 
-draft: true
+draft: false
 ---
 
 ## Indoor map

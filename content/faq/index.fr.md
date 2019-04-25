@@ -4,7 +4,7 @@ menu:
   main:
     weight: 80
 
-draft: true
+draft: false
 ---
 
 ## Général
