@@ -11,7 +11,7 @@ draft: false
 
 {{% hero img="/images/backgrounds/back-6.jpg" imgLabel="DevFest Nantes 2019"%}}
 
-DevFest Nantes is supported by GDG Nantes.
+## DevFest Nantes is supported by GDG Nantes.
 
 The [Google Developers Groups (GDGs)](http://developers.google.com/groups) are groups of people interested in Google Platforms and Technologies: Android, Chrome, Google Apps, Angular, Cloud, AppEngine... These groups promoting sharing can be found all around the world.
 
