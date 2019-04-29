@@ -7,11 +7,22 @@ menu:
 draft: false
 ---
 
-## Indoor map
+{{% hero img="/images/backgrounds/back-7.jpg" imgLabel="DevFest Nantes 2019"%}}
+{{% /hero %}}
 
+{{% default-section class="citymap white" %}}
+
+## Indoor map
 {{% centered-img src="/images/indoor_map.png" %}}
 
+{{% /default-section %}}
+
+{{% default-section class="location-title tertiary" %}}
+
 ## Where is the event?
+
+{{% /default-section %}}
+
 {{% home-location
     image="/images/map2.jpg"
     address="5 rue de Valmy, 44000 Nantes"
@@ -22,14 +33,24 @@ draft: false
 
 {{% /home-location %}}
 
+{{% default-section class="hours tertiary" %}}
+
 ## What are the schedules?
 
 The doors of the Cité des Congrès will open from 8am to 8pm on 18th October and from 8:30am to 7pm on 19th October.
+
+{{% /default-section %}}
+
+{{% default-section class="access primarydarker" %}}
 
 ## Accessibility
 GDG Nantes strives to make this event open and accessible to everyone, regardless of disability or special needs. Participants with disabilities and/or special needs should provide details in the registration form and/or by emailing us at bureau@gdgnantes.com. This information will be kept private and will be distributed only to the individuals who need to know it to accommodate your request. Otherwise, please approach one of the volunteer if you need assistance or have questions about accessibility during the event.
 
 In La Cité des Congrès all areas are accessible for wheelchair users.
+
+{{% /default-section %}}
+
+{{% default-section class="travel" %}}
 
 ## How to get there?
 
@@ -49,3 +70,5 @@ Here is a list of the Park and Ride stations: Interactive map or on the website 
 
 ### By plane
 The airport is at the periphery of the town. To go to the Cité des Congrès, you can use the Bus Service (20 minute ride), taxis or rent a car.
+
+{{% /default-section %}}

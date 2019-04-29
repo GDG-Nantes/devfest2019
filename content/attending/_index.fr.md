@@ -7,11 +7,21 @@ menu:
 draft: false
 ---
 
-## Plan des salles
+{{% hero img="/images/backgrounds/back-7.jpg" imgLabel="DevFest Nantes 2019"%}}
+{{% /hero %}}
 
+{{% default-section class="citymap white" %}}
+
+## Plan des salles
 {{% centered-img src="/images/indoor_map.png" %}}
 
+{{% /default-section %}}
+
+{{% default-section class="location-title tertiary" %}}
+
 ## Où se trouve l'événement ?
+
+{{% /default-section %}}
 
 {{% home-location
     image="/images/map2.jpg"
@@ -23,14 +33,24 @@ draft: false
 
 {{% /home-location %}}
 
+{{% default-section class="hours tertiary" %}}
+
 ## Quelles sont les horaires ?
 
 Les portes de la Cité des Congrès ouvriront de 8h00 à 20h00 le Jeudi 18 Octobre et de 8h30 à 19h00 le Vendredi 19 Octobre.
+
+{{% /default-section %}}
+
+{{% default-section class="access primarydarker" %}}
 
 ## Accessibilité
 Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, quel que soit le handicap ou les besoins particuliers. Les participants handicapés et / ou ayant des besoins spéciaux doivent fournir des détails dans le formulaire d'inscription et / ou en nous envoyant un courriel à bureau@gdgnantes.com. Cette information sera gardée confidentielle et ne sera distribuée qu'aux personnes qui ont besoin de la connaître pour répondre à votre demande. Sinon, veuillez contacter l'un des bénévoles si vous avez besoin d'aide ou si vous avez des questions sur l'accessibilité pendant l'événement.
 
 À La Cité des Congrès, toutes les zones sont accessibles aux utilisateurs de fauteuils roulants.
+
+{{% /default-section %}}
+
+{{% default-section class="travel" %}}
 
 ## Comment s'y rendre ?
 
@@ -50,3 +70,5 @@ Liste des parkings relais : carte interactive ou sur le site de la Tan.
 
 ### En avion
 L'aéroport est situé à l'extérieur de la ville. Pour accéder à la Cité des Congrès, vous pouvez utiliser les navettes (20 min), les taxis ou louer une voiture.
+
+{{% /default-section %}}
