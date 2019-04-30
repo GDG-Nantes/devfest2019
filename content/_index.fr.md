@@ -9,23 +9,21 @@ menu:
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Nantes 2019" %}}
 
-## 21-22 Octobre, 2019
-### Cité des Congrès, Nantes
-
-<a class="btn primary btn-lg" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Devenez Partenaire</a>
+## 21-22 Octobre 2019
+### Cité des Congrès, Nantes, France
 
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z" target="_blank">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Proposer une présentation
+    Proposer un talk
 </a>
 
 {{% /jumbo %}}
 
 
 
-{{% home-info what="Participants:1800,Journées:2,Conférences:70+,Tracks en parallèle:4,Speakers:80+" class="primary" %}}
-## Le DevFest Nantes, c'est quoi ?
+{{% home-info what="Participants:1800,Journées:2,Conférences:70+,Tracks:4,Speakers:80+" class="primary" %}}
+## Le DevFest Nantes
 
-Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
+Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
 {{< youtube-section link="BMI5lxkoanc" title="Les meilleurs moments 2018" class="primarydarker" >}}
@@ -71,12 +69,12 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
            starts="2019-05-01"
            ends="2019-10-15"
            price="99€"
-           info=""
+           info="600 places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
-<p class="caption">* Votre billet vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.</p>
+<p class="caption">* Votre billet deux jours (prix TTC) vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.</p>
 
 {{% /home-tickets %}}
 
@@ -97,7 +95,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 ## Le lieu
 
-### Cité des Congrès, Nantes
+### Cité des Congrès, Nantes, France
 
 Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le DevFest Nantes plus de 3000m² de salles de conférences, codelabs et lieu de rencontre...
 
@@ -107,7 +105,7 @@ Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le
 
 {{% album images="/images/album/2018/2018_1.jpg,/images/album/2018/2018_2.jpg,/images/album/2018/2018_3.jpg,/images/album/2018/2018_4.jpg,/images/album/2018/2018_5.jpg,/images/album/2018/2018_6.jpg,/images/album/2018/2018_7.jpg,/images/album/2018/2018_8.jpg" %}}
 
-## Quelques photos du **DevFest Nantes 2018** avec le thème 👾 _espace_. 
+## Quelques photos du **DevFest Nantes 2018** avec le thème de l'**espace**. 
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://www.flickr.com/photos/gdgnantes/albums/72157702575476534">
     Voir toutes les photos

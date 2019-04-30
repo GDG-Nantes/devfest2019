@@ -11,23 +11,21 @@ menu:
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Nantes 2019" %}}
 
 ## OCTOBER 21-22, 2019
-### Cité des Congrès, Nantes
-
-<a class="btn primary btn-lg" href="https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed" target="_blank">Become a sponsor</a>
+### Cité des Congrès, Nantes, France
 
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z" target="_blank">
-    <svg class="icon icon-cfp"><use xlink:href="#cfp"></use></svg>Submit a presentation
+    Submit a talk
 </a>
 
 {{% /jumbo %}}
 
 
 
-{{% home-info what="Attendees:1800,Days:2,Sessions:70+,Parallel Tracks:4,Speakers:80+" class="primary" %}}
+{{% home-info what="Attendees:1800,Days:2,Sessions:70+,Tracks:4,Speakers:80+" class="primary" %}}
 ## What is DevFest Nantes?
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
+The DevFest, or 'Developer Festival', is a technical conference for developers. 
+It is aimed at students, professionals or simply curious techies.
 {{% /home-info %}}
 
 
@@ -74,12 +72,12 @@ It is aimed at students, professionals or simply curious technophiles.
            starts="2019-05-01"
            ends="2019-10-15"
            price="99€"
-           info=""
+           info="600 places"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
-<p class="caption">* Your ticket gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>
+<p class="caption">* Your two-days ticket (VAT included) gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>
 
 {{% /home-tickets %}}
 
@@ -87,7 +85,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-subscribe class="primary" %}}
 
-## Get notified about the important conference updates
+## Get notified about conference updates
 
 {{% /home-subscribe %}}
 
@@ -100,7 +98,7 @@ It is aimed at students, professionals or simply curious technophiles.
 
 ## The venue
 
-### Cité des Congrès, Nantes
+### Cité des Congrès, Nantes, France
 
 Located in the center of Nantes, the event takes place in the "Cité des Congrès" with more than 3000m² of conference rooms, hand's on and networking space...
 
@@ -110,7 +108,7 @@ Located in the center of Nantes, the event takes place in the "Cité des Congrè
 
 {{% album images="/images/album/2018/2018_1.jpg,/images/album/2018/2018_2.jpg,/images/album/2018/2018_3.jpg,/images/album/2018/2018_4.jpg,/images/album/2018/2018_5.jpg,/images/album/2018/2018_6.jpg,/images/album/2018/2018_7.jpg,/images/album/2018/2018_8.jpg" %}}
 
-## Some pictures of the **DevFest Nantes 2018** with the 👾 _space_ theme.
+## Some pictures of the **DevFest Nantes 2018** with the **space** theme.
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://www.flickr.com/photos/gdgnantes/albums/72157702575476534">
     See all photos

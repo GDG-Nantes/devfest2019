@@ -1,7 +1,7 @@
 ---
 title: Benjamin Petetot
 type: core
-subtitle: Tech Lead Zenika Nantes
+subtitle: OSS Advocate Zenika Nantes
 photo: benjamin.png
 socials:
   - link: 'https://twitter.com/bpetetot'

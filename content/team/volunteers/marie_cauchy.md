@@ -1,6 +1,6 @@
 ---
 title: Marie Cauchy
-type: volunteers
+type: core
 subtitle: ADN Ouest
 photo: marie.jpeg
 socials:

@@ -29,19 +29,19 @@ draft: false
     latitude="47.2129658"
     longitude="-1.5425652" %}}
 
-## Cité des Congrès, Nantes
+## Cité des Congrès, Nantes, France
 
 {{% /home-location %}}
 
-{{% default-section class="hours tertiary" %}}
+{{% default-section class="hours primarydarker" %}}
 
-## Quelles sont les horaires ?
+## Horaires d'ouverture
 
-Les portes de la Cité des Congrès ouvriront de 8h00 à 20h00 le Jeudi 18 Octobre et de 8h30 à 19h00 le Vendredi 19 Octobre.
+Les portes de la Cité des Congrès ouvriront de 8h00 à 20h00 le lundi 21 Octobre et de 8h30 à 19h00 le mardi 22 Octobre.
 
 {{% /default-section %}}
 
-{{% default-section class="access primarydarker" %}}
+{{% default-section class="access tertiary" %}}
 
 ## Accessibilité
 Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, quel que soit le handicap ou les besoins particuliers. Les participants handicapés et / ou ayant des besoins spéciaux doivent fournir des détails dans le formulaire d'inscription et / ou en nous envoyant un courriel à bureau@gdgnantes.com. Cette information sera gardée confidentielle et ne sera distribuée qu'aux personnes qui ont besoin de la connaître pour répondre à votre demande. Sinon, veuillez contacter l'un des bénévoles si vous avez besoin d'aide ou si vous avez des questions sur l'accessibilité pendant l'événement.
@@ -50,7 +50,7 @@ Le GDG Nantes s'efforce de rendre cet événement ouvert et accessible à tous, 
 
 {{% /default-section %}}
 
-{{% default-section class="travel" %}}
+{{% default-section class="travel primarydarker" %}}
 
 ## Comment s'y rendre ?
 
