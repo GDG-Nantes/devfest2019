@@ -16,7 +16,7 @@ googleAnalytics = "UA-35116426-1"
 [params]
     title = "DevFest Nantes 2019"
     date = "2019-10-21 & 2019-10-22"
-    description = "The DevFest, or 'Developers Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
+    description = "The DevFest, or 'Developer Festival', is a technical conference for developers. It is aimed at students, professionals or simply curious technophiles."
     images = ["/images/social-share.jpg"]
     email = "bureau@gdgnantes.com"
     keywords = "event, gdg, gde, devfest, google, programming, android, chrome, developers, web, cloud, androiddev"
@@ -53,7 +53,7 @@ googleAnalytics = "UA-35116426-1"
     languageName = "fr"
 
 [languages.fr.params]
-    description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
+    description = "Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
 
 [taxonomies]
   tag = "tags"
