@@ -47,10 +47,12 @@ googleAnalytics = "UA-35116426-1"
 [languages.en]
     weight = 1
     languageName = "gb"
+    languageCode = "en"
 
 [languages.fr]
     weight = 2
     languageName = "fr"
+    languageCode = "fr"
 
 [languages.fr.params]
     description = "Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles."
