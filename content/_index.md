@@ -59,7 +59,7 @@ It is aimed at students, professionals or simply curious techies.
            ends="2019-06-30"
            price="78€"
            info="300 first places"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Reduced Price"
            starts="2019-05-01"
