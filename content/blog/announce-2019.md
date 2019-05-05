@@ -23,7 +23,7 @@ We are investing again this year all the Cité des Congrès (except the large au
 * Always 4 conferences in parallel and a replay area
 * Always 3 types of formats: conferences, quickies (20min short conference) and codelabs
 * Always more than 1800 participants per day
-* The Rock 🎸🎶   theme, our tagline: Code as you are!
+* The Rock 🎸🎶🤘 theme, our tagline: Code as you are!
 * Full of other surprises and novelties that will be presented to you in our future communications!
 
 You will find all the information about the event on the [website](https://devfest.gdgnantes.com/), [Facebook](https://www.facebook.com/gdgnantes), [Twitter](https://twitter.com/gdgnantes) or [Linkedin](https://www.linkedin.com/in/gdg-nantes). Do not miss anything!
