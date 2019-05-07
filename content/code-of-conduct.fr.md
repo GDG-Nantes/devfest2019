@@ -4,12 +4,114 @@ title: Code of Conduct
 draft: false
 ---
 
-## Ce texte est une version courte, lisible et explicite du "Code of Conduct policy".
+Le GDG Nantes (organisateurs du DevFest Nantes) est fier d'être une communauté ouverte, respectueuse des différences et de la diversité. Nous voulons que tous les participants (participants, conférenciers,…) vivent une expérience agréable et enrichissante. Cela implique que tous les participants, orateurs, sponsors et bénévoles respectent ce code de conduite.
 
-Le GDG Nantes est fier d'être une communauté ouverte, respectant les différences et la diversité. Ceci implique qu'aucun comportement ou propos déplacé n'est accepté à nos réunions. Voici un rappel de ce que nous n'accepterons pas : blagues ou offenses à propos des sujets sexe / sexualité / race / religion / nationalité / morphologie, montrer des images à caractère pornographique, toucher une personne sans son consentement, ou continuer d'interagir avec des personnes vous ayant explicitement demandé d'arrêter. Ce genre de comportements pourra nous amener à vous faire exclure de nos réunions et du DevFest.
+## Version courte, lisible et explicite du "Code of Conduct policy".
+
+DevFest Nantes s'engage à fournir une expérience de conférence sans harcèlement à tout le monde, indépendamment de:
+
+* leur sexe
+* identité et expression de genre
+* orientation sexuelle
+* invalidité
+* apparence physique
+* taille du corps
+* course
+* âge
+* religion
+* choix technologiques
+
+Nous ne tolérons aucune forme de harcèlement des participants à la conférence. Le langage et les images sexuels ne sont appropriés pour aucun lieu de la conférence, y compris les talks, les codelabs, les animations, les soirées, les réseaux sociaux. Les participants de la conférence qui enfreignent ces règles peuvent être sanctionnés ou expulsés de la conférence sans remboursements, à la discrétion des organisateurs de la conférence.
+
+## Version plus longue
+
+DevFest Nantes s'engage à fournir une expérience de conférence sans harcèlement à tout le monde, indépendamment de:
+
+* leur sexe
+* identité et expression de genre
+* orientation sexuelle
+* invalidité
+* apparence physique
+* taille du corps
+* course
+* âge
+* religion
+* choix technologiques
+
+Nous ne tolérons aucune forme de harcèlement des participants à la conférence. Le langage et les images sexuels ne sont appropriés pour aucun lieu de conférence, y compris les talks, les codelabs, les animations, les soirées, les réseaux sociaux. Les participants à la conférence qui enfreignent ces règles peuvent être sanctionnés ou expulsés de la conférence sans remboursements, à la discrétion des organisateurs de la conférence.
+
+Le harcèlement comprend, sans toutefois s'y limiter:
+
+* Commentaires verbaux qui renforcent les structures sociales de domination, liées au genre, à l'identité et à l'expression de genre, à l'orientation sexuelle, au handicap, à l'apparence physique, à la taille, à la race, à l'âge, à la religion, aux choix technologiques.
+* Images sexuelles dans les espaces publics
+* Intimidation délibérée, harcèlement criminel ou suivi
+* Harceler la photographie ou l'enregistrement
+* Perturbation prolongée des discussions ou d'autres événements
+* Contact physique inapproprié
+* Attention sexuelle importun
+* La nudité dans les espaces publics
+* Défendre ou encourager l'un des comportements ci-dessus
+
+Les participants invités à mettre fin à tout comportement de harcèlement sont tenus de s'y conformer immédiatement.
+
+Les sponsors présents dans le hall d’exposition ou lors des activités similaires sont également soumis à la politique anti-harcèlement. Les sponsors ne doivent pas utiliser d'images, d'activités ou autre matériel sexualisés. Le personnel du stand (y compris les bénévoles) ne doit pas utiliser de vêtements / uniformes / costumes sexualisés, ni créer un environnement sexualisé.
+
+Si un participant adopte un comportement harcelant, les organisateurs de l'événement se réservent le droit de prendre toutes les mesures nécessaires pour que l'événement reste un environnement accueillant pour tous les participants. Cela inclut l’avertissement du délinquant ou l’expulsion de la conférence sans remboursement.
+
+Les organisateurs d’événements peuvent prendre des mesures pour remédier à tout ce qui est conçu pour perturber l’événement ou avoir pour impact manifeste de rendre l’environnement hostile pour les participants.
+
+Nous nous attendons à ce que les participants suivent ces règles sur tous les lieux de l’événement et à toutes les activités sociales liées à l’événement. Nous pensons que les gens devraient également suivre ces règles en dehors des activités de l'événement!
+
+## Besoin de signaler
+
+Si quelqu'un vous dérange de quelque manière que ce soit, nous vous demandons de contacter immédiatement les organisateurs qui mettront en place les mesures nécessaires. Nous voulons que le DevFest soit respectueux des autres et en fasse un événement socialement agréable.
+
+Le personnel de la conférence peut être identifié par des t-shirts / spéciaux. Le harcèlement et les autres infractions au code de conduite réduisent la valeur de notre événement pour tous. Nous voulons que vous soyez heureux lors de notre événement. Des gens comme vous font de notre événement un meilleur endroit.
+
+Vous pouvez faire un rapport personnellement.
+
+### Rapport personnel
+
+Vous pouvez faire un rapport personnel par:
+
+Contacter un membre du personnel identifié par le t-shirt STAFF.
+
+Lorsque vous prenez un rapport personnel, notre personnel s'assurera que vous êtes en sécurité et que vous ne pouvez pas être entendu. Ils peuvent impliquer d’autres membres du personnel de l’événement pour s’assurer que votre rapport est géré correctement. Une fois en sécurité, nous vous demanderons de nous raconter ce qui s'est passé. Cela peut être bouleversant, mais nous le ferons le plus respectueusement possible et vous pourrez faire appel à quelqu'un pour vous soutenir. On ne vous demandera pas d'affronter qui que ce soit et nous ne dirons à personne qui vous êtes.
+
+Notre équipe se fera un plaisir de vous aider à contacter la sécurité des hôtels / sites, les forces de l'ordre locales, les services d'assistance locaux, à vous escorter ou de vous aider à vous sentir en sécurité pendant toute la durée de l'événement. Nous apprécions votre présence.
+
+### Données du rapport
+
+Si vous faites un rapport par courrier électronique, veuillez inclure:
+
+* Vos coordonnées (afin que nous puissions vous contacter si nous devons faire un suivi)
+* Date et heure de l'incident
+* Lieu de l'incident
+* Si l'incident est en cours
+* Description de l'incident
+* Informations d'identification de la personne déclarée: nom, apparence physique, taille, vêtements, accent vocal *, informations d'identification du badge telles que nom de l'entreprise, rubans ou numéro de badge
+* Autres circonstances entourant l'incident
+* Autres personnes impliquées ou témoins de l'incident et leurs coordonnées ou description
+
+### Confidentialité
+
+Tous les rapports resteront confidentiels. Lorsque nous discutons des incidents avec des personnes signalées, nous anonymisons autant que possible les détails afin de protéger la vie privée des raporteurs.
+
+Cependant, certains incidents se produisent lors d'interactions individuelles et, même si les détails sont anonymisés, la personne rapportée peut être en mesure de deviner qui a fait le rapport. Si vous avez des préoccupations concernant les représailles ou votre sécurité personnelle, veuillez les noter dans votre rapport. Nous vous encourageons toujours à faire votre rapport afin de pouvoir vous aider tout en protégeant la sécurité des participants. Dans certains cas, nous pouvons compiler plusieurs rapports anonymisés en un modèle de comportement et agir en conséquence.
+
+Dans certains cas, nous pouvons déterminer qu’une déclaration publique devra être faite. Si tel est le cas, l'identité de toutes les victimes et de tous les journalistes restera confidentielle, à moins que ces personnes ne nous informent du contraire.
+
+### Contacts
+
+En cas de conflit d'intérêts, vous pouvez contacter individuellement:
+
+* Audrey Garreau
+  * Responsable de la diversité et de la relation avec les intervenants
+  * audrey@gdgnantes.com
+* Jean-François Garreau
+  * Trésorier et co-fondateur de DevFest
+  * jef@gdgnantes.com
 
 
-Si quelqu'un vous indispose de cette façon, merci de contacter immédiatement les organisateurs qui s'occuperont de prendre les mesures nécessaires. Nous voulons garder le DevFest respectueux d'autrui et en faire un événement convivial.
-
-<br>
-[Version complète](https://meta.wikimedia.org/wiki/Ne_jouez_pas_au_con_!)
+## Licence
+Ce code de conduite est issu de l'exemple de politique du [wiki Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) , [créé par l'Initiative Ada et d'autres volontaires](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) , sous licence Creative Commons Zero.
