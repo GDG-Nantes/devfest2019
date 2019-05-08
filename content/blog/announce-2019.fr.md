@@ -15,7 +15,7 @@ En 2018, il y a eu plus de 1800 participants par jour et 81 speakers de renommé
 
 Pour plus d'info, regardez notre vidéo des moments clés du DevFest Nantes 2018
 
-<center>[![DevFest Nantes 2018](https://img.youtube.com/vi/BMI5lxkoanc/0.jpg)](https://www.youtube.com/watch?v=BMI5lxkoanc)</center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BMI5lxkoanc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## Et pour cette nouvelle édition ...
 Nous investissons cette année encore toute la Cité des Congrès (excepté le grand auditorium) avec :

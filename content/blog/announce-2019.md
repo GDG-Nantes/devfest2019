@@ -15,7 +15,7 @@ In 2018, there were more than 1,800 participants a day and 81 well-known local, 
 
 For more info, watch our video of the key moments of the DevFest Nantes 2018
 
-<center>[![DevFest Nantes 2018](https://img.youtube.com/vi/BMI5lxkoanc/0.jpg)](https://www.youtube.com/watch?v=BMI5lxkoanc)</center>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BMI5lxkoanc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ## And for this new edition ...
 We are investing again this year all the Cité des Congrès (except the large auditorium) with:
