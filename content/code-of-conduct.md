@@ -6,7 +6,7 @@ draft: false
 
 The GDG Nantes (Organisers of DevFest Nantes) is proud to be an open community that respects differences and diversity. We want all attendees (attendees, speakers, ...) to have an enjoyable and fulfilling experience. This implies that all attendees, speakers, sponsors and volunteers should respect this code of conduct.
 
-## Light version of explicit "Code of Conduct policy".
+## Light version of explicit "Code of Conduct policy"
 
 DevFest Nantes is dedicated to providing a harassment-free conference experience for everyone, regardless of:
 
@@ -23,7 +23,7 @@ DevFest Nantes is dedicated to providing a harassment-free conference experience
 
 We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, codelabs, animations, parties, social networks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
-## Non Light version.
+## Longer version
 
 DevFest Nantes is dedicated to providing a harassment-free conference experience for everyone, regardless of:
 
