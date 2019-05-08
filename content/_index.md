@@ -75,6 +75,13 @@ It is aimed at students, professionals or simply curious techies.
            info="600 places"
            soldOut="true"
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
+<li>{{< ticket name="Lottery"
+           starts="2019-05-06"
+           ends="2019-06-30"
+           price="99€"
+           info="Play the lottery and try to win the opportunity to buy a 2-day pass!"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
 <p class="caption">* Your two-days ticket (VAT included) gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>
