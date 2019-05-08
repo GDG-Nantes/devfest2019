@@ -3,7 +3,7 @@ title: Annonce du DevFest 2019
 brief: Soyez prêt pour cette nouvelle édition !
 image: /images/blog/announce-2019.jpg
 date: 2019-04-16
-draft: true
+draft: false
 ---
 
 Le GDG Nantes est fier de vous annoncer la 8ème édition du DevFest Nantes. L'événement aura lieu les 21 et 22 Octobre 2019 à la Cité des Congrès de Nantes.

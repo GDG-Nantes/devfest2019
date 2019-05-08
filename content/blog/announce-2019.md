@@ -1,6 +1,6 @@
 ---
-title: Annonce du DevFest 2019
-brief: Soyez prêt pour cette nouvelle édition !
+title: DevFest 2019 announcement
+brief: Be ready for this new edition!
 image: /images/blog/announce-2019.jpg
 date: 2019-04-16
 draft: true
