@@ -4,7 +4,7 @@ title: Code of Conduct
 draft: false
 ---
 
-The GDG Nantes (Organisers of DevFest Nantes) is proud to be an open community that respects differences and diversity. We want all attendees (attendees, speakers, ...) to have an enjoyable and fulfilling experience. This implies that all attendees, speakers, sponsors and volunteers should respect this code of conduct.
+The GDG Nantes (Organisers of DevFest Nantes) is proud to be an open community that respects differences and diversity. We want all attendees (attendees, speakers, ...) to have an enjoyable and fulfilling experience. **This implies that all attendees, speakers, sponsors and volunteers should respect this code of conduct.**
 
 ## Light version of explicit "Code of Conduct policy"
 
@@ -60,13 +60,13 @@ If a participant engages in harassing behaviour, event organisers retain the rig
 
 Event organisers may take action to redress anything designed to, or with the clear impact of, disrupting the event or making the environment hostile for any participants.
 
-We expect participants to follow these rules at all event venues and event-related social activities. We think people should follow these rules outside event activities too!
+We expect participants to follow these rules at all event venues and event-related social activities (slack, twitter, mailing, ...). We think people should follow these rules outside event activities too!
 
 ## Need to report
 
 If someone bothers you in any way, we request you to immediately contact the organizers who will put in place the necessary measures. We want to keep the DevFest respectful of others and make it a socially enjoyable event.
 
-Conference staff can be identified by t-shirts/specials. Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
+Conference staff can be identified by t-shirts staff (a photo will be soon available). Harassment and other code of conduct violations reduce the value of our event for everyone. We want you to be happy at our event. People like you make our event a better place.
 
 You can make a report personally.
 
@@ -84,6 +84,7 @@ Our team will be happy to help you contact hotel/venue security, local law enfor
 
 If you make a report via email, please include:
 
+* The title format : [DevFest Nantes] COC Violation
 * Your contact info (so we can get in touch with you if we need to follow up)
 * Date and time of the incident
 * Location of incident

@@ -4,7 +4,7 @@ title: Code of Conduct
 draft: false
 ---
 
-Le GDG Nantes (organisateurs du DevFest Nantes) est fier d'être une communauté ouverte, respectueuse des différences et de la diversité. Nous voulons que tous les participants (participants, conférenciers,…) vivent une expérience agréable et enrichissante. Cela implique que tous les participants, orateurs, sponsors et bénévoles respectent ce code de conduite.
+Le GDG Nantes (organisateurs du DevFest Nantes) est fier d'être une communauté ouverte, respectueuse des différences et de la diversité. Nous voulons que tous les participants (participants, conférenciers,…) vivent une expérience agréable et enrichissante. **Cela implique que tous les participants, orateurs, sponsors et bénévoles respectent ce code de conduite.**
 
 ## Version courte, lisible et explicite du "Code of Conduct policy"
 
@@ -60,13 +60,13 @@ Si un participant adopte un comportement harcelant, les organisateurs de l'évé
 
 Les organisateurs d’événements peuvent prendre des mesures pour remédier à tout ce qui est conçu pour perturber l’événement ou avoir pour impact manifeste de rendre l’environnement hostile pour les participants.
 
-Nous nous attendons à ce que les participants suivent ces règles sur tous les lieux de l’événement et à toutes les activités sociales liées à l’événement. Nous pensons que les gens devraient également suivre ces règles en dehors des activités de l'événement !
+Nous nous attendons à ce que les participants suivent ces règles sur tous les lieux de l’événement et à toutes les activités sociales liées à l’événement (slack, twitter, mailing, ...). Nous pensons que les gens devraient également suivre ces règles en dehors des activités de l'événement !
 
 ## Besoin de signaler
 
 Si quelqu'un vous dérange de quelque manière que ce soit, nous vous demandons de contacter immédiatement les organisateurs qui mettront en place les mesures nécessaires. Nous voulons que le DevFest soit respectueux des autres et en fasse un événement socialement agréable.
 
-Le personnel de la conférence peut être identifié par des t-shirts STAFF. Le harcèlement et les autres infractions au code de conduite réduisent la valeur de notre événement pour tous. Nous voulons que vous soyez heureux lors de notre événement. Des gens comme vous font de notre événement un meilleur endroit.
+Le personnel de la conférence peut être identifié par des t-shirts STAFF (une photo sera disponible bientôt). Le harcèlement et les autres infractions au code de conduite réduisent la valeur de notre événement pour tous. Nous voulons que vous soyez heureux lors de notre événement. Des gens comme vous font de notre événement un meilleur endroit.
 
 Vous pouvez faire un rapport personnellement.
 
@@ -84,6 +84,7 @@ Notre équipe se fera un plaisir de vous aider à contacter la sécurité des h�
 
 Si vous faites un rapport par courrier électronique, veuillez inclure :
 
+* Le titre avec le format suivant : [DevFest Nantes] COC Violation
 * Vos coordonnées (afin que nous puissions vous contacter si nous devons faire un suivi)
 * Date et heure de l'incident
 * Lieu de l'incident
