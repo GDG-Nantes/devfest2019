@@ -39,8 +39,11 @@ content:
         url: https://devfest2016.gdgnantes.com/
         newTab: true
 
-  - title: footer_become_partners
+  - title: footer_for_partners
     links:
-      - nameKey: footer_become_partners_label
-        url: https://drive.google.com/open?id=12jZAT4lXvkswDJcdrki1Re1-qnwyvXed
+      - nameKey: footer_partnership_kit_label
+        url: https://drive.google.com/open?id=10XLxBFKYnYtFacukH2i2j3pFA_8R6oqA
+        newTab: true
+      - nameKey: footer_media_kit_label
+        url: https://drive.google.com/open?id=1Hk6UOxcpsnR4ITi-FFJwRjujZOnnoFpf
         newTab: true
