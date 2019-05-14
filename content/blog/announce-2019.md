@@ -8,14 +8,16 @@ draft: false
 
 GDG Nantes is proud to announce the 8th edition of DevFest Nantes. The event will take place on 21 and 22 October 2019 at the Cité des Congrès in Nantes.
  
-<center>**The Call For Paper and the ticket office will open on May 1st !!!**</center>
+**<div style="text-align: center;">The Call For Paper and the ticket office will open on May 1st !!!</div>**
 
 ## Back in image on the 2018 edition
 In 2018, there were more than 1,800 participants a day and 81 well-known local, national and even international speakers coming from companies like Google, Microsoft, Gitlab, Jetbrains.
 
 For more info, watch our video of the key moments of the DevFest Nantes 2018
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BMI5lxkoanc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/BMI5lxkoanc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"></iframe>
+</div>
 
 ## And for this new edition ...
 We are investing again this year all the Cité des Congrès (except the large auditorium) with:
