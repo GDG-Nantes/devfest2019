@@ -1,10 +1,10 @@
 ---
-title: Legal Mentions
+title: Mentions Légales
 
 draft: false
 ---
 
-## Legal Mentions
+## Mentions Légales
 
 ### GDG Nantes
 

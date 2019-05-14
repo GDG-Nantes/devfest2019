@@ -1,5 +1,5 @@
 ---
-title: Code of Conduct
+title: Code de conduite
 
 draft: false
 ---
