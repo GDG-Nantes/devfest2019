@@ -1,5 +1,5 @@
 ---
-title: mstream
+title: Mstream
 type: partner
 category: partner
 website: 'http://www.mstream.fr/'
@@ -7,6 +7,6 @@ logo: /images/partners/mstream.png
 socials: []
 ---
 
-Find mstream on [http://www.mstream.fr/](http://www.mstream.fr/)
+Find Mstream on [http://www.mstream.fr/](http://www.mstream.fr/)
 
-![mstream](/images/partners/mstream.png)
+![Mstream](/images/partners/mstream.png)
