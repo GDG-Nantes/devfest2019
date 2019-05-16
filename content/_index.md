@@ -124,10 +124,8 @@ Located in the center of Nantes, the event takes place in the "Cité des Congrè
 
 {{% /album  %}}
 
-<!-- ... 
+<!-- ... -->
 
-{{% partners categories="platinium,gold,soutien,media,communautes" %}}
-# Partners
+{{% partners categories="platinium" %}}
+## Partners
 {{% /partners %}}
-
--->

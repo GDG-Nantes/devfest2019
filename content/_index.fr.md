@@ -122,11 +122,8 @@ Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le
 {{% /album  %}}
 
 
-<!-- ...
+<!-- ... -->
 
-
-{{% partners categories="platinium,gold,soutien,media,communautes" %}}
-# Partenaires
+{{% partners categories="platinium" %}}
+## Partenaires
 {{% /partners %}}
-
--->
