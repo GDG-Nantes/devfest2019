@@ -6,7 +6,3 @@ website: 'http://remy-chautard.com/'
 logo: /images/partners/remy-chautard.png
 socials: []
 ---
-
-Find Remy Chautard on [http://remy-chautard.com/](http://remy-chautard.com/)
-
-![Remy Chautard](/images/partners/remy-chautard.png)
