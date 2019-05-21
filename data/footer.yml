@@ -26,6 +26,9 @@ content:
       - nameKey: footer_coc
         url: /code-of-conduct/
         newTab: false
+      - nameKey: footer_legal_mentions
+        url: /legal-mentions/
+        newTab: false
 
   - title: footer_previous_edition
     links:
