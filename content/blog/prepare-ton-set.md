@@ -3,7 +3,7 @@ title: DevFest 2019 - Prepare your set
 brief: Prepare your set
 image: /images/blog/prepare-your-set.jpg
 date: 2019-05-14
-draft: true
+draft: false
 ---
 
 ## Speakers: Ready to become a rockstar?

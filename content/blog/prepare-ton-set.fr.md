@@ -3,7 +3,7 @@ title: DevFest Nantes 2019 - Prépare ton set
 brief: Prépare ton set
 image: /images/blog/prepare-your-set.jpg
 date: 2019-05-14
-draft: true
+draft: false
 ---
 
 ## Speakers : Prêt à devenir une rockstar ?
