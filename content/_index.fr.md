@@ -79,6 +79,13 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
            info="Jouez à la loterie et tentez de gagner la possibilité d'acheter un pass 2 jours !"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
+<li>{{< ticket name="Lazy Birds"
+           starts="2019-09-10"
+           ends="2019-10-15"
+           price="60€"
+           info="Ticket 1 jour en vente à partir du 10 septembre 10h"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
 <p class="caption">* Votre billet deux jours (prix TTC) vous donne accès à toutes les conférences, aux pauses café, et au repas. L'hébergement n'est PAS inclus dans ce prix.</p>

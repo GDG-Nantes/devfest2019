@@ -82,6 +82,13 @@ It is aimed at students, professionals or simply curious techies.
            info="Play the lottery and try to win the opportunity to buy a 2-day pass!"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
+<li>{{< ticket name="Lazy Birds"
+           starts="2019-09-10"
+           ends="2019-10-15"
+           price="60"
+           info="One day tickets on sale the tenth of September at 10am"
+           soldOut=""
+           url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
 <p class="caption">* Your two-days ticket (VAT included) gives you access to all conferences, coffee breaks, and lunch. Accommodation is NOT included in this price.</p>
