@@ -85,7 +85,7 @@ It is aimed at students, professionals or simply curious techies.
 <li>{{< ticket name="Lazy Birds"
            starts="2019-09-10"
            ends="2019-10-15"
-           price="60"
+           price="60€"
            info="One day tickets on sale the tenth of September at 10am"
            soldOut=""
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
