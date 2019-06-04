@@ -4,12 +4,12 @@ title: Accueil
 menu:
   main:
     weight: -1
-
 ---
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Nantes 2019" %}}
 
 ## 21-22 Octobre 2019
+
 ### Cité des Congrès, Nantes, France
 
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z" target="_blank">
@@ -18,17 +18,16 @@ menu:
 
 {{% /jumbo %}}
 
-
-
 {{% home-info what="Participants:1800,Journées:2,Conférences:70+,Tracks:4,Speakers:80+" class="primary" %}}
+
 ## Le DevFest Nantes
 
 Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux développeurs. Elle s'adresse aussi bien aux étudiants, aux professionnels ou tout simplement aux curieux technophiles.
 {{% /home-info %}}
 
-{{< youtube-section link="o7BzM-yAz_M" title="Teaser 2019" class="primarydarker" >}}
+{{< youtube-section link="BMI5lxkoanc" title="Les meilleurs moments 2018" class="primarydarker" >}}
 
-<!-- ... 
+<!-- ...
 
 {{% home-speakers %}}
 ## Conférenciers en vedette
@@ -48,6 +47,7 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
 <!-- ... -->
 
 {{% home-tickets class="tertiary" %}}
+
 ## Billets
 
 <ul>  
@@ -100,7 +100,6 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
 
 {{% /home-subscribe %}}
 
-
 {{% home-location
     image="/images/map.jpg"
     address="5 rue de Valmy, 44000 Nantes"
@@ -119,7 +118,7 @@ Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le
 
 {{% album images="/images/album/2018/2018_1.jpg,/images/album/2018/2018_2.jpg,/images/album/2018/2018_3.jpg,/images/album/2018/2018_4.jpg,/images/album/2018/2018_5.jpg,/images/album/2018/2018_6.jpg,/images/album/2018/2018_7.jpg,/images/album/2018/2018_8.jpg" %}}
 
-## Quelques photos du **DevFest Nantes 2018** avec le thème de l'**espace**. 
+## Quelques photos du **DevFest Nantes 2018** avec le thème de l'**espace**.
 
 <a class="btn primary" target="_blank" rel="noopener" href="https://www.flickr.com/photos/gdgnantes/albums/72157702575476534">
     Voir toutes les photos
@@ -128,9 +127,10 @@ Située en plein cœur de ville, La Cité des Congrès de Nantes propose pour le
 
 {{% /album  %}}
 
-
 <!-- ... -->
 
 {{% partners categories="platinium" %}}
+
 ## Partenaires
+
 {{% /partners %}}

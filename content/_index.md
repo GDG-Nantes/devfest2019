@@ -4,13 +4,12 @@ title: Home
 menu:
   main:
     weight: -1
-
 ---
-
 
 {{% jumbo img="/images/backgrounds/back-0.jpg" imgLabel="DevFest Nantes 2019" %}}
 
 ## OCTOBER 21-22, 2019
+
 ### Cité des Congrès, Nantes, France
 
 <a class="btn primary btn-lg" href="https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z" target="_blank">
@@ -19,19 +18,17 @@ menu:
 
 {{% /jumbo %}}
 
-
-
 {{% home-info what="Attendees:1800,Days:2,Sessions:70+,Tracks:4,Speakers:80+" class="primary" %}}
+
 ## What is DevFest Nantes?
 
-The DevFest, or 'Developer Festival', is a technical conference for developers. 
+The DevFest, or 'Developer Festival', is a technical conference for developers.
 It is aimed at students, professionals or simply curious techies.
 {{% /home-info %}}
 
+{{< youtube-section link="BMI5lxkoanc" title="Watch 2018 best moments" class="primarydarker" >}}
 
-{{< youtube-section link="o7BzM-yAz_M" title="Teaser 2019" class="primarydarker" >}}
-
-<!-- ... 
+<!-- ...
 
 {{% home-speakers %}}
 ## Featured Speakers
@@ -51,6 +48,7 @@ It is aimed at students, professionals or simply curious techies.
 <!-- ... -->
 
 {{% home-tickets class="tertiary" %}}
+
 ## Tickets
 
 <ul>  
@@ -103,7 +101,6 @@ It is aimed at students, professionals or simply curious techies.
 
 {{% /home-subscribe %}}
 
-
 {{% home-location
     image="/images/map.jpg"
     address="5 rue de Valmy, 44000 Nantes"
@@ -134,5 +131,7 @@ Located in the center of Nantes, the event takes place in the "Cité des Congrè
 <!-- ... -->
 
 {{% partners categories="platinium" %}}
+
 ## Partners
+
 {{% /partners %}}
