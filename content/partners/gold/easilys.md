@@ -5,5 +5,4 @@ category: gold
 website: 'https://www.easilys.com/'
 logo: /images/partners/easilys.png
 socials: []
-draft: true
 ---
