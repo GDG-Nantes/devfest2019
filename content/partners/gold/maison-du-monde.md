@@ -5,5 +5,4 @@ category: gold
 website: 'https://www.maisonsdumonde.com/'
 logo: /images/partners/maisons-du-monde.png
 socials: []
-draft: true
 ---
