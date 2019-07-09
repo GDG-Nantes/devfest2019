@@ -78,7 +78,7 @@ It is aimed at students, professionals or simply curious techies.
            ends="2019-06-30"
            price="99€"
            info="Play the lottery and try to win the opportunity to buy a 2-day pass!"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 <li>{{< ticket name="Lazy Birds"
            starts="2019-09-10"
