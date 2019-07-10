@@ -5,5 +5,4 @@ category: gold
 website: 'https://www.lesjeudis.com/'
 logo: /images/partners/lesjeudis.png
 socials: []
-draft: true
 ---
