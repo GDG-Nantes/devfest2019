@@ -1,9 +1,6 @@
 ---
-key: >-
-  top_speaker___justin_fagnani___building_a_complex_application_with_web_components_and_litelement
-title: >-
-  TOP SPEAKER - Justin Fagnani - Building a Complex Application with Web
-  Components and LitElement
+key: building_a_complex_application_with_web_components_and_litelement
+title: Building a Complex Application with Web Components and LitElement
 id: vuByu8t2zUzhZwAaep6t
 language: Anglais
 talkType: conference
@@ -11,7 +8,7 @@ tags:
   - _web
 complexity: Intermediate
 speakers:
-  - jean_francois_garreau
+  - justin_fagnani
 videoId: null
 presentation: null
 draft: false

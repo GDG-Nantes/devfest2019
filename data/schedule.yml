@@ -14,7 +14,7 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-2
-          talk: top_speaker___justin_fagnani___building_a_complex_application_with_web_components_and_litelement
+          talk: building_a_complex_application_with_web_components_and_litelement
         - slot: lunch
           talk: __lunch
         - slot: slot-3
