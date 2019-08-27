@@ -3,37 +3,37 @@
   rooms:
     - room: room1
       slots:
-        - slot: open-day1
+        - slot: open-day-1
           talk: __open
         - slot: keynote-open
           talk: keynote_open
-        - slot: pause-1-day1
+        - slot: pause-1-day-1
           talk: __pause
-        - slot: slot-1-day1
+        - slot: slot-1-day-1
           talk: le_web__ses_frameworks_et_ses_standards___deconstruire_pour_mieux__re__construire
-        - slot: pause-2-day1
+        - slot: pause-2-day-1
           talk: __pause
-        - slot: slot-2-day1
+        - slot: slot-2-day-1
           talk: building_a_complex_application_with_web_components_and_litelement
-        - slot: lunch-day1
+        - slot: lunch-day-1
           talk: __lunch
-        - slot: slot-3-day1
+        - slot: slot-3-day-1
           talk: interactive_web_animation_with_svg
-        - slot: pause-3-day1
+        - slot: pause-3-day-1
           talk: __pause
-        - slot: slot-4-day1
+        - slot: slot-4-day-1
           talk: building_web_apps_that_dont_suck
-        - slot: pause-4-day1
+        - slot: pause-4-day-1
           talk: __pause
-        - slot: slot-5-day1
+        - slot: slot-5-day-1
           talk: iot_for_the_introvert
-        - slot: pause-5-day1
+        - slot: pause-5-day-1
           talk: __pause
-        - slot: slot-6-day1
+        - slot: slot-6-day-1
           talk: dr_gopher__anatomie_du_scheduler_golang
-        - slot: pause-6-day1
+        - slot: pause-6-day-1
           talk: __pause
-        - slot: slot-7-day1
+        - slot: slot-7-day-1
           talk: pair_design___un_moyen_de_concevoir_a_deux_ou_plus
         - slot: party
           talk: __party
@@ -41,113 +41,113 @@
       slots:
         - slot: keynote-open
           talk: keynote_open_overflow
-        - slot: pause-1-day1
+        - slot: pause-1-day-1
           talk: __pause
-        - slot: slot-1-day1
+        - slot: slot-1-day-1
           talk: go_serverless_with_cloud_functions_for_firebase
-        - slot: pause-2-day1
+        - slot: pause-2-day-1
           talk: __pause
-        - slot: slot-2-day1
+        - slot: slot-2-day-1
           talk: developper_une_api_cloud_ready_avec_quarkus
-        - slot: lunch-day1
+        - slot: lunch-day-1
           talk: __lunch
-        - slot: slot-3-day1
+        - slot: slot-3-day-1
           talk: docker__kubernetes___istio___tips__tricks___tools
-        - slot: pause-3-day1
+        - slot: pause-3-day-1
           talk: __pause
-        - slot: slot-4-day1
+        - slot: slot-4-day-1
           talk: 
-        - slot: pause-4-day1
+        - slot: pause-4-day-1
           talk: __pause
-        - slot: slot-5-day1
+        - slot: slot-5-day-1
           talk: l_epopee_des_polices_css_de_comic_sans_aux_fontes_variables
-        - slot: pause-5-day1
+        - slot: pause-5-day-1
           talk: __pause
-        - slot: slot-6-day1
+        - slot: slot-6-day-1
           talk: promouvoir_son_projet_open_source_comme_une_rock_star__
-        - slot: pause-6-day1
+        - slot: pause-6-day-1
           talk: __pause
-        - slot: slot-7-day1
+        - slot: slot-7-day-1
           talk: le_futur_de_la_gestion_des_dependances_node
     - room: room3
       slots:
-        - slot: slot-1-day1
+        - slot: slot-1-day-1
           talk: au_dela_des_couleurs__des_interfaces_adaptees_au_daltonisme
-        - slot: pause-2-day1
+        - slot: pause-2-day-1
           talk: __pause
-        - slot: slot-2-day1
+        - slot: slot-2-day-1
           talk: tu_packages__comment___bazel_bazel_bazel___
-        - slot: lunch-day1
+        - slot: lunch-day-1
           talk: __lunch
-        - slot: slot-3-day1
+        - slot: slot-3-day-1
           talk: 
-        - slot: pause-3-day1
+        - slot: pause-3-day-1
           talk: __pause
-        - slot: slot-4-day1
+        - slot: slot-4-day-1
           talk: performance_tuning_of_go_applications_in_cloud
-        - slot: pause-4-day1
+        - slot: pause-4-day-1
           talk: __pause
-        - slot: slot-5-day1
+        - slot: slot-5-day-1
           talk: les_specificites_des_jeux_de_societe_numeriques
-        - slot: pause-5-day1
+        - slot: pause-5-day-1
           talk: __pause
-        - slot: slot-6-day1
+        - slot: slot-6-day-1
           talk: kubernetes_enfin_ultra_simple_et_leger_avec_k3s
-        - slot: pause-6-day1
+        - slot: pause-6-day-1
           talk: __pause
-        - slot: slot-7-day1
+        - slot: slot-7-day-1
           talk: le_sommeil__a_la_recherche_du_temps_perdu
     - room: room4
       slots:
-        - slot: slot-1-day1
+        - slot: slot-1-day-1
           talk: gpgpu__utiliser_la_carte_graphique_pour_accelerer_vos_applications_
-        - slot: pause-2-day1
+        - slot: pause-2-day-1
           talk: __pause
-        - slot: slot-2-day1
+        - slot: slot-2-day-1
           talk: iot_edge_to_the_rescue_
         - slot: lunch
-          talk: __lunch-day1
-        - slot: slot-3-day1
+          talk: __lunch-day-1
+        - slot: slot-3-day-1
           talk: make_your_data_fabulous
-        - slot: pause-3-day1
+        - slot: pause-3-day-1
           talk: __pause
-        - slot: slot-4-day1
+        - slot: slot-4-day-1
           talk: null__undefined_and_maybe__a_tale_of_uncertainty
-        - slot: pause-4-day1
+        - slot: pause-4-day-1
           talk: __pause
-        - slot: slot-5-day1
+        - slot: slot-5-day-1
           talk: authentication_authorization_starters_battle
-        - slot: pause-5-day1
+        - slot: pause-5-day-1
           talk: __pause
-        - slot: slot-6-day1
+        - slot: slot-6-day-1
           talk: la_confidentialite_assuree_par_les_math
-        - slot: pause-6-day1
+        - slot: pause-6-day-1
           talk: __pause
-        - slot: slot-7-day1
+        - slot: slot-7-day-1
           talk: comment_j_ai_fini_par_deployer_a_2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_avec_un_velo_d_appartement_
     - room: room_codelab1
       slots:
-        - slot: codelab-1-day1
+        - slot: codelab-1-day-1
           talk: apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique 
-        - slot: lunch-day1
+        - slot: lunch-day-1
           talk: __lunch
-        - slot: codelab-2-day1
+        - slot: codelab-2-day-1
           talk: decouvrez_micronaut__le_framework_qui_va_faire_du_bien_a_la_jvm__
-        - slot: pause-4-day1
+        - slot: pause-4-day-1
           talk: __pause
-        - slot: codelab-3-day1
+        - slot: codelab-3-day-1
           talk: le_graal_d_aws___decouverte_et_prise_en_main_de_chalice
     - room: room_codelab2
       slots:
-        - slot: codelab-1-day1
+        - slot: codelab-1-day-1
           talk: creer_votre_device_iot_connecte_en_quelques_heures
-        - slot: lunch-day1
+        - slot: lunch-day-1
           talk: __lunch
-        - slot: codelab-2-day1
+        - slot: codelab-2-day-1
           talk: workshop___kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android
-        - slot: pause-4-day1
+        - slot: pause-4-day-1
           talk: __pause
-        - slot: codelab-3-day1
+        - slot: codelab-3-day-1
           talk: understand_your_code_with_machine_learning_on_source_code
 - day: '2019-10-22'
   start: '08:30'
