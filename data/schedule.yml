@@ -105,8 +105,8 @@
           talk: __pause
         - slot: slot-2-day-1
           talk: iot_edge_to_the_rescue_
-        - slot: lunch
-          talk: __lunch-day-1
+        - slot: lunch-day-1
+          talk: __lunch
         - slot: slot-3-day-1
           talk: make_your_data_fabulous
         - slot: pause-3-day-1
@@ -153,14 +153,140 @@
   start: '08:30'
   rooms:
     - room: room1
-      slots: 
+      slots:
+        - slot: open-day-2
+          talk: __open
+        - slot: slot-1-day-2
+          talk: zen_and_the_art_of_vuejs
+        - slot: pause-1-day-2
+          talk: __pause
+        - slot: slot-2-day-2
+          talk: web_ready_augmented_reality_in_47_lines_of_code
+        - slot: pause-2-day-2
+          talk: __pause
+        - slot: slot-3-day-2
+          talk: bootiful_testing
+        - slot: lunch-day-2
+          talk: __lunch
+        - slot: slot-4-day-2
+          talk: svelte__la_nouvelle_revolution_des_applications_web
+        - slot: pause-3-day-2
+          talk: __pause
+        - slot: slot-5-day-2
+          talk: data___art
+        - slot: pause-4-day-2
+          talk: __pause
+        - slot: slot-6-day-2
+          talk: parcel_js___le_bundler_dont_vous_reviez___
+        - slot: pause-5-day-2
+          talk: __pause
+        - slot: slot-7-day-2
+          talk: vega_au_secours_de_vos_visualisations_de_donnees
+        - slot: pause-6-day-2
+          talk: __pause
+        - slot: keynote-close
+          talk: keynote_close
     - room: room2
       slots: 
+        - slot: slot-1-day-2
+          talk: building_better_products_faster__devux_is_the_new_devops
+        - slot: pause-1-day-2
+          talk: __pause
+        - slot: slot-2-day-2
+          talk: how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes
+        - slot: pause-2-day-2
+          talk: __pause
+        - slot: slot-3-day-2
+          talk: new_and_emerging_web_platform_apis
+        - slot: lunch-day-2
+          talk: __lunch
+        - slot: slot-4-day-2
+          talk: knative__a_kubernetes_framework_to_manage_serverless_workloads
+        - slot: pause-3-day-2
+          talk: __pause
+        - slot: slot-5-day-2
+          talk: _brancher_sa_guitare_a_son_navigateur___et_le_web_deviens_rock_n_roll____
+        - slot: pause-4-day-2
+          talk: __pause
+        - slot: slot-6-day-2
+          talk: infrastructure_as_code__il_n_y_a_pas_que_terraform_dans_la_vie
+        - slot: pause-5-day-2
+          talk: __pause
+        - slot: slot-7-day-2
+          talk: informatique_quantique__je_suis_non_binaire
+        - slot: pause-6-day-2
+          talk: __pause
+        - slot: keynote-close
+          talk: keynote_close_overflow
     - room: room3
       slots: 
+        - slot: slot-1-day-2
+          talk: dis_moi_doc__quelle_it_en_2025__
+        - slot: pause-1-day-2
+          talk: __pause
+        - slot: slot-2-day-2
+          talk: storybook_pour_votre_design_system__un_conte_de_fees__
+        - slot: pause-2-day-2
+          talk: __pause
+        - slot: slot-3-day-2
+          talk: the_web_is_on__f_i_r_e________conference_
+        - slot: lunch-day-2
+          talk: __lunch
+        - slot: slot-4-day-2
+          talk: apache_pulsar_101__architecture__concepts_et_comparaison
+        - slot: pause-3-day-2
+          talk: __pause
+        - slot: slot-5-day-2
+          talk: game_development_with_unity_from_an_android_point_of_view
+        - slot: pause-4-day-2
+          talk: __pause
+        - slot: slot-6-day-2
+          talk: webauthn__le_renouveau_de_l_authentification
+        - slot: pause-5-day-2
+          talk: __pause
+        - slot: slot-7-day-2
+          talk: comment_le_projet_euler_m_as_donne_envie_de_refaire_des_maths
     - room: room4
       slots: 
+        - slot: slot-1-day-2
+          talk: back_in_black_hat___comment_se_faire_pogoter__hacker__bien_comme_il_faut_
+        - slot: pause-1-day-2
+          talk: __pause
+        - slot: slot-2-day-2
+          talk: premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core
+        - slot: pause-2-day-2
+          talk: __pause
+        - slot: slot-3-day-2
+          talk: core__le_principe__dans_le_doute_reboot__applique_a__net
+        - slot: lunch-day-2
+          talk: __lunch
+        - slot: slot-4-day-2
+          talk: fpga__creer_du_materiel_en_programmant
+        - slot: pause-3-day-2
+          talk: __pause
+        - slot: slot-5-day-2
+          talk: build_your_own_knowledge_graph_with_weaviate_on_gcp
+        - slot: pause-4-day-2
+          talk: __pause
+        - slot: slot-6-day-2
+          talk: swift_superpowers
+        - slot: pause-5-day-2
+          talk: __pause
+        - slot: slot-7-day-2
+          talk: JAMstack, ou comment
     - room: room_codelab1
       slots: 
+        - slot: codelab-1-day-2
+          talk: una_gitlab__le_tp_a_roulette__
+        - slot: codelab-2-day-2
+          talk: creons_notre_premiere_api_avec_nestjs
+        - slot: codelab-3-day-2
+          talk: deploying_and_building_webthings_workshop_by_mozilla
     - room: room_codelab2
       slots: 
+        - slot: codelab-1-day-2
+          talk: les_mains_dans_le_cambouis_avec_webassembly
+        - slot: codelab-2-day-2
+          talk: il_faut_sauver_lora
+        - slot: codelab-3-day-2
+          talk: developper_de_nouvelles_applications_avec_docker_app
