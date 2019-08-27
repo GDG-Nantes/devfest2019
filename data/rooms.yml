@@ -5,10 +5,14 @@
   label: Halls
   skip: true
 - key: room1
-  label: Grand amphi.
+  label: Titan
 - key: room2
-  label: Grande salle
+  label: Belem
 - key: room3
-  label: Salle du haut
+  label: Tour de Bretagne
 - key: room4
-  label: Petite salle
+  label: Graslin
+- key: room_codelab1
+  label: Les Machines
+- key: room_codelab2
+  label: Le Hangar
