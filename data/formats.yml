@@ -1,0 +1,19 @@
+- key: codelab
+  name: "\U0001F4BB Codelab"
+  id: bc4d1840-d260-5fb6-9e83-f1b0da239793
+- key: conference
+  name: "\U0001F4E3 Conference"
+  id: e56e30ab-be22-5055-9138-a86a3249c766
+- key: quickie
+  name: ⚡️ Quickie
+  id: fc2e9afb-3cba-5428-9214-c146862f2a52
+- key: keynote
+  name: Keynote
+- key: lunch
+  name: Lunch
+- key: open
+  name: Ouverture
+- key: party
+  name: Party
+- key: pause
+  name: Pause

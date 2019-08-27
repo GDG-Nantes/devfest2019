@@ -1,0 +1,15 @@
+---
+key: pierre_yves_aillet
+name: Pierre-Yves Aillet
+id: 0ZbtTwugPpTsYEAbDRbt6Voqcca2
+feature: false
+photo: /images/speakers/pierre_yves_aillet.jpg
+socials:
+  - icon: twitter
+    link: 'https://twitter.com/pyaillet'
+    name: pyaillet
+  - icon: github
+    link: 'https://github.com/pyaillet'
+    name: pyaillet
+---
+Passionné d'informatique, Pierre-Yves travaille depuis 15 ans sur des technologies variées allant de PHP à Java en passant par Javascript. Son IHM de prédilection est la ligne de commande. Il est consultant chez Zenika Nantes et intervient sur des missions d’audit, d’expertise technique ou d’appui pour la mise en place d’outillages de développement.

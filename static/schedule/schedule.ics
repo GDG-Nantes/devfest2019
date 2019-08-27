@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PROID:-//Devfest/DevFest Nantes//FR
+X-WR-CALDESC:DevFest Nantes
+X-WR-CALNAME:DevFest Nantes
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+DESCRIPTION:Have you heard of the code-sharing feature in Kotlin\, accompan
+ ied with "Write once\, run everywhere" slogan? Among its users not only lib
+ raries and frameworks authors\; there are some projects which have already 
+ adopted multiplatform for production. Their applications\, written in Kotli
+ n for *both* iOS and Android\, are published in stores. \nWith this talk\, 
+ you'll get a brief overview of the evolution of multiplatform technology in
+  Kotlin\, concerning the tasks it's evolved to solve. How it was and how it
+  is expected to be\; what has changed and which tasks can be already solved
+  with it. What are the facilities right now and which real projects already
+  use multiplatform?
+DTSTART:20191003T100000
+DURATION:PT40M
+LOCATION:Grande salle
+SUMMARY:A Kotlin multiplatform evolution
+UID:a_kotlin_multiplatform_evolution
+URL:https://devfesttoulouse.fr/sessions/a_kotlin_multiplatform_evolution
+TRANSP:TRANSPARENT
+CATEGORIES:languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When you start a brand new app or service\, you need to think a
+ bout how you will manage authentication and permissions. But if you are lik
+ e everyone else\, you genuinely do not want to actually think about this. I
+ f someone else could do that for you\, life would be great. And this has ac
+ tually happened\, you have the choice between several boilerplate projects 
+ or authentication/authorization libraries. In fact\, you have a lot of opti
+ ons. Which one to choose? Let's have a closer look to them!\n\nAt the end o
+ f this talk\, you will have a good overview of the common existing solution
+ s and their benefits.
+DTSTART:20191003T163000
+DURATION:PT40M
+LOCATION:Grande salle
+SUMMARY:Authentication/Authorization Starters Battle
+UID:6E03tbU6L5w0IyjMi7yF
+URL:https://devfesttoulouse.fr/sessions/authentication_authorization_starte
+ rs_battle
+TRANSP:TRANSPARENT
+CATEGORIES:_web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Les enfants sont eux-mêmes les bâtisseurs actifs de leurs propr
+ es structures intellectuelles et l'informatique y joue un rôle déterminant\
+ , disait Piaget\, un célèbre biologiste\, psychologue et logicien. Son coll
+ aborateur\, Seymour Papert\, inventera le langage Logo\, langage qui fait q
+ u'aujourd’hui je suis un développeur épanoui.\nQu'en est-il aujourd'hui ? C
+ omment donner le goût du code à nos enfants et surtout pourquoi est-ce impo
+ rtant ?\nAvec Saskia\, Loïs et leur père nous voyagerons à travers le temps
+ \, en partant de la tortue sur ce bon vieux M05 en passant par Scratch\, le
+  Logo hipster de nos jour\, jusqu’à Groovy et Python. \n
+DTSTART:20191003T143000
+DURATION:PT40M
+LOCATION:Salle du haut
+SUMMARY:Le jaillissement de l'esprit
+UID:le_jaillissement_de_l_esprit
+URL:https://devfesttoulouse.fr/sessions/le_jaillissement_de_l_esprit
+TRANSP:TRANSPARENT
+CATEGORIES:method___tools
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:De nombreux services en ligne existent pour gérer en toute sécu
+ rité des appareils IoT à grande échelle : "Azure IoT" de Microsoft et "AWS 
+ IoT" d'Amazon sont parmi les plus connus.\n\nGoogle propose également sa so
+ lution : "Cloud IoT" basée sur la plate-forme Google Cloud (GCP).\nDans ce 
+ talk\, nous partirons d'un microcontrôleur neuf ultra connu et abordable\, 
+ et notre but sera tout d'abord de découvrir comment écrire du code pour ce 
+ composant nous permettant de récupérer des informations sur notre environne
+ ment.\nEnsuite\, nous ferons en sorte que ce composant envoie ses données v
+ ers un service Cloud\, pour enfin découvrir ce que permettent ces solutions
+  en ligne dédiées à l'IoT.\n\nPour l'exemple\, et parce qu'il faut bien cho
+ isir une solution\, nous utiliserons Google Cloud IoT Core\, les concepts r
+ estant similaires sur les autres plate-formes.
+DTSTART:20191003T120000
+DURATION:PT40M
+LOCATION:Petite salle
+SUMMARY:Premiers pas avec un microcontrôleur et Google Cloud IoT Core
+UID:R9O1S7M9oRMmwd0cNBaz
+URL:https://devfesttoulouse.fr/sessions/premiers_pas_avec_un_microcontroleu
+ r_et_google_cloud_iot_core
+TRANSP:TRANSPARENT
+CATEGORIES:_mobile___iot
+END:VEVENT
+END:VCALENDAR
