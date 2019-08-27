@@ -80,7 +80,7 @@
         - slot: lunch-day-1
           talk: __lunch
         - slot: slot-3-day-1
-          talk: 
+          talk: duniter___la_blockchain_ecolo
         - slot: pause-3-day-1
           talk: __pause
         - slot: slot-4-day-1
@@ -273,7 +273,7 @@
         - slot: pause-5-day-2
           talk: __pause
         - slot: slot-7-day-2
-          talk: JAMstack, ou comment
+          talk: jamstack__ou_comment_faire_des_sites_statiques_modernes_et_rapides
     - room: room_codelab1
       slots: 
         - slot: codelab-1-day-2
