@@ -22,6 +22,12 @@
   row:
     start: 7
     end: 10
+- key: codelab-1
+  start: '10:00'
+  duration: 120
+  row:
+    start: 7
+    end: 14
 - key: pause-2
   start: '10:50'
   duration: 20
@@ -46,6 +52,12 @@
   row:
     start: 18
     end: 21
+- key: codelab-2
+  start: '14:00'
+  duration: 120
+  row:
+    start: 18
+    end: 25
 - key: pause-3
   start: '14:50'
   duration: 20
@@ -70,6 +82,12 @@
   row:
     start: 26
     end: 29
+- key: codelab-3
+  start: '16:20'
+  duration: 120
+  row:
+    start: 26
+    end: 37
 - key: pause-5
   start: '17:10'
   duration: 10
