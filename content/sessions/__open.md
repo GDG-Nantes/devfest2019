@@ -1,10 +1,10 @@
 ---
 key: __open
-title: 'Acceuil, Thé, Café et Chocolatines'
+title: 'Gates open / Ouverture des portes'
 talkType: open
 tags:
   - open
 speakers: []
 draft: false
 ---
-Acceuil, Thé, Café et Chocolatines
+Gates open / Ouverture des portes

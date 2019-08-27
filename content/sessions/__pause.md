@@ -1,10 +1,10 @@
 ---
 key: __pause
-title: Pause
+title: Break / Pause
 talkType: pause
 tags:
   - pause
 speakers: []
 draft: false
 ---
-Pause
+Break / Pause

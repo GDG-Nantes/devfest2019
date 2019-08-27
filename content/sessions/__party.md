@@ -1,6 +1,6 @@
 ---
 key: __party
-title: Party time...
+title: After Party
 talkType: party
 tags:
   - party

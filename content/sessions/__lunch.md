@@ -1,10 +1,10 @@
 ---
 key: __lunch
-title: Déjeuner
+title: Lunch / Déjeuner
 talkType: lunch
 tags:
   - lunch
 speakers: []
 draft: false
 ---
-Bon appétit
+Enjoy your meal / Bon appétit

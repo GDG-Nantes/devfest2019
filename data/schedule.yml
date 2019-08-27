@@ -1,4 +1,4 @@
-- day: '2019-10-03'
+- day: '2019-10-21'
   start: '08:00'
   rooms:
     - room: room1
@@ -10,40 +10,163 @@
         - slot: pause-1
           talk: __pause
         - slot: slot-1
-          talk: __open
+          talk: le_web__ses_frameworks_et_ses_standards___deconstruire_pour_mieux__re__construire
         - slot: pause-2
           talk: __pause
         - slot: slot-2
-          talk: __open
+          talk: top_speaker___justin_fagnani___building_a_complex_application_with_web_components_and_litelement
         - slot: lunch
           talk: __lunch
         - slot: slot-3
-          talk: __open
+          talk: interactive_web_animation_with_svg
         - slot: pause-3
           talk: __pause
         - slot: slot-4
-          talk: __open
+          talk: building_web_apps_that_dont_suck
         - slot: pause-4
           talk: __pause
         - slot: slot-5
-          talk: __open
+          talk: iot_for_the_introvert
         - slot: pause-5
           talk: __pause
         - slot: slot-6
-          talk: __open
+          talk: dr_gopher__anatomie_du_scheduler_golang
         - slot: pause-6
           talk: __pause
         - slot: slot-7
-          talk: __open
+          talk: pair_design___un_moyen_de_concevoir_a_deux_ou_plus
         - slot: party
           talk: __party
     - room: room2
       slots:
         - slot: keynote-open
-          talk: keynote_open_overflow        
+          talk: keynote_open_overflow
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: go_serverless_with_cloud_functions_for_firebase
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: developper_une_api_cloud_ready_avec_quarkus
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-3
+          talk: docker__kubernetes___istio___tips__tricks___tools
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-4
+          talk: 
+        - slot: pause-4
+          talk: __pause
+        - slot: slot-5
+          talk: l_epopee_des_polices_css_de_comic_sans_aux_fontes_variables
+        - slot: pause-5
+          talk: __pause
+        - slot: slot-6
+          talk: promouvoir_son_projet_open_source_comme_une_rock_star__
+        - slot: pause-6
+          talk: __pause
+        - slot: slot-7
+          talk: le_futur_de_la_gestion_des_dependances_node
     - room: room3
       slots:
-        
+        - slot: slot-1
+          talk: au_dela_des_couleurs__des_interfaces_adaptees_au_daltonisme
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: tu_packages__comment___bazel_bazel_bazel___
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-3
+          talk: 
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-4
+          talk: performance_tuning_of_go_applications_in_cloud
+        - slot: pause-4
+          talk: __pause
+        - slot: slot-5
+          talk: les_specificites_des_jeux_de_societe_numeriques
+        - slot: pause-5
+          talk: __pause
+        - slot: slot-6
+          talk: kubernetes_enfin_ultra_simple_et_leger_avec_k3s
+        - slot: pause-6
+          talk: __pause
+        - slot: slot-7
+          talk: le_sommeil__a_la_recherche_du_temps_perdu
     - room: room4
       slots:
-        
+        - slot: slot-1
+          talk: gpgpu__utiliser_la_carte_graphique_pour_accelerer_vos_applications_
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: iot_edge_to_the_rescue_
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-3
+          talk: make_your_data_fabulous
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-4
+          talk: null__undefined_and_maybe__a_tale_of_uncertainty
+        - slot: pause-4
+          talk: __pause
+        - slot: slot-5
+          talk: authentication_authorization_starters_battle
+        - slot: pause-5
+          talk: __pause
+        - slot: slot-6
+          talk: la_confidentialite_assuree_par_les_math
+        - slot: pause-6
+          talk: __pause
+        - slot: slot-7
+          talk: comment_j_ai_fini_par_deployer_a_2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_avec_un_velo_d_appartement_
+    - room: room_codelab1
+      slots:
+        - slot: slot-1
+          talk: 
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-2
+          talk: 
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-3
+          talk: 
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-4
+          talk: 
+        - slot: pause-4
+          talk: __pause
+        - slot: slot-5
+          talk: 
+        - slot: pause-5
+          talk: __pause
+        - slot: slot-6
+          talk: 
+        - slot: pause-6
+          talk: __pause
+        - slot: slot-7
+          talk: 
+    - room: room_codelab2
+      slots:
+- day: '2019-10-22'
+  start: '08:30'
+  rooms:
+    - room: room1
+      slots: 
+    - room: room2
+      slots: 
+    - room: room3
+      slots: 
+    - room: room4
+      slots: 
+    - room: room_codelab1
+      slots: 
+    - room: room_codelab2
+      slots: 

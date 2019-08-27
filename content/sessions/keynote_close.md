@@ -1,6 +1,6 @@
 ---
 key: keynote_close
-title: Keynote de fermeture
+title: Ending keynote / Keynote de fermeture
 talkType: keynote
 tags:
   - keynote

@@ -1,6 +1,6 @@
 ---
 key: keynote_open
-title: Keynote d'ouverture
+title: Opening keynote / Keynote d'ouverture
 talkType: keynote
 tags:
   - keynote

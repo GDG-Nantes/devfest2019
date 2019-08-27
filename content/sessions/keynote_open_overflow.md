@@ -1,6 +1,6 @@
 ---
 key: keynote_open_overflow
-title: Keynote d'ouverture (overflow)
+title: Opening keynote (overflow) / Keynote d'ouverture (overflow)
 talkType: keynote
 tags:
   - keynote
