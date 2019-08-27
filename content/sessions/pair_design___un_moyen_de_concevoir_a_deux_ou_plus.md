@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - cecile_freyd_foucault
-  - estelle_landry_
+  - estelle_landry
 videoId: null
 presentation: null
 draft: false
