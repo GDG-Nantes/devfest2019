@@ -8,7 +8,7 @@ tags:
   - _web
 complexity: Beginner
 speakers:
-  - bgsxeeuccpcyelv36fjsvo87yei3
+  - thomas_blaisot
 videoId: null
 presentation: null
 draft: false

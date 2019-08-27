@@ -3,7 +3,7 @@ key: ali_spittel
 name: Ali Spittel
 id: bCkrQrssjgU1zb5V2y2QpVnuCmf1
 feature: true
-photo: /images/speakers/ali_spittel.jpg
+photo: /images/speakers/ali_spittel.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/ASpittel'
