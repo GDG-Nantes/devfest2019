@@ -9,5 +9,5 @@ photo: /images/speakers/quentin_adam.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/waxzce'
-    name: waxzce    
+    name: waxzce
 ---
