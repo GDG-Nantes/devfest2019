@@ -171,7 +171,7 @@
   start: '13:00'
   duration: 120
   row:
-    start: 15
+    start: 16
     end: 22
 - key: slot-4-day-2
   start: '14:00'
