@@ -3,6 +3,9 @@ key: jen_looper
 name: Jen Looper
 id: bAkrQrssjgU1zb5V2y2QpVnuCmf1
 feature: true
+company: Microsoft
+companyLogo: /images/partners/microsoft.png
+city: 'Wellesley, MA'
 photo: /images/speakers/jen_looper.jpg
 socials:
   - icon: twitter

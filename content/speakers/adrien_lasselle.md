@@ -3,9 +3,9 @@ key: adrien_lasselle
 name: Adrien Lasselle
 feature: false
 company: Sfeir
+companyLogo: /images/partners/sfeir.png
 city: 'Nantes, France'
 photo: /images/speakers/adrien_lasselle.png
-companyLogo: /images/partners/sfeir.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/AdrienLASSELLE'

@@ -3,6 +3,8 @@ key: cecile_freyd_foucault
 name: Cécile Freyd-Foucault
 id: mnKCXR65CudbqcmnzEonfNGs1Jk2
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
 photo: /images/speakers/cecile_freyd_foucault.jpg
 socials:
   - icon: twitter

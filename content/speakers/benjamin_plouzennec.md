@@ -4,9 +4,9 @@ name: Benjamin Plouzennec
 id: HJymKIT0iee8w5fMuY6srqCKkqu2
 feature: false
 company: Zenika
+companyLogo: /images/partners/zenika.png
 city: 'Rennes, France'
 photo: /images/speakers/benjamin_plouzennec.png
-companyLogo: /images/partners/zenika.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/OkazariBzh'

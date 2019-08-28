@@ -3,6 +3,9 @@ key: francois_bouteruche
 name: François Bouteruche
 id: GW9ggSbmZYM7tkxxt5wRXXLp5733
 feature: false
+company: Microsoft
+companyLogo: /images/partners/microsoft.png
+city: 'Paris, France'
 photo: /images/speakers/francois_bouteruche.jpg
 socials:
   - icon: twitter
@@ -11,6 +14,9 @@ socials:
   - icon: github
     link: 'https://github.com/fbouteruche'
     name: fbouteruche
+  - icon: linkedin
+    link: https://www.linkedin.com/in/francoisbouteruche
+    name: francoisbouteruche
 ---
 I'm currently Delevoper Relations Manager at Microsoft France. I am a tech enthusiast with a strong background around .NET development and DevOps phylosophy and practices. 
 

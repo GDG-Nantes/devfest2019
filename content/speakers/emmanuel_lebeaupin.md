@@ -3,8 +3,10 @@ key: emmanuel_lebeaupin
 name: Emmanuel Lebeaupin
 id: VF0bVRiF63dPEcscbKmnxXTqOm83
 feature: false
-photo: /images/speakers/emmanuel_lebeaupin.png
+company: Sfeir
 companyLogo: /images/partners/sfeir.png
+city: 'Nantes, France'
+photo: /images/speakers/emmanuel_lebeaupin.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/elebeaup'

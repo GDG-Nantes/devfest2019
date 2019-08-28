@@ -3,6 +3,8 @@ key: chris_woodrow
 name: Chris Woodrow
 id: d8EfrHjfRkTLdL9lQADXL0qelIn1
 feature: false
+company: MAIF
+city: 'Poitiers, France'
 photo: /images/speakers/chris_woodrow.jpg
 socials:
   - icon: twitter

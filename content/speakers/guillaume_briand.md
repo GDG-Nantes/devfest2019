@@ -3,6 +3,9 @@ key: guillaume_briand
 name: Guillaume Briand
 id: eP6NDWsMivcAllm3fhB7Deb9E233
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Nantes, France'
 photo: /images/speakers/guillaume_briand.png
 socials:
   - icon: twitter

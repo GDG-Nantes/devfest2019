@@ -3,6 +3,8 @@ key: frederic_harper
 name: Frédéric Harper
 id: YH13giEbAXWVO9mY8NNaEb4dCl73
 feature: true
+company: DigitalOcean
+city: 'Montréal, Canada'
 photo: /images/speakers/frederic_harper.jpg
 socials:
   - icon: twitter

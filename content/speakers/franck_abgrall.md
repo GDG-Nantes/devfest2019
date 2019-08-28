@@ -3,6 +3,9 @@ key: franck_abgrall
 name: Franck Abgrall
 id: oaYEqMySGafwsp9LayTFKiZQx3n1
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Nantes, France'
 photo: /images/speakers/franck_abgrall.jpg
 socials:
   - icon: twitter

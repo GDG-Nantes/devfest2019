@@ -3,6 +3,9 @@ key: christopher_maneu
 name: Christopher Maneu
 id: yBuTCMIOkLTJMFhtXvj6ulzL4Rp1
 feature: false
+company: Microsoft
+companyLogo: /images/partners/microsoft.png
+city: 'Paris, France'
 photo: /images/speakers/christopher_maneu.png
 socials:
   - icon: twitter

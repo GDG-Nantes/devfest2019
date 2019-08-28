@@ -3,6 +3,9 @@ key: eric_briand
 name: Eric Briand
 id: nekfKGP05KWO5W5CwB9uegBovAx1
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Nantes, France'
 photo: /images/speakers/eric_briand.jpg
 socials:
   - icon: twitter

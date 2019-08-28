@@ -3,6 +3,9 @@ key: emmanuel_demey
 name: Emmanuel Demey
 id: H3QHP1wvJDUG0sW402gh9ktbNx03
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Lille, France'
 photo: /images/speakers/emmanuel_demey.jpg
 socials:
   - icon: twitter
