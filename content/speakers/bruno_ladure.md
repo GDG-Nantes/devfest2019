@@ -3,6 +3,9 @@ key: bruno_ladure
 name: Bruno Laduré
 id: c0tcKuLc2wMJDqfYHaII1OJBT1T2
 feature: false
+company: Accenture
+companyLogo: /images/partners/accenture.svg
+city: 'Nantes, France'
 photo: /images/speakers/bruno_ladure.jpg
 socials:
   - icon: twitter

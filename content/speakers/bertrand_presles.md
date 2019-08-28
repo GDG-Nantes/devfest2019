@@ -3,6 +3,7 @@ key: bertrand_presles
 name: Bertrand Presles
 feature: false
 company: Niji
+companyLogo: /images/partners/niji.jpg
 city: 'Nantes, France'
 photo: /images/speakers/bertrand_presles.jpg
 socials:

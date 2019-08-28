@@ -3,7 +3,9 @@ key: cassie_evans
 name: Cassie Evans
 id: 8T3C3rBmDvPQJlFvPJXToShDunp1
 feature: false
-photo: /images/speakers/cassie_evans.png
+company: Clearleft
+city: 'Brighton, England'
+photo: /images/speakers/cassie_evans.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/cassiecodes'
