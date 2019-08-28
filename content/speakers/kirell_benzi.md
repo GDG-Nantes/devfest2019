@@ -3,7 +3,8 @@ key: kirell_benzi
 name: Kirell Benzi
 id: wXfvBI23QvecZnkMZJv44kuC0rx2
 feature: false
-photo: /images/speakers/kirell_benzi.png
+city: Paris, France
+photo: /images/speakers/kirell_benzi.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/KirellBenzi'

@@ -3,6 +3,7 @@ key: konstantin_bifert
 name: Konstantin Bifert
 id: cjA6fXpkQvUT8wRMBipQnFUTDeJ2
 feature: false
+citty: 'Bordeaux, France'
 photo: /images/speakers/konstantin_bifert.jpg
 socials:
   - icon: twitter

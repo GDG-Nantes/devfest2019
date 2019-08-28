@@ -4,6 +4,7 @@ name: Noël Macé
 id: 0alFaI2imGdQVSjuaMLFFfwqoL62
 feature: false
 company: BonitaSoft
+companyLogo: /images/partners/bonitasoft.png
 city: 'Toulouse, France'
 photo: /images/speakers/noel_mace.jpg
 socials:

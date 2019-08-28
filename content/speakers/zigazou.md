@@ -3,6 +3,7 @@ key: zigazou
 name: Zigazou
 id: LAS0AdPsVebPNRhpD0NkaBbf35h1
 feature: false
+city: 'Rouen, France'
 photo: /images/speakers/zigazou.png
 socials:
   - icon: twitter

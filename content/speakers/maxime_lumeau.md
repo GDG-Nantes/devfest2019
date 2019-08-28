@@ -3,6 +3,9 @@ key: maxime_lumeau
 name: Maxime Lumeau
 id: rwKKfMzZD0f5woHjq5DvOwZiBco1
 feature: false
+company: Sopra Steria
+companyLogo: /images/partners/sopra-steria.jpg
+city: 'Nantes, France'
 photo: /images/speakers/maxime_lumeau.jpg
 socials:
   - icon: twitter

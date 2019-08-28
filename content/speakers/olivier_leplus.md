@@ -4,6 +4,7 @@ name: Olivier Leplus
 id: DNlgKL7C5DNK0y48Lf7ylPB4bmk2
 feature: false
 company: Microsoft
+companyLogo: /images/partners/microsoft.png
 city: 'Paris, France'
 photo: /images/speakers/olivier_leplus.jpg
 socials:

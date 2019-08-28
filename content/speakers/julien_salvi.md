@@ -3,6 +3,8 @@ key: julien_salvi
 name: Julien Salvi
 id: 3sdJi27e0DcE50hVB8pz1IZ2dzZ2
 feature: false
+company: InnovOrder
+city: 'Paris, France'
 photo: /images/speakers/julien_salvi.jpg
 socials:
   - icon: twitter

@@ -5,7 +5,7 @@ id: 5D010L90BldNjK0FZPmlhghvKTj2
 feature: false
 company: Source{d}
 city: 'Madrid, Spain'
-photo: /images/speakers/egor_bulychev.png
+photo: /images/speakers/egor_bulychev.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/egor_bu'

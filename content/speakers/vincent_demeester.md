@@ -3,6 +3,7 @@ key: vincent_demeester
 name: Vincent Demeester
 id: FC4ueXRMNCcxxGYGRmcrHPponLr1
 feature: false
+company: RedHat
 photo: /images/speakers/vincent_demeester.jpg
 socials:
   - icon: twitter

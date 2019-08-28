@@ -3,6 +3,9 @@ key: thomas_steiner
 name: Thomas Steiner
 id: OkHKoybkESdA5gtspQdJYIzUhlm2
 feature: false
+company: Google
+companyLogo: /images/partners/google.svg
+city: 'Hamburg, Germany'
 photo: /images/speakers/thomas_steiner.jpg
 socials:
   - icon: twitter

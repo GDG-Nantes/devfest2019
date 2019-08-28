@@ -3,6 +3,9 @@ key: pierre_tibulle
 name: Pierre Tibulle
 id: 9LHSTmgvjXcyMPyfifAgXjtP6Z02
 feature: false
+company: ASI
+companyLogo: /images/partners/asi.png
+city: 'Nantes, France'
 photo: /images/speakers/pierre_tibulle.jpg
 socials:
   - icon: twitter

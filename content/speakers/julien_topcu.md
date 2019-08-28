@@ -3,7 +3,9 @@ key: julien_topcu
 name: Julien Topçu
 id: ZdNase96oBSI6QdrWySX9eCtJgs1
 feature: false
-photo: /images/speakers/julien_topcu.png
+company: Société Générale
+
+photo: /images/speakers/julien_topcu.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/JulienTopcu'

@@ -3,6 +3,8 @@ key: yu_ling_cheng
 name: Yu Ling Cheng
 id: m68hOyKYiBU8L4j1r11lHVSOepv2
 feature: false
+company: Theodo
+city: 'Paris, France'
 photo: /images/speakers/yu_ling_cheng.png
 socials:
   - icon: twitter

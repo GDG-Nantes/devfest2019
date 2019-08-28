@@ -3,6 +3,8 @@ key: nikhil_barthwal
 name: Nikhil Barthwal
 id: DoDoTmnEVXMXkj2mmOHqv2L6ya53
 feature: false
+company: Google
+companyLogo: /images/partners/google.svg
 photo: /images/speakers/nikhil_barthwal.jpg
 socials:
   - icon: twitter

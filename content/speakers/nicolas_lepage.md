@@ -3,6 +3,9 @@ key: nicolas_lepage
 name: Nicolas Lepage
 id: 977YQDolbxde0ito7I2dUiee2ap1
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Nantes, France'
 photo: /images/speakers/nicolas_lepage.jpg
 socials:
   - icon: twitter

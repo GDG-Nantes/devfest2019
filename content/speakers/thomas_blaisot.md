@@ -3,7 +3,9 @@ key: thomas_blaisot
 name: Thomas Blaisot
 id: BGSxEEUcCPcYeLv36fjSVo87yeI3
 feature: false
-photo: /images/speakers/thomas_blaisot.png
+company: Onepoint
+companyLogo: /images/partners/onepoint.png
+photo: /images/speakers/thomas_blaisot.jpg
 socials:
   - icon: twitter
     link: "https://twitter.com/tblaisot"

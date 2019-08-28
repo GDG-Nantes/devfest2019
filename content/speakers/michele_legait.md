@@ -3,6 +3,8 @@ key: michele_legait
 name: Michèle Legait
 id: 2nuTNavziHZzEHDYqdKDHjXZIlJ2
 feature: false
+company: Travelaer
+city: 'Sophia-Antipolis, France'
 photo: /images/speakers/michele_legait.jpg
 socials:
   - icon: twitter

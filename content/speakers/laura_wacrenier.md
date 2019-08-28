@@ -3,7 +3,9 @@ key: laura_wacrenier
 name: Laura Wacrenier
 id: ktk17P8orobCKZydAV0hUmJDnRN2
 feature: false
-photo: /images/speakers/laura_wacrenier.png
+company: SonarSource
+city: 'Geneva'
+photo: /images/speakers/laura_wacrenier.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/Laoraw'

@@ -3,11 +3,13 @@ key: robin_caroff
 name: Robin Caroff
 id: NEuHFOJuVlNis4dFxumpF3XaVYj2
 feature: false
+company: Toki
+city: 'Nantes, France'
 photo: /images/speakers/robin_caroff.png
 socials:
   - icon: twitter
-    link: 'https://twitter.com/robin.caroff'
-    name: robin.caroff
+    link: 'https://twitter.com/RobinCaroff'
+    name: RobinCaroff
   - icon: github
     link: 'https://github.com/RobinCaroff'
     name: RobinCaroff

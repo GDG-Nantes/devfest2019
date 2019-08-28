@@ -4,6 +4,9 @@ name: Pierre-Yves Aillet
 id: 0ZbtTwugPpTsYEAbDRbt6Voqcca2
 feature: false
 photo: /images/speakers/pierre_yves_aillet.jpg
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Nantes, France'
 socials:
   - icon: twitter
     link: 'https://twitter.com/pyaillet'

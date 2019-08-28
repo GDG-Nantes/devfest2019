@@ -3,6 +3,9 @@ key: loic_mathieu
 name: Loïc Mathieu
 id: c78qkEcCDhYjS3kuIBkLmsDjX5C2
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Lille, France'
 photo: /images/speakers/loic_mathieu.jpg
 socials:
   - icon: twitter

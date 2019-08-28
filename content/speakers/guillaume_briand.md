@@ -6,7 +6,7 @@ feature: false
 company: Zenika
 companyLogo: /images/partners/zenika.png
 city: 'Nantes, France'
-photo: /images/speakers/guillaume_briand.png
+photo: /images/speakers/guillaume_briand.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/Ethoytaryn'

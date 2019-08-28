@@ -3,6 +3,9 @@ key: thomas_betous
 name: Thomas Betous
 id: GX65dBRRCxbrPjN44BAdTYQbMIB3
 feature: false
+company: Zenika
+companyLogo: /images/partners/zenika.png
+city: 'Nantes, France'
 photo: /images/speakers/thomas_betous.png
 socials:
   - icon: twitter

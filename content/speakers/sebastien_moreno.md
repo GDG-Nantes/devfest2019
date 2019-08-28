@@ -3,6 +3,8 @@ key: sebastien_moreno
 name: Sebastien Moreno
 id: nKPopia2lkYGej4Wzvbe4Pqgldn2
 feature: false
+company: Ippon Technologies
+city: 'Paris, France'
 photo: /images/speakers/sebastien_moreno.jpg
 socials:
   - icon: twitter

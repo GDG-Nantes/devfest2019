@@ -3,6 +3,8 @@ key: stephanie_moallic
 name: Stéphanie Moallic
 id: IxHYleq5FCX6VKtNu0lcjQVAvP03
 feature: false
+company: OVH
+city: 'Brest, France'
 photo: /images/speakers/stephanie_moallic.jpg
 socials:
   - icon: twitter

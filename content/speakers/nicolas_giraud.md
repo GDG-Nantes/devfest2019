@@ -3,6 +3,8 @@ key: nicolas_giraud
 name: Nicolas Giraud
 id: IPck78ZRNPaINM4qaagRuJnDZvR2
 feature: false
+company: Onepoint
+companyLogo: /images/partners/onepoint.png 
 photo: /images/speakers/nicolas_giraud.png
 socials:
   - icon: twitter
@@ -12,7 +14,7 @@ socials:
     link: 'https://github.com/arcanneero'
     name: arcanneero
 ---
-Développeur  passionné, Nicolas évolue depuis 10 ans essentiellement sur des projets Java (EE).
+Développeur passionné, Nicolas évolue depuis 10 ans essentiellement sur des projets Java (EE).
 
 Addict aux outils innovants et sensible aux pratiques agiles, c'est d'abord avec les notions de CD/CI qu'il aborde ces notions d'amélioration continue, puis plus récemment dans la mouvance DevOps, où il trouve refuge !
 

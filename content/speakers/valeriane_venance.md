@@ -5,7 +5,7 @@ id: 05FXSY1pHlaP7wK14yGKBaxom6n1
 feature: false
 company: Clever Cloud
 city: 'Paris, France'
-photo: /images/speakers/valeriane_venance.png
+photo: /images/speakers/valeriane_venance.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/valeriane_IT'

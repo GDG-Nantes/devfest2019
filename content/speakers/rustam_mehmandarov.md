@@ -3,6 +3,7 @@ key: rustam_mehmandarov
 name: Rustam Mehmandarov
 id: vB7YkH0j4dPMcKeUnq10uH0diLn2
 feature: false
+city: 'Oslo, Norway'
 photo: /images/speakers/rustam_mehmandarov.jpg
 socials:
   - icon: twitter
