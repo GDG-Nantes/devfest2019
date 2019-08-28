@@ -4,6 +4,7 @@ name: Emmanuel Lebeaupin
 id: VF0bVRiF63dPEcscbKmnxXTqOm83
 feature: false
 photo: /images/speakers/emmanuel_lebeaupin.png
+companyLogo: /images/partners/sfeir.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/elebeaup'

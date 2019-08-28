@@ -3,6 +3,7 @@ key: ali_spittel
 name: Ali Spittel
 id: bCkrQrssjgU1zb5V2y2QpVnuCmf1
 feature: true
+city: 'New Hampshire, USA'
 photo: /images/speakers/ali_spittel.png
 socials:
   - icon: twitter

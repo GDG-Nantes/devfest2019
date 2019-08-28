@@ -3,6 +3,7 @@ key: antoine_lebel
 name: Antoine Lebel
 id: WHI3Im1bQPcy8ibs1LAX4zjN47p1
 feature: false
+city: 'Caen, France'
 photo: /images/speakers/antoine_lebel.png
 socials:
   - icon: twitter

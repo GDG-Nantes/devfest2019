@@ -3,6 +3,8 @@ key: alexis_jacomy
 name: Alexis Jacomy
 id: DakMVtNmFpUCymvLgHcGhxVZEts1
 feature: false
+company: oscaro.com
+city: 'Nantes, France'
 photo: /images/speakers/alexis_jacomy.jpg
 socials:
   - icon: twitter
