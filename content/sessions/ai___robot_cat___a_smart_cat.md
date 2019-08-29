@@ -8,7 +8,7 @@ tags:
   - _mobile___iot
 complexity: Beginner
 speakers:
-  - estelle_auberix
+  - sylvestre_franceschi
 videoId: null
 presentation: null
 draft: false

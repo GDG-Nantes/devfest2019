@@ -129,7 +129,7 @@
       ],
       "level": "beginner",
       "speakers": [
-        "estelle_auberix"
+        "sylvestre_franceschi"
       ],
       "videoId": null,
       "presentation": null,
@@ -1943,19 +1943,24 @@
       "description": "Développeur touche à tout depuis plus de 10 ans, il travaille actuellement à Zenika Nantes. Ses sujets du moment sont le Cloud et kubernetes. Il est formateur Docker, kubernetes et co-organisateur du CNCF Meetup Nantes."
     },
     {
-      "key": "estelle_auberix",
-      "name": "Estelle Auberix",
+      "key": "sylvestre_franceschi",
+      "name": "Sylvestre Franceschi",
       "id": "XrIw15BZYiZMpURfiSTr5c812Vc2",
       "feature": false,
-      "photoURL": "/images/speakers/estelle_auberix.jpg",
+      "photoURL": "/images/speakers/sylvestre_franceschi.jpeg",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/FollowEstelle",
-          "name": "FollowEstelle"
+          "link": "https://twitter.com/sylverfrance",
+          "name": "sylverfrance"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/sylvestre-franceschi-857b6471/",
+          "name": "sylvestre-franceschi"
         }
       ],
-      "description": "Consultante spécialiste du Cloud, de la Cybersécurité et de l'IoT/Robotique, \n\nCo-fondatrice de CloudHersity, une association destinée à promouvoir la parité et la diversité dans le Cloud et l'IA."
+      "description": ""
     },
     {
       "key": "estelle_landry_",
