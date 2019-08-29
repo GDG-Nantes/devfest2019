@@ -1,6 +1,7 @@
 ---
 key: adrien_lasselle
 name: Adrien Lasselle
+id: BakMVtNmFpUCymvLgHcGhxVZEts1
 feature: false
 company: Sfeir
 companyLogo: /images/partners/sfeir.png

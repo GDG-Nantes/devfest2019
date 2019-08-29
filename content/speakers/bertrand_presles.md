@@ -1,6 +1,7 @@
 ---
 key: bertrand_presles
 name: Bertrand Presles
+id: AakMVtNmFpUCymvLgHcGhxVZEts1
 feature: false
 company: Niji
 companyLogo: /images/partners/niji.jpg
