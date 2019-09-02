@@ -2,7 +2,7 @@
 key: authentication_authorization_starters_battle
 title: Authentication/Authorization Starters Battle
 id: 6E03tbU6L5w0IyjMi7yF
-language: français
+language: French
 talkType: conference
 tags:
   - _web

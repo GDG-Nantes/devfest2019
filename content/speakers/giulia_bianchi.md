@@ -4,6 +4,7 @@ name: Giulia Bianchi
 id: fF3ixonsPncDwY90JWafTzrBGXa2
 feature: false
 company: Xebia
+companyLogo: /images/partners/xebia.png
 city: 'Paris, France'
 photo: /images/speakers/giulia_bianchi.jpg
 socials:

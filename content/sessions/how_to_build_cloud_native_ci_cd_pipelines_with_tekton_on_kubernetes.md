@@ -2,7 +2,7 @@
 key: how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes
 title: How to Build Cloud-Native CI/CD Pipelines with Tekton on Kubernetes
 id: RkTwW9vA7v3JI9lyYdju
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _cloud___devops

@@ -2,7 +2,7 @@
 key: infrastructure_as_code__il_n_y_a_pas_que_terraform_dans_la_vie
 title: 'Infrastructure As Code, il n''y a pas que Terraform dans la vie'
 id: KZTtPMRanQO97kymurGQ
-language: Français
+language: French
 talkType: quickie
 tags:
   - _cloud___devops

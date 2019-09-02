@@ -2,7 +2,7 @@
 key: go_serverless_with_cloud_functions_for_firebase
 title: Go “serverless” with Cloud Functions for Firebase
 id: soeAyOgC36jM3ARXsDEG
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _cloud___devops

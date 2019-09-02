@@ -4,6 +4,7 @@ name: Bob Van Luijt
 id: B1ocr8AUfIZN8bKh8bEgYBjFZlB2
 feature: false
 company: SeMI Technologies
+companyLogo: /images/partners/semi_technologies.jpg
 city: 'Amsterdam, North Holland'
 photo: /images/speakers/bob_van_luijt.jpg
 socials:

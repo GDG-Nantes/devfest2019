@@ -2,7 +2,7 @@
 key: kubernetes_enfin_ultra_simple_et_leger_avec_k3s
 title: Kubernetes enfin ultra simple et léger avec K3S
 id: OIjVxOH5t9EA0uP1CFmV
-language: Français
+language: French
 talkType: quickie
 tags:
   - _cloud___devops

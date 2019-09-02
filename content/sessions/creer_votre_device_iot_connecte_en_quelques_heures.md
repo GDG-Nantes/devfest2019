@@ -2,7 +2,7 @@
 key: creer_votre_device_iot_connecte_en_quelques_heures
 title: Créer votre device IoT connecté en quelques heures
 id: Ew9a8XaJRV3NUmgkWR4K
-language: Français
+language: French
 talkType: codelab
 tags:
   - _mobile___iot

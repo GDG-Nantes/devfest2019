@@ -2,7 +2,7 @@
 key: swift_superpowers
 title: Swift Superpowers
 id: 6b3LCbMOXtilGDrd0UlZ
-language: swift
+language: French
 talkType: quickie
 tags:
   - _mobile___iot

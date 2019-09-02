@@ -4,8 +4,8 @@ name: Justin Fagnani
 id: bBkrQrssjgU1zb5V2y2QpVnuCmf1
 feature: true
 company: Google
-companyLogo: /images/partners/google.svg
-city: 'Oakland, CA'
+companyLogo: /images/partners/google.png
+city: 'Oakland, USA'
 photo: /images/speakers/justin_fagnani.jpg
 socials:
   - icon: twitter

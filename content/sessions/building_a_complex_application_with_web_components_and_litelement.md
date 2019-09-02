@@ -2,7 +2,7 @@
 key: building_a_complex_application_with_web_components_and_litelement
 title: Building a Complex Application with Web Components and LitElement
 id: vuByu8t2zUzhZwAaep6t
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _web

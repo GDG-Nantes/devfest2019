@@ -2,7 +2,7 @@
 key: le_graal_d_aws___decouverte_et_prise_en_main_de_chalice
 title: 'Le graal d''AWS : Découverte et prise en main de Chalice'
 id: vaPb7SVWpqCKWMD8rQ1F
-language: Français
+language: French
 talkType: codelab
 tags:
   - _cloud___devops

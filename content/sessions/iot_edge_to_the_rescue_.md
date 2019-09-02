@@ -2,7 +2,7 @@
 key: iot_edge_to_the_rescue_
 title: "IoT Edge to the rescue \U0001F6E1️"
 id: YcYbzTiENcd0afk3oP7c
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _mobile___iot

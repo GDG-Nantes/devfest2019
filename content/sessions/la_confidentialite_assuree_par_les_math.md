@@ -2,7 +2,7 @@
 key: la_confidentialite_assuree_par_les_math
 title: La confidentialité assurée par les math
 id: TB6SIZVae6tKAp2iuTlx
-language: Français
+language: French
 talkType: quickie
 tags:
   - _bigdata___ai

@@ -3,6 +3,7 @@ key: liliia_abdulina
 name: Liliia Abdulina
 feature: false
 company: JetBrains
+companyLogo: /images/partners/jetbrains.png
 city: 'Munich, Germany'
 photo: /images/speakers/liliia_abdulina.jpg
 socials:

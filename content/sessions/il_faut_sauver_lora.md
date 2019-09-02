@@ -2,7 +2,7 @@
 key: il_faut_sauver_lora
 title: Il faut sauver LoRa
 id: 4fsNGz0TPC0vV7AFqulV
-language: FR/EN
+language: French
 talkType: codelab
 tags:
   - _security

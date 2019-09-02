@@ -2,7 +2,7 @@
 key: build_your_own_knowledge_graph_with_weaviate_on_gcp
 title: Build your own Knowledge Graph with Weaviate on GCP
 id: gaagH7gxrYaqzdJadyVG
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _bigdata___ai

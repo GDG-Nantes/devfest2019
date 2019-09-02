@@ -4,6 +4,7 @@ name: Valeriane Venance
 id: 05FXSY1pHlaP7wK14yGKBaxom6n1
 feature: false
 company: Clever Cloud
+companyLogo: /images/partners/clever_cloud.png
 city: 'Paris, France'
 photo: /images/speakers/valeriane_venance.jpg
 socials:

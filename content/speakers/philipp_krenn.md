@@ -4,6 +4,7 @@ name: Philipp Krenn
 id: n1WwJNPvGZUf9jUjcUR9Z5ABjFg2
 feature: false
 company: Elastic
+companyLogo: /images/partners/elastic.png
 city: 'Vienna, Austria'
 photo: /images/speakers/philipp_krenn.jpg
 socials:

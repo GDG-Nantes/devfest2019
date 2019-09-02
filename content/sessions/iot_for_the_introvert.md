@@ -2,7 +2,7 @@
 key: iot_for_the_introvert
 title: IoT for the Introvert
 id: SHneT9Z4EuhEvtKuOLx9
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _cloud___devops

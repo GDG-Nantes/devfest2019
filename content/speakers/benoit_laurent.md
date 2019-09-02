@@ -4,8 +4,9 @@ name: Benoit Laurent
 id: sLU2tlpVHzcC6woZKXQMTiq9dnn2
 feature: false
 company: Zenika
-photo: /images/speakers/benoit_laurent.jpg
 companyLogo: /images/partners/zenika.png
+city: 'Rennes, France'
+photo: /images/speakers/benoit_laurent.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/RQMdev'

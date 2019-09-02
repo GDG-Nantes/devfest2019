@@ -2,7 +2,7 @@
 key: apache_pulsar_101__architecture__concepts_et_comparaison
 title: 'Apache Pulsar 101: architecture, concepts et comparaison'
 id: zkxHfYw24KNpjHVWHiyB
-language: Français
+language: French
 talkType: ''
 tags:
   - _bigdata___ai

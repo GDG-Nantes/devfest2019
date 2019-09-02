@@ -5,6 +5,7 @@ id: IPck78ZRNPaINM4qaagRuJnDZvR2
 feature: false
 company: Onepoint
 companyLogo: /images/partners/onepoint.png 
+city: 'Nantes, France'
 photo: /images/speakers/nicolas_giraud.png
 socials:
   - icon: twitter

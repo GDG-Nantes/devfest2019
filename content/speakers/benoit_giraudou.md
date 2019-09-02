@@ -4,9 +4,9 @@ name: Benoît Giraudou
 id: 27dsgKVju3Vy9E786QvdHCrtEYl1
 feature: false
 company: Zenika
+companyLogo: /images/partners/zenika.png
 city: 'Bordeaux, France'
 photo: /images/speakers/benoit_giraudou.jpg
-companyLogo: /images/partners/zenika.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/joowgir'

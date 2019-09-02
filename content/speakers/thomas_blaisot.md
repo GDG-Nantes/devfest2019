@@ -5,6 +5,7 @@ id: BGSxEEUcCPcYeLv36fjSVo87yeI3
 feature: false
 company: Onepoint
 companyLogo: /images/partners/onepoint.png
+city: 'Nantes, France'
 photo: /images/speakers/thomas_blaisot.jpg
 socials:
   - icon: twitter

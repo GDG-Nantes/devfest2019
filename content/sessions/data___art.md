@@ -2,7 +2,7 @@
 key: data___art
 title: Data + Art
 id: 1pPAH10fVgm728cNTxSY
-language: Français ou English
+language: English/French
 talkType: conference
 tags:
   - _discovery

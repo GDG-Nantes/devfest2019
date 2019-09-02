@@ -2,7 +2,7 @@
 key: null__undefined_and_maybe__a_tale_of_uncertainty
 title: '# Null, undefined and maybe, a tale of uncertainty'
 id: D2cYPUbo5VbsjmAadLGX
-language: Anglais or French
+language: French
 complexity: Beginner
 tags:
   - _languages

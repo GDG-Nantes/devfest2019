@@ -4,7 +4,7 @@ name: Julien Topçu
 id: ZdNase96oBSI6QdrWySX9eCtJgs1
 feature: false
 company: Société Générale
-
+companyLogo: /images/partners/societe_generale.png
 photo: /images/speakers/julien_topcu.jpg
 socials:
   - icon: twitter

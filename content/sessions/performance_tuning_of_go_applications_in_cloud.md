@@ -2,7 +2,7 @@
 key: performance_tuning_of_go_applications_in_cloud
 title: Performance tuning of Go applications in Cloud
 id: omD4YZC4aeDe3WlHQ6IA
-language: Anglais/Français
+language: English/French
 talkType: conference
 tags:
   - _cloud___devops

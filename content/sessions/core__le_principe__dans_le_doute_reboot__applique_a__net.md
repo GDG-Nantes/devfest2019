@@ -2,7 +2,7 @@
 key: core__le_principe__dans_le_doute_reboot__applique_a__net
 title: 'Core, le principe "dans le doute reboot" appliqué à .NET'
 id: 9UKGzjZ3bYCcoZtso63N
-language: Français
+language: French
 talkType: conference
 tags:
   - _languages

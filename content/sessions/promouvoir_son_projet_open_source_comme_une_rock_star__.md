@@ -2,7 +2,7 @@
 key: promouvoir_son_projet_open_source_comme_une_rock_star__
 title: Promouvoir son projet open-source comme une rock star !
 id: tTtqiqxJRs7FXh1FSoSI
-language: Français
+language: French
 talkType: conference
 tags:
   - _discovery

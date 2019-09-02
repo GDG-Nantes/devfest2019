@@ -2,7 +2,7 @@
 key: una_gitlab__le_tp_a_roulette__
 title: 'Una-Gitlab, le TP à roulette !'
 id: JZvPn9hrkr3IyWurF74D
-language: Français
+language: French
 talkType: codelab
 tags:
   - _cloud___devops

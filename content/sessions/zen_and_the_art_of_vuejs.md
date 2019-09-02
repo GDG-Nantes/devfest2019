@@ -2,7 +2,7 @@
 key: zen_and_the_art_of_vuejs
 title: Zen and The Art of VueJS
 id: hSGMgvMwUiXFxGIwnIrA
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _web

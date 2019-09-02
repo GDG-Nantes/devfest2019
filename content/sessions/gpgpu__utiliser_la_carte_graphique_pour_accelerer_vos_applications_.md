@@ -2,7 +2,7 @@
 key: gpgpu__utiliser_la_carte_graphique_pour_accelerer_vos_applications_
 title: 'GPGPU: Utiliser la carte graphique pour accélérer vos applications!'
 id: gLlR2d54uGV94NChK47Z
-language: Français
+language: French
 talkType: conference
 tags:
   - _languages

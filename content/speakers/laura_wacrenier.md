@@ -4,7 +4,8 @@ name: Laura Wacrenier
 id: ktk17P8orobCKZydAV0hUmJDnRN2
 feature: false
 company: SonarSource
-city: 'Geneva'
+companyLogo: /images/partners/sonarsource.png
+city: 'Geneva, Switzerland'
 photo: /images/speakers/laura_wacrenier.jpg
 socials:
   - icon: twitter

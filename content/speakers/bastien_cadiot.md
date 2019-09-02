@@ -4,6 +4,7 @@ name: Bastien Cadiot
 id: hKc1vk2qrncKXF6VIYdzAXi0fGF2
 feature: false
 company: WeScale
+companyLogo: /images/partners/wescale.png
 city: 'Paris, France'
 photo: /images/speakers/bastien_cadiot.jpg
 socials:

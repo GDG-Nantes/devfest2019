@@ -2,7 +2,7 @@
 key: jamstack__ou_comment_faire_des_sites_statiques_modernes_et_rapides
 title: 'JAMstack, ou comment faire des sites statiques modernes et rapides'
 id: 47cEhp1uD5XSLoDvSpTL
-language: Français
+language: French
 talkType: quickie
 tags:
   - _discovery

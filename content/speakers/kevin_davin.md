@@ -4,6 +4,7 @@ name: Kevin Davin
 id: rDKV0gUOk0O4WU9tpknPAngMF9A3
 feature: false
 company: Stack Labs
+companyLogo: /images/partners/stack_labs.png
 city: 'Toulouse, France'
 photo: /images/speakers/kevin_davin.jpg
 socials:

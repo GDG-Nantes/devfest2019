@@ -3,7 +3,8 @@ key: egor_bulychev
 name: Egor Bulychev
 id: 5D010L90BldNjK0FZPmlhghvKTj2
 feature: false
-company: Source{d}
+company: source{d}
+companyLogo: /images/partners/source_d.jpg
 city: 'Madrid, Spain'
 photo: /images/speakers/egor_bulychev.jpg
 socials:

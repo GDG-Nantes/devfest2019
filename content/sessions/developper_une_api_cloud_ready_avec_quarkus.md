@@ -2,7 +2,7 @@
 key: developper_une_api_cloud_ready_avec_quarkus
 title: Développer une API Cloud Ready avec Quarkus
 id: U1Qk0QLvBtJWTWsjMPTc
-language: français
+language: French
 talkType: conference
 tags:
   - _languages

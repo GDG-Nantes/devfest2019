@@ -4,6 +4,7 @@ name: Frédéric Harper
 id: YH13giEbAXWVO9mY8NNaEb4dCl73
 feature: true
 company: DigitalOcean
+companyLogo: /images/partners/digital_ocean.png
 city: 'Montréal, Canada'
 photo: /images/speakers/frederic_harper.jpg
 socials:

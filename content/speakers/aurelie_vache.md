@@ -4,6 +4,7 @@ name: Aurélie Vache
 id: MKkYzwlXx6dLM9cfE5vXYqJo5d43
 feature: false
 company: Continental France
+companyLogo: /images/partners/continental.png
 city: 'Toulouse, France'
 photo: /images/speakers/aurelie_vache.jpg
 socials:

@@ -2,7 +2,7 @@
 key: storybook_pour_votre_design_system__un_conte_de_fees__
 title: 'Storybook pour votre design system, un conte de fées ?'
 id: GOy9xsl5UNPVMwJKZzVf
-language: Français
+language: French
 talkType: conference
 tags:
   - _ux___ui

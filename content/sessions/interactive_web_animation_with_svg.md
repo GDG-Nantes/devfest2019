@@ -2,7 +2,7 @@
 key: interactive_web_animation_with_svg
 title: Interactive web animation with SVG
 id: drey18HXZigxa1JHhrQg
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _discovery

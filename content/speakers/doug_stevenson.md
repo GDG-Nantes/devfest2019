@@ -4,8 +4,8 @@ name: Doug Stevenson
 id: TYg2ilah2zPash9vpmrgBdm5AT02
 feature: false
 company: Google
-companyLogo: /images/partners/google.svg
-city: 'Sunnyvale, CA'
+companyLogo: /images/partners/google.png
+city: 'Sunnyvale, USA'
 photo: /images/speakers/doug_stevenson.jpg
 socials:
   - icon: twitter

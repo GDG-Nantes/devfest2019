@@ -2,7 +2,7 @@
 key: creons_notre_premiere_api_avec_nestjs
 title: Créons notre première API avec NestJS
 id: SDBi4eg0XEbDEubEqe60
-language: Javascript
+language: French
 talkType: codelab
 tags:
   - _web

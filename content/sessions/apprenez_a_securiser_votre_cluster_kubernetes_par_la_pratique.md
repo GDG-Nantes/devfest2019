@@ -2,7 +2,7 @@
 key: apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique
 title: Apprenez à sécuriser votre cluster kubernetes par la pratique
 id: k6r7HRlCQ9gsx7Drdt4n
-language: Français
+language: French
 talkType: codelab
 tags:
   - _security

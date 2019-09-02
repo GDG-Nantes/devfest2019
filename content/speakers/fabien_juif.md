@@ -3,6 +3,8 @@ key: fabien_juif
 name: Fabien Juif
 id: HhHiAo4fknXntX5IU2yZqDKoyFI2
 feature: false
+company: uni rakun
+companyLogo: /images/partners/uni_rakun.png
 city: 'Nantes, France'
 photo: /images/speakers/fabien_juif.png
 socials:

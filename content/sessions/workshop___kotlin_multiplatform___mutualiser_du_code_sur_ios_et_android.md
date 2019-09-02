@@ -2,7 +2,7 @@
 key: workshop___kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android
 title: 'Workshop - Kotlin Multiplatform : mutualiser du code sur iOS et Android'
 id: gevXHeoGYajrCygKBiwx
-language: Français (but can be in english)
+language: French
 talkType: codelab
 tags:
   - _mobile___iot

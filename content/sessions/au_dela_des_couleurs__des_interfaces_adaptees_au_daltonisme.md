@@ -2,7 +2,7 @@
 key: au_dela_des_couleurs__des_interfaces_adaptees_au_daltonisme
 title: 'Au delà des couleurs, des interfaces adaptées au daltonisme'
 id: za8R64n8Oqm7Euuz78aN
-language: Français
+language: French
 talkType: conference
 tags:
   - _ux___ui

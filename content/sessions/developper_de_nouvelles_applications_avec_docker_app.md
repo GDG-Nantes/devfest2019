@@ -2,7 +2,7 @@
 key: developper_de_nouvelles_applications_avec_docker_app
 title: Développer de nouvelles applications avec Docker App
 id: uKwJIEHsXhL3khaI03mB
-language: Français
+language: French
 talkType: codelab
 tags:
   - _cloud___devops

@@ -4,6 +4,7 @@ name: Silvin Lubecki
 id: eHsjycMJ0nMwhAAPrNKwUfIS47y1
 feature: false
 company: Docker
+companyLogo: /images/partners/docker.png
 city: 'Paris, France'
 photo: /images/speakers/silvin_lubecki.jpg
 socials:

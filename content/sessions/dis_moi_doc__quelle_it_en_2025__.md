@@ -2,7 +2,7 @@
 key: dis_moi_doc__quelle_it_en_2025__
 title: 'Dis moi DOC, quelle IT en 2025 ?'
 id: DJLcE7Bm1GLDRzUt6Ipz
-language: Français
+language: French
 talkType: conference
 tags:
   - _discovery

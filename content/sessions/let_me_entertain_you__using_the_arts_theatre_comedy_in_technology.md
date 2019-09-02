@@ -2,7 +2,7 @@
 key: let_me_entertain_you__using_the_arts_theatre_comedy_in_technology
 title: 'Let Me Entertain You: Using The Arts/Theatre/Comedy in Technology'
 id: jKfKEIW0OhwQvM9AMPiG
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _discovery

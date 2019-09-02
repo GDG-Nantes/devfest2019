@@ -2,7 +2,7 @@
 key: building_better_products_faster__devux_is_the_new_devops
 title: 'Building better products faster: DevUx is the new DevOps'
 id: fKXlhS3noQ2uhlTFeQ6s
-language: Anglais (or French if preferred)
+language: English
 talkType: conference
 tags:
   - _ux___ui

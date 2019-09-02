@@ -2,7 +2,7 @@
 key: ai___robot_cat___a_smart_cat
 title: AI + Robot Cat = A Smart Cat
 id: Euu7QJjcULbfWzrJWWPq
-language: Français
+language: French
 talkType: conference
 tags:
   - _mobile___iot

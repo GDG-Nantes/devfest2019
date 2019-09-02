@@ -4,6 +4,7 @@ name: Horacio Gonzalez
 id: pYuiGicpt0MenD8NEMhZXtk6VSr1
 feature: false
 company: OVH
+companyLogo: /images/partners/ovh.jpg
 city: 'Brest, France'
 photo: /images/speakers/horacio_gonzalez.jpg
 socials:

@@ -2,7 +2,7 @@
 key: make_your_data_fabulous
 title: Make Your Data FABulous
 id: 3bpYxNtnZ9IgdjDAV9Bn
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _bigdata___ai

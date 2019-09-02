@@ -2,7 +2,7 @@
 key: fpga__creer_du_materiel_en_programmant
 title: 'FPGA, créer du matériel en programmant'
 id: d1a10CU19Y6I6Q4RtH3c
-language: Français
+language: French
 talkType: conference
 tags:
   - _discovery

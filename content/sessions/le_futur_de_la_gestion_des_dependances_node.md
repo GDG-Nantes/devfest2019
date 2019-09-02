@@ -2,7 +2,7 @@
 key: le_futur_de_la_gestion_des_dependances_node
 title: Le futur de la gestion des dépendances Node
 id: uNGtKqNgZZ7ImmVxF6lS
-language: Français
+language: French
 talkType: quickie
 tags:
   - _web

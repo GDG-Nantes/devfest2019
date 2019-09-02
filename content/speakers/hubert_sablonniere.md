@@ -4,6 +4,7 @@ name: Hubert Sablonniere
 id: DUVkals13TRS86oRAvn8iF4BhZx2
 feature: false
 company: Clever Cloud
+companyLogo: /images/partners/clever_cloud.png
 city: 'Lille, France'
 photo: /images/speakers/hubert_sablonniere.png
 socials:

@@ -2,7 +2,7 @@
 key: new_and_emerging_web_platform_apis
 title: New and Emerging Web Platform APIs
 id: 3XPc1RWhOuIdTLCIBtu3
-language: Anglais
+language: English
 talkType: conference
 tags:
   - _web

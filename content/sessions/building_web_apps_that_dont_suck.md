@@ -2,7 +2,7 @@
 key: building_web_apps_that_dont_suck
 title: Building web apps that don’t suck
 id: 1FYvsNqstRjBnJhXNdwf
-language: 'JavaScript, HTML and CSS'
+language: English
 talkType: ''
 tags:
   - _web

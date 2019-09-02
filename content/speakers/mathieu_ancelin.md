@@ -4,6 +4,7 @@ name: Mathieu Ancelin
 id: WDm2hCGOlLfIYHPHjaEry7aIpbT2
 feature: false
 company: SERLI
+companyLogo: /images/partners/serli.jpg
 city: 'Poitiers, France'
 photo: /images/speakers/mathieu_ancelin.jpg
 socials:

@@ -2,7 +2,7 @@
 key: knative__a_kubernetes_framework_to_manage_serverless_workloads
 title: 'Knative: A Kubernetes Framework to manage Serverless Workloads'
 id: zq0gscWBX23J8X2dl3Ae
-language: Anglais
+language: English
 talkType: ''
 tags:
   - _cloud___devops

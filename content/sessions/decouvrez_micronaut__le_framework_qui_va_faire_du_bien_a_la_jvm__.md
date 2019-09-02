@@ -2,7 +2,7 @@
 key: decouvrez_micronaut__le_framework_qui_va_faire_du_bien_a_la_jvm__
 title: 'Découvrez Micronaut, le framework qui va faire du bien à la JVM !'
 id: 0Ka6ZU9876uQ2ZsBjCfc
-language: Français
+language: French
 talkType: codelab
 tags:
   - _languages

@@ -2,7 +2,7 @@
 key: les_specificites_des_jeux_de_societe_numeriques
 title: Les spécificités des jeux de société numériques
 id: 4womBQjyPQa0CQXUrIEf
-language: Français
+language: French
 talkType: conference
 tags:
   - _discovery

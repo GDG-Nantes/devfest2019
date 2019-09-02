@@ -2,7 +2,7 @@
 key: les_mains_dans_le_cambouis_avec_webassembly
 title: 'Les mains dans le cambouis avec WebAssembly '
 id: l57BOfs0i2jU7GCpUgeo
-language: Français
+language: French
 talkType: codelab
 tags:
   - _web

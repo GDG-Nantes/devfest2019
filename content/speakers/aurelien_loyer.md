@@ -4,9 +4,9 @@ name: Aurélien Loyer
 id: 6gQjsAYLpRd2eB2HnTG2HS7BWJB2
 feature: false
 company: Zenika
+companyLogo: /images/partners/zenika.png
 city: 'Lille, France'
 photo: /images/speakers/aurelien_loyer.jpg
-companyLogo: /images/partners/zenika.png
 socials:
   - icon: twitter
     link: 'https://twitter.com/AurelienLoyer'

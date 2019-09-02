@@ -4,6 +4,7 @@ name: Cassie Evans
 id: 8T3C3rBmDvPQJlFvPJXToShDunp1
 feature: false
 company: Clearleft
+companyLogo: /images/partners/clearleft.png
 city: 'Brighton, England'
 photo: /images/speakers/cassie_evans.jpg
 socials:

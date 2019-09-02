@@ -5,7 +5,7 @@ title: >-
   Comment j'ai fini par déployer à 2h du matin une application sur AWS pour
   piloter des voitures électriques avec un vélo d'appartement.
 id: p0qINDWxKe7NNvcbZPRZ
-language: Français
+language: French
 talkType: quickie
 tags:
   - _cloud___devops

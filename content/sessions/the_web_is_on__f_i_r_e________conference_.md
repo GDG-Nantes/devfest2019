@@ -2,7 +2,7 @@
 key: the_web_is_on__f_i_r_e________conference_
 title: "The Web is on \U0001F525 F.I.R.E. \U0001F525 !!! (conference)"
 id: O8kC0an3RuGqxTfPKHYp
-language: français
+language: French
 talkType: conference
 tags:
   - _web

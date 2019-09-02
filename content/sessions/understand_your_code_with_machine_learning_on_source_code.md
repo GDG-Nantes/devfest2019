@@ -2,7 +2,7 @@
 key: understand_your_code_with_machine_learning_on_source_code
 title: Understand your code with Machine Learning on Source Code
 id: yqiyt3VtCEHOBGlMYSln
-language: Anglais
+language: English
 talkType: codelab
 tags:
   - _bigdata___ai

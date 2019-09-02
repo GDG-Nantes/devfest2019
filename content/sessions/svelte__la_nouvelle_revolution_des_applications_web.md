@@ -2,7 +2,7 @@
 key: svelte__la_nouvelle_revolution_des_applications_web
 title: 'Svelte, la nouvelle révolution des applications web'
 id: upyuHsqO0MNP8cz8ttwQ
-language: Français
+language: French
 talkType: conference
 tags:
   - _web

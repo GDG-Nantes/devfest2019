@@ -4,6 +4,7 @@ name: Sylvestre Franceschi
 id: XrIw15BZYiZMpURfiSTr5c812Vc2
 feature: false
 company: Umanis
+companyLogo: /images/partners/umanis.png
 city: 'Paris, France'
 photo: /images/speakers/sylvestre_franceschi.jpeg
 socials:

@@ -2,7 +2,7 @@
 key: l_epopee_des_polices_css_de_comic_sans_aux_fontes_variables
 title: L'épopée des polices CSS de Comic Sans aux fontes variables
 id: P39ti4I6J5PN4nn3oNll
-language: français
+language: French
 talkType: conference
 tags:
   - _web

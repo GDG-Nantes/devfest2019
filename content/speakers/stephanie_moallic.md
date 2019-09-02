@@ -4,6 +4,7 @@ name: Stéphanie Moallic
 id: IxHYleq5FCX6VKtNu0lcjQVAvP03
 feature: false
 company: OVH
+companyLogo: /images/partners/ovh.jpg
 city: 'Brest, France'
 photo: /images/speakers/stephanie_moallic.jpg
 socials:

@@ -5,7 +5,7 @@ id: bAkrQrssjgU1zb5V2y2QpVnuCmf1
 feature: true
 company: Microsoft
 companyLogo: /images/partners/microsoft.png
-city: 'Wellesley, MA'
+city: 'Wellesley, USA'
 photo: /images/speakers/jen_looper.jpg
 socials:
   - icon: twitter

@@ -2,7 +2,7 @@
 key: back_in_black_hat___comment_se_faire_pogoter__hacker__bien_comme_il_faut_
 title: 'Back in Black Hat : Comment se faire pogoter (hacker) bien comme il faut!'
 id: f4ASANsuZhanDzd0mmai
-language: Français
+language: French
 talkType: conference
 tags:
   - _security

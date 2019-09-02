@@ -2,7 +2,7 @@
 key: game_development_with_unity_from_an_android_point_of_view
 title: Game Development with Unity from an Android Point of View
 id: UpRamIk0828btXrN0UnP
-language: Français
+language: French
 talkType: conference
 tags:
   - _mobile___iot

@@ -2,7 +2,7 @@
 key: dr_gopher__anatomie_du_scheduler_golang
 title: 'Dr Gopher, Anatomie du Scheduler Golang'
 id: gfMKNuH75Ksioc9rdRCB
-language: Français
+language: French
 talkType: quickie
 tags:
   - _languages

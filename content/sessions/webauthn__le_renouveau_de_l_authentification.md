@@ -2,7 +2,7 @@
 key: webauthn__le_renouveau_de_l_authentification
 title: 'WebAuthn: Le renouveau de l''authentification'
 id: nDBENy1j3DZpCzgas4yX
-language: Français
+language: French
 talkType: quickie
 tags:
   - _web

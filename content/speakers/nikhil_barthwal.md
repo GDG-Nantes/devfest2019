@@ -4,7 +4,7 @@ name: Nikhil Barthwal
 id: DoDoTmnEVXMXkj2mmOHqv2L6ya53
 feature: false
 company: Google
-companyLogo: /images/partners/google.svg
+companyLogo: /images/partners/google.png
 photo: /images/speakers/nikhil_barthwal.jpg
 socials:
   - icon: twitter

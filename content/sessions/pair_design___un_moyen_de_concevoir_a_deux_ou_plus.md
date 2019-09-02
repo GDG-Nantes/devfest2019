@@ -2,7 +2,7 @@
 key: pair_design___un_moyen_de_concevoir_a_deux_ou_plus
 title: 'Pair Design : Un moyen de concevoir à deux ou plus'
 id: vzGargOlA8voJIxO4BLz
-language: Français
+language: French
 talkType: quickie
 tags:
   - _ux___ui

@@ -2,7 +2,7 @@
 key: scala_3___en_route_vers_le_futur
 title: 'Scala 3 : en route vers le futur'
 id: 8VvdVlvn1QgQej1eM9UP
-language: Français
+language: French
 talkType: conference
 tags:
   - _languages
