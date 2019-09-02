@@ -4,6 +4,7 @@ name: Yann Corno
 id: pTltNFBFaqUn6zobRUPHztMq2ix2
 feature: false
 company: Asmodee Digital
+companyLogo: /images/partners/asmodee.png
 city: 'Paris, France'
 photo: /images/speakers/yann_corno.jpeg
 socials:
