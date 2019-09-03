@@ -17,6 +17,7 @@
     "npm-run-all": "^4.1.5",
     "plop-logger": "^2.6.0",
     "puppeteer": "^1.19.0",
-    "serve-handler": "^6.1.1"
+    "serve-handler": "^6.1.1",
+    "easy-pdf-merge": "^0.2.2"
   }
 }

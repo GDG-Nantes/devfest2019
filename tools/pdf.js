@@ -3,12 +3,15 @@ const {Logger, LogLevel} = require('plop-logger');
 const {colorEmojiConfig} = require('plop-logger/lib/extra/colorEmojiConfig');
 const handler = require('serve-handler');
 const http = require('http');
+const pdfmerge = require('easy-pdf-merge');
 
 Logger.config = colorEmojiConfig;
 Logger.config.defaultLevel = LogLevel.Debug;
 const logger = Logger.getLogger('pdf');
 
 // Configuration
+const output1 = 'static/schedule/schedule1.pdf';
+const output2 = 'static/schedule/schedule2.pdf';
 const output = 'static/schedule/schedule.pdf';
 const serverConf = {
   port: 8765,
@@ -66,6 +69,7 @@ async function cleanupBeforePrint(page) {
     'body > header',
     'body > footer',
     'main .hero',
+    'main .hero-desc',
   ];
 
   await page.$$eval(toHide.join(','), elts =>
@@ -83,23 +87,32 @@ async function cleanupBeforePrint(page) {
   logger.info("launch puppeteer browser");
   const browser = await puppeteer.launch(browserConf);
   try {
-    logger.info("open new page");
-    const page = await browser.newPage();
-    logger.debug("opened new page");
+    const pages = ["#day_2019-10-21", "#day_2019-10-22"];
+    for (var i = 0; i < pages.length; i++) {
+        logger.info("open new page");
+        const page = await browser.newPage();
+        logger.debug("opened new page");
 
-    const file = 'fr/schedule/index.html';
-    const url = `http://localhost:${serverConf.port}/${file}`;
-    logger.info("go to", url);
-    const pageResponse = await page.goto(url, {waitUntil: 'networkidle2'});
-    logger.debug("done", pageResponse.statusText());
+        const url = `http://localhost:${serverConf.port}/fr/schedule/${pages[i]}`;
+        logger.info("go to", url);
+        const pageResponse = await page.goto(url, {waitUntil: 'networkidle2'});
+        logger.debug("done", pageResponse.statusText());
 
-    await cleanupBeforePrint(page);
-    logger.info('export pdf', output);
-    const format = 'A3';
-    const scale = .4;
-    const printBackground = true;
-    await page.pdf({path:output, format, scale, printBackground});
-    logger.debug("pdf done");
+        await cleanupBeforePrint(page);
+        logger.info('export pdf', 'static/schedule/schedule' + (i+1) + '.pdf');
+        const format = 'A3';
+        const scale = .38;
+        const printBackground = true;
+        await page.pdf({path:'static/schedule/schedule' + (i+1) + '.pdf', format, scale, printBackground});
+        logger.debug("pdf done");
+    }
+
+    pdfmerge([output1,output2],output,function(err){
+        if(err)
+        logger.debug("error during merge");
+        
+        logger.info('merge pdf done', output);
+    });
 
   } catch (e) {
     console.error(e);
