@@ -1106,7 +1106,7 @@
       "id": "DakMVtNmFpUCymvLgHcGhxVZEts1",
       "feature": false,
       "company": "oscaro.com",
-      "companyLogo": "/images/partners/oscaro.jpg",
+      "companyLogo": "/images/partners/oscaro.png",
       "city": "Nantes, France",
       "photoURL": "/images/speakers/alexis_jacomy.jpg",
       "socials": [
@@ -1150,7 +1150,7 @@
       "id": "MKkYzwlXx6dLM9cfE5vXYqJo5d43",
       "feature": false,
       "company": "Continental France",
-      "companyLogo": "/images/partners/continental.jpg",
+      "companyLogo": "/images/partners/continental.png",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/aurelie_vache.jpg",
       "socials": [
@@ -1495,7 +1495,7 @@
       "id": "dOAigFIvyuM2UXJ5PmpkfNwyt6n1",
       "feature": false,
       "company": "iAdvize",
-      "companyLogo": "/images/partners/iadvize.jpg",
+      "companyLogo": "/images/partners/iadvize.webp",
       "city": "Nantes, France",
       "photoURL": "/images/speakers/axel_cateland.jpg",
       "socials": [
@@ -1874,7 +1874,7 @@
       "id": "pYuiGicpt0MenD8NEMhZXtk6VSr1",
       "feature": false,
       "company": "OVH",
-      "companyLogo": "/images/partners/ovh.jpg",
+      "companyLogo": "/images/partners/ovh.png",
       "city": "Brest, France",
       "photoURL": "/images/speakers/horacio_gonzalez.jpg",
       "socials": [
@@ -2711,7 +2711,7 @@
       "id": "IxHYleq5FCX6VKtNu0lcjQVAvP03",
       "feature": false,
       "company": "OVH",
-      "companyLogo": "/images/partners/ovh.jpg",
+      "companyLogo": "/images/partners/ovh.png",
       "city": "Brest, France",
       "photoURL": "/images/speakers/stephanie_moallic.jpg",
       "socials": [
@@ -2734,7 +2734,7 @@
       "id": "PGW62j66RsNHr6oCZ1VX5e41lAB2",
       "feature": false,
       "company": "OVH",
-      "companyLogo": "/images/partners/ovh.jpg",
+      "companyLogo": "/images/partners/ovh.png",
       "city": "Brest, France",
       "photoURL": "/images/speakers/steven_le_roux.png",
       "socials": [
@@ -2869,7 +2869,7 @@
       "id": "FC4ueXRMNCcxxGYGRmcrHPponLr1",
       "feature": false,
       "company": "RedHat",
-      "companyLogo": "/images/partners/red_hat.jpg",
+      "companyLogo": "/images/partners/red_hat.png",
       "city": "Paris, France",
       "photoURL": "/images/speakers/vincent_demeester.jpg",
       "socials": [

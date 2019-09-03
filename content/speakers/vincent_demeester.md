@@ -4,7 +4,7 @@ name: Vincent Demeester
 id: FC4ueXRMNCcxxGYGRmcrHPponLr1
 feature: false
 company: RedHat
-companyLogo: /images/partners/red_hat.jpg
+companyLogo: /images/partners/red_hat.png
 city: 'Paris, France'
 photo: /images/speakers/vincent_demeester.jpg
 socials:

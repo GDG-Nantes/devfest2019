@@ -4,7 +4,7 @@ name: Alexis Jacomy
 id: DakMVtNmFpUCymvLgHcGhxVZEts1
 feature: false
 company: oscaro.com
-companyLogo: /images/partners/oscaro.jpg
+companyLogo: /images/partners/oscaro.png
 city: 'Nantes, France'
 photo: /images/speakers/alexis_jacomy.jpg
 socials:
