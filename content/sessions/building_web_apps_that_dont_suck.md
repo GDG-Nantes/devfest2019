@@ -3,7 +3,7 @@ key: building_web_apps_that_dont_suck
 title: Building web apps that don’t suck
 id: 1FYvsNqstRjBnJhXNdwf
 language: English
-talkType: ''
+talkType: conference
 tags:
   - _web
 complexity: Beginner

@@ -15,6 +15,6 @@ socials:
     link: 'https://github.com/stevenleroux'
     name: stevenleroux
   - icon: linkedin
-    link: https://www.linkedin.com/in/stevenleroux/
+    link: https://www.linkedin.com/in/stevenleroux
     name: stevenleroux
 ---

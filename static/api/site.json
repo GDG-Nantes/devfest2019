@@ -36,7 +36,7 @@
       "key": "null__undefined_and_maybe__a_tale_of_uncertainty",
       "title": "# Null, undefined and maybe, a tale of uncertainty",
       "id": "D2cYPUbo5VbsjmAadLGX",
-      "language": "English or French",
+      "language": "French",
       "format": "conference",
       "tags": ["_languages"],
       "level": "beginner",
@@ -77,7 +77,7 @@
       "key": "_brancher_sa_guitare_a_son_navigateur___et_le_web_deviens_rock_n_roll____",
       "title": "🤘🎸 Brancher sa guitare a son navigateur : Et le web deviens rock'n'roll !  🤘🎸",
       "id": "imlHFq6TjUPfXNZ0vIfl",
-      "format": "",
+      "format": "conference",
       "tags": ["_discovery"],
       "level": "intermediate",
       "speakers": ["benjamin_plouzennec", "benoit_laurent"],
@@ -101,7 +101,7 @@
       "key": "ai___robot_cat___a_smart_cat",
       "title": "AI + Robot Cat = A Smart Cat",
       "id": "Euu7QJjcULbfWzrJWWPq",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_mobile___iot"],
       "level": "beginner",
@@ -115,8 +115,8 @@
       "key": "apache_pulsar_101__architecture__concepts_et_comparaison",
       "title": "Apache Pulsar 101: architecture, concepts et comparaison",
       "id": "zkxHfYw24KNpjHVWHiyB",
-      "language": "Français",
-      "format": "",
+      "language": "French",
+      "format": "conference",
       "tags": ["_bigdata___ai"],
       "level": "beginner",
       "speakers": ["quentin_adam", "steven_le_roux"],
@@ -129,7 +129,7 @@
       "key": "apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique",
       "title": "Apprenez à sécuriser votre cluster kubernetes par la pratique",
       "id": "k6r7HRlCQ9gsx7Drdt4n",
-      "language": "France",
+      "language": "French",
       "format": "codelab",
       "tags": ["_security"],
       "level": "advanced",
@@ -157,7 +157,7 @@
       "key": "authentication_authorization_starters_battle",
       "title": "Authentication/Authorization Starters Battle",
       "id": "6E03tbU6L5w0IyjMi7yF",
-      "language": "français",
+      "language": "French",
       "format": "conference",
       "tags": ["_web"],
       "level": "beginner",
@@ -212,7 +212,7 @@
       "key": "building_better_products_faster__devux_is_the_new_devops",
       "title": "Building better products faster: DevUx is the new DevOps",
       "id": "fKXlhS3noQ2uhlTFeQ6s",
-      "language": "English (or French if preferred)",
+      "language": "English",
       "format": "conference",
       "tags": ["_ux___ui"],
       "level": "beginner",
@@ -226,8 +226,8 @@
       "key": "building_web_apps_that_dont_suck",
       "title": "Building web apps that don’t suck",
       "id": "1FYvsNqstRjBnJhXNdwf",
-      "language": "JavaScript, HTML and CSS",
-      "format": "",
+      "language": "English",
+      "format": "conference",
       "tags": ["_web"],
       "level": "beginner",
       "speakers": ["frederic_harper"],
@@ -240,7 +240,7 @@
       "key": "comment_j_ai_fini_par_deployer_a_2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_avec_un_velo_d_appartement_",
       "title": "Comment j'ai fini par déployer à 2h du matin une application sur AWS pour piloter des voitures électriques avec un vélo d'appartement.",
       "id": "p0qINDWxKe7NNvcbZPRZ",
-      "language": "France",
+      "language": "French",
       "format": "quickie",
       "tags": ["_cloud___devops"],
       "level": "beginner",
@@ -267,7 +267,7 @@
       "key": "core__le_principe__dans_le_doute_reboot__applique_a__net",
       "title": "Core, le principe \"dans le doute reboot\" appliqué à .NET",
       "id": "9UKGzjZ3bYCcoZtso63N",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_languages"],
       "level": "beginner",
@@ -281,7 +281,7 @@
       "key": "creer_votre_device_iot_connecte_en_quelques_heures",
       "title": "Créer votre device IoT connecté en quelques heures",
       "id": "Ew9a8XaJRV3NUmgkWR4K",
-      "language": "Francais",
+      "language": "French",
       "format": "codelab",
       "tags": ["_mobile___iot"],
       "level": "beginner",
@@ -299,7 +299,7 @@
       "key": "creons_notre_premiere_api_avec_nestjs",
       "title": "Créons notre première API avec NestJS",
       "id": "SDBi4eg0XEbDEubEqe60",
-      "language": "Javascript",
+      "language": "French",
       "format": "codelab",
       "tags": ["_web"],
       "level": "beginner",
@@ -313,7 +313,7 @@
       "key": "data___art",
       "title": "Data + Art",
       "id": "1pPAH10fVgm728cNTxSY",
-      "language": "Français ou English",
+      "language": "English/French",
       "format": "conference",
       "tags": ["_discovery"],
       "level": "beginner",
@@ -327,7 +327,7 @@
       "key": "decouvrez_micronaut__le_framework_qui_va_faire_du_bien_a_la_jvm__",
       "title": "Découvrez Micronaut, le framework qui va faire du bien à la JVM !",
       "id": "0Ka6ZU9876uQ2ZsBjCfc",
-      "language": "France",
+      "language": "French",
       "format": "codelab",
       "tags": ["_languages"],
       "level": "intermediate",
@@ -341,7 +341,7 @@
       "key": "deploying_and_building_webthings_workshop_by_mozilla",
       "title": "Deploying and building webthings workshop by Mozilla ",
       "id": "7Cj0Rxozzh9vMWdR5WMV",
-      "language": "English or French",
+      "language": "English/French",
       "format": "codelab",
       "tags": ["_mobile___iot"],
       "level": "intermediate",
@@ -369,7 +369,7 @@
       "key": "developper_une_api_cloud_ready_avec_quarkus",
       "title": "Développer une API Cloud Ready avec Quarkus",
       "id": "U1Qk0QLvBtJWTWsjMPTc",
-      "language": "français",
+      "language": "French",
       "format": "conference",
       "tags": ["_languages"],
       "level": "intermediate",
@@ -383,7 +383,7 @@
       "key": "dis_moi_doc__quelle_it_en_2025__",
       "title": "Dis moi DOC, quelle IT en 2025 ?",
       "id": "DJLcE7Bm1GLDRzUt6Ipz",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_discovery"],
       "level": "beginner",
@@ -410,7 +410,7 @@
       "key": "dr_gopher__anatomie_du_scheduler_golang",
       "title": "Dr Gopher, Anatomie du Scheduler Golang",
       "id": "gfMKNuH75Ksioc9rdRCB",
-      "language": "Français",
+      "language": "French",
       "format": "quickie",
       "tags": ["_languages"],
       "level": "intermediate",
@@ -424,7 +424,7 @@
       "key": "fpga__creer_du_materiel_en_programmant",
       "title": "FPGA, créer du matériel en programmant",
       "id": "d1a10CU19Y6I6Q4RtH3c",
-      "language": "France",
+      "language": "French",
       "format": "conference",
       "tags": ["_discovery"],
       "level": "beginner",
@@ -438,7 +438,7 @@
       "key": "game_development_with_unity_from_an_android_point_of_view",
       "title": "Game Development with Unity from an Android Point of View",
       "id": "UpRamIk0828btXrN0UnP",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_mobile___iot"],
       "level": "intermediate",
@@ -466,7 +466,7 @@
       "key": "gpgpu__utiliser_la_carte_graphique_pour_accelerer_vos_applications_",
       "title": "GPGPU: Utiliser la carte graphique pour accélérer vos applications!",
       "id": "gLlR2d54uGV94NChK47Z",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_languages"],
       "level": "intermediate",
@@ -494,7 +494,7 @@
       "key": "il_faut_sauver_lora",
       "title": "Il faut sauver LoRa",
       "id": "4fsNGz0TPC0vV7AFqulV",
-      "language": "FR/EN",
+      "language": "French",
       "format": "codelab",
       "tags": ["_security"],
       "level": "intermediate",
@@ -628,7 +628,7 @@
       "title": "Knative: A Kubernetes Framework to manage Serverless Workloads",
       "id": "zq0gscWBX23J8X2dl3Ae",
       "language": "English",
-      "format": "",
+      "format": "conference",
       "tags": ["_cloud___devops"],
       "level": "intermediate",
       "speakers": ["nikhil_barthwal"],
@@ -641,7 +641,7 @@
       "key": "kubernetes_enfin_ultra_simple_et_leger_avec_k3s",
       "title": "Kubernetes enfin ultra simple et léger avec K3S",
       "id": "OIjVxOH5t9EA0uP1CFmV",
-      "language": "Français",
+      "language": "French",
       "format": "quickie",
       "tags": ["_cloud___devops"],
       "level": "intermediate",
@@ -655,7 +655,7 @@
       "key": "l_epopee_des_polices_css_de_comic_sans_aux_fontes_variables",
       "title": "L'épopée des polices CSS de Comic Sans aux fontes variables",
       "id": "P39ti4I6J5PN4nn3oNll",
-      "language": "français",
+      "language": "French",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
@@ -683,7 +683,7 @@
       "key": "le_futur_de_la_gestion_des_dependances_node",
       "title": "Le futur de la gestion des dépendances Node",
       "id": "uNGtKqNgZZ7ImmVxF6lS",
-      "language": "french",
+      "language": "French",
       "format": "quickie",
       "tags": ["_web"],
       "level": "beginner",
@@ -697,7 +697,7 @@
       "key": "le_graal_d_aws___decouverte_et_prise_en_main_de_chalice",
       "title": "Le graal d'AWS : Découverte et prise en main de Chalice",
       "id": "vaPb7SVWpqCKWMD8rQ1F",
-      "language": "Français",
+      "language": "French",
       "format": "codelab",
       "tags": ["_cloud___devops"],
       "level": "beginner",
@@ -747,7 +747,7 @@
       "key": "les_mains_dans_le_cambouis_avec_webassembly",
       "title": "Les mains dans le cambouis avec WebAssembly ",
       "id": "l57BOfs0i2jU7GCpUgeo",
-      "language": "France",
+      "language": "French",
       "format": "codelab",
       "tags": ["_web"],
       "level": "beginner",
@@ -817,7 +817,7 @@
       "key": "pair_design___un_moyen_de_concevoir_a_deux_ou_plus",
       "title": "Pair Design : Un moyen de concevoir à deux ou plus",
       "id": "vzGargOlA8voJIxO4BLz",
-      "language": "Français",
+      "language": "French",
       "format": "quickie",
       "tags": ["_ux___ui"],
       "level": "beginner",
@@ -844,7 +844,7 @@
       "key": "performance_tuning_of_go_applications_in_cloud",
       "title": "Performance tuning of Go applications in Cloud",
       "id": "omD4YZC4aeDe3WlHQ6IA",
-      "language": "English/Français",
+      "language": "English/French",
       "format": "conference",
       "tags": ["_cloud___devops"],
       "level": "intermediate",
@@ -871,7 +871,7 @@
       "key": "promouvoir_son_projet_open_source_comme_une_rock_star__",
       "title": "Promouvoir son projet open-source comme une rock star !",
       "id": "tTtqiqxJRs7FXh1FSoSI",
-      "language": "France",
+      "language": "French",
       "format": "conference",
       "tags": ["_discovery"],
       "level": "beginner",
@@ -899,7 +899,7 @@
       "key": "storybook_pour_votre_design_system__un_conte_de_fees__",
       "title": "Storybook pour votre design system, un conte de fées ?",
       "id": "GOy9xsl5UNPVMwJKZzVf",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_ux___ui"],
       "level": "beginner",
@@ -913,7 +913,7 @@
       "key": "svelte__la_nouvelle_revolution_des_applications_web",
       "title": "Svelte, la nouvelle révolution des applications web",
       "id": "upyuHsqO0MNP8cz8ttwQ",
-      "language": "Français",
+      "language": "French",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
@@ -927,7 +927,7 @@
       "key": "swift_superpowers",
       "title": "Swift Superpowers",
       "id": "6b3LCbMOXtilGDrd0UlZ",
-      "language": "swift",
+      "language": "French",
       "format": "quickie",
       "tags": ["_mobile___iot"],
       "level": "intermediate",
@@ -941,7 +941,7 @@
       "key": "the_web_is_on__f_i_r_e________conference_",
       "title": "The Web is on 🔥 F.I.R.E. 🔥 !!! (conference)",
       "id": "O8kC0an3RuGqxTfPKHYp",
-      "language": "français",
+      "language": "French",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
@@ -955,7 +955,7 @@
       "key": "web_ready_augmented_reality_in_47_lines_of_code",
       "title": "Web Ready Augmented Reality in 47 Lines of Code",
       "id": "ZT1MhdJMLlwJ0XE1TsYT",
-      "language": "Anglais",
+      "language": "English",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
@@ -969,7 +969,7 @@
       "key": "zen_and_the_art_of_vuejs",
       "title": "Zen and The Art of VueJS",
       "id": "hSGMgvMwUiXFxGIwnIrA",
-      "language": "Anglais",
+      "language": "English",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
@@ -983,7 +983,7 @@
       "key": "building_a_complex_application_with_web_components_and_litelement",
       "title": "Building a Complex Application with Web Components and LitElement",
       "id": "vuByu8t2zUzhZwAaep6t",
-      "language": "Anglais",
+      "language": "English",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
@@ -1010,7 +1010,7 @@
       "key": "una_gitlab__le_tp_a_roulette__",
       "title": "Una-Gitlab, le TP à roulette !",
       "id": "JZvPn9hrkr3IyWurF74D",
-      "language": "Français",
+      "language": "French",
       "format": "codelab",
       "tags": ["_cloud___devops"],
       "level": "intermediate",
@@ -1051,7 +1051,7 @@
       "key": "webauthn__le_renouveau_de_l_authentification",
       "title": "WebAuthn: Le renouveau de l'authentification",
       "id": "nDBENy1j3DZpCzgas4yX",
-      "language": "France",
+      "language": "French",
       "format": "quickie",
       "tags": ["_web"],
       "level": "beginner",
@@ -1065,7 +1065,7 @@
       "key": "workshop___kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android",
       "title": "Workshop - Kotlin Multiplatform : mutualiser du code sur iOS et Android",
       "id": "gevXHeoGYajrCygKBiwx",
-      "language": "French (but can be in english)",
+      "language": "French",
       "format": "codelab",
       "tags": ["_mobile___iot"],
       "level": "intermediate",
@@ -1083,6 +1083,7 @@
       "id": "gn97c30ahIM3Peof3vNGA6qNaCo2",
       "feature": false,
       "company": "source{d}",
+      "companyLogo": "/images/partners/source_d.jpg",
       "city": "Madrid, Spain",
       "photoURL": "/images/speakers/alex_bezzubov.png",
       "socials": [
@@ -1105,6 +1106,7 @@
       "id": "DakMVtNmFpUCymvLgHcGhxVZEts1",
       "feature": false,
       "company": "oscaro.com",
+      "companyLogo": "/images/partners/oscaro.jpg",
       "city": "Nantes, France",
       "photoURL": "/images/speakers/alexis_jacomy.jpg",
       "socials": [
@@ -1148,6 +1150,7 @@
       "id": "MKkYzwlXx6dLM9cfE5vXYqJo5d43",
       "feature": false,
       "company": "Continental France",
+      "companyLogo": "/images/partners/continental.jpg",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/aurelie_vache.jpg",
       "socials": [
@@ -1170,6 +1173,7 @@
       "id": "6gQjsAYLpRd2eB2HnTG2HS7BWJB2",
       "feature": false,
       "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
       "city": "Lille, France",
       "photoURL": "/images/speakers/aurelien_loyer.jpg",
       "socials": [
@@ -1192,6 +1196,7 @@
       "id": "hKc1vk2qrncKXF6VIYdzAXi0fGF2",
       "feature": false,
       "company": "WeScale",
+      "companyLogo": "/images/partners/wescale.png",
       "city": "Paris, France",
       "photoURL": "/images/speakers/bastien_cadiot.jpg",
       "socials": [
@@ -1213,6 +1218,9 @@
       "name": "Benjamin Plouzennec",
       "id": "HJymKIT0iee8w5fMuY6srqCKkqu2",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Rennes, France",
       "photoURL": "/images/speakers/benjamin_plouzennec.png",
       "socials": [
         {
@@ -1234,6 +1242,7 @@
       "id": "27dsgKVju3Vy9E786QvdHCrtEYl1",
       "feature": false,
       "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
       "city": "Bordeaux, France",
       "photoURL": "/images/speakers/benoit_giraudou.jpg",
       "socials": [
@@ -1255,6 +1264,9 @@
       "name": "Benoit Laurent",
       "id": "sLU2tlpVHzcC6woZKXQMTiq9dnn2",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Rennes, France",
       "photoURL": "/images/speakers/benoit_laurent.jpg",
       "socials": [
         {
@@ -1276,6 +1288,8 @@
       "id": "BGSxEEUcCPcYeLv36fjSVo87yeI3",
       "feature": false,
       "compnay": "Onepoint",
+      "companyLogo": "/images/partners/onepoint.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/thomas_blaisot.png",
       "socials": [
         {
@@ -1296,6 +1310,9 @@
       "name": "Bob Van Luijt",
       "id": "B1ocr8AUfIZN8bKh8bEgYBjFZlB2",
       "feature": false,
+      "company": "SeMI Technologies",
+      "companyLogo": "/images/partners/semi_technologies.jpg",
+      "city": "Amsterdam, North Holland",
       "photoURL": "/images/speakers/bob_van_luijt.jpg",
       "socials": [
         {
@@ -1316,6 +1333,9 @@
       "name": "Bruno Laduré",
       "id": "c0tcKuLc2wMJDqfYHaII1OJBT1T2",
       "feature": false,
+      "company": "Accenture",
+      "companyLogo": "/images/partners/accenture.svg",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/bruno_ladure.jpg",
       "socials": [
         {
@@ -1331,6 +1351,9 @@
       "name": "Cassie Evans",
       "id": "8T3C3rBmDvPQJlFvPJXToShDunp1",
       "feature": false,
+      "company": "Clearleft",
+      "companyLogo": "/images/partners/clearleft.png",
+      "city": "Brighton, England",
       "photoURL": "/images/speakers/cassie_evans.jpg",
       "socials": [
         {
@@ -1348,9 +1371,11 @@
     },
     {
       "key": "cecile_freyd_foucault",
-      "name": "Cecile Freyd-Foucault",
+      "name": "Cécile Freyd-Foucault",
       "id": "mnKCXR65CudbqcmnzEonfNGs1Jk2",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
       "photoURL": "/images/speakers/cecile_freyd_foucault.jpg",
       "socials": [
         {
@@ -1366,8 +1391,17 @@
       "name": "Chloe Condon",
       "id": "s4a9l8JREdUe38TG3XfbiPmtlaP2",
       "feature": true,
+      "company": "Microsoft",
+      "companyLogo": "/images/partners/microsoft.png",
+      "city": "San Francisco, USA",
       "photoURL": "/images/speakers/chloe_condon.jpg",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/chloecondon",
+          "name": "chloecondon"
+        }
+      ],
       "description": ""
     },
     {
@@ -1375,6 +1409,9 @@
       "name": "Chris Woodrow",
       "id": "d8EfrHjfRkTLdL9lQADXL0qelIn1",
       "feature": false,
+      "company": "MAIF",
+      "companyLogo": "/images/partners/maif.png",
+      "city": "Poitiers, France",
       "photoURL": "/images/speakers/chris_woodrow.jpg",
       "socials": [
         {
@@ -1395,6 +1432,9 @@
       "name": "Christopher Maneu",
       "id": "yBuTCMIOkLTJMFhtXvj6ulzL4Rp1",
       "feature": false,
+      "company": "Microsoft",
+      "companyLogo": "/images/partners/microsoft.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/christopher_maneu.png",
       "socials": [
         {
@@ -1415,6 +1455,7 @@
       "name": "David Bonnet",
       "id": "FdH8RDo6FERL1mCOAZLfjPMQ7Co1",
       "feature": false,
+      "city": "San Francisco, USA",
       "photoURL": "/images/speakers/david_bonnet.jpg",
       "socials": [
         {
@@ -1435,8 +1476,17 @@
       "name": "Djordje Lukic",
       "id": "AHAaV5E32RMECcOlq18BbnI8yP52",
       "feature": false,
+      "company": "Docker",
+      "companyLogo": "/images/partners/docker.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/djordje_lukic.jpg",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/rumpl",
+          "name": "rumpl"
+        }
+      ],
       "description": ""
     },
     {
@@ -1445,6 +1495,8 @@
       "id": "dOAigFIvyuM2UXJ5PmpkfNwyt6n1",
       "feature": false,
       "company": "iAdvize",
+      "companyLogo": "/images/partners/iadvize.jpg",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/axel_cateland.jpg",
       "socials": [
         {
@@ -1460,6 +1512,9 @@
       "name": "Doug Stevenson",
       "id": "TYg2ilah2zPash9vpmrgBdm5AT02",
       "feature": false,
+      "company": "Google",
+      "companyLogo": "/images/partners/google.svg",
+      "city": "Sunnyvale, USA",
       "photoURL": "/images/speakers/doug_stevenson.jpg",
       "socials": [
         {
@@ -1471,6 +1526,11 @@
           "icon": "github",
           "link": "https://github.com/CodingDoug",
           "name": "CodingDoug"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/codingdoug",
+          "name": "codingdoug"
         }
       ],
       "description": "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He developed web apps before the web had \"apps\", and developed for Android since the very first Android device was on the market.  In the SF bay area, he's bootstrapped the efforts of several startups.  Outside of work, Doug follows professional ice hockey and enjoys craft beer."
@@ -1480,6 +1540,9 @@
       "name": "Egor Bulychev",
       "id": "5D010L90BldNjK0FZPmlhghvKTj2",
       "feature": false,
+      "company": "source{d}",
+      "companyLogo": "/images/partners/source_d.jpg",
+      "city": "Madrid, Spain",
       "photoURL": "/images/speakers/egor_bulychev.png",
       "socials": [
         {
@@ -1491,6 +1554,11 @@
           "icon": "github",
           "link": "https://github.com/egorbu",
           "name": "egorbu"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/egor-bulychev-028237118",
+          "name": "egor-bulychev"
         }
       ],
       "description": "Currently, Egor is a Senior Machine Learning Engineer at source{d} where he works with “big code”, natural languages and deep learning. Egor is one of the developers of the distributed deep learning platform Veles (https://velesnet.ml) while working at Samsung Research Russia. Afterwards, Egor was responsible for the machine learning efforts to predict customer demography and preferences at Samsung Headquarters. In the past, Egor was a robotics engineer whose responsibility was to develop the computer vision system for an unmanned air vehicle while studying at Bauman Moscow State Technical University. He used to be an active participant of Eurobot international robotics competition."
@@ -1500,6 +1568,9 @@
       "name": "Emmanuel Demey",
       "id": "H3QHP1wvJDUG0sW402gh9ktbNx03",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Lille, France",
       "photoURL": "/images/speakers/emmanuel_demey.jpg",
       "socials": [
         {
@@ -1521,6 +1592,8 @@
       "id": "VF0bVRiF63dPEcscbKmnxXTqOm83",
       "feature": false,
       "company": "Sfeir",
+      "companyLogo": "/images/partners/sfeir.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/emmanuel_lebeaupin",
       "socials": [
         {
@@ -1541,6 +1614,9 @@
       "name": "Eric Briand",
       "id": "nekfKGP05KWO5W5CwB9uegBovAx1",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/eric_briand.jpg",
       "socials": [
         {
@@ -1562,6 +1638,7 @@
       "id": "XrIw15BZYiZMpURfiSTr5c812Vc2",
       "feature": false,
       "company": "Umanis",
+      "companyLogo": "/images/partners/umanis.png",
       "city": "Paris, France",
       "photoURL": "/images/speakers/sylvestre_franceschi.jpg",
       "socials": [
@@ -1584,6 +1661,7 @@
       "id": "JkWN4X6967cvBrV2x8vKf1QrHS93",
       "feature": false,
       "company": "Elium",
+      "companyLogo": "/images/partners/elium.png",
       "city": "Montpellier, France",
       "photoURL": "/images/speakers/estelle_landry.jpg",
       "socials": [
@@ -1600,6 +1678,9 @@
       "name": "Fabien Juif",
       "id": "HhHiAo4fknXntX5IU2yZqDKoyFI2",
       "feature": false,
+      "company": "uni rakun",
+      "companyLogo": "/images/partners/uni_rakun.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/fabien_juif.png",
       "socials": [
         {
@@ -1635,6 +1716,9 @@
       "name": "Franck Abgrall",
       "id": "oaYEqMySGafwsp9LayTFKiZQx3n1",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/franck_abgrall.jpg",
       "socials": [
         {
@@ -1655,6 +1739,9 @@
       "name": "François Bouteruche",
       "id": "GW9ggSbmZYM7tkxxt5wRXXLp5733",
       "feature": false,
+      "company": "Microsoft",
+      "companyLogo": "/images/partners/microsoft.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/francois_bouteruche.jpg",
       "socials": [
         {
@@ -1666,6 +1753,11 @@
           "icon": "github",
           "link": "https://github.com/fbouteruche",
           "name": "fbouteruche"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/francoisbouteruche",
+          "name": "francoisbouteruche"
         }
       ],
       "description": "I'm currently Delevoper Relations Manager at Microsoft France. I am a tech enthusiast with a strong background around .NET development and DevOps phylosophy and practices. \n\nI have a PhD  in Computer Science. I worked several years around handwriting recognition and pen-based interfaces so I'm very familiar with all the real stuff behind the buzz words AI and Machine Learning :) I led the R&D team at Evodia, the ancestor of [Script and Go](http://www.scriptandgo.com/en)\n\nAfter the fall of Evodia during the 2008-2010 financial crisis, I joined Orange Applications for Business, a subsidiary of Orange, where I focused on Application Lifecycle Management, Agile methodologies and then DevOps practices. I worked at the technical board of the company reporting to the CTO, [Philippe Ensarguet](https://www.linkedin.com/in/philippeensarguet).\n\nAfter 5 years, I joined [Younited Credit](https://www.younited-credit.com) at the beginning of its scaling stage to help them moving to a public cloud provider (Azure) and setting up Continuous Integration and Continuous Delivery best practices.\n\nMy last move was the beginning of my story at Microsoft :)\n\nI regularly talk at conferences such as Tech Days, EclipseCon France, API Days, Paris Open Source Summit, Cloud Expo Europe...\n\nYou can find more [here](https://www.linkedin.com/in/francoisbouteruche)"
@@ -1690,6 +1782,9 @@
       "name": "Frédéric Harper",
       "id": "YH13giEbAXWVO9mY8NNaEb4dCl73",
       "feature": true,
+      "company": "DigitalOcean",
+      "companyLogo": "/images/partners/digital_ocean.png",
+      "city": "Montréal, Canada",
       "photoURL": "/images/speakers/frederic_harper.jpg",
       "socials": [
         {
@@ -1732,6 +1827,9 @@
       "name": "Giulia Bianchi",
       "id": "fF3ixonsPncDwY90JWafTzrBGXa2",
       "feature": false,
+      "company": "Xebia",
+      "companyLogo": "/images/partners/xebia.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/giulia_bianchi.jpg",
       "socials": [
         {
@@ -1752,6 +1850,9 @@
       "name": "Guillaume Briand",
       "id": "eP6NDWsMivcAllm3fhB7Deb9E233",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/guillaume_briand.png",
       "socials": [
         {
@@ -1773,6 +1874,7 @@
       "id": "pYuiGicpt0MenD8NEMhZXtk6VSr1",
       "feature": false,
       "company": "OVH",
+      "companyLogo": "/images/partners/ovh.jpg",
       "city": "Brest, France",
       "photoURL": "/images/speakers/horacio_gonzalez.jpg",
       "socials": [
@@ -1794,6 +1896,9 @@
       "name": "Hubert Sablonniere",
       "id": "DUVkals13TRS86oRAvn8iF4BhZx2",
       "feature": false,
+      "company": "Clever Cloud",
+      "companyLogo": "/images/partners/clever_cloud.png",
+      "city": "Lille, France",
       "photoURL": "/images/speakers/hubert_sablonniere.png",
       "socials": [
         {
@@ -1814,6 +1919,9 @@
       "name": "Hugo Mougard",
       "id": "Xf1zTf6Iz8Pic4LM6B22iZcsAR02",
       "feature": false,
+      "company": "source{d}",
+      "companyLogo": "/images/partners/source_d.jpg",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/hugo_mougard.jpg",
       "socials": [
         {
@@ -1829,6 +1937,9 @@
       "name": "Jen Looper",
       "id": "bAkrQrssjgU1zb5V2y2QpVnuCmf1",
       "feature": true,
+      "company": "Microsoft",
+      "companyLogo": "/images/partners/microsoft.png",
+      "city": "Wellesley, USA",
       "photoURL": "/images/speakers/jen_looper.jpg",
       "socials": [
         {
@@ -1844,6 +1955,9 @@
       "name": "Justin Fagnani",
       "id": "bBkrQrssjgU1zb5V2y2QpVnuCmf1",
       "feature": true,
+      "company": "Google",
+      "companyLogo": "/images/partners/google.svg",
+      "city": "Oakland, USA",
       "photoURL": "/images/speakers/justin_fagnani.jpg",
       "socials": [
         {
@@ -1875,6 +1989,8 @@
       "name": "Josh Long",
       "id": "VjWl9bZOfvg4Chr4gqA8m0d48Vt1",
       "feature": true,
+      "company": "Pivotal",
+      "companyLogo": "/images/partners/pivotal.png",
       "photoURL": "/images/speakers/josh_long.jpg",
       "socials": [
         {
@@ -1890,6 +2006,8 @@
       "name": "Julien Salvi",
       "id": "3sdJi27e0DcE50hVB8pz1IZ2dzZ2",
       "feature": false,
+      "company": "InnovOrder",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/julien_salvi.jpg",
       "socials": [
         {
@@ -1910,6 +2028,8 @@
       "name": "Julien Topçu",
       "id": "ZdNase96oBSI6QdrWySX9eCtJgs1",
       "feature": false,
+      "company": "Société Générale",
+      "companyLogo": "/images/partners/societe_generale.png",
       "photoURL": "/images/speakers/julien_topcu.png",
       "socials": [
         {
@@ -1925,6 +2045,9 @@
       "name": "Kevin Davin",
       "id": "rDKV0gUOk0O4WU9tpknPAngMF9A3",
       "feature": false,
+      "company": "Stack Labs",
+      "companyLogo": "/images/partners/stack_labs.png",
+      "city": "Toulouse, France",
       "photoURL": "/images/speakers/kevin_davin.jpg",
       "socials": [
         {
@@ -1945,6 +2068,7 @@
       "name": "Kirell Benzi",
       "id": "wXfvBI23QvecZnkMZJv44kuC0rx2",
       "feature": false,
+      "city": "Paris, France",
       "photoURL": "/images/speakers/kirell_benzi.png",
       "socials": [
         {
@@ -1965,6 +2089,7 @@
       "name": "Konstantin BIFERT",
       "id": "cjA6fXpkQvUT8wRMBipQnFUTDeJ2",
       "feature": false,
+      "city": "Bordeaux, France",
       "photoURL": "/images/speakers/konstantin_bifert.jpg",
       "socials": [
         {
@@ -1985,6 +2110,9 @@
       "name": "Laura Wacrenier",
       "id": "ktk17P8orobCKZydAV0hUmJDnRN2",
       "feature": false,
+      "company": "SonarSource",
+      "companyLogo": "/images/partners/sonarsource.png",
+      "city": "Geneva, Switzerland",
       "photoURL": "/images/speakers/laura_wacrenier.png",
       "socials": [
         {
@@ -2000,13 +2128,14 @@
       "name": "Liliia Abdulina",
       "feature": false,
       "company": "JetBrains",
+      "companyLogo": "/images/partners/jetbrains.png",
       "city": "Munich, Germany",
       "photoURL": "/images/speakers/liliia_abdulina.jpg",
       "socials": [
         {
           "icon": "twitter",
           "link": "https://twitter.com/var_lynx",
-          "name": "@var_lynx"
+          "name": "var_lynx"
         }
       ],
       "description": "Kotlin QA since 2017. Writing Kotlin code on a daily basis to be one of the first persons who try the things around Kotlin, mostly tooling; multiplatform is the biggest and a favorite part — made 200+ posts answering the users when we've announced Kotlin Multiplatform 1.3 for the first time. I have a rich mobile apps QA background, used to be a Java developer for a little while at the very beginning of the carrier."
@@ -2016,6 +2145,9 @@
       "name": "Loïc MATHIEU",
       "id": "c78qkEcCDhYjS3kuIBkLmsDjX5C2",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Lille, France",
       "photoURL": "/images/speakers/loic_mathieu.jpg",
       "socials": [
         {
@@ -2058,15 +2190,21 @@
       "name": "Maël Naccache",
       "id": "a7bO0B6883M74pE6eOtepTZqzOQ2",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/mael_naccache.png",
       "socials": [],
       "description": ""
     },
     {
       "key": "mathieu_ancelin",
-      "name": "Mathieu ANCELIN",
+      "name": "Mathieu Ancelin",
       "id": "WDm2hCGOlLfIYHPHjaEry7aIpbT2",
       "feature": false,
+      "company": "SERLI",
+      "companyLogo": "/images/partners/serli.jpg",
+      "city": "Poitiers, France",
       "photoURL": "/images/speakers/mathieu_ancelin.jpg",
       "socials": [
         {
@@ -2087,6 +2225,9 @@
       "name": "Maxime Lumeau",
       "id": "rwKKfMzZD0f5woHjq5DvOwZiBco1",
       "feature": false,
+      "company": "Sopra Steria",
+      "companyLogo": "/images/partners/sopra-steria.jpg",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/maxime_lumeau.jpg",
       "socials": [
         {
@@ -2107,6 +2248,8 @@
       "name": "Michèle Legait",
       "id": "2nuTNavziHZzEHDYqdKDHjXZIlJ2",
       "feature": false,
+      "company": "Travelaer",
+      "city": "Sophia-Antipolis, France",
       "photoURL": "/images/speakers/michele_legait.jpg",
       "socials": [
         {
@@ -2127,6 +2270,9 @@
       "name": "Nicolas GIRAUD",
       "id": "IPck78ZRNPaINM4qaagRuJnDZvR2",
       "feature": false,
+      "company": "Onepoint",
+      "companyLogo": "/images/partners/onepoint.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/nicolas_giraud.png",
       "socials": [
         {
@@ -2147,6 +2293,9 @@
       "name": "Nicolas Lepage",
       "id": "977YQDolbxde0ito7I2dUiee2ap1",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/nicolas_lepage.jpg",
       "socials": [
         {
@@ -2167,6 +2316,8 @@
       "name": "Nikhil Barthwal",
       "id": "DoDoTmnEVXMXkj2mmOHqv2L6ya53",
       "feature": false,
+      "company": "Google",
+      "companyLogo": "/images/partners/google.svg",
       "photoURL": "/images/speakers/nikhil_barthwal.jpg",
       "socials": [
         {
@@ -2188,6 +2339,7 @@
       "id": "0alFaI2imGdQVSjuaMLFFfwqoL62",
       "feature": false,
       "company": "BonitaSoft",
+      "companyLogo": "/images/partners/bonitasoft.png",
       "city": "Toulouse, France",
       "photoURL": "/images/speakers/noel_mace.jpg",
       "socials": [
@@ -2210,6 +2362,7 @@
       "id": "DNlgKL7C5DNK0y48Lf7ylPB4bmk2",
       "feature": false,
       "company": "Microsoft",
+      "companyLogo": "/images/partners/microsoft.png",
       "city": "Paris, France",
       "photoURL": "/images/speakers/olivier_leplus.jpg",
       "socials": [
@@ -2251,6 +2404,9 @@
       "name": "Philipp Krenn",
       "id": "n1WwJNPvGZUf9jUjcUR9Z5ABjFg2",
       "feature": false,
+      "company": "Elastic",
+      "companyLogo": "/images/partners/elastic.png",
+      "city": "Vienna, Austria",
       "photoURL": "/images/speakers/philipp_krenn.jpg",
       "socials": [
         {
@@ -2271,6 +2427,9 @@
       "name": "Pierre Tibulle",
       "id": "9LHSTmgvjXcyMPyfifAgXjtP6Z02",
       "feature": false,
+      "company": "ASI",
+      "companyLogo": "/images/partners/asi.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/pierre_tibulle.jpg",
       "socials": [
         {
@@ -2286,6 +2445,9 @@
       "name": "Pierre-Yves Aillet",
       "id": "0ZbtTwugPpTsYEAbDRbt6Voqcca2",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/pierre_yves_aillet.jpg",
       "socials": [
         {
@@ -2306,8 +2468,17 @@
       "name": "Quentin ADAM",
       "id": "aaQtHj1vdqQLryDwR7PWTukudkH2",
       "feature": false,
+      "company": "Clever Cloud",
+      "companyLogo": "/images/partners/clever_cloud.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/quentin_adam.jpg",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/waxzce",
+          "name": "waxzce"
+        }
+      ],
       "description": ""
     },
     {
@@ -2315,8 +2486,15 @@
       "name": "Raphael Goetter",
       "id": "mFo8oYG8pcWQHjtq2UFVDZ5dvWB2",
       "feature": false,
+      "city": "Strasbourg, France",
       "photoURL": "/images/speakers/raphael_goetter.png",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/goetter",
+          "name": "goetter"
+        }
+      ],
       "description": ""
     },
     {
@@ -2324,6 +2502,8 @@
       "name": "Robin Caroff",
       "id": "NEuHFOJuVlNis4dFxumpF3XaVYj2",
       "feature": false,
+      "company": "Toki",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/robin_caroff.png",
       "socials": [
         {
@@ -2344,6 +2524,9 @@
       "name": "Romain Ardiet",
       "id": "H3aoWf0zdIVrNRAN3fCOG5vb3MA2",
       "feature": false,
+      "company": "Xebia",
+      "companyLogo": "/images/partners/xebia.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/romain_ardiet.jpg",
       "socials": [
         {
@@ -2364,6 +2547,7 @@
       "name": "Rustam Mehmandarov",
       "id": "vB7YkH0j4dPMcKeUnq10uH0diLn2",
       "feature": false,
+      "city": "Oslo, Norway",
       "photoURL": "/images/speakers/rustam_mehmandarov.jpg",
       "socials": [
         {
@@ -2399,8 +2583,9 @@
       "name": "Bertrand Presles",
       "id": "AakMVtNmFpUCymvLgHcGhxVZEts1",
       "feature": false,
-      "city": "Nantes, France",
       "company": "Niji",
+      "companyLogo": "/images/partners/niji.jpg",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/bertrand_presles.jpg",
       "socials": [
         {
@@ -2422,6 +2607,7 @@
       "id": "BakMVtNmFpUCymvLgHcGhxVZEts1",
       "feature": false,
       "company": "Sfeir",
+      "companyLogo": "/images/partners/sfeir.png",
       "city": "Nantes, France",
       "photoURL": "/images/speakers/adrien_lasselle.png",
       "socials": [
@@ -2443,6 +2629,9 @@
       "name": "Sebastien Moreno",
       "id": "nKPopia2lkYGej4Wzvbe4Pqgldn2",
       "feature": false,
+      "company": "Ippon Technologies",
+      "companyLogo": "/images/partners/ippon.jpg",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/sebastien_moreno.jpg",
       "socials": [
         {
@@ -2460,11 +2649,22 @@
     },
     {
       "key": "selorbis",
-      "name": "SeLoRBIS",
+      "name": "Gwendal Charles",
       "id": "9RegJX6MXbMYHSiU0iOiz77WwS53",
       "feature": false,
-      "photoURL": "/images/speakers/selorbis.png",
-      "socials": [],
+      "photoURL": "/images/speakers/selorbis.jpeg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/selorbis",
+          "name": "selorbis"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/SeLoRBIS",
+          "name": "SeLoRBIS"
+        }
+      ],
       "description": ""
     },
     {
@@ -2472,6 +2672,9 @@
       "name": "Silvin Lubecki",
       "id": "eHsjycMJ0nMwhAAPrNKwUfIS47y1",
       "feature": false,
+      "company": "Docker",
+      "companyLogo": "/images/partners/docker.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/silvin_lubecki.jpg",
       "socials": [
         {
@@ -2507,6 +2710,9 @@
       "name": "Stéphanie MOALLIC",
       "id": "IxHYleq5FCX6VKtNu0lcjQVAvP03",
       "feature": false,
+      "company": "OVH",
+      "companyLogo": "/images/partners/ovh.jpg",
+      "city": "Brest, France",
       "photoURL": "/images/speakers/stephanie_moallic.jpg",
       "socials": [
         {
@@ -2527,6 +2733,9 @@
       "name": "Steven Le Roux",
       "id": "PGW62j66RsNHr6oCZ1VX5e41lAB2",
       "feature": false,
+      "company": "OVH",
+      "companyLogo": "/images/partners/ovh.jpg",
+      "city": "Brest, France",
       "photoURL": "/images/speakers/steven_le_roux.png",
       "socials": [
         {
@@ -2537,6 +2746,11 @@
         {
           "icon": "github",
           "link": "https://github.com/stevenleroux",
+          "name": "stevenleroux"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/stevenleroux",
           "name": "stevenleroux"
         }
       ],
@@ -2562,6 +2776,9 @@
       "name": "Thomas Betous",
       "id": "GX65dBRRCxbrPjN44BAdTYQbMIB3",
       "feature": false,
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
+      "city": "Nantes, France",
       "photoURL": "/images/speakers/thomas_betous.png",
       "socials": [
         {
@@ -2582,6 +2799,9 @@
       "name": "Thomas Steiner",
       "id": "OkHKoybkESdA5gtspQdJYIzUhlm2",
       "feature": false,
+      "company": "Google",
+      "companyLogo": "/images/partners/google.svg",
+      "city": "Hamburg, Germany",
       "photoURL": "/images/speakers/thomas_steiner.jpg",
       "socials": [
         {
@@ -2602,8 +2822,22 @@
       "name": "Valentin Deleplace",
       "id": "3zURk2N6yVcLybDotsA2l603gM12",
       "feature": false,
+      "company": "Google",
+      "companyLogo": "/images/partners/google.svg",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/valentin_deleplace.jpg",
-      "socials": [],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/val_deleplace",
+          "name": "val_deleplace"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/deleplacevalentin",
+          "name": "deleplacevalentin"
+        }
+      ],
       "description": ""
     },
     {
@@ -2612,6 +2846,7 @@
       "id": "05FXSY1pHlaP7wK14yGKBaxom6n1",
       "feature": false,
       "company": "Clever Cloud",
+      "companyLogo": "/images/partners/clever_cloud.png",
       "city": "Paris, France",
       "photoURL": "/images/speakers/valeriane_venance.png",
       "socials": [
@@ -2633,6 +2868,9 @@
       "name": "Vincent Demeester",
       "id": "FC4ueXRMNCcxxGYGRmcrHPponLr1",
       "feature": false,
+      "company": "RedHat",
+      "companyLogo": "/images/partners/red_hat.jpg",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/vincent_demeester.jpg",
       "socials": [
         {
@@ -2653,6 +2891,9 @@
       "name": "Yann Corno",
       "id": "pTltNFBFaqUn6zobRUPHztMq2ix2",
       "feature": false,
+      "company": "Asmodee Digital",
+      "companyLogo": "/images/partners/asmodee.png",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/yann_corno.png",
       "socials": [
         {
@@ -2664,6 +2905,11 @@
           "icon": "github",
           "link": "https://github.com/YannDoW",
           "name": "YannDoW"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/yann-corno-73048b26",
+          "name": "yann-corno"
         }
       ],
       "description": "Yann Corno cumule 30 ans de vie de « serial-entrepeneur », avec la co-fondation de plusieurs start-ups aux USA et en France. Yann commence par une première expérience réussie dans la Silicon Valley dans les années 90 avec l’éditeur de logiciels 3D Ray Dream. En 2002, il co-fonde Days of Wonder, éditeur franco-américain de jeux de société physiques et numériques, acheté par le groupe Asmodee en 2014. Yann devient alors Directeur Technique de la branche Asmodee Digital. Il supervise maintenant le développement des technologies et de certains des jeux numériques basés sur les propriétés intellectuelles du groupe Asmodee."
@@ -2673,6 +2919,8 @@
       "name": "Yu Ling Cheng",
       "id": "m68hOyKYiBU8L4j1r11lHVSOepv2",
       "feature": false,
+      "company": "Theodo",
+      "city": "Paris, France",
       "photoURL": "/images/speakers/yu_ling_cheng.png",
       "socials": [
         {
@@ -2693,6 +2941,7 @@
       "name": "zigazou",
       "id": "LAS0AdPsVebPNRhpD0NkaBbf35h1",
       "feature": false,
+      "city": "Rouen, France",
       "photoURL": "/images/speakers/zigazou.png",
       "socials": [
         {
@@ -2821,28 +3070,36 @@
     },
     {
       "key": "room1",
-      "label": "Grand amphi."
+      "label": "Titan"
     },
     {
       "key": "room2",
-      "label": "Grande salle"
+      "label": "Belem"
     },
     {
       "key": "room3",
-      "label": "Salle du haut"
+      "label": "Tour de Bretagne"
     },
     {
       "key": "room4",
-      "label": "Petite salle"
+      "label": "Graslin"
+    },
+    {
+      "key": "room_codelab1",
+      "label": "Les Machines"
+    },
+    {
+      "key": "room_codelab2",
+      "label": "Le Hangar"
     }
   ],
   "slots": [
     {
-      "key": "open",
+      "key": "open-day-1",
       "start": "08:00",
       "duration": 60,
       "row": {
-        "start": 1,
+        "start": 0,
         "end": 3
       }
     },
@@ -2856,7 +3113,7 @@
       }
     },
     {
-      "key": "pause-1",
+      "key": "pause-1-day-1",
       "start": "09:40",
       "duration": 20,
       "row": {
@@ -2865,26 +3122,26 @@
       }
     },
     {
-      "key": "slot-1",
+      "key": "slot-1-day-1",
       "start": "10:00",
-      "duration": 40,
+      "duration": 50,
       "row": {
         "start": 7,
         "end": 10
       }
     },
     {
-      "key": "office-hours-1",
-      "start": "10:40",
-      "duration": 30,
+      "key": "codelab-1-day-1",
+      "start": "10:00",
+      "duration": 120,
       "row": {
-        "start": 10,
-        "end": 12
+        "start": 7,
+        "end": 14
       }
     },
     {
-      "key": "pause-2",
-      "start": "10:40",
+      "key": "pause-2-day-1",
+      "start": "10:50",
       "duration": 20,
       "row": {
         "start": 10,
@@ -2892,223 +3149,313 @@
       }
     },
     {
-      "key": "slot-2",
-      "start": "11:00",
-      "duration": 40,
+      "key": "slot-2-day-1",
+      "start": "11:10",
+      "duration": 50,
       "row": {
         "start": 11,
         "end": 14
       }
     },
     {
-      "key": "office-hours-2",
-      "start": "11:40",
-      "duration": 30,
-      "row": {
-        "start": 14,
-        "end": 16
-      }
-    },
-    {
-      "key": "pause-3",
-      "start": "11:40",
-      "duration": 20,
-      "row": {
-        "start": 14,
-        "end": 15
-      }
-    },
-    {
-      "key": "slot-3",
+      "key": "lunch-day-1",
       "start": "12:00",
-      "duration": 40,
+      "duration": 120,
       "row": {
-        "start": 15,
-        "end": 18
+        "start": 14,
+        "end": 17
       }
     },
     {
-      "key": "office-hours-3",
-      "start": "12:40",
-      "duration": 30,
+      "key": "slot-3-day-1",
+      "start": "14:00",
+      "duration": 50,
       "row": {
-        "start": 18,
+        "start": 17,
         "end": 20
       }
     },
     {
-      "key": "slot-lt-1",
-      "start": "12:50",
-      "duration": 15,
+      "key": "codelab-2-day-1",
+      "start": "14:00",
+      "duration": 120,
       "row": {
-        "start": 19,
-        "end": 21
+        "start": 17,
+        "end": 24
       }
     },
     {
-      "key": "office-hours-lt-1",
-      "start": "13:05",
-      "duration": 30,
+      "key": "pause-3-day-1",
+      "start": "14:50",
+      "duration": 20,
       "row": {
-        "start": 21,
+        "start": 20,
         "end": 22
       }
     },
     {
-      "key": "lunch",
-      "start": "13:05",
-      "duration": 60,
+      "key": "slot-4-day-1",
+      "start": "15:10",
+      "duration": 50,
       "row": {
-        "start": 21,
-        "end": 23
-      }
-    },
-    {
-      "key": "slot-lt-2",
-      "start": "14:05",
-      "duration": 15,
-      "row": {
-        "start": 23,
+        "start": 22,
         "end": 25
       }
     },
     {
-      "key": "office-hours-lt-2",
-      "start": "14:20",
-      "duration": 30,
+      "key": "pause-4-day-1",
+      "start": "16:00",
+      "duration": 20,
       "row": {
         "start": 25,
-        "end": 27
+        "end": 26
       }
     },
     {
-      "key": "slot-4",
-      "start": "14:30",
-      "duration": 40,
+      "key": "slot-5-day-1",
+      "start": "16:20",
+      "duration": 50,
       "row": {
         "start": 26,
         "end": 29
       }
     },
     {
-      "key": "office-hours-4",
-      "start": "15:10",
-      "duration": 30,
+      "key": "codelab-3-day-1",
+      "start": "16:20",
+      "duration": 120,
       "row": {
-        "start": 29,
-        "end": 31
+        "start": 26,
+        "end": 37
       }
     },
     {
-      "key": "pause-4",
-      "start": "15:10",
-      "duration": 20,
+      "key": "pause-5-day-1",
+      "start": "17:10",
+      "duration": 10,
       "row": {
         "start": 29,
         "end": 30
       }
     },
     {
-      "key": "slot-5",
-      "start": "15:30",
-      "duration": 40,
+      "key": "slot-6-day-1",
+      "start": "17:20",
+      "duration": 20,
       "row": {
         "start": 30,
         "end": 33
       }
     },
     {
-      "key": "office-hours-5",
-      "start": "16:10",
-      "duration": 30,
-      "row": {
-        "start": 33,
-        "end": 35
-      }
-    },
-    {
-      "key": "pause-5",
-      "start": "16:10",
-      "duration": 20,
+      "key": "pause-6-day-1",
+      "start": "17:40",
+      "duration": 10,
       "row": {
         "start": 33,
         "end": 34
       }
     },
     {
-      "key": "slot-6",
-      "start": "16:30",
-      "duration": 40,
+      "key": "slot-7-day-1",
+      "start": "17:50",
+      "duration": 20,
       "row": {
         "start": 34,
         "end": 37
       }
     },
     {
-      "key": "office-hours-6",
-      "start": "17:10",
-      "duration": 30,
+      "key": "party",
+      "start": "18:30",
+      "duration": 180,
       "row": {
         "start": 37,
-        "end": 39
+        "end": 40
       }
     },
     {
-      "key": "pause-6",
-      "start": "17:10",
+      "key": "open-day-2",
+      "start": "08:30",
+      "duration": 30,
+      "row": {
+        "start": 0,
+        "end": 3
+      }
+    },
+    {
+      "key": "slot-1-day-2",
+      "start": "09:00",
+      "duration": 50,
+      "row": {
+        "start": 3,
+        "end": 6
+      }
+    },
+    {
+      "key": "codelab-1-day-2",
+      "start": "09:00",
+      "duration": 120,
+      "row": {
+        "start": 3,
+        "end": 10
+      }
+    },
+    {
+      "key": "pause-1-day-2",
+      "start": "09:50",
       "duration": 20,
       "row": {
-        "start": 37,
-        "end": 38
+        "start": 6,
+        "end": 7
       }
     },
     {
-      "key": "slot-7",
-      "start": "17:30",
-      "duration": 40,
+      "key": "slot-2-day-2",
+      "start": "10:10",
+      "duration": 50,
       "row": {
-        "start": 38,
-        "end": 41
+        "start": 7,
+        "end": 10
       }
     },
     {
-      "key": "office-hours-7",
-      "start": "18:10",
-      "duration": 30,
+      "key": "pause-2-day-2",
+      "start": "11:00",
+      "duration": 20,
       "row": {
-        "start": 41,
-        "end": 43
+        "start": 10,
+        "end": 11
+      }
+    },
+    {
+      "key": "slot-3-day-2",
+      "start": "11:20",
+      "duration": 50,
+      "row": {
+        "start": 11,
+        "end": 14
+      }
+    },
+    {
+      "key": "lunch-day-2",
+      "start": "12:10",
+      "duration": 110,
+      "row": {
+        "start": 14,
+        "end": 18
+      }
+    },
+    {
+      "key": "codelab-2-day-2",
+      "start": "13:00",
+      "duration": 120,
+      "row": {
+        "start": 16,
+        "end": 22
+      }
+    },
+    {
+      "key": "slot-4-day-2",
+      "start": "14:00",
+      "duration": 50,
+      "row": {
+        "start": 18,
+        "end": 21
+      }
+    },
+    {
+      "key": "pause-3-day-2",
+      "start": "14:50",
+      "duration": 20,
+      "row": {
+        "start": 21,
+        "end": 23
+      }
+    },
+    {
+      "key": "slot-5-day-2",
+      "start": "15:10",
+      "duration": 50,
+      "row": {
+        "start": 23,
+        "end": 26
+      }
+    },
+    {
+      "key": "codelab-3-day-2",
+      "start": "15:10",
+      "duration": 120,
+      "row": {
+        "start": 23,
+        "end": 34
+      }
+    },
+    {
+      "key": "pause-4-day-2",
+      "start": "16:00",
+      "duration": 20,
+      "row": {
+        "start": 26,
+        "end": 28
+      }
+    },
+    {
+      "key": "slot-6-day-2",
+      "start": "16:20",
+      "duration": 20,
+      "row": {
+        "start": 28,
+        "end": 30
+      }
+    },
+    {
+      "key": "pause-5-day-2",
+      "start": "16:40",
+      "duration": 10,
+      "row": {
+        "start": 30,
+        "end": 32
+      }
+    },
+    {
+      "key": "slot-7-day-2",
+      "start": "16:50",
+      "duration": 20,
+      "row": {
+        "start": 32,
+        "end": 34
+      }
+    },
+    {
+      "key": "pause-6-day-2",
+      "start": "17:10",
+      "duration": 10,
+      "row": {
+        "start": 34,
+        "end": 36
       }
     },
     {
       "key": "keynote-close",
-      "start": "18:20",
-      "duration": 40,
+      "start": "17:20",
+      "duration": 50,
       "row": {
-        "start": 42,
-        "end": 45
-      }
-    },
-    {
-      "key": "party",
-      "start": "19:00",
-      "duration": 240,
-      "row": {
-        "start": 45,
-        "end": 47
+        "start": 36,
+        "end": 40
       }
     }
   ],
   "schedule": [
     {
-      "day": "2019-10-03",
+      "day": "2019-10-21",
       "start": "08:00",
       "rooms": [
         {
           "room": "room1",
           "slots": [
             {
-              "slot": "open",
+              "slot": "open-day-1",
               "talk": "__open"
             },
             {
@@ -3116,72 +3463,60 @@
               "talk": "keynote_open"
             },
             {
-              "slot": "pause-1",
+              "slot": "pause-1-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-1",
-              "talk": "the_rise_of_the_web"
+              "slot": "slot-1-day-1",
+              "talk": "le_web__ses_frameworks_et_ses_standards___deconstruire_pour_mieux__re__construire"
             },
             {
-              "slot": "pause-2",
+              "slot": "pause-2-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-2",
-              "talk": "l_histoire_de_la_decouverte_d_une_backdoor_signe_oneplus"
+              "slot": "slot-2-day-1",
+              "talk": "building_a_complex_application_with_web_components_and_litelement"
             },
             {
-              "slot": "pause-3",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-3",
-              "talk": "webgpu__next_generation_3d_graphics_on_the_web"
-            },
-            {
-              "slot": "slot-lt-1",
-              "talk": "3_techniques_faciles_de_manipulation"
-            },
-            {
-              "slot": "lunch",
+              "slot": "lunch-day-1",
               "talk": "__lunch"
             },
             {
-              "slot": "slot-lt-2",
-              "talk": "_47_ans___ils_nont_toujours_pas_remarque__"
+              "slot": "slot-3-day-1",
+              "talk": "interactive_web_animation_with_svg"
             },
             {
-              "slot": "slot-4",
-              "talk": "rust__webassembly__and_the_future_of_serverless"
-            },
-            {
-              "slot": "pause-4",
+              "slot": "pause-3-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-5",
-              "talk": "le_design_de_l_erreur"
+              "slot": "slot-4-day-1",
+              "talk": "building_web_apps_that_dont_suck"
             },
             {
-              "slot": "pause-5",
+              "slot": "pause-4-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-6",
-              "talk": "monitoring_ovh__300k_serveurs__27_dcs_une_plateforme_de_metriques"
+              "slot": "slot-5-day-1",
+              "talk": "iot_for_the_introvert"
             },
             {
-              "slot": "pause-6",
+              "slot": "pause-5-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-7",
-              "talk": "_votre_api_web_passe_t_elle_le_controle_technique__"
+              "slot": "slot-6-day-1",
+              "talk": "dr_gopher__anatomie_du_scheduler_golang"
             },
             {
-              "slot": "keynote-close",
-              "talk": "keynote_close"
+              "slot": "pause-6-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7-day-1",
+              "talk": "pair_design___un_moyen_de_concevoir_a_deux_ou_plus"
             },
             {
               "slot": "party",
@@ -3197,64 +3532,360 @@
               "talk": "keynote_open_overflow"
             },
             {
-              "slot": "slot-1",
-              "talk": "a_kotlin_multiplatform_evolution"
-            },
-            {
-              "slot": "pause-2",
+              "slot": "pause-1-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-2",
-              "talk": "le_burn_out_agile"
+              "slot": "slot-1-day-1",
+              "talk": "go_serverless_with_cloud_functions_for_firebase"
             },
             {
-              "slot": "pause-3",
+              "slot": "pause-2-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-3",
-              "talk": "_numerique_et_environnement__ou__on_aurait_pu_sauver_les_abeilles__on_a_prefere_sortir_un_nouvel_iphone_"
+              "slot": "slot-2-day-1",
+              "talk": "developper_une_api_cloud_ready_avec_quarkus"
             },
             {
-              "slot": "slot-lt-1",
-              "talk": "machine_learning_avec_des_allumettes_et_des_cotillons"
-            },
-            {
-              "slot": "lunch",
+              "slot": "lunch-day-1",
               "talk": "__lunch"
             },
             {
-              "slot": "slot-lt-2",
-              "talk": "applications_de_brainfuck__langage_minimaliste_mais_turing_complet"
+              "slot": "slot-3-day-1",
+              "talk": "docker__kubernetes___istio___tips__tricks___tools"
             },
             {
-              "slot": "slot-4",
-              "talk": "live_coding_musical___vous_savez_coder___devenez_compositeur_avec_webaudio_et_webmidi__"
-            },
-            {
-              "slot": "pause-4",
+              "slot": "pause-3-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-5",
-              "talk": "the_freedom_of_static_typing"
+              "slot": "slot-4-day-1",
+              "talk": null
             },
             {
-              "slot": "pause-5",
+              "slot": "pause-4-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-6",
+              "slot": "slot-5-day-1",
+              "talk": "l_epopee_des_polices_css_de_comic_sans_aux_fontes_variables"
+            },
+            {
+              "slot": "pause-5-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-6-day-1",
+              "talk": "promouvoir_son_projet_open_source_comme_une_rock_star__"
+            },
+            {
+              "slot": "pause-6-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7-day-1",
+              "talk": "le_futur_de_la_gestion_des_dependances_node"
+            }
+          ]
+        },
+        {
+          "room": "room3",
+          "slots": [
+            {
+              "slot": "slot-1-day-1",
+              "talk": "au_dela_des_couleurs__des_interfaces_adaptees_au_daltonisme"
+            },
+            {
+              "slot": "pause-2-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-2-day-1",
+              "talk": "tu_packages__comment___bazel_bazel_bazel___"
+            },
+            {
+              "slot": "lunch-day-1",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "slot-3-day-1",
+              "talk": "duniter___la_blockchain_ecolo"
+            },
+            {
+              "slot": "pause-3-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-4-day-1",
+              "talk": "performance_tuning_of_go_applications_in_cloud"
+            },
+            {
+              "slot": "pause-4-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-5-day-1",
+              "talk": "les_specificites_des_jeux_de_societe_numeriques"
+            },
+            {
+              "slot": "pause-5-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-6-day-1",
+              "talk": "kubernetes_enfin_ultra_simple_et_leger_avec_k3s"
+            },
+            {
+              "slot": "pause-6-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7-day-1",
+              "talk": "le_sommeil__a_la_recherche_du_temps_perdu"
+            }
+          ]
+        },
+        {
+          "room": "room4",
+          "slots": [
+            {
+              "slot": "slot-1-day-1",
+              "talk": "gpgpu__utiliser_la_carte_graphique_pour_accelerer_vos_applications_"
+            },
+            {
+              "slot": "pause-2-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-2-day-1",
+              "talk": "iot_edge_to_the_rescue_"
+            },
+            {
+              "slot": "lunch-day-1",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "slot-3-day-1",
+              "talk": "make_your_data_fabulous"
+            },
+            {
+              "slot": "pause-3-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-4-day-1",
+              "talk": "null__undefined_and_maybe__a_tale_of_uncertainty"
+            },
+            {
+              "slot": "pause-4-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-5-day-1",
               "talk": "authentication_authorization_starters_battle"
             },
             {
-              "slot": "pause-6",
+              "slot": "pause-5-day-1",
               "talk": "__pause"
             },
             {
-              "slot": "slot-7",
-              "talk": "mon_p____de_voyant_moteur_est_encore_allume___comment_debugger_mon_moteur___plongeon_dans_les_entrailles_des_calculateurs_moteur"
+              "slot": "slot-6-day-1",
+              "talk": "la_confidentialite_assuree_par_les_math"
+            },
+            {
+              "slot": "pause-6-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7-day-1",
+              "talk": "comment_j_ai_fini_par_deployer_a_2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_avec_un_velo_d_appartement_"
+            }
+          ]
+        },
+        {
+          "room": "room_codelab1",
+          "slots": [
+            {
+              "slot": "codelab-1-day-1",
+              "talk": "apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique"
+            },
+            {
+              "slot": "lunch-day-1",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "codelab-2-day-1",
+              "talk": "decouvrez_micronaut__le_framework_qui_va_faire_du_bien_a_la_jvm__"
+            },
+            {
+              "slot": "pause-4-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "codelab-3-day-1",
+              "talk": "le_graal_d_aws___decouverte_et_prise_en_main_de_chalice"
+            }
+          ]
+        },
+        {
+          "room": "room_codelab2",
+          "slots": [
+            {
+              "slot": "codelab-1-day-1",
+              "talk": "creer_votre_device_iot_connecte_en_quelques_heures"
+            },
+            {
+              "slot": "lunch-day-1",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "codelab-2-day-1",
+              "talk": "workshop___kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android"
+            },
+            {
+              "slot": "pause-4-day-1",
+              "talk": "__pause"
+            },
+            {
+              "slot": "codelab-3-day-1",
+              "talk": "understand_your_code_with_machine_learning_on_source_code"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "day": "2019-10-22",
+      "start": "08:30",
+      "rooms": [
+        {
+          "room": "room1",
+          "slots": [
+            {
+              "slot": "open-day-2",
+              "talk": "__open"
+            },
+            {
+              "slot": "slot-1-day-2",
+              "talk": "zen_and_the_art_of_vuejs"
+            },
+            {
+              "slot": "pause-1-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-2-day-2",
+              "talk": "web_ready_augmented_reality_in_47_lines_of_code"
+            },
+            {
+              "slot": "pause-2-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-3-day-2",
+              "talk": "bootiful_testing"
+            },
+            {
+              "slot": "lunch-day-2",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "slot-4-day-2",
+              "talk": "svelte__la_nouvelle_revolution_des_applications_web"
+            },
+            {
+              "slot": "pause-3-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-5-day-2",
+              "talk": "data___art"
+            },
+            {
+              "slot": "pause-4-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-6-day-2",
+              "talk": "parcel_js___le_bundler_dont_vous_reviez___"
+            },
+            {
+              "slot": "pause-5-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7-day-2",
+              "talk": "vega_au_secours_de_vos_visualisations_de_donnees"
+            },
+            {
+              "slot": "pause-6-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "keynote-close",
+              "talk": "keynote_close"
+            }
+          ]
+        },
+        {
+          "room": "room2",
+          "slots": [
+            {
+              "slot": "slot-1-day-2",
+              "talk": "building_better_products_faster__devux_is_the_new_devops"
+            },
+            {
+              "slot": "pause-1-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-2-day-2",
+              "talk": "how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes"
+            },
+            {
+              "slot": "pause-2-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-3-day-2",
+              "talk": "new_and_emerging_web_platform_apis"
+            },
+            {
+              "slot": "lunch-day-2",
+              "talk": "__lunch"
+            },
+            {
+              "slot": "slot-4-day-2",
+              "talk": "knative__a_kubernetes_framework_to_manage_serverless_workloads"
+            },
+            {
+              "slot": "pause-3-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-5-day-2",
+              "talk": "_brancher_sa_guitare_a_son_navigateur___et_le_web_deviens_rock_n_roll____"
+            },
+            {
+              "slot": "pause-4-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-6-day-2",
+              "talk": "infrastructure_as_code__il_n_y_a_pas_que_terraform_dans_la_vie"
+            },
+            {
+              "slot": "pause-5-day-2",
+              "talk": "__pause"
+            },
+            {
+              "slot": "slot-7-day-2",
+              "talk": "informatique_quantique__je_suis_non_binaire"
+            },
+            {
+              "slot": "pause-6-day-2",
+              "talk": "__pause"
             },
             {
               "slot": "keynote-close",
@@ -3266,64 +3897,56 @@
           "room": "room3",
           "slots": [
             {
-              "slot": "slot-1",
-              "talk": "quand_les_rates_des_ias_nous_renvoient_a_nos_propres_biais_societaux"
+              "slot": "slot-1-day-2",
+              "talk": "dis_moi_doc__quelle_it_en_2025__"
             },
             {
-              "slot": "pause-2",
+              "slot": "pause-1-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-2",
-              "talk": "rust_as_a_high_level_langage"
+              "slot": "slot-2-day-2",
+              "talk": "storybook_pour_votre_design_system__un_conte_de_fees__"
             },
             {
-              "slot": "pause-3",
+              "slot": "pause-2-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-3",
-              "talk": "allo_paris__ici_san_francisco__et_si_on_codait_ensemble_avec_vs_code_"
+              "slot": "slot-3-day-2",
+              "talk": "the_web_is_on__f_i_r_e________conference_"
             },
             {
-              "slot": "slot-lt-1",
-              "talk": "le_troll_dans_ta_machine_____une_courte_introduction_a_la_pensee_de_jean_yves_girard"
-            },
-            {
-              "slot": "lunch",
+              "slot": "lunch-day-2",
               "talk": "__lunch"
             },
             {
-              "slot": "slot-lt-2",
-              "talk": "un_distributeur_automatique_d_argent_de_poche_pour_les_enfants"
+              "slot": "slot-4-day-2",
+              "talk": "apache_pulsar_101__architecture__concepts_et_comparaison"
             },
             {
-              "slot": "slot-4",
-              "talk": "le_jaillissement_de_l_esprit"
-            },
-            {
-              "slot": "pause-4",
+              "slot": "pause-3-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-5",
-              "talk": "comprendre_le_role_du_noyau_d_un_systeme_d_exploitation_en_creant_un_from_scratch"
+              "slot": "slot-5-day-2",
+              "talk": "game_development_with_unity_from_an_android_point_of_view"
             },
             {
-              "slot": "pause-5",
+              "slot": "pause-4-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-6",
-              "talk": "devops_at_scale"
+              "slot": "slot-6-day-2",
+              "talk": "webauthn__le_renouveau_de_l_authentification"
             },
             {
-              "slot": "pause-6",
+              "slot": "pause-5-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-7",
-              "talk": "modern_forms_in_react"
+              "slot": "slot-7-day-2",
+              "talk": "comment_le_projet_euler_m_as_donne_envie_de_refaire_des_maths"
             }
           ]
         },
@@ -3331,132 +3954,97 @@
           "room": "room4",
           "slots": [
             {
-              "slot": "slot-1",
-              "talk": "a_la_decouverte_de_la_realite_augmentee_avec_arcore"
+              "slot": "slot-1-day-2",
+              "talk": "back_in_black_hat___comment_se_faire_pogoter__hacker__bien_comme_il_faut_"
             },
             {
-              "slot": "pause-2",
+              "slot": "pause-1-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-2",
-              "talk": "rockin_in_the_angular_world"
-            },
-            {
-              "slot": "pause-3",
-              "talk": "__pause"
-            },
-            {
-              "slot": "slot-3",
+              "slot": "slot-2-day-2",
               "talk": "premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core"
             },
             {
-              "slot": "slot-lt-1",
-              "talk": "developpeurs_en_reconversion__developpeurs_quand_meme__"
+              "slot": "pause-2-day-2",
+              "talk": "__pause"
             },
             {
-              "slot": "lunch",
+              "slot": "slot-3-day-2",
+              "talk": "core__le_principe__dans_le_doute_reboot__applique_a__net"
+            },
+            {
+              "slot": "lunch-day-2",
               "talk": "__lunch"
             },
             {
-              "slot": "slot-lt-2",
-              "talk": "10_est_une_puissance_de_2"
+              "slot": "slot-4-day-2",
+              "talk": "fpga__creer_du_materiel_en_programmant"
             },
             {
-              "slot": "slot-4",
-              "talk": "de_java_a_un_executable_natif___graalvm_et_quarkus_changent_la_donne"
-            },
-            {
-              "slot": "pause-4",
+              "slot": "pause-3-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-5",
-              "talk": "brace_yourself__vanilla_is_coming__back__"
+              "slot": "slot-5-day-2",
+              "talk": "build_your_own_knowledge_graph_with_weaviate_on_gcp"
             },
             {
-              "slot": "pause-5",
+              "slot": "pause-4-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-6",
-              "talk": "four_diseases"
+              "slot": "slot-6-day-2",
+              "talk": "swift_superpowers"
             },
             {
-              "slot": "pause-6",
+              "slot": "pause-5-day-2",
               "talk": "__pause"
             },
             {
-              "slot": "slot-7",
-              "talk": "introduction_a_la_programmation_par_contraintes"
+              "slot": "slot-7-day-2",
+              "talk": "jamstack__ou_comment_faire_des_sites_statiques_modernes_et_rapides"
             }
           ]
         },
         {
-          "room": "office-hours",
+          "room": "room_codelab1",
           "slots": [
             {
-              "slot": "office-hours-1",
-              "talk": "office-hour-01"
+              "slot": "codelab-1-day-2",
+              "talk": "una_gitlab__le_tp_a_roulette__"
             },
             {
-              "slot": "office-hours-2",
-              "talk": "office-hour-02"
+              "slot": "codelab-2-day-2",
+              "talk": "creons_notre_premiere_api_avec_nestjs"
             },
             {
-              "slot": "office-hours-3",
-              "talk": "office-hour-03"
+              "slot": "codelab-3-day-2",
+              "talk": "deploying_and_building_webthings_workshop_by_mozilla"
+            }
+          ]
+        },
+        {
+          "room": "room_codelab2",
+          "slots": [
+            {
+              "slot": "codelab-1-day-2",
+              "talk": "les_mains_dans_le_cambouis_avec_webassembly"
             },
             {
-              "slot": "office-hours-lt-1",
-              "talk": "office-hour-11"
+              "slot": "codelab-2-day-2",
+              "talk": "il_faut_sauver_lora"
             },
             {
-              "slot": "office-hours-lt-2",
-              "talk": "office-hour-12"
-            },
-            {
-              "slot": "office-hours-4",
-              "talk": "office-hour-04"
-            },
-            {
-              "slot": "office-hours-5",
-              "talk": "office-hour-05"
-            },
-            {
-              "slot": "office-hours-6",
-              "talk": "office-hour-06"
+              "slot": "codelab-3-day-2",
+              "talk": "developper_de_nouvelles_applications_avec_docker_app"
             }
           ]
         }
       ]
     }
   ],
-  "sponsors": [
-    {
-      "key": "apside",
-      "title": "APSIDE",
-      "category": "platinium",
-      "order": 20,
-      "logo": "/images/partners/apside.png",
-      "website": "http://www.apside.com",
-      "lang": "fr",
-      "why": "What else ?",
-      "socials": [
-        {
-          "icon": "facebook",
-          "link": "https://facebook.com/ApsideGroupe",
-          "name": "ApsideGroupe"
-        },
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ApsideGroupe",
-          "name": "ApsideGroupe"
-        }
-      ],
-      "description": "APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l'écosystème IT sur leurs projets innovants.\nTous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ ... \nNous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d'architecture, produits complets, sujets porteurs et utiles...\nC'est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.\nAlors, prêt à tenter l'aventure ?\n\nAPSIDE, c'est un groupe de plus de 2600 collaborateurs à travers la France... tous répartis en équipes d'experts localisées.\n\n"
-    }
-  ],
+  "sponsors": [],
   "team": [
     {
       "title": "Annabelle Koster",

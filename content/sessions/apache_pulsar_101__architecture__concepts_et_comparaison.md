@@ -3,12 +3,12 @@ key: apache_pulsar_101__architecture__concepts_et_comparaison
 title: 'Apache Pulsar 101: architecture, concepts et comparaison'
 id: zkxHfYw24KNpjHVWHiyB
 language: French
-talkType: ''
+talkType: conference
 tags:
   - _bigdata___ai
 complexity: Beginner
 speakers:
-  - quentin____adam
+  - quentin_adam
   - steven_le_roux
 videoId: null
 presentation: null

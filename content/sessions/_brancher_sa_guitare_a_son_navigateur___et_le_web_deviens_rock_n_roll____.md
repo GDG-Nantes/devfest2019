@@ -2,7 +2,7 @@
 key: _brancher_sa_guitare_a_son_navigateur___et_le_web_deviens_rock_n_roll____
 title: "\U0001F918\U0001F3B8 Brancher sa guitare a son navigateur : Et le web deviens rock'n'roll !  \U0001F918\U0001F3B8"
 id: imlHFq6TjUPfXNZ0vIfl
-talkType: ''
+talkType: conference
 tags:
   - _discovery
 complexity: Intermediate

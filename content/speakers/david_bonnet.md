@@ -3,8 +3,8 @@ key: david_bonnet
 name: David Bonnet
 id: FdH8RDo6FERL1mCOAZLfjPMQ7Co1
 feature: false
-photo: /images/speakers/david_bonnet.jpg
 city: 'San Francisco, USA'
+photo: /images/speakers/david_bonnet.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/igrandav'
