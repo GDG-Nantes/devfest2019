@@ -87,17 +87,6 @@
       "description": "On a creusé la Web Audio API d'HTML5 en se basant sur le travail de Michel Buffa notamment, avec pour but de recréer une pédale de distorsion dans vos navigateurs préférés!\n\nOn verra quels sont les possibilités offertes par l'API, comment on peut se rapprocher au mieux du fonctionnement d'une véritable pédale et quels sont les limitations...\nsi il y en a ;)\n\nEt si vous êtes sage, y'aura des décibels ! 🤘🎸"
     },
     {
-      "key": "a_kotlin_multiplatform_evolution",
-      "title": "A Kotlin multiplatform evolution",
-      "language": "English",
-      "format": "conference",
-      "tags": ["languages"],
-      "level": "advanced",
-      "speakers": ["liliia_abdulina"],
-      "draft": false,
-      "description": "Have you heard of the code-sharing feature in Kotlin, accompanied with \"Write once, run everywhere\" slogan? Among its users not only libraries and frameworks authors; there are some projects which have already adopted multiplatform for production. Their applications, written in Kotlin for *both* iOS and Android, are published in stores. \nWith this talk, you'll get a brief overview of the evolution of multiplatform technology in Kotlin, concerning the tasks it's evolved to solve. How it was and how it is expected to be; what has changed and which tasks can be already solved with it. What are the facilities right now and which real projects already use multiplatform?"
-    },
-    {
       "key": "ai___robot_cat___a_smart_cat",
       "title": "AI + Robot Cat = A Smart Cat",
       "id": "Euu7QJjcULbfWzrJWWPq",
@@ -2122,23 +2111,6 @@
         }
       ],
       "description": "UX Designer basée à Genève. Depuis quelques années, je travaille sur l'expérience utilisateur de produits destinés aux développeurs et développeuses : SonarQube et SonarCloud. En parallèle, je me passionne pour l'accessibilité et l'inclusivité des produits numériques."
-    },
-    {
-      "key": "liliia_abdulina",
-      "name": "Liliia Abdulina",
-      "feature": false,
-      "company": "JetBrains",
-      "companyLogo": "/images/partners/jetbrains.png",
-      "city": "Munich, Germany",
-      "photoURL": "/images/speakers/liliia_abdulina.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/var_lynx",
-          "name": "var_lynx"
-        }
-      ],
-      "description": "Kotlin QA since 2017. Writing Kotlin code on a daily basis to be one of the first persons who try the things around Kotlin, mostly tooling; multiplatform is the biggest and a favorite part — made 200+ posts answering the users when we've announced Kotlin Multiplatform 1.3 for the first time. I have a rich mobile apps QA background, used to be a Java developer for a little while at the very beginning of the carrier."
     },
     {
       "key": "loic_mathieu",
