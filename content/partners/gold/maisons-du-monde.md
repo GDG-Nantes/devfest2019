@@ -1,5 +1,5 @@
 ---
-title: Maison du Monde
+title: Maisons du Monde
 type: partner
 category: gold
 website: 'https://www.maisonsdumonde.com/'
