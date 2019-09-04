@@ -6,7 +6,7 @@ language: English
 talkType: conference
 tags: 
   - _web
-complexity: intermediate
+complexity: Intermediate
 speakers:
   - josh_long
 videoId: null
