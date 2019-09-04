@@ -30,14 +30,10 @@ It is aimed at students, professionals or simply curious techies.
 
 {{< youtube-section link="o7BzM-yAz_M" title="Teaser 2019" class="primarydarker" >}}
 
-<!-- ...
+<!-- ... -->
 
 {{% home-speakers %}}
 ## Featured Speakers
-
-{{< button-link label="Submit a presentation"
-                url="http://www.conference-hall.io"
-                icon="cfp" >}}
 
 {{< button-link label="See all speakers"
                 url="./speakers"

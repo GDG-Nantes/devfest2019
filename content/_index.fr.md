@@ -29,22 +29,16 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
 
 {{< youtube-section link="o7BzM-yAz_M" title="Teaser 2019" class="primarydarker" >}}
 
-<!-- ...
+<!-- ... -->
 
 {{% home-speakers %}}
 ## Conférenciers en vedette
-
-{{< button-link label="Proposer une présentation"
-                url="http://www.conference-hall.io"
-                icon="cfp" >}}
 
 {{< button-link label="Voir tous les conférenciers"
                 url="./speakers"
                 icon="right" >}}
 
 {{% /home-speakers %}}
-
--->
 
 <!-- ... -->
 
