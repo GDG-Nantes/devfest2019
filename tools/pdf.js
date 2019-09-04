@@ -4,6 +4,7 @@ const {colorEmojiConfig} = require('plop-logger/lib/extra/colorEmojiConfig');
 const handler = require('serve-handler');
 const http = require('http');
 const pdfmerge = require('easy-pdf-merge');
+const fs = require('fs')
 
 Logger.config = colorEmojiConfig;
 Logger.config.defaultLevel = LogLevel.Debug;
@@ -111,6 +112,8 @@ async function cleanupBeforePrint(page) {
         if(err)
         logger.debug("error during merge");
         
+        fs.unlinkSync(output1)
+        fs.unlinkSync(output2)
         logger.info('merge pdf done', output);
     });
 
