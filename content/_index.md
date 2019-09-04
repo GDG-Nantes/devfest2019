@@ -41,8 +41,6 @@ It is aimed at students, professionals or simply curious techies.
 
 {{% /home-speakers %}}
 
--->
-
 <!-- ... -->
 
 {{% home-tickets class="tertiary" %}}
