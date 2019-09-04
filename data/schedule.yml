@@ -56,7 +56,7 @@
         - slot: pause-3-day-1
           talk: __pause
         - slot: slot-4-day-1
-          talk: 
+          talk: web_capabilities
         - slot: pause-4-day-1
           talk: __pause
         - slot: slot-5-day-1

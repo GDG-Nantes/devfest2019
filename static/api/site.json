@@ -941,6 +941,20 @@
       "description": "La Web platform évolue en permanence ! Et ça fait 4 ans qu'on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable & Engaging !\n\nIl est temps de se mettre à jour ! Prenons quelques minutes pour :\n\n 1. faire le point sur les tous derniers drafts du W3C, WICG et WHATWG\n\n 2. les démontrer dans le browser\n\n 3. présenter leurs application concrêtes et ce que ça apporte à nos utilisateurs\n\n 4. découvrir une méthodologie globale pour toujours opérer la transition sereinement\n\nAlors, prêt pour le turfu du web ?!"
     },
     {
+        "key": "web_capabilities",
+        "title": "Web Capabilities",
+        "id": "ZT1MhdJMLlwJ0XE1TsYT",
+        "language": "English",
+        "format": "conference",
+        "tags": ["_web"],
+        "level": "intermediate",
+        "speakers": ["kenneth"],
+        "videoId": null,
+        "presentation": null,
+        "draft": false,
+        "description": ""
+      },
+      {
       "key": "zen_and_the_art_of_vuejs",
       "title": "Zen and The Art of VueJS",
       "id": "hSGMgvMwUiXFxGIwnIrA",
@@ -1944,6 +1958,22 @@
       "description": "He is a father, Oaklander, and a software engineer at Google working on Web Components and tools and libraries to help build them, like lit-html, LitElement and Polymer. Previously at Google he worked on the Dart project, and founded the Google App Maker project. Before Google he was an independent consultant, built educational software, and struggled as a musician for a while."
     },
     {
+        "key": "kenneth",
+        "name": "Kenneth",
+        "id": "bCkrQrssjgU1zb5V2y2QpVnuCmf1",
+        "feature": true,
+        "city": "",
+        "photoURL": "/images/speakers/kenneth.jpg",
+        "socials": [
+          {
+            "icon": "twitter",
+            "link": "https://twitter.com/",
+            "name": ""
+          }
+        ],
+        "description": ""
+      },
+      {
       "key": "josh_long",
       "name": "Josh Long",
       "id": "VjWl9bZOfvg4Chr4gqA8m0d48Vt1",
@@ -3503,7 +3533,7 @@
             },
             {
               "slot": "slot-4-day-1",
-              "talk": null
+              "talk": "web_capabilities"
             },
             {
               "slot": "pause-4-day-1",
