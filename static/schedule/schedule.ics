@@ -754,19 +754,29 @@ TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Augmented reality is becoming more popular for both its artisti
- c and business applications. This talk will explore the frameworks and tool
- s that make AR more developer friendly\, including adding live masks to a w
- ebcam image in 47 lines of JavaScript!
+DESCRIPTION:Across the software industry a common thread in modern projects
+  is the need for continuous integration and deployment (CI/CD). Modern micr
+ oservice architectures require reliable multi-environment CI/CD automation.
+  There are a gamut of technologies addressing the need for CI/CD solutions.
+  However\, we struggle to get the right fit for our use cases. Traditional 
+ solutions tend to be rigid and resource hungry. \n\nThis is where Tekton\, 
+ a flexible Kubernetes-native open-source CI/CD framework\, which automates 
+ deployments across multiple platforms (Kubernetes\, serverless\, VMs)\, pla
+ ys a crucial role. Tekton\, hosted by the CD Foundation\, aspires to be the
+  common denominator in CI/CD\, modeling what Kubernetes has become in Cloud
+ -Native Application development.\n\nThis talk focuses on the Tekton Pipelin
+ es workflow\, building blocks\, and how you can tailor CI/CD solutions. It 
+ also covers the use of Tekton CLI and the Tekton Kubernetes Operator for ef
+ fective life cycle management of CI/CD pipelines.
 DTSTART:20191022T101000
 DURATION:PT50M
 LOCATION:Titan
-SUMMARY:Web Ready Augmented Reality in 47 Lines of Code
-UID:ZT1MhdJMLlwJ0XE1TsYT
-URL:https://devfest.gdgnantes.com/sessions/web_ready_augmented_reality_in_4
- 7_lines_of_code
+SUMMARY:How to Build Cloud-Native CI/CD Pipelines with Tekton on Kubernetes
+UID:RkTwW9vA7v3JI9lyYdju
+URL:https://devfest.gdgnantes.com/sessions/how_to_build_cloud_native_ci_cd_
+ pipelines_with_tekton_on_kubernetes
 TRANSP:TRANSPARENT
-CATEGORIES:🌍 Web
+CATEGORIES:☁️ Cloud & DevOps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:How would you feel if you knew that any pat of the code was at 
@@ -919,29 +929,22 @@ TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Across the software industry a common thread in modern projects
-  is the need for continuous integration and deployment (CI/CD). Modern micr
- oservice architectures require reliable multi-environment CI/CD automation.
-  There are a gamut of technologies addressing the need for CI/CD solutions.
-  However\, we struggle to get the right fit for our use cases. Traditional 
- solutions tend to be rigid and resource hungry. \n\nThis is where Tekton\, 
- a flexible Kubernetes-native open-source CI/CD framework\, which automates 
- deployments across multiple platforms (Kubernetes\, serverless\, VMs)\, pla
- ys a crucial role. Tekton\, hosted by the CD Foundation\, aspires to be the
-  common denominator in CI/CD\, modeling what Kubernetes has become in Cloud
- -Native Application development.\n\nThis talk focuses on the Tekton Pipelin
- es workflow\, building blocks\, and how you can tailor CI/CD solutions. It 
- also covers the use of Tekton CLI and the Tekton Kubernetes Operator for ef
- fective life cycle management of CI/CD pipelines.
+DESCRIPTION:En utilisant le 1er kit de chat robot destiné au grand public (
+ Open Cat/Petoi)\, je vais montrer comment le customiser en y ajoutant de l'
+ intelligence artificielle en utilisant les APIs des différents clouds publi
+ cs (Amazon Alexa\, AWS\, Azure & Google).\n\nPLAN \nPrésentation du projet 
+ Petoi avec un chat robot en démonstration\nQuelles sont les différentes API
+  d'IA utilisables dans le cloud\nComment customiser l'Open Cat ?\nComment f
+ aire coexister différentes APIs dans un même device ?\nDémo avec le chat ro
+ bot
 DTSTART:20191022T101000
 DURATION:PT50M
 LOCATION:Belem
-SUMMARY:How to Build Cloud-Native CI/CD Pipelines with Tekton on Kubernetes
-UID:RkTwW9vA7v3JI9lyYdju
-URL:https://devfest.gdgnantes.com/sessions/how_to_build_cloud_native_ci_cd_
- pipelines_with_tekton_on_kubernetes
+SUMMARY:AI + Robot Cat = A Smart Cat
+UID:Euu7QJjcULbfWzrJWWPq
+URL:https://devfest.gdgnantes.com/sessions/ai___robot_cat___a_smart_cat
 TRANSP:TRANSPARENT
-CATEGORIES:☁️ Cloud & DevOps
+CATEGORIES:📱 Mobile & IoT
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In this talk\, I will give an update on the  Capabilities proje
