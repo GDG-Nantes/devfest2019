@@ -161,7 +161,7 @@
         - slot: pause-1-day-2
           talk: __pause
         - slot: slot-2-day-2
-          talk: web_ready_augmented_reality_in_47_lines_of_code
+          talk: how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes
         - slot: pause-2-day-2
           talk: __pause
         - slot: slot-3-day-2
@@ -193,7 +193,7 @@
         - slot: pause-1-day-2
           talk: __pause
         - slot: slot-2-day-2
-          talk: how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes
+          talk: ai___robot_cat___a_smart_cat
         - slot: pause-2-day-2
           talk: __pause
         - slot: slot-3-day-2

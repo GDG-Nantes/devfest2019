@@ -5,7 +5,7 @@ menu:
     weight: 10
 
 horizontal: false
-draft: true
+draft: false
 ---
 
 {{% hero img="/images/backgrounds/back-4.jpg" imgLabel="DevFest Nantes 2019"%}}

@@ -941,20 +941,6 @@
       "description": "La Web platform évolue en permanence ! Et ça fait 4 ans qu'on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable & Engaging !\n\nIl est temps de se mettre à jour ! Prenons quelques minutes pour :\n\n 1. faire le point sur les tous derniers drafts du W3C, WICG et WHATWG\n\n 2. les démontrer dans le browser\n\n 3. présenter leurs application concrêtes et ce que ça apporte à nos utilisateurs\n\n 4. découvrir une méthodologie globale pour toujours opérer la transition sereinement\n\nAlors, prêt pour le turfu du web ?!"
     },
     {
-      "key": "web_ready_augmented_reality_in_47_lines_of_code",
-      "title": "Web Ready Augmented Reality in 47 Lines of Code",
-      "id": "ZT1MhdJMLlwJ0XE1TsYT",
-      "language": "English",
-      "format": "conference",
-      "tags": ["_web"],
-      "level": "intermediate",
-      "speakers": ["ali_spittel"],
-      "videoId": null,
-      "presentation": null,
-      "draft": false,
-      "description": "Augmented reality is becoming more popular for both its artistic and business applications. This talk will explore the frameworks and tools that make AR more developer friendly, including adding live masks to a webcam image in 47 lines of JavaScript!"
-    },
-    {
       "key": "zen_and_the_art_of_vuejs",
       "title": "Zen and The Art of VueJS",
       "id": "hSGMgvMwUiXFxGIwnIrA",
@@ -1956,22 +1942,6 @@
         }
       ],
       "description": "He is a father, Oaklander, and a software engineer at Google working on Web Components and tools and libraries to help build them, like lit-html, LitElement and Polymer. Previously at Google he worked on the Dart project, and founded the Google App Maker project. Before Google he was an independent consultant, built educational software, and struggled as a musician for a while."
-    },
-    {
-      "key": "ali_spittel",
-      "name": "Ali Spittel",
-      "id": "bCkrQrssjgU1zb5V2y2QpVnuCmf1",
-      "feature": true,
-      "city": "New Hampshire, USA",
-      "photoURL": "/images/speakers/ali_spittel.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/ASpittel",
-          "name": "ASpittel"
-        }
-      ],
-      "description": "She is a software engineer and developer advocate at DEV. Before that, she was a lead instructor at General Assembly teaching their Web Development Immersive for both campus and enterprise programs. She currently teaches their Python part time class. She is one of their distinguished faculty members, part of the Python Product Advisory Board, and have been nominated for a GAccolade award. Before teaching, she was a software engineer at a startup. She blog a lot about code and her life as a developer. Her blog posts have had over 900k reads and have been featured on DEV's top 7, the top spot on HackerNews, FreeCodeCamp, and in JSWeekly. You can hear about new posts on her newsletter. She is also a director for Women Who Code DC, a co-founder of the Art Code Collective, and the DC Chapter Lead for Vue Vixens."
     },
     {
       "key": "josh_long",
@@ -3748,7 +3718,7 @@
             },
             {
               "slot": "slot-2-day-2",
-              "talk": "web_ready_augmented_reality_in_47_lines_of_code"
+              "talk": "how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes"
             },
             {
               "slot": "pause-2-day-2",
@@ -3813,7 +3783,7 @@
             },
             {
               "slot": "slot-2-day-2",
-              "talk": "how_to_build_cloud_native_ci_cd_pipelines_with_tekton_on_kubernetes"
+              "talk": "ai___robot_cat___a_smart_cat"
             },
             {
               "slot": "pause-2-day-2",
