@@ -951,8 +951,8 @@
       "description": "La Web platform évolue en permanence ! Et ça fait 4 ans qu'on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable & Engaging !\n\nIl est temps de se mettre à jour ! Prenons quelques minutes pour :\n\n 1. faire le point sur les tous derniers drafts du W3C, WICG et WHATWG\n\n 2. les démontrer dans le browser\n\n 3. présenter leurs application concrêtes et ce que ça apporte à nos utilisateurs\n\n 4. découvrir une méthodologie globale pour toujours opérer la transition sereinement\n\nAlors, prêt pour le turfu du web ?!"
     },
     {
-        "key": "web_capabilities",
-        "title": "Web Capabilities",
+        "key": "project_fugu__reaching_parity_with_native",
+        "title": "Project FUGU, reaching parity with native",
         "id": "ZT1MhdJMLlwJ0XE1TsYT",
         "language": "English",
         "format": "conference",
@@ -962,7 +962,7 @@
         "videoId": null,
         "presentation": null,
         "draft": false,
-        "description": "PROJECT FUGU, REACHING PARITY WITH NATIVE If you have been to any conference the last five years, you have probably heard about Progressive Web Apps (PWA). Web sites that can progressively turn into app like experiences and be installed on your devices. PWAs now also work on desktop systems, but usually desktop applications have different requirements as they are usually used for creating, in contract to consumption on mobile. As a user you want to be able to access your files, copy paste without issues, not having the screen turn off while giving a presentation, you want access to printers and other devices, access to local fonts. The list goes on! Currently most of those things are only available to native apps and are not things you want your random web sites to have access to. Project Fugu is the project to extend the web with more native like capabilities in a way that is safe and understood by the users. Join this talk to learn more about the exciting things we are working on as part of Project Fugu."
+        "description": "If you have been to any conference the last five years, you have probably heard about Progressive Web Apps (PWA). Web sites that can progressively turn into app like experiences and be installed on your devices. PWAs now also work on desktop systems, but usually desktop applications have different requirements as they are usually used for creating, in contract to consumption on mobile. As a user you want to be able to access your files, copy paste without issues, not having the screen turn off while giving a presentation, you want access to printers and other devices, access to local fonts. The list goes on! Currently most of those things are only available to native apps and are not things you want your random web sites to have access to. Project Fugu is the project to extend the web with more native like capabilities in a way that is safe and understood by the users. Join this talk to learn more about the exciting things we are working on as part of Project Fugu."
       },
       {
       "key": "zen_and_the_art_of_vuejs",
@@ -3560,7 +3560,7 @@
             },
             {
               "slot": "slot-4-day-1",
-              "talk": "web_capabilities"
+              "talk": "project_fugu__reaching_parity_with_native"
             },
             {
               "slot": "pause-4-day-1",
