@@ -123,7 +123,7 @@
   start: '08:30'
   duration: 30
   row:
-    start: 0
+    start: 1
     end: 3
 - key: slot-1-day-2
   start: '09:00'
