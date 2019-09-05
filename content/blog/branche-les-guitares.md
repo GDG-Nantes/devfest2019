@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## Top Speakers
-Before the announcement of the program, here are some of our top speakers / speakers of this DevFest 2019! 🎶 ["Bruce Springsteen - Born to run"](https://www.youtube.com/watch?v=IxuThNgl3YA) 🎶
+Before the announcement of the program, here are some of our top speakers of this DevFest 2019! 🎶 ["Bruce Springsteen - Born to run"](https://www.youtube.com/watch?v=IxuThNgl3YA) 🎶
 
 {{<centered-img src="/images/blog/jen_looper.png" alt="Jen Looper" width="150">}} 
 Jen Looper : I'm a Google Developer Expert and a Cloud Developer Advocate Lead at Microsoft with over 18 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. I'm a multilingual multiculturalist with a passion for hardware hacking, mobile apps, Vue.js, machine learning and discovering new things every day. I'm also the founder and CEO of Vue Vixens, an initiative promoting diversity in the Vue.js community. You can usually find me on Twitter [@jenlooper](http://twitter.com/jenlooper).
