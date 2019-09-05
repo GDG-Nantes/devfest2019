@@ -8,7 +8,7 @@ tags:
   - _web
 complexity: Intermediate
 speakers:
-  - kenneth
+  - kenneth_rohde_christiansen
 videoId: null
 presentation: null
 draft: false

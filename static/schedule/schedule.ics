@@ -5,6 +5,17 @@ X-WR-CALDESC:DevFest Nantes
 X-WR-CALNAME:DevFest Nantes
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191021T090000
+DURATION:PT40M
+LOCATION:Titan
+SUMMARY:Keynote d'ouverture
+UID:keynote_open
+URL:https://devfest.gdgnantes.com/sessions/keynote_open
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Dans le monde merveilleux du frontend Web\, les frameworks et l
  eurs écosystèmes vont et viennent.\nCette course folle fatigue une grande p
  artie des développeurs.\nPourtant\, nous continuons à faire des choix d'arc
@@ -144,6 +155,17 @@ TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191021T090000
+DURATION:PT40M
+LOCATION:Belem
+SUMMARY:Keynote d'ouverture (overflow)
+UID:keynote_open_overflow
+URL:https://devfest.gdgnantes.com/sessions/keynote_open_overflow
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Firebase makes it incredibly easy to write\, deploy\, and scale
   a serverless backend\, written in TypeScript\, for your app.  In this sess
  ion\, you’ll get to experience that using nothing more than a code editor a
@@ -204,6 +226,17 @@ URL:https://devfest.gdgnantes.com/sessions/docker__kubernetes___istio___tip
  s__tricks___tools
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTSTART:20191021T151000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Web Capabilities
+UID:ZT1MhdJMLlwJ0XE1TsYT
+URL:https://devfest.gdgnantes.com/sessions/web_capabilities
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Un petit parcours\, côté technique\, de l'évolution des fontes 
