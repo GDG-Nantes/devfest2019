@@ -19,7 +19,7 @@ Justin Fagnani : He is a father, Oaklander, and a software engineer at Google wo
 Josh Long : He ([@starbuxman](https://twitter.com/starbuxman)) is the Spring Developer Advocate at Pivotal and a Java Champion. He's host of ["A Bootiful Podcast"](https://soundcloud.com/a-bootiful-podcast), host of the ["Spring Tips Videos"](http://bit.ly/spring-tips-playlist), co-author of [6+ books](http://joshlong.com/books.html), and instructor on [8+ Livelessons Training Videos](http://joshlong.com/livelessons.html).
 
 ## CFP Stats
-This year, we received 593 proposals for talks! Every year, more and more of you trust us and want to live the Speaker experience at Devfest Nantes. 🎶 ["Bob Dylan - Like a Rolling Stone"](https://www.youtube.com/watch?v=IwOfCgkyEj0) 🎶
+This year, we received 593 proposals! Every year, more and more of you trust us and want to live the Speaker experience at Devfest Nantes. 🎶 ["Bob Dylan - Like a Rolling Stone"](https://www.youtube.com/watch?v=IwOfCgkyEj0) 🎶
 
 <a href="https://devfest-cfp-stats.netlify.com/" target="_blank">{{<centered-img src="/images/blog/stats_cfp.png" alt="Stats CFP" width="800">}}</a>
 
