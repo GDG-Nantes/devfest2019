@@ -962,7 +962,7 @@
         "videoId": null,
         "presentation": null,
         "draft": false,
-        "description": ""
+        "description": "PROJECT FUGU, REACHING PARITY WITH NATIVE If you have been to any conference the last five years, you have probably heard about Progressive Web Apps (PWA). Web sites that can progressively turn into app like experiences and be installed on your devices. PWAs now also work on desktop systems, but usually desktop applications have different requirements as they are usually used for creating, in contract to consumption on mobile. As a user you want to be able to access your files, copy paste without issues, not having the screen turn off while giving a presentation, you want access to printers and other devices, access to local fonts. The list goes on! Currently most of those things are only available to native apps and are not things you want your random web sites to have access to. Project Fugu is the project to extend the web with more native like capabilities in a way that is safe and understood by the users. Join this talk to learn more about the exciting things we are working on as part of Project Fugu."
       },
       {
       "key": "zen_and_the_art_of_vuejs",
@@ -1990,7 +1990,7 @@
         "company": "Intel",
         "companyLogo": "/images/partners/intel.jpg",
         "city": "Copenhagen, Denmark",
-        "photoURL": "/images/speakers/kenneth_rohde_christiansen.png",
+        "photoURL": "/images/speakers/kenneth_rohde_christiansen.jpg",
         "socials": [
           {
             "icon": "twitter",
@@ -1998,7 +1998,7 @@
             "name": "kennethrohde"
           }
         ],
-        "description": "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel's strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on Qt, WebKit, as well as many other mobile projects. One of the key projects include the Nokia N9 browser; the world's first WebKit2 multi-process based browser on a mobile device, as well as the initial WebKit EFL port which lays the foundation of the Tizen OS used by such devices as the Samsung Gear 2 smart watches. Today, Kenneth mostly contributes to Blink and Chromium as well as a newly launched project called Crosswalk, a web-based runtime targeting multiple platforms, incl. Android. On the standardization side, Kenneth is participating in the multiple W3C working groups, aiming at improving and bringing web technology to even more people and platforms!"
+        "description": "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel’s strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on the Nokia N9 web browser, Qt, WebKit, as well as many other mobile projects. Kenneth is an elected member of the W3C Technical Architect Group (TAG)."
       },
       {
       "key": "josh_long",
