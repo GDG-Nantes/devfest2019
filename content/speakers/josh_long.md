@@ -2,7 +2,7 @@
 key: josh_long
 name: Josh Long
 id: VjWl9bZOfvg4Chr4gqA8m0d48Vt1
-feature: false
+feature: true
 company: Pivotal
 companyLogo: /images/partners/pivotal.png
 photo: /images/speakers/josh_long.jpg

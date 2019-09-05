@@ -2,7 +2,7 @@
 key: kenneth_rohde_christiansen
 name: Kenneth Rohde Vhristiansen
 id: bCkrQrssjgU1zb5V2y2QpVnuCmf1
-feature: false
+feature: true
 company: Intel
 companyLogo: /images/partners/intel.jpg
 city: 'Copenhagen, Denmark'
