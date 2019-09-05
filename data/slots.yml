@@ -2,7 +2,7 @@
   start: '08:00'
   duration: 60
   row:
-    start: 0
+    start: 1
     end: 3
 - key: keynote-open
   start: '09:00'
