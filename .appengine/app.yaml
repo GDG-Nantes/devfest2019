@@ -23,9 +23,9 @@ handlers:
     static_files: schedule/index.html
     upload: schedule/index.html
     secure: always
-  - url: /speaker
-    static_files: speaker/index.html
-    upload: speaker/index.html
+  - url: /speakers
+    static_files: speakers/index.html
+    upload: speakers/index.html
     secure: always
   # access the static resources in the root director
   - url: /(.*)
