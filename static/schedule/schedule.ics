@@ -1,0 +1,1537 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PROID:-//Devfest/DevFest Nantes//FR
+X-WR-CALDESC:DevFest Nantes
+X-WR-CALNAME:DevFest Nantes
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191021T090000
+DURATION:PT40M
+LOCATION:Titan
+SUMMARY:Keynote d'ouverture
+UID:keynote_open
+URL:https://devfest.gdgnantes.com/sessions/keynote_open
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dans le monde merveilleux du frontend Web\, les frameworks et l
+ eurs écosystèmes vont et viennent.\nCette course folle fatigue une grande p
+ artie des développeurs.\nPourtant\, nous continuons à faire des choix d'arc
+ hitecture qui nous pousseront demain\, à jeter et réécrire beaucoup de code
+ .\n\n\nIl est devenu trop facile de s'enfermer dans un framework/écosystème
+  X ou Y et trop facile de limiter ses connaissances à ce qu'il propose.\nOn
+  en oublie les problèmes de bases\, les fondamentaux\, et le plus souvent c
+ ela nous pousse à écrire du code qui mélange les couches (UI\, accès au DOM
+ \, accès aux données\, router\, state manager...) et qui résiste mal au tem
+ ps.\n\nAu menu de cette session\, je vous propose de décortiquer les différ
+ entes parties qui composent les frameworks Web modernes :\n\n* Pourquoi uti
+ lisons-nous ces outils ?\n* Quels problèmes nous aident-ils à résoudre ?\n*
+  Comment réduire l'adhérence et le couplage de notre code avec ces écosystè
+ mes ?\n* Comment produire du code de meilleure qualité\, à l'épreuve du tem
+ ps\, de la hype et des évolutions des standards du Web ?
+DTSTART:20191021T100000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Le Web\, ses frameworks et ses standards : déconstruire pour mieux 
+ (re?)construire
+UID:b5hF6p3CkOqC09NEiGTI
+URL:https://devfest.gdgnantes.com/sessions/le_web__ses_frameworks_et_ses_st
+ andards___deconstruire_pour_mieux__re__construire
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This talk would cover more advanced techniques necessary for bu
+ ilding large apps: cross-component coordination\, state management\, lazy l
+ oading views and components\, deferred rendering\, context-like APIs based 
+ on events\, render-props with lit-element\, theming\, and possibly SSR and 
+ rehydration. This will focus much more on overall architecture and advanced
+  techniques than web components basics. Non-web components topics like serv
+ ice workers and PWAs may be touched on\, but the focus will be web componen
+ ts and LitElement.
+DTSTART:20191021T111000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Building a Complex Application with Web Components and LitElement
+UID:vuByu8t2zUzhZwAaep6t
+URL:https://devfest.gdgnantes.com/sessions/building_a_complex_application_w
+ ith_web_components_and_litelement
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Have you ever felt uninspired by the every-day grind? Like codi
+ ng is all work and no play?\n\nCome with me as I take you on a whistle-stop
+  tour of delightful SVG animations. I’ll also ask for some audience partici
+ pation\, as interaction is what makes motion on the web so fun!\n\nBy the e
+ nd of this talk\, you will feel enthused and inspired to make your own crea
+ tive web animations with SVG.
+DTSTART:20191021T140000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Interactive web animation with SVG
+UID:drey18HXZigxa1JHhrQg
+URL:https://devfest.gdgnantes.com/sessions/interactive_web_animation_with_s
+ vg
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:As developers\, it's important to think about our users first: 
+ you need to create an awesome experience and part of the equation is to del
+ iver quality\, fast. Unfortunately\, we lost the habit of being efficient w
+ ith our code and assets\, getting used\, if you are lucky\, to more and mor
+ e power from our devices and internet connections. But our users want their
+  data now. Waiting is painful\, you know it! It's not an option anymore... 
+ Based on personal experience\, this presentation is about concrete tips and
+  tricks to help you optimize your masterpiece\, using HTML\, CSS\, and Java
+ Script (most applicable to other languages).
+DTSTART:20191021T151000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Building web apps that don’t suck
+UID:1FYvsNqstRjBnJhXNdwf
+URL:https://devfest.gdgnantes.com/sessions/building_web_apps_that_dont_suck
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:You can’t spell “introvert” without “IoT”\, which is why Chloe 
+ is here to show us how she used Azure IoT services to help her get out of n
+ ot-so-fun social situations. In this talk\, she’ll walk through how you can
+  use a simple Flic button and Azure to save yourself from your next awkward
+  convo.
+DTSTART:20191021T162000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:IoT for the Introvert
+UID:SHneT9Z4EuhEvtKuOLx9
+URL:https://devfest.gdgnantes.com/sessions/iot_for_the_introvert
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dr Gopher a décidé de comprendre comment fait le runtime Golang
+  pour multiplexer des goroutines sur des threads système.\n\n\nIl va trifou
+ iller dans les entrailles du scheduler\, pour y découvrir ses éléments de b
+ ase G M et P\, ainsi que ses différents mécanismes : création de thread\, t
+ hread parking\, local queues\, ou encore work stealing...\n\n\nLa programma
+ tion concurrentielle en Go permet au développeur de s'abstraire de la gesti
+ on des ressources systèmes \; penchons-nous avec Dr Gopher sur l'anatomie d
+ u scheduler et voyons comment il optimise naturellement l'utilisation de ce
+ s ressources.
+DTSTART:20191021T172000
+DURATION:PT20M
+LOCATION:Titan
+SUMMARY:Dr Gopher\, Anatomie du Scheduler Golang
+UID:gfMKNuH75Ksioc9rdRCB
+URL:https://devfest.gdgnantes.com/sessions/dr_gopher__anatomie_du_scheduler
+ _golang
+TRANSP:TRANSPARENT
+CATEGORIES:📝 Languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Malgré l'application de cadres agiles\, et l'amélioration de la
+  communication grâce à l'arrivé du Game Storming et autres ateliers\, un mu
+ r existe encore entre designers ("concepteurs") et développeurs.\n\nChaque 
+ groupe travaille indépendamment jusqu'à la prochaine fonctionnalité où le d
+ esigner présente ses travaux. Le produit alors développé est souvent une cr
+ éature difforme composée des besoins du métier\, des utilisateurs et de la 
+ technique. \n\nPourquoi un développeur ne pourrait il pas concevoir au même
+  titre qu'un designer ? Pourquoi un designer ne devrait il jamais se soucie
+ r des contraintes et faisabilités techniques de ces collègues ? Si on cassa
+ it ce mythe ? La solution ne serait il pas dans le "pair design": un moyen 
+ de concevoir à deux.
+DTSTART:20191021T175000
+DURATION:PT20M
+LOCATION:Titan
+SUMMARY:Pair Design : Un moyen de concevoir à deux ou plus
+UID:vzGargOlA8voJIxO4BLz
+URL:https://devfest.gdgnantes.com/sessions/pair_design___un_moyen_de_concev
+ oir_a_deux_ou_plus
+TRANSP:TRANSPARENT
+CATEGORIES:💚 UX / UI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191021T090000
+DURATION:PT40M
+LOCATION:Belem
+SUMMARY:Keynote d'ouverture (overflow)
+UID:keynote_open_overflow
+URL:https://devfest.gdgnantes.com/sessions/keynote_open_overflow
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Firebase makes it incredibly easy to write\, deploy\, and scale
+  a serverless backend\, written in TypeScript\, for your app.  In this sess
+ ion\, you’ll get to experience that using nothing more than a code editor a
+ nd the Firebase CLI.  You'll see a live demo of an HTTP API\, a Firestore t
+ rigger\, and other deceptively powerful functions that glue together Google
+  APIs and services.
+DTSTART:20191021T100000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Go “serverless” with Cloud Functions for Firebase
+UID:soeAyOgC36jM3ARXsDEG
+URL:https://devfest.gdgnantes.com/sessions/go_serverless_with_cloud_functio
+ ns_for_firebase
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Quarkus est un nouveau framework de développement de microservi
+ ce en Java. A sa sortie il a suscité pas mal de buzz. Il a été pensé pour l
+ e développement de microservice à déployer dans le Cloud. \nOn définit souv
+ ent les applications Cloud Ready celons les principes des _12 Factors Apps_
+   (https://12factor.net/)\, ou quand elles sont appliquées à Kubernetes\,  
+ _Cloud Native Container Apps_ (https://www.redhat.com/en/resources/cloud-na
+ tive-container-design-whitepaper).\nDans ce talks\, après avoir rapidement 
+ présenté Quarkus et ses principes\,  j'entamerais une scéance de live codin
+ g qui vous exposera les principales étapes pour développer une application 
+ _Cloud Native_ avec Quarkus.
+DTSTART:20191021T111000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Développer une API Cloud Ready avec Quarkus
+UID:U1Qk0QLvBtJWTWsjMPTc
+URL:https://devfest.gdgnantes.com/sessions/developper_une_api_cloud_ready_a
+ vec_quarkus
+TRANSP:TRANSPARENT
+CATEGORIES:📝 Languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Il ne fait aucun doute que Docker et Kubernetes sont omniprésen
+ ts dans le nouveau monde des microservices. Mais l'utilisation quotidienne 
+ peut être assez tricky.\n- Souhaitez-vous pouvoir créer des images plus pet
+ ites\, plus sûres et plus rapides à compiler ?\n- Avez-vous des difficultés
+  avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ?
+ \n- Quand tout va mal\, comment déboguez-vous un conteneur ? Et plusieurs p
+ ods ?\n- Souhaitez vous connaître des petits tips et outils pratiques ?\n- 
+ Vous êtes-vous demandé combien de temps et d'efforts vous pouviez économise
+ r avec une solution de service mesh et à quoi cela servait réellement ?\n\n
+ Aurélie et Kevin vont vous partager de nombreux conseils et outils\, qu'ils
+  utilisent tous les jours dans leurs entreprises\, dans l’optique de vous p
+ ermettre de vous faciliter le quotidien. Et cela améliorera également vos a
+ pplications !
+DTSTART:20191021T140000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Docker\, Kubernetes & Istio : Tips\, tricks & tools
+UID:0XqyD15XmnVBqKH26Y9O
+URL:https://devfest.gdgnantes.com/sessions/docker__kubernetes___istio___tip
+ s__tricks___tools
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:
+DTSTART:20191021T151000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Web Capabilities
+UID:ZT1MhdJMLlwJ0XE1TsYT
+URL:https://devfest.gdgnantes.com/sessions/web_capabilities
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Un petit parcours\, côté technique\, de l'évolution des fontes 
+ web à travers les différentes spécifications et technologies marquantes : f
+ ont-family\, @font-face\, compression\, Google Fonts\, CSS3\, icon-fonts\, 
+ emojis\, ligatures\, font-display et enfin les Fontes Variables. Respirez à
+  *font*\, tout va bien se passer !
+DTSTART:20191021T162000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:L'épopée des polices CSS de Comic Sans aux fontes variables
+UID:P39ti4I6J5PN4nn3oNll
+URL:https://devfest.gdgnantes.com/sessions/l_epopee_des_polices_css_de_comi
+ c_sans_aux_fontes_variables
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:En tant que développeur\, nous utilisons quotidiennement l’open
+  source. Aujourd’hui\, nous avons tous le réflexe d’utiliser ces projets ba
+ sés sur un modèle collaboratif pour répondre à des problématiques du quotid
+ ien et accélérer le développement. Créer un projet open-source est une exce
+ llente opportunité de devenir acteur de la communauté.\n\nComment promouvoi
+ r un projet open-source ? Quelles sont les étapes ? Comment inciter les vis
+ iteurs à l’utiliser\, voire à y contribuer ?  Comment et où communiquer son
+  existence ?\n\nNous vous donnerons toutes les clés pour promouvoir votre p
+ rojet open-source dans les meilleures conditions en s’appuyant sur des exem
+ ples concrets ainsi que notre expérience sur le sujet.\n\n“Hey ho\, let's g
+ o !“ 😉
+DTSTART:20191021T172000
+DURATION:PT20M
+LOCATION:Belem
+SUMMARY:Promouvoir son projet open-source comme une rock star !
+UID:tTtqiqxJRs7FXh1FSoSI
+URL:https://devfest.gdgnantes.com/sessions/promouvoir_son_projet_open_sourc
+ e_comme_une_rock_star__
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:# Présentation\nLe 13 septembre 2018 un thread twitter a été pa
+ rtagé par **Maël Nison** : yarn ne va plus avoir besoin de node_modules !\n
+ La déferlante de réponses\, likes et retweet confirment une chose : les nod
+ e_modules ne sont pas appréciés par la communauté.\n\n**Kat Marchán** (déve
+ loppeuse npm) n'a pas tardé à répondre\, elle aussi a eu la même idée mais 
+ sa solution est différente !\n\nCreusons ensemble les raisons de cet engoue
+ ment\, et voyons quels sont les grandes stratégies mises en place par les g
+ rands !\n\n![](https://i.imgur.com/hhbntkZ.png)  ![](https://i.imgur.com/BV
+ i7EOZ.png)
+DTSTART:20191021T175000
+DURATION:PT20M
+LOCATION:Belem
+SUMMARY:Le futur de la gestion des dépendances Node
+UID:uNGtKqNgZZ7ImmVxF6lS
+URL:https://devfest.gdgnantes.com/sessions/le_futur_de_la_gestion_des_depen
+ dances_node
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nous ne percevons pas tous les couleurs de la même façon. Il es
+ t admis que 4\,5% de la population a des difficultés à distinguer certaines
+  teintes comme le rouge ou le vert. Et pourtant\, nous continuons à utilise
+ r ces couleurs comme des standards d'information dans nos interfaces. Erreu
+ rs en rouge\, validations en vert… Malgré des recommandations d’accessibili
+ té bien connues\, le design d’interface actuel continue d’ignorer cette par
+ tie des utilisateurs au profit de certaines tendances visuelles. Pour les p
+ ersonnes daltoniennes\, grand nombre de services en ligne sont tout simplem
+ ent inutilisables.\n\nAlors comment renverser cette tendance ? Une interfac
+ e accessibles aux daltoniens doit-elle forcément être moche ? Pénible à met
+ tre en place ? Essayons ensemble de transformer cette contrainte d’accessib
+ ilité en moteur pour de meilleures expériences.\n\nNous verrons ensemble le
+ s bonnes pratiques et les outils à utiliser pour s’assurer que nos interfac
+ es sont accessibles à tous les types de daltonisme. Mais surtout nous verro
+ ns comment sensibiliser vos équipes à ce sujet.
+DTSTART:20191021T100000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Au delà des couleurs\, des interfaces adaptées au daltonisme
+UID:za8R64n8Oqm7Euuz78aN
+URL:https://devfest.gdgnantes.com/sessions/au_dela_des_couleurs__des_interf
+ aces_adaptees_au_daltonisme
+TRANSP:TRANSPARENT
+CATEGORIES:💚 UX / UI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bazel\, bazel\, bazel\, ... encore un outil de build dans notre
+  boite à outil de développeurs front ? Webpack n'était pas déja la solution
+  à tout ?\nBon nous sommes d'accord\, niveau configuration\, ce n'est pas e
+ ncore l'eldorado. Nous sommes plus proche de la configuration GruntJS que d
+ es scripts Gulp que nous avions pris l'habitude d'écrire. Et maintenant\, G
+ oogle nous parle de Bazel pour nos prochaines applications Angular ! #fatig
+ ue\n\nLors de cette conférence\, nous allons vous présenter cette nouvelle 
+ solution\, qui a déjà fait ces preuves chez Google. Nous aborderons ces cas
+  d'utilisation (qui ne sont pas limités qu'aux projets front)\, l'interêt d
+ e l'utiliser dans votre prochain projet (ou pas)\, nos premiers pas (et nos
+  premières galères) avec. \n\nA la fin de cette présentation\, vous aurez u
+ n bon aperçu de cette solution et vous comprendrez pourquoi l'équipe d'Angu
+ lar l'a intégré dans sa CLI.
+DTSTART:20191021T111000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Tu packages  comment ? Bazel bazel bazel ! 📦
+UID:6YRBevpRuzvHpTahfu0M
+URL:https://devfest.gdgnantes.com/sessions/tu_packages__comment___bazel_baz
+ el_bazel___
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Aujourd’hui\, le bitcoin est le premier cas d’usage connu de bl
+ ockchain mais il est controversé pour sa consommation électrique et sa vola
+ tilité. Duniter peut se présenter comme une technologie blockchain alternat
+ ive pour les crypto-monnaies d’échange. Au travers de ce talk vous découvri
+ rez le fonctionnement de la technologie Duniter et pourquoi nous avons choi
+ si de nous intéresser et nous engager dans cette blockchain avec la monnaie
+  libre Ğ1 (“June”).
+DTSTART:20191021T140000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Duniter : la blockchain écolo
+UID:duniter___la_blockchain_ecolo
+URL:https://devfest.gdgnantes.com/sessions/duniter___la_blockchain_ecolo
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:I want to optimize the performance of my cloud components\, to 
+ save money\, but most importantly to improve responsiveness. Nobody enjoys 
+ slow software...\n\nMy key advice is to consider the whole picture\, to mea
+ sure\, and to focus on the bottlenecks.\nI will tell the story of a cool ap
+ p written in Go using App Engine and GKE\, which has latency problems. Let'
+ s explore how to diagnose it with the tooling: Benchmarks\, Pprof\, CPU Tra
+ ce\, Flame graphs\, OpenTelemetry\, and StackDriver's waterfalls.\n\nOnce I
+  am able to visualize the latencies\, it becomes much easier to incremental
+ ly make my app faster!
+DTSTART:20191021T151000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Performance tuning of Go applications in Cloud
+UID:omD4YZC4aeDe3WlHQ6IA
+URL:https://devfest.gdgnantes.com/sessions/performance_tuning_of_go_applica
+ tions_in_cloud
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Les jeux de société posent des problèmes de design et d'archite
+ cture qui sont uniques dans le monde du jeu vidéo. Puisant dans plus de 15 
+ ans d'expérience faite d'échecs et de réussites\, Yann Corno en décrira les
+  spécificités. Après un rappel sur le marché du jeu de société physique et 
+ son développement récent dans le digital\, nous couvrirons les principaux a
+ spects d’architecture et de design\, et nous verrons comment ils sont liés.
+ \n\nCette introduction au monde des jeux de société numériques intéressera 
+ aussi bien les développeurs que les game designers.
+DTSTART:20191021T162000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Les spécificités des jeux de société numériques
+UID:4womBQjyPQa0CQXUrIEf
+URL:https://devfest.gdgnantes.com/sessions/les_specificites_des_jeux_de_soc
+ iete_numeriques
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:L'installation d'un cluster Kubernetes a longtemps été une tâch
+ e lourde pour l'Ops ou le Dev. Mais on arrive maintenant dans une ère de ma
+ turité dans les distributions Kubernetes\, avec notamment Rancher\, Openshi
+ ft... mais aussi les installeurs du cloud comme EKS de AWS. Ici je propose 
+ d'explorer dans un Quickie une autre distribution issue de Rancher\, ultra-
+ légère\, ultra simple\, prête pour la prod et l'IOT.  K3S débarrasse Kubern
+ etes de sa complexité de ses plugins superflus et change Kubernetes en simp
+ le binaire à lancer sur vos machines. Au programme: explication de ce que ç
+ a cache sous le capot et de la démo !
+DTSTART:20191021T172000
+DURATION:PT20M
+LOCATION:Tour de Bretagne
+SUMMARY:Kubernetes enfin ultra simple et léger avec K3S
+UID:OIjVxOH5t9EA0uP1CFmV
+URL:https://devfest.gdgnantes.com/sessions/kubernetes_enfin_ultra_simple_et
+ _leger_avec_k3s
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Les nouveautés d'Angular 7\, de React 16.8 ou encore de TypeScr
+ ipt 3.3.3333...  \nEt Kubernetes\, avec ses nodes\, pods\, ReplicaSet\, Dae
+ monSet\, Jobs\, NodePort\, LoadBalancer\, ou encore ses Ingress... 🤯  \nVo
+ us n'arrivez plus à tout suivre et à tout apprendre ?\n\nJ'ai un secret pou
+ r vous\, une méthode révolutionnaire\, ancestrale et 100% naturelle...  \nL
+ e **sommeil** !\n\nNous passons un tiers de notre vie à dormir\, tout du mo
+ ins nous devrions ! Le sommeil est une activité essentielle\, dont l'import
+ ance est malheureusement parfois encore méconnue ou minimisée.\n\nPourtant 
+ c'est l'un des mécanismes de base pour renforcer notre cerveau\, optimiser 
+ notre mémoire et conserver notre santé.  \nEn tant que développeur\, nous a
+ vons chaque jour besoin d'apprendre\, comprendre et maîtriser de nouvelles 
+ notions et de nouvelles technologies. Le sommeil est certainement notre mei
+ lleur allié pour cela !\n\nNous verrons ensemble ce qu'est le sommeil\, ses
+  différentes phases et leurs multiples intérêts.  \nPar exemple comment not
+ re mémoire est renforcée pendant que nous dormons ou encore pourquoi nos rê
+ ves développent notre capacité à résoudre des problèmes de plus en plus com
+ plexes.  \nEnfin nous aborderons les différentes manières d'avoir un sommei
+ l de qualité !\n\nEt j'espère que cette présentation vous donnera une seule
+  envie\, celle de dormir 💤
+DTSTART:20191021T175000
+DURATION:PT20M
+LOCATION:Tour de Bretagne
+SUMMARY:Le sommeil\, à la recherche du temps perdu
+UID:mqrd0iqqHellKFjJyVIX
+URL:https://devfest.gdgnantes.com/sessions/le_sommeil__a_la_recherche_du_te
+ mps_perdu
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:En 2004\, au SIGGRAPH (la plus importante conférence pour tout 
+ ce qui se rapporte au "computer graphics") des chercheurs de l'université d
+ e Stanford théorise le GPGPU : Ne plus se restreindre à de la 3D et pouvoir
+   faire du calcul "générique" sur GPU. Inspiré par ce papier\, NVidia sorti
+ ra CUDA en Juin 2007 permettant enfin au monde entier d'exploiter les GPU N
+ Vidia pour tout type de calcul. Suivra ensuite OpenCL\, par Khronos Group (
+ notamment responsable d'OpenGL)\, généralisant le GPGPU à tous les GPUs\, e
+ t enfin\, l'intégration du GPGPU dans toute les APIs graphiques majeurs (Op
+ enGL\, Metal\, DirectX et Vulkan).\n\nIl est donc aujourd'hui plus simple q
+ ue jamais de programmer sur GPU\, mais pourquoi ? Comment ? Et comment le f
+ aire bien ?\n\nCe talk répondra à toutes ces questions et les mettra en oeu
+ vre sous forme de live coding !\n\n# Plan du talk\nCe talk à 3 buts:\n1. Ex
+ pliquer pourquoi il est temps d'exploiter le GPU dans vos application\n2. M
+ ontrer comment programmer sur GPU\n3. Parler plus en détail des spécificité
+  du GPU et des optimisations qui lui sont propres\n\n## Expliquer pourquoi 
+ il est temps d'exploiter le GPU dans vos applications\nQuand bien même le G
+ PGPU est désormais disponible sur toutes les plateformes depuis plusieurs a
+ nnées\, le GPGPU reste largement sous exploité. Cette partie du talk consis
+ tera donc à expliquer pourquoi votre application peut bénéficier du GPGPU\,
+  qu'elle soit une application mobile\, un backend web ou un moteur d'IA. El
+ le se basera sur des exemples théoriques et\, autant que possible\, concret
+ s.\n\n## Montrer comment programmer sur GPU\nCette partie\, qui sera réalis
+ é en live-programming\, montrera comment il est possible de réaliser un sim
+ ple programme qui fait du GPGPU. Le live-programming sera réalisé avec Rust
+  et OpenGL (mais le choix des technologies est peu important et facilement 
+ interchangeable).\n\n## Parler plus en détail des spécificité du GPU et des
+  optimisations qui lui sont propre\nLe GPU fonctionne de façons très différ
+ ente d'un CPU. Si les différences majeurs seront introduites en première pa
+ rtie\, cette partie en parlera plus en détails. De plus\, elle expliquera c
+ omment optimiser un programme sur GPU en ce basant sur l'exemple live-codé 
+ dans la partie précédente.\n\n# Prérequis\nCe talk est destiné à un public 
+ technique. Il est recommandé d'avoir quelques connaissances sur:\nl'archite
+ cture basique d'un PC moderne\nQuelques concepts de programmation parallèle
+ \nDes bases de C\, notamment sur les structures de données (flottant\, enti
+ er\, ...)
+DTSTART:20191021T100000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:GPGPU: Utiliser la carte graphique pour accélérer vos applications!
+UID:gLlR2d54uGV94NChK47Z
+URL:https://devfest.gdgnantes.com/sessions/gpgpu__utiliser_la_carte_graphiq
+ ue_pour_accelerer_vos_applications_
+TRANSP:TRANSPARENT
+CATEGORIES:📝 Languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The world is moving from processing the data in the Cloud to pr
+ ocessing it on the Edge devices. Edge computing helps to break beyond the l
+ imitations imposed by\, now\, traditional cloud solutions. There are a few 
+ reasons to that\, like privacy concerns\, reducing the need for heavy proce
+ ssing resources\, reducing the amount of data that is sent over the network
+  – just to mention a few.\n\nIn this talk\, we will introduce the concept a
+ nd benefits of Edge Computing\, how such devices can be built using afforda
+ ble hardware and we will look at examples on how IoT Edge devices are in pr
+ actice as well as comparing Edge Computing with other options.\n\nAs a demo
+ \, we have automated the manual job of counting the attendance for talks at
+  a conference. We have built a live system while keeping the privacy of the
+  people intact\; without leaking faces and identity of the people to a 3rd 
+ party or Cloud providers. In addition to standard video processing\, we add
+ ed advanced ML techniques and models to the device to demonstrate the power
+  and flexibility of the Edge devices nowadays.
+DTSTART:20191021T111000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:IoT Edge to the rescue 🛡️
+UID:YcYbzTiENcd0afk3oP7c
+URL:https://devfest.gdgnantes.com/sessions/iot_edge_to_the_rescue_
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The CAP theorem is widely known for distributed systems\, but i
+ t's not the only tradeoff you should be aware of. For datastores there is a
+ lso the FAB theory and just like with the CAP theorem you can only pick two
+ :\n\n* Fast: Results are real-time or near real-time instead of batch orien
+ ted.\n* Accurate: Answers are exact and don't have a margin of error.\n* Bi
+ g: You require horizontal scaling and need to distribute your data.\n\nWhil
+ e Fast and Big are relatively easy to understand\, Accurate is a bit harder
+  to picture. This talk shows some concrete examples of accuracy tradeoffs E
+ lasticsearch can take for terms aggregations\, cardinality aggregations wit
+ h HyperLogLog++\, and the IDF part of full-text search. Or how to trade som
+ e speed or the distribution for more accuracy.
+DTSTART:20191021T140000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:Make Your Data FABulous
+UID:3bpYxNtnZ9IgdjDAV9Bn
+URL:https://devfest.gdgnantes.com/sessions/make_your_data_fabulous
+TRANSP:TRANSPARENT
+CATEGORIES:🤖 BigData & AI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:# Null\, undefined and maybe\, a tale of uncertainty\n\n**TypeE
+ rror:** *Cannot read property of undefined*\n\nA message too often seen in 
+ our application logs\, it’s a bad omen revealing the presence of various bu
+ gs\, and even of application crashes. So\, we are going to find out about *
+ *Maybe**\, a most powerful tool that we will code to save us from these iss
+ ues.\n\nIn this talk:\n- I’m going to explore some concrete cases to lay th
+ e code foundations of our new tool\;\n- we are going to use these new skill
+ s to solve our problems.\n- and we are going to use our newly-acquired know
+ ledge to take up the next challenges.\n\nYou will leave this presentation w
+ ith:\n- a new shiny ready-to-use tool to use on your code right now\;\n- ne
+ w knowledge allowing you to find an elegant solution to some complex issues
+  regarding uncertainty\;\n- the ability to deliver more robust applications
+  to your customers?.\n\nThis talk mainly targets javascript developers\, fr
+ om the beginners to the most experienced ones\, whether backend or frontend
+ . The code presented here is javascript\, but since the concept of maybe an
+ d how it can solve the uncertainty issues are pretty much universal\, Maybe
+  may appeal to a wide audience.\n\n\n# Null\, undefined\, maybe\, une histo
+ ire d'incertitude.\n\n**TypeError:** *Cannot read property of undefined*\n\
+ nUn message d’erreur bien trop souvent aperçu dans nos logs\, c’est un mauv
+ ais présage signalant la présence de nombreux bugs\, et même de crash d'app
+ lication. Aussi\, nous allons découvrir **Maybe**\, un bien puissant outil 
+ que nous allons coder pour nous libérer de ces problèmes.\n\nPendant cette 
+ présentation:\n- je vous présenterai des cas concrets qui nous aideront à c
+ oder les fondations de notre nouvel outil\;\n- nous utiliserons ces nouvell
+ es compétences pour résoudre nos problèmes\;\n- et nous utiliserons nos con
+ naissances fraîchement acquises pour résoudre les challenges suivants.\n\nV
+ ous quitterez cette présentation avec:\n- un nouvel outil prêt-à-l’emploi:\
+ n- de nouvelles connaissances qui vous permettront de solutionner de façon 
+ élégante des scénarios d’incertitude complexes.\n- la capacité de livrer de
+ s applications beaucoup plus robustes.\n\nCette présentation cible principa
+ lement les développeurs javascript\, des débutants aux plus expérimentés\, 
+ backend ou frontend. Le code présenté est le javascript mais comme le conce
+ pt de Maybe et la façon dont il permet de gérer l’incertitude sont universe
+ ls\, Maybe peut intéresser un vaste public.
+DTSTART:20191021T151000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:# Null\, undefined and maybe\, a tale of uncertainty
+UID:D2cYPUbo5VbsjmAadLGX
+URL:https://devfest.gdgnantes.com/sessions/null__undefined_and_maybe__a_tal
+ e_of_uncertainty
+TRANSP:TRANSPARENT
+CATEGORIES:📝 Languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When you start a brand new app or service\, you need to think a
+ bout how you will manage authentication and permissions. But if you are lik
+ e everyone else\, you genuinely do not want to actually think about this. I
+ f someone else could do that for you\, life would be great. And this has ac
+ tually happened\, you have the choice between several boilerplate projects 
+ or authentication/authorization libraries. In fact\, you have a lot of opti
+ ons. Which one to choose? Let's have a closer look to them!\n\nAt the end o
+ f this talk\, you will have a good overview of the common existing solution
+ s and their benefits.
+DTSTART:20191021T162000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:Authentication/Authorization Starters Battle
+UID:6E03tbU6L5w0IyjMi7yF
+URL:https://devfest.gdgnantes.com/sessions/authentication_authorization_sta
+ rters_battle
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Depuis mars dernier la famille TensorFlow compte un nouveau mem
+ bre *TensorFlow Privacy*. De quoi s’agit-il ? Quelles sont les théories mat
+ hématiques qui garantissent la confidentialité d'un modèle de Deep Learning
+  et comment sont-elles implémentées ?
+DTSTART:20191021T172000
+DURATION:PT20M
+LOCATION:Graslin
+SUMMARY:La confidentialité assurée par les math
+UID:TB6SIZVae6tKAp2iuTlx
+URL:https://devfest.gdgnantes.com/sessions/la_confidentialite_assuree_par_l
+ es_math
+TRANSP:TRANSPARENT
+CATEGORIES:🤖 BigData & AI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:```\n- J'ai une super idée\, mais je vais avoir besoin d'aide\,
+  parce que moi et le code...\nha ?\n- Je voudrais faire tourner des voiture
+ s électriques sur un circuit en faisant pédaler des gens pendant 24h\n...\n
+ - Tu vois comment faire ?\n- Alors... c'est pas dur... Il suffit de deux Ar
+ duino\, d'un Raspberry\, quelques capteurs et c'est parti...\n```\n\nEt voi
+ là à peu près comment en 2 minutes j'ai été convaincu de suivre un hurluber
+ lu dans un projet franchement rigolo mêlant de nombreuses technos.\n\nEt ce
+ rise sur le gâteau\, les aléas techniques m'ont conduit jusqu'à déployer la
+  solution sur AWS depuis une salle des fêtes en rase campagne un jour de te
+ mpête avec pour seule connexion mon téléphone...
+DTSTART:20191021T175000
+DURATION:PT20M
+LOCATION:Graslin
+SUMMARY:Comment j'ai fini par déployer à 2h du matin une application sur AW
+ S pour piloter des voitures électriques avec un vélo d'appartement.
+UID:p0qINDWxKe7NNvcbZPRZ
+URL:https://devfest.gdgnantes.com/sessions/comment_j_ai_fini_par_deployer_a
+ _2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_
+ avec_un_velo_d_appartement_
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Habituellement\, lors d’un challenge de sécurité type CTF ( htt
+ ps://ctf101.org/ ) l’objectif est de trouver la faille. Nous vous proposons
+  de faire l’inverse : sécurisez un cluster kubernetes pour faire face à des
+  mauvaises pratiques et failles courantes.\n\nLors de cet atelier\, vous au
+ rez à disposition un cluster kubernetes soumis à différentes attaques. Vous
+  serez alors accompagnés pour mettre en place les bonnes contre-mesures et 
+ sécuriser votre cluster.\n\nPrérequis : avoir son ordinateur\, être à l’ais
+ e avec le shell et connaître les concepts de kubernetes et des conteneurs
+DTSTART:20191021T100000
+DURATION:PT120M
+LOCATION:Les Machines
+SUMMARY:Apprenez à sécuriser votre cluster kubernetes par la pratique
+UID:k6r7HRlCQ9gsx7Drdt4n
+URL:https://devfest.gdgnantes.com/sessions/apprenez_a_securiser_votre_clust
+ er_kubernetes_par_la_pratique
+TRANSP:TRANSPARENT
+CATEGORIES:🐱‍💻 SECURITY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Temps de démarrage proche de la seconde\, empreinte mémoire de 
+ 10 MB\, pas de réflection\, approche orientée "cloud native" : autant de ca
+ ractéristiques qui font du framework Micronaut le compagnon idéal  de dével
+ oppement de vos microservices Java/Kotlin. Mais concrètement\, comment on é
+ crit du code avec Micronaut ?\n\nDans ce TP nous coderons quelques microser
+ vices en Java ou Kotlin\, les builderons avec Gradle\, y brancherons une pe
+ tite base de donnée H2 ou MongoDB et bien sûr les feront interagir avec du 
+ service discovery. Ce TP permettra ainsi de couvrir les principales fonctio
+ nnalités de Micronaut comme :\n\n* L'injection de dépendance and l'inversio
+ n de contrôle (IoC)\n* La configuration et l'auto-configuration\n* Les serv
+ ices HTTP avec des clients et des serveurs HTTP\n* Les aspects cloud native
+ \n* Le support des APIs réactives\n* Les tests\n* Le management et le monit
+ oring de nos microservices\n* La compilation native avec GraalVM
+DTSTART:20191021T140000
+DURATION:PT120M
+LOCATION:Les Machines
+SUMMARY:Découvrez Micronaut\, le framework qui va faire du bien à la JVM !
+UID:0Ka6ZU9876uQ2ZsBjCfc
+URL:https://devfest.gdgnantes.com/sessions/decouvrez_micronaut__le_framewor
+ k_qui_va_faire_du_bien_a_la_jvm__
+TRANSP:TRANSPARENT
+CATEGORIES:📝 Languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Chalice est un micro-framework en python proposé par Amazon. Da
+ ns ce codelab vous verez comme il peut être très simple de développer et dé
+ ployer un micro-service sur AWS. API Rest\, interaction avec d'autres servi
+ ces AWS tout ça en sirotant une petite coupette.
+DTSTART:20191021T162000
+DURATION:PT120M
+LOCATION:Les Machines
+SUMMARY:Le graal d'AWS : Découverte et prise en main de Chalice
+UID:vaPb7SVWpqCKWMD8rQ1F
+URL:https://devfest.gdgnantes.com/sessions/le_graal_d_aws___decouverte_et_p
+ rise_en_main_de_chalice
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le nombre de devices IoT devrait être multiplié par trois dans 
+ les trois prochaines années. Mais pour les déployer\, il faudra des dévelop
+ peurs.\nAprès une courte introduction\, ce workshop vous permettra d'écrire
+  et déployer du code sur une development board (carte de développement phys
+ ique)\, mais également comment connecter votre périphérique IoT au cloud af
+ in de développer des usages connectés.\n\nPour assister à ce workshop\, un 
+ PC (ou un Mac !) est nécessaire. Il faudra installer plusieurs logiciels - 
+ dont Visual Studio Code - afin de pouvoir déployer votre code sur le device
+  (une board compatible Arduino).
+DTSTART:20191021T100000
+DURATION:PT120M
+LOCATION:Le Hangar
+SUMMARY:Créer votre device IoT connecté en quelques heures
+UID:Ew9a8XaJRV3NUmgkWR4K
+URL:https://devfest.gdgnantes.com/sessions/creer_votre_device_iot_connecte_
+ en_quelques_heures
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kotlin Multiplatform est une solution de développement open-sou
+ rce permettant de mutualiser du code pour des applications iOS et Android. 
+ De vraies applications natives sans compromis qualitatif mais avec une code
+  base en Kotlin partagée pour tout ce qui n’est pas spécifique à la platefo
+ rme iOS ou Android.\n\nDurant ce workshop nous allons faire une introductio
+ n pratique à Kotlin Multiplatform en réalisant deux applications natives (i
+ OS et Android) partageant du code métier en Kotlin. En sortant d’ici vous a
+ urez intégré les principes de bases et les bonnes pratiques du développemen
+ t Kotlin Multiplatform.\n\n## Pré-requis\n\n  * Des notions de développemen
+ t natif Android et/ou iOS sont requises pour profiter pleinement de ce work
+ shop.\n  * Vous arriverez à la séance équipés d’un **ordinateur portable**\
+ , avec **Android Studio 3.4+** et **XCode 10.2+** si vous disposez d’un Mac
+  (afin de compiler l’application iOS).
+DTSTART:20191021T140000
+DURATION:PT120M
+LOCATION:Le Hangar
+SUMMARY:Workshop - Kotlin Multiplatform : mutualiser du code sur iOS et And
+ roid
+UID:gevXHeoGYajrCygKBiwx
+URL:https://devfest.gdgnantes.com/sessions/workshop___kotlin_multiplatform_
+ __mutualiser_du_code_sur_ios_et_android
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Machine Learning on Source Code (MLonCode) is an emerging and e
+ xciting research domain which stands at the sweet spot between deep learnin
+ g\, natural language processing\, social science\, and programming.\n\nDuri
+ ng this 2 hours workshop\, we are going to show you how to extract insights
+  from code bases—step by step—by shedding light on those crucial aspects:\n
+ \n- What information is available in your code\n- How to extract this infor
+ mation\n- What can you do with this knowledge: what are the tasks solvable 
+ by MLonCode\n- Which models can be used to solve them\n\nTo get our hands d
+ irty\, we will solve several example tasks\, using source{d}\, an open sour
+ ce stack to gain insights from codebases:\n\n- Suggest function names autom
+ atically\n- Cluster developers\n- Search projects by similarity\n\nPrerequi
+ sites: a laptop with Docker installed. We will provide an image to all part
+ icipants.
+DTSTART:20191021T162000
+DURATION:PT120M
+LOCATION:Le Hangar
+SUMMARY:Understand your code with Machine Learning on Source Code
+UID:yqiyt3VtCEHOBGlMYSln
+URL:https://devfest.gdgnantes.com/sessions/understand_your_code_with_machin
+ e_learning_on_source_code
+TRANSP:TRANSPARENT
+CATEGORIES:🤖 BigData & AI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Let's see how a rich artistic tradition can inspire and inform 
+ our craft as Vue.js developers.
+DTSTART:20191022T090000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Zen and The Art of VueJS
+UID:hSGMgvMwUiXFxGIwnIrA
+URL:https://devfest.gdgnantes.com/sessions/zen_and_the_art_of_vuejs
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Across the software industry a common thread in modern projects
+  is the need for continuous integration and deployment (CI/CD). Modern micr
+ oservice architectures require reliable multi-environment CI/CD automation.
+  There are a gamut of technologies addressing the need for CI/CD solutions.
+  However\, we struggle to get the right fit for our use cases. Traditional 
+ solutions tend to be rigid and resource hungry. \n\nThis is where Tekton\, 
+ a flexible Kubernetes-native open-source CI/CD framework\, which automates 
+ deployments across multiple platforms (Kubernetes\, serverless\, VMs)\, pla
+ ys a crucial role. Tekton\, hosted by the CD Foundation\, aspires to be the
+  common denominator in CI/CD\, modeling what Kubernetes has become in Cloud
+ -Native Application development.\n\nThis talk focuses on the Tekton Pipelin
+ es workflow\, building blocks\, and how you can tailor CI/CD solutions. It 
+ also covers the use of Tekton CLI and the Tekton Kubernetes Operator for ef
+ fective life cycle management of CI/CD pipelines.
+DTSTART:20191022T101000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:How to Build Cloud-Native CI/CD Pipelines with Tekton on Kubernetes
+UID:RkTwW9vA7v3JI9lyYdju
+URL:https://devfest.gdgnantes.com/sessions/how_to_build_cloud_native_ci_cd_
+ pipelines_with_tekton_on_kubernetes
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:How would you feel if you knew that any pat of the code was at 
+ most a few minutes away from being shippable and delivered into production?
+  How would you feel if you knew that any part of the code is a few ctrl+z's
+  away from being shippable and delivered into production? Emboldened and co
+ nfident? Test driven development (TDD) gives you that. TDD allows you to pr
+ oceed with confidence that you're building the right thing. It provides you
+  with imminent-horizons that you can meet and measure. TDD gives developers
+  the confidence to go faster\, secure in the knowledge that what they break
+  they will fix and be able to improve. In this talk\, join Spring Developer
+  Advocate Josh Long (@starbuxman) as he looks at how to test Spring applica
+ tions and services. We'll look at how to test basic components\, mocks\, ho
+ w to take advantage of test slices\, and how to test web applications. We'l
+ l also look at how to ensure that API producers and API consumers work well
+  together using consumer driven contract testing (CDCT) without sacrificing
+  the testing pyramid for end-to-end integration tests.
+DTSTART:20191022T112000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Bootiful Testing
+UID:gsIF2uG4a6IyAv4YTuyt
+URL:https://devfest.gdgnantes.com/sessions/bootiful_testing
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:J'ai récemment vu la conférence [Rethinking Reactivity](https:/
+ /www.youtube.com/watch?v=AdNJ3fydeao) de Rich Harris\, sur son outil [Svelt
+ e](https://svelte.dev/). Je suis sûr que cette conférence fera date\, et va
+  influencer tout l'écosystème des outils JavaScript dans les années à venir
+ .\n\nPourquoi&nbsp\;? Parce que le constat de son auteur est assez convainc
+ ant&nbsp\;: Nous venons de passer de _"les ordinateurs et les navigateurs w
+ eb sont de plus en plus puissants"_ à _"les applications web sont déployées
+  sur des machines de moins en moins puissantes (objets connectés...)"_ sans
+  nous en rendre compte. Et les outils à notre disposition aujourd'hui (Reac
+ t\, Angular...) ont grandement amélioré la qualité et l'efficacité du dével
+ oppement de nos applications\, mais pas forcément autant leur performance o
+ u la taille des fichiers finaux.\n\nAinsi\, pour adresser ce nouveau problè
+ me\, Svelte **compile** le code d'entrée\, en un code JavaScript "vanilla"\
+ , qui comprend les instructions JavaScript les plus simples et directes pou
+ r créer et mettre à jour le DOM\, plutôt que de passer par une approche typ
+ e *Virtual DOM* pendant l'exécution du code. Ce qui rend Svelte incroyablem
+ ent **performant** (quasi optimal théoriquement\, pour les vues)\, et **lég
+ er** (en particulier avec très peu de code issu de Svelte lui-même dans les
+  fichiers finaux). \n\nMais alors&nbsp\;:\n  - Comment ça fonctionne\, Svel
+ te&nbsp\;? Et en pratique\, développer avec\, ça donne quoi&nbsp\;?\n  - Co
+ mment ça intéragit avec les autres outils que nous maitrisons déjà&nbsp\;?\
+ n  - Enfin\, maintenant que de nouvelles portes sont ouvertes\, **n'y aurai
+ t-il pas encore mieux à faire**&nbsp\;?
+DTSTART:20191022T140000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Svelte\, la nouvelle révolution des applications web
+UID:upyuHsqO0MNP8cz8ttwQ
+URL:https://devfest.gdgnantes.com/sessions/svelte__la_nouvelle_revolution_d
+ es_applications_web
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:L'expérience que je vous propose est de voyager à la frontière 
+ des 2 hémisphères de votre cerveau. Réconcilier ce que\, a priori\, tout op
+ pose avec d'un côté\, la rigueur scientifique et de l'autre\, les émotions 
+ tirées d'un travail artistique.\n\nLors de cette présentation\, nous aborde
+ rons tout d'abord les différences entre data visualization et data art. Pui
+ s\, nous nous attarderons sur le Montreux Jazz Festival avec son lot de dat
+ a viz et applications impliquant musique et machine learning. Enfin\, nous 
+ terminerons notre périple en parcourant la galaxie de l'univers de Star War
+ s\, sans oublier de passer par quelques cas d'usages créatifs impliquant da
+ ta et intelligence artificielle.
+DTSTART:20191022T151000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Data + Art
+UID:1pPAH10fVgm728cNTxSY
+URL:https://devfest.gdgnantes.com/sessions/data___art
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A l'époque\, il n'y a pas si longtemps\, mettre au point un bui
+ ld JS était une galère sans nom. On a tous sué à grosses goutes en essayant
+  de comprendre ce qui n'allait pas avec les scripts Grunt ou Gulp. Il n'éta
+ it pas beaucoup plus facile d'enchainer manuellement les appels des dizaine
+ s d'outils tels que browserify\, minify\, etc pour arriver au même résultat
+ . Il était beaucoup trop facile de se perdre dans les dizaines (centaines ?
+ ??) de lignes de code que représentaient les fichiers de build. Et puis les
+  bundlers "modernes" sont arrivés. Rien de plus simple que créer un build a
+ vec Webpack en quelques lignes de configuration. Un nouveau type de ressour
+ ce a gérer\, pas de problème\, il y a juste a configurer le plugin qu'il fa
+ ut. Mais c'était encore trop :)\n\n\nParcel est un bundler javascript récen
+ t qui propose une expérience développeur absolument génial. Il n'y a tout s
+ implement pas de configuration à faire. On lance l'outil et quasiment tout 
+ est supporté out of the box en plus d'être ultra rapide. Du JS au Typescrip
+ t en passant par LESS et web assembly\, Parcel sais quasiment tout faire\, 
+ sans ajout manuel de plugins ou configuration supplémentaire.\n\n\nDans cet
+ te présentation\, nous verrons comment prendre en main Parcel\, ses avantag
+ es par rapport à la concurrence et comment l'intégrer simplement dans votre
+  processus de dev. front.
+DTSTART:20191022T162000
+DURATION:PT20M
+LOCATION:Titan
+SUMMARY:Parcel.js : le bundler dont vous rêviez \;)
+UID:d1Yng4mhbcD71ko9lKBu
+URL:https://devfest.gdgnantes.com/sessions/parcel_js___le_bundler_dont_vous
+ _reviez___
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vous avez envie de créer des visualisation moderne mais vous n'
+ avez pas le temps de vous lancer dans **D3.js** ? **Vega** est peut être fa
+ it pour vous ! \n\nDécouvrez rapidement de quelle manière **Vega** et **Veg
+ a-lite** vous permettent de créer des visualisations de données de manière 
+ déclarative. Vous pouvez ainsi créer des visualisations de données complexe
+  de manière simple\, générique et flexible.
+DTSTART:20191022T165000
+DURATION:PT20M
+LOCATION:Titan
+SUMMARY:Vega au secours de vos visualisations de données
+UID:orXBRWglkzkRXecgftv5
+URL:https://devfest.gdgnantes.com/sessions/vega_au_secours_de_vos_visualisa
+ tions_de_donnees
+TRANSP:TRANSPARENT
+CATEGORIES:🤖 BigData & AI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Front-end development has gotten trickier over the years. As ne
+ w frameworks enable more complex behaviour\, UX expectations have also rise
+ n.\nYet\, we still work the old way: Product defines features\, designers m
+ ake mock-ups\, then developers integrate them. Side effects include: blocki
+ ng dependencies\, rework\, misunderstanding\, frustration\, for everyone in
+ volved.\n\nIn this talk\, we will provide you with a proven starter kit to 
+ improve all your future collaborations\, among other things how to:\n\n- de
+ fine the right process from the first concept of the feature to its design 
+ to its implementation on the app\n- define the perfect mock-up for painless
+  design handoff\n- provide technical insights during the design process\n- 
+ involve the designer in your development process for a finishing touch\n\nJ
+ oin our movement and start growing a DevUx culture on your projects: build 
+ better\, work faster\, be happier!
+DTSTART:20191022T090000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Building better products faster: DevUx is the new DevOps
+UID:fKXlhS3noQ2uhlTFeQ6s
+URL:https://devfest.gdgnantes.com/sessions/building_better_products_faster_
+ _devux_is_the_new_devops
+TRANSP:TRANSPARENT
+CATEGORIES:💚 UX / UI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:En utilisant le 1er kit de chat robot destiné au grand public (
+ Open Cat/Petoi)\, je vais montrer comment le customiser en y ajoutant de l'
+ intelligence artificielle en utilisant les APIs des différents clouds publi
+ cs (Amazon Alexa\, AWS\, Azure & Google).\n\nPLAN \nPrésentation du projet 
+ Petoi avec un chat robot en démonstration\nQuelles sont les différentes API
+  d'IA utilisables dans le cloud\nComment customiser l'Open Cat ?\nComment f
+ aire coexister différentes APIs dans un même device ?\nDémo avec le chat ro
+ bot
+DTSTART:20191022T101000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:AI + Robot Cat = A Smart Cat
+UID:Euu7QJjcULbfWzrJWWPq
+URL:https://devfest.gdgnantes.com/sessions/ai___robot_cat___a_smart_cat
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In this talk\, I will give an update on the  Capabilities proje
+ ct at Google\, also known as project Fugu. In the context of this project\,
+  we work on closing the app gap by suggesting\, standardizing\, and trialin
+ g new APIs on the Web Platform. Some APIs that we look at include Wake Lock
+ \, Native File System\, Shape Detection\, WebNFC\, Contact Picker\, and sev
+ eral others (http://bit.ly/fugu-bugs). The exact list of the to-be-covered 
+ APIs is not yet known at this stage\, but it will be an exciting collection
+ \, this I can promise :-)
+DTSTART:20191022T112000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:New and Emerging Web Platform APIs
+UID:3XPc1RWhOuIdTLCIBtu3
+URL:https://devfest.gdgnantes.com/sessions/new_and_emerging_web_platform_ap
+ is
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:[Knative](http://www.knative.dev) is a Kubernetes-based platfor
+ m to build\, deploy\, and manage modern serverless workloads. It provides a
+  set of middleware components that are essential to build modern\, source-c
+ entric\, and container-based applications that can run anywhere: on premise
+ s\, in the cloud\, or even in a third-party data center. Knative components
+  are built on Kubernetes and codify the best practices shared by successful
+  real-world Kubernetes-based frameworks.  Knative components focus on solvi
+ ng many mundane but difficult tasks such as: \n\n* Deploying a container  \
+ n* Orchestrating source-to-URL workflows on Kubernetes \n* Routing and mana
+ ging traffic with blue/green deployment \n* Automatic scaling and sizing wo
+ rkloads based on demand \n* Binding running services to eventing ecosystems
+  \n\nThis talk describes how Knative enables you to focus just on writing i
+ nteresting code\, without worrying about the “boring but difficult” parts o
+ f building\, deploying\, and managing an application. It shows how develope
+ rs can even use familiar idioms\, languages\, and frameworks to deploy any 
+ workload: functions\, applications\, or containers.
+DTSTART:20191022T140000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Knative: A Kubernetes Framework to manage Serverless Workloads
+UID:zq0gscWBX23J8X2dl3Ae
+URL:https://devfest.gdgnantes.com/sessions/knative__a_kubernetes_framework_
+ to_manage_serverless_workloads
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:On a creusé la Web Audio API d'HTML5 en se basant sur le travai
+ l de Michel Buffa notamment\, avec pour but de recréer une pédale de distor
+ sion dans vos navigateurs préférés!\n\nOn verra quels sont les possibilités
+  offertes par l'API\, comment on peut se rapprocher au mieux du fonctionnem
+ ent d'une véritable pédale et quels sont les limitations...\nsi il y en a \
+ ;)\n\nEt si vous êtes sage\, y'aura des décibels ! 🤘🎸
+DTSTART:20191022T151000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:🤘🎸 Brancher sa guitare a son navigateur : Et le web deviens rock'
+ n'roll !  🤘🎸
+UID:imlHFq6TjUPfXNZ0vIfl
+URL:https://devfest.gdgnantes.com/sessions/_brancher_sa_guitare_a_son_navig
+ ateur___et_le_web_deviens_rock_n_roll____
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Quand on parle d'Infrastructure As Code\, on pense souvent à Te
+ rraform. Cependant\, il existe d'autres outils qui émergent et qui méritera
+ ient d’être autant connu.\n\nTout comme Terraform\, Pulumi prend en charge 
+ les principaux fournisseurs d'infrastructure (GCP\, AWS\, Azure\, vSphere\,
+ ..) et permet aussi de manipuler des ressources Kubernetes. Cependant\, ave
+ c Pulumi\, il n'est pas nécessaire d'apprendre encore un nouveau DSL. Avec 
+ Terraform\, on décrit son infrastructure à travers un langage appelé Hashic
+ orp Configuration Language. Au contraire\, Pulumi permet d'utiliser le lang
+ age de son choix (Javascript\, Typescript\, Python ou Go) ce qui facilite l
+ 'organisation de son code et permet de profiter de tout l'écosystème qu'off
+ re ces langages.\n\nDurant ce talk\, nous découvrir les bases de cette solu
+ tion le tout illustré par des cas concrets.
+DTSTART:20191022T162000
+DURATION:PT20M
+LOCATION:Belem
+SUMMARY:Infrastructure As Code\, il n'y a pas que Terraform dans la vie
+UID:KZTtPMRanQO97kymurGQ
+URL:https://devfest.gdgnantes.com/sessions/infrastructure_as_code__il_n_y_a
+ _pas_que_terraform_dans_la_vie
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:"01001000 01100101 01101100 01101100 01101111 00100000 01010111
+  01101111 01110010 01100100 01101100 00100001"\n-- *Processeur 2019*\n\n\nA
+ ujourd'hui\, cette suite de 0 et de 1 est le langage universel des processe
+ urs\, présents dans les ordinateurs\, téléphones\, tablettes ou encore obje
+ ts connectés. Cette domination est sans partage depuis les travaux d'Alan T
+ uring et son concept de machine universelle. Mais l'informatique quantique\
+ , jusqu'à maintenant cantonner aux laboratoires\, débarque dans l'industrie
+  grâces notamment aux derniers travaux d'IBM.\n\n\nQu'est ce l'informatique
+  quantique ? En quoi elle est supérieur à l'informatique binaire ? Quel ser
+ a l'impact sur nos vies ? Est-ce que demain je pourrais avoir un ordinateur
+  quantique dans ma poche ?\n\n\nFace à toutes ces questions\, partons ensem
+ ble à l'exploration de ce monde inconnu\, que j'ai découvert en cours de mé
+ canique quantique à l'université et qui reste encore aujourd’hui un sujet q
+ ui me fascine.
+DTSTART:20191022T165000
+DURATION:PT20M
+LOCATION:Belem
+SUMMARY:Informatique quantique\, je suis non binaire
+UID:zvbagtyYCZ51JAFpel53
+URL:https://devfest.gdgnantes.com/sessions/informatique_quantique__je_suis_
+ non_binaire
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pour mieux aiguiller ses choix d’aujourd’hui\, quoi de mieux qu
+ e de connaître le futur ? En partant du panorama des grands sujets de 2019\
+ , exerçons nous à faire un bond dans le futur pour voir où pourrait nous am
+ ener leur développement d’ici 5 ans\, et leurs impacts sur le domaine infor
+ matique.\n\nEn partant de l’informatique quantique jusqu’à la fin de l’Inte
+ rnet ouvert\, en passant par la blockchain\, le green IT\, un détour par un
+  monde d’IA et bien sûr le cloud computing\, venez explorer le monde de dem
+ ain.
+DTSTART:20191022T090000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Dis moi DOC\, quelle IT en 2025 ?
+UID:DJLcE7Bm1GLDRzUt6Ipz
+URL:https://devfest.gdgnantes.com/sessions/dis_moi_doc__quelle_it_en_2025__
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nous allons vous raconter une histoire merveilleuse où développ
+ eurs et designers collaborent au quotidien dans un même environnement appel
+ é Design system. \n\nIls y conçoivent des composants réutilisables et modul
+ ables à l’infini\, pour créer et tester rapidement les interfaces de demain
+ . Mais aussi capitaliser sur des acquis solides\, basés sur des guidelines 
+ UX/UI intégrés.\n\nEt si ce n’était pas qu’un conte de fées? Et si Storyboo
+ k était un moyen de réaliser cet idéal? \n\nPour le savoir\, explorons ense
+ mble les possibilités de cet outil pour monter un design system.
+DTSTART:20191022T101000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Storybook pour votre design system\, un conte de fées ?
+UID:GOy9xsl5UNPVMwJKZzVf
+URL:https://devfest.gdgnantes.com/sessions/storybook_pour_votre_design_syst
+ em__un_conte_de_fees__
+TRANSP:TRANSPARENT
+CATEGORIES:💚 UX / UI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:La Web platform évolue en permanence ! Et ça fait 4 ans qu'on é
+ voque les 4 même technos pour appliquer les 4 grands éléments qui font une 
+ bonne web app : Fast\, Integrated\, Reliable & Engaging !\n\nIl est temps d
+ e se mettre à jour ! Prenons quelques minutes pour :\n\n 1. faire le point 
+ sur les tous derniers drafts du W3C\, WICG et WHATWG\n\n 2. les démontrer d
+ ans le browser\n\n 3. présenter leurs application concrêtes et ce que ça ap
+ porte à nos utilisateurs\n\n 4. découvrir une méthodologie globale pour tou
+ jours opérer la transition sereinement\n\nAlors\, prêt pour le turfu du web
+  ?!
+DTSTART:20191022T112000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:The Web is on 🔥 F.I.R.E. 🔥 !!! (conference)
+UID:O8kC0an3RuGqxTfPKHYp
+URL:https://devfest.gdgnantes.com/sessions/the_web_is_on__f_i_r_e________co
+ nference_
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CQRS\, Event streaming\, Event sourced\, log management\, Kafka
+ \, RabbitMQ... L'écosystème bruisse de la gestion événementielle de tout bo
+ rd. L'importance de Kafka dans ce phénomène est particulièrement pertinent 
+ et permet de à nombreuses organisation de se construire autours d'une visio
+ n moderne de l'ESB. En quelques années\, la gestion des évènements\, messag
+ es broker ou log collectors\, sont devenue des pierre angulaires de beaucou
+ p d'architecture. Dans cet écosystème\, un nom commence à tourner de plus e
+ n plus\, Apache Pulsar. Ce projet open source issue de Yahoo a su gagner en
+  popularité et trouver ses cas d'usages ces dernières années. \n\nLe but de
+  ce talk est de vous le faire découvrir\, en parlant de son architecture\, 
+ de comparer ses points forts et ses faiblesses sur les autres système (SQS\
+ , Kafka\, RabbitMQ\, Iron\, Redis listen) et surtout leurs différences\, de
+  montrer des exemples d'usage en Java. \n\nLes deux speakers utilisent Puls
+ ar en production (au coté de kafka et rabbitMQ) et peuvent ainsi rapporter 
+ également du REX sur l'opérabilité de cette plateforme.
+DTSTART:20191022T140000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Apache Pulsar 101: architecture\, concepts et comparaison
+UID:zkxHfYw24KNpjHVWHiyB
+URL:https://devfest.gdgnantes.com/sessions/apache_pulsar_101__architecture_
+ _concepts_et_comparaison
+TRANSP:TRANSPARENT
+CATEGORIES:🤖 BigData & AI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Developing mobile games with Unity has become more and more pop
+ ular these years\, and Unity developers often need to tackle OS specific ch
+ allenges.\n\nThrough this talk you will discover how to work with Unity as 
+ an Android Developer. You will see how to build Unity plugins using the JNI
+  and Java/Kotlin\, which is the most efficient way to link Unity with the A
+ ndroid framework.\n\nEvery Unity project can be exported as an Android Stud
+ io project with a Gradle support. You'll also see how you can integrate Uni
+ ty inside a native Android Java/Kotlin application\, or how to get a full c
+ ontrol of the build process so you can benefit from the best of both worlds
+ .
+DTSTART:20191022T151000
+DURATION:PT50M
+LOCATION:Tour de Bretagne
+SUMMARY:Game Development with Unity from an Android Point of View
+UID:UpRamIk0828btXrN0UnP
+URL:https://devfest.gdgnantes.com/sessions/game_development_with_unity_from
+ _an_android_point_of_view
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:En 2018 on trouve encore des mots de passe sur des postits coll
+ és à l'écran et qu'on retrouve sur twitter\, etc...\n\nL'authentification 2
+  factor ne résolvant pas ce problème\, une nouvelle solution à été trouvée 
+ par l'alliance FIDO (Fast IDentity Online):\n\nAu travers nottament du W3C 
+ ils ont proposé une solution qui permettra enfin à chacun de ne plus reteni
+ r ou saisir de mot de passe. Et même mieux encore\, de ne plus avoir à choi
+ sir de mot de passe pour s'inscrire sur des sites : le PASSWORDLESS devient
+  réalité (plus communément appelé UAF ou encore WebAuthn).\n\nBasé sur le p
+ rincipe "ancien" de la cryptographie asymétrique\, ces standards veulent ré
+ volutionner la façon dont tout le monde s'authentifie\, pour peut être\, un
+  jour enfin\, ne plus rencontrer de login "admin:password" sur les serveurs
+  de prod !\n\nCe quikie est une présentation rapide du pourquoi et du comme
+ nt l'implémenter\, pour que chacun repense là façon dont il s'authentifie\,
+  mais aussi\, en tant qu'acteur du web\, comment il demande aux utilisateur
+ s de s'authentifier.
+DTSTART:20191022T162000
+DURATION:PT20M
+LOCATION:Tour de Bretagne
+SUMMARY:WebAuthn: Le renouveau de l'authentification
+UID:nDBENy1j3DZpCzgas4yX
+URL:https://devfest.gdgnantes.com/sessions/webauthn__le_renouveau_de_l_auth
+ entification
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Envie de revenir aux fondamentaux de l'algorithmie et des mathé
+ matiques ?\nEnvie de vous challenger sur des problèmes mathématiques qui vo
+ nt vous faire travailler les méninges et tout ça en programmant ?\n\nAlors 
+ le projet Euler est fait pour vous ! Ici vous choisissez le langage de prog
+ rammation que vous voulez ou que vous avez toujours eu envie d'apprendre\, 
+ et vous vous lancer dans la résolution des différents problèmes.\n\nAu prog
+ ramme : \n- Optimisation des structures de données \n- Recherche et optimis
+ ation des algorithmes pour trouvez les solutions aux problèmes\n- Observer.
+  Pourquoi tel algorithme ou telle boucle est inefficace\, qu'est ce qui acc
+ élère un algorithme\, etc\n\nEn bonus : \n- Retour au fondamentaux\, pas de
+  frameworks ou librairies\, du pure "vanilla code" !\n- Gagner énormément e
+ n expérience et en pratique sur le langage que vous avez choisi
+DTSTART:20191022T165000
+DURATION:PT20M
+LOCATION:Tour de Bretagne
+SUMMARY:Comment le projet Euler m'as donné envie de refaire des Maths
+UID:NNTTBs25221x3lIXcewJ
+URL:https://devfest.gdgnantes.com/sessions/comment_le_projet_euler_m_as_don
+ ne_envie_de_refaire_des_maths
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Et encore une fuite de numéros de cartes de crédit sur internet
+ ! https://www.infoq.com/news/2018/11/british-airways-data-breach\n\nC'est r
+ évoltant n'est-ce pas ? Mais attends\, qu'est-ce qu'on fait nous pour s'ass
+ urer que notre appli n'est pas une passoire? \n\nDans cette live-coding-hac
+ king session\, venez découvrir les erreurs les plus communes en sécurité\, 
+ que la grande majorité d'entre nous font sans même le savoir!\n\nAprès cela
+ \, vous ne verrez plus votre application de la même manière...
+DTSTART:20191022T090000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:Back in Black Hat : Comment se faire pogoter (hacker) bien comme il
+  faut!
+UID:f4ASANsuZhanDzd0mmai
+URL:https://devfest.gdgnantes.com/sessions/back_in_black_hat___comment_se_f
+ aire_pogoter__hacker__bien_comme_il_faut_
+TRANSP:TRANSPARENT
+CATEGORIES:🐱‍💻 SECURITY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:De nombreux services en ligne existent pour gérer en toute sécu
+ rité des appareils IoT à grande échelle : "Azure IoT" de Microsoft et "AWS 
+ IoT" d'Amazon sont parmi les plus connus.\n\nGoogle propose également sa so
+ lution : "Cloud IoT" basée sur la plate-forme Google Cloud (GCP).\nDans ce 
+ talk\, nous partirons d'un microcontrôleur neuf ultra connu et abordable\, 
+ et notre but sera tout d'abord de découvrir comment écrire du code pour ce 
+ composant nous permettant de récupérer des informations sur notre environne
+ ment.\nEnsuite\, nous ferons en sorte que ce composant envoie ses données v
+ ers un service Cloud\, pour enfin découvrir ce que permettent ces solutions
+  en ligne dédiées à l'IoT.\n\nPour l'exemple\, et parce qu'il faut bien cho
+ isir une solution\, nous utiliserons Google Cloud IoT Core\, les concepts r
+ estant similaires sur les autres plate-formes.
+DTSTART:20191022T101000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:Premiers pas avec un microcontrôleur et Google Cloud IoT Core
+UID:R9O1S7M9oRMmwd0cNBaz
+URL:https://devfest.gdgnantes.com/sessions/premiers_pas_avec_un_microcontro
+ leur_et_google_cloud_iot_core
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:17 ans...  Même pas l'âge de raison pour un humain mais l'équiv
+ alent d'une période géologique à l'échelle de l'informatique. Et bien c'est
+  l'âge de .NET. Alors comment faire du neuf avec du vieux ? Et bien c'est l
+ 'histoire de .NET Core. Libérer de ses chaînes\, .NET redevient une platefo
+ rme performante et innovante. Dans ce talk\, je me propose de vous conter c
+ ette histoire. Maintenant est-ce que **vous**\, vous saurez vous libérer de
+  vos idées préconçues et oserez franchir le seuil de la salle ?
+DTSTART:20191022T112000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:Core\, le principe "dans le doute reboot" appliqué à .NET
+UID:9UKGzjZ3bYCcoZtso63N
+URL:https://devfest.gdgnantes.com/sessions/core__le_principe__dans_le_doute
+ _reboot__applique_a__net
+TRANSP:TRANSPARENT
+CATEGORIES:📝 Languages
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Le Raspberry Pi et l'Arduino ont ouvert les portes de l'électro
+ nique au plus grand nombre. Une autre technologie émerge\, nous offrant de 
+ nouvelles possibilités : les FPGA. À travers la présentation du DE0-Nano-So
+ C et l’étude d'un cas concret\, cette conférence explique aux développeur·e
+ use·s ce que sont les FPGA et ce qu’ils apportent.\n\nElle offre également 
+ des pistes pour comprendre pourquoi cette technologie\, née dans les années
+  80\, intéresse Intel au point de lui avoir fait débourser 16\,7 milliards 
+ de dollars en 2015.
+DTSTART:20191022T140000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:FPGA\, créer du matériel en programmant
+UID:d1a10CU19Y6I6Q4RtH3c
+URL:https://devfest.gdgnantes.com/sessions/fpga__creer_du_materiel_en_progr
+ ammant
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Maybe you've heard of them before\, knowledge graphs. But if yo
+ u haven't\, no worries\, you are not alone. Knowledge graphs take an entire
+ ly new approach to data management. What makes them stand out from other da
+ ta solutions is that they focus on the meaning and context of data by extra
+ cting the purpose of the language.\n\nThe use cases are almost endless. It 
+ allows scientists to automate drug discovery\, doctors to search for diseas
+ es based on patients' symptoms\, to map our complex Internet of Things land
+ scapes\, gather insights from billions of financial transactions\, and many
+  more things.\n\nDuring this talk\, we will go over the Weaviate software\,
+  the cloud deployment on Google Cloud Platform\, and the use cases. Needles
+ s to say\, they are all supported by on-stage demos. When the talk is over\
+ , you will be ready to start building your own Weaviate knowledge graph on 
+ Google Cloud Platform the very next day.\n\n# Weaviate\nWeavite is an open 
+ source knowledge graph that stores data in a vector space rather than in a 
+ traditional DB or graph-DB. Every time you add a data object\, Weaviate int
+ erprets the semantic meaning and assigns it the right vector space. Thanks 
+ to the handy GraphQL interface\, you can easily query the knowledge graph f
+ or its insights and integrate it into your applications. Weaviate is fast\,
+  easy to use\, and entirely API-based.\n\n# Google Cloud Platform\nAt the l
+ owest level\, Weaviate runs on Kubernetes\, which makes it ideal for runnin
+ g on the Google Cloud Platform. From a simple development setup to a full-b
+ lown enterprise stack\, it all runs out of the box.
+DTSTART:20191022T151000
+DURATION:PT50M
+LOCATION:Graslin
+SUMMARY:Build your own Knowledge Graph with Weaviate on GCP
+UID:gaagH7gxrYaqzdJadyVG
+URL:https://devfest.gdgnantes.com/sessions/build_your_own_knowledge_graph_w
+ ith_weaviate_on_gcp
+TRANSP:TRANSPARENT
+CATEGORIES:🤖 BigData & AI
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Back in 2014 when swift was announced\, Chris Lattner already h
+ ad its vision of interoperability for the language. That’s why he created L
+ LVM in the first place. \n\nStarting up with iOS and Apple platforms\, swif
+ t came all the way up to what we can do today.\n\nLet’s tackle those superp
+ owers 💪🏼
+DTSTART:20191022T162000
+DURATION:PT20M
+LOCATION:Graslin
+SUMMARY:Swift Superpowers
+UID:6b3LCbMOXtilGDrd0UlZ
+URL:https://devfest.gdgnantes.com/sessions/swift_superpowers
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Nous allons voir les principes de la JAMstack et ses avantages 
+ en mettant un site en prod\, ce sera fait en VueJS pour cette démo.\nPas to
+ ujours le plus optimal dans tous cas\, nous verrons que nous pouvons facile
+ ment l’utiliser pour remplacer des solutions telles que Wordpress.\n\nParfa
+ it pour un blog\, une landing page mais aussi pour des projets plus gros te
+ ls qu’un e-commerce. Vous pouvez même vous en servir pour des projets dont 
+ les clients ne sont pas techniques en leur donnant la main sur un CMS headl
+ ess facile à prendre en main.\nTout cela avec des technos modernes\, une ra
+ pidité inégalable\, des coûts réduits et 0 gestion serveur.
+DTSTART:20191022T165000
+DURATION:PT20M
+LOCATION:Graslin
+SUMMARY:JAMstack\, ou comment faire des sites statiques modernes et rapides
+UID:47cEhp1uD5XSLoDvSpTL
+URL:https://devfest.gdgnantes.com/sessions/jamstack__ou_comment_faire_des_s
+ ites_statiques_modernes_et_rapides
+TRANSP:TRANSPARENT
+CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A l’image de Perceval et Karadock\, Logan et Kevin reviennent d
+ ’une quête dans la contrée de Gitlab et vont vous compter leurs aventures p
+ leines de découvertes et de rebondissements. L’on espère que Père Blaise ré
+ ussira à prendre des notes…\n\n![](https://gabich.files.wordpress.com/2010/
+ 09/perceval.png)\n\nLors de cette quête\, il sera nécessaire de mettre en p
+ lace une intégration continue pour une armée de développeurs sanguinaires q
+ ui ont plein de besoins bizarres… Et à la force de leur épée\, de leur cour
+ age et pas du tout de l’aide de Merlin (qui ne sait toujours rien faire…)\,
+  Logan et Kevin vous guidereront afin de créer une CI complète avec job\, s
+ tage\, intégration avec des outils externes (PostgreSQL\, Artifactory\, Goo
+ gle Cloud Platform\, Docker in Docker\, SAST\, DAST…) tout en la gardant si
+ mple et versionnable 😍.\n\nL’on pourra même finir sur un exemple de mise e
+ n place de la CI dans le cloud (Google Cloud ou Clever) pour avoir une CI q
+ ui file dans les nuages 🚀.
+DTSTART:20191022T090000
+DURATION:PT120M
+LOCATION:Les Machines
+SUMMARY:Una-Gitlab\, le TP à roulette !
+UID:JZvPn9hrkr3IyWurF74D
+URL:https://devfest.gdgnantes.com/sessions/una_gitlab__le_tp_a_roulette__
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Depuis le temps que vous allez à des conférences\, vous avez sû
+ rement participé à des codelabs JavaScript essentiellement sur vos framewor
+ k frontend. \n\nDepuis peu\, un nouveau framework sort du lot\, et c’est un
+  framework backend : NestJS. \n\nSimple à prendre en main\, respectant les 
+ principes d'Angular et sa facilité d'utilisation\, NestJS sera réconcilier 
+ les “insatisfaits” de Node\, Express et ses plugins grâce aux principes de 
+ Controllers\, Providers\, Modules\, ou encore Middlewares qui vous aideront
+  à organiser votre projet.\n\nPendant ce codelab\, mettons en place notre p
+ remier backend à base de NestJS et ses bonnes pratiques poussées par la com
+ munauté de ce framework.\n\n#Node.js #Express #TDD #Beer #NestJS #Angular
+DTSTART:20191022T130000
+DURATION:PT120M
+LOCATION:Les Machines
+SUMMARY:Créons notre première API avec NestJS
+UID:SDBi4eg0XEbDEubEqe60
+URL:https://devfest.gdgnantes.com/sessions/creons_notre_premiere_api_avec_n
+ estjs
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:We will demonstrate Mozilla’s WebThings Gateway\, an IoT framew
+ ork to protect user privacy and security\, and to improve cross-brand inter
+ operability. We will also show how to develop and build your own custom "we
+ b things" out of microcontroller boards. \n\nHands-on :\n\nTo participate i
+ n microcontroller programming using MicroBlocks\, come to the workshop with
+  MicroBlocks pre-installed. You can download the installer for your operati
+ ng system and follow the setup instructions.\n\nBio :\n\nRyme Assaad is cof
+ ounder & managing partner at Kapstone Co\, myiolab and SEFY International\n
+ \nShe was a TechWomen fellow 2018 and interned at Mozilla. \n\nShe is curre
+ ntly a TechSpeaker and working with the Mozilla Web of Things (WoT) communi
+ ty towards a decentralized Internet of Things with improved standards aroun
+ d security\, privacy and interoperability.\n\n@rymeassaad
+DTSTART:20191022T151000
+DURATION:PT120M
+LOCATION:Les Machines
+SUMMARY:Deploying and building webthings workshop by Mozilla 
+UID:7Cj0Rxozzh9vMWdR5WMV
+URL:https://devfest.gdgnantes.com/sessions/deploying_and_building_webthings
+ _workshop_by_mozilla
+TRANSP:TRANSPARENT
+CATEGORIES:📱 Mobile & IoT
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vous avez\, sans doute\, entendu parler de WebAssembly\, vous a
+ vez peut-être vu des talks\, lu des posts\, discuté à la machine à café... 
+ mais avez-vous déjà essayé ?\n\nSupporté par [tous les navigateurs actuels]
+ (https://caniuse.com/#feat=wasm)\, et avec de [plus en plus](https://www.te
+ chrepublic.com/article/web-programming-languages-how-webassembly-will-chang
+ e-the-way-you-build-web-apps/) de *[success](https://www.techrepublic.com/a
+ rticle/replacing-javascript-with-webassembly-how-ebay-made-a-web-app-50x-fa
+ ster-by-switching-programming-languages/) [stories](https://devblogs.micros
+ oft.com/aspnet/blazor-now-in-official-preview/?WT.mc_id=infoq-article-jelik
+ nes)* \, il semble que WebAssembly va changer le paysage du développement w
+ eb. Cela ne veut pas dire que JavaScript va devenir obsolète\, loin de là\,
+  mais que tout un éventail de possibilités s'ouvre à nous en tant que devs 
+ web. Et maintenant c'est le bon moment pour s'y plonger !\n\nDans cet ateli
+ er\, vous allez développer vos premières bibliothèques en WebAssembly\, en 
+ utilisant différents langages (du TypeScript au bon vieux C)\, vous allez l
+ es utiliser depuis une application web\, et vous allez comprendre comment e
+ t pourquoi WebAssembly peut vous aider dans vos applications\, le tout de l
+ a meilleure façon qui soit: en mettant les mains dans le cambouis.
+DTSTART:20191022T090000
+DURATION:PT120M
+LOCATION:Le Hangar
+SUMMARY:Les mains dans le cambouis avec WebAssembly 
+UID:l57BOfs0i2jU7GCpUgeo
+URL:https://devfest.gdgnantes.com/sessions/les_mains_dans_le_cambouis_avec_
+ webassembly
+TRANSP:TRANSPARENT
+CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Un tremblement de terre vient de se produire\, et tu es enfermé
+ (e) dans ta **geek-cave**. \nMalheureusement\, quand une catastrophe nature
+ lle se produit\, les **réseaux** et **l’électricité** sont les deux premièr
+ es choses qui tombent\, alors le Safety Check de Facebook\, forcément\, **ç
+ a ne marche pas**. \n\nBienvenue dans notre monde **dégradé**. \n\nHeureuse
+ ment\, tu sais qu’il y a une passerelle **LoRa** à quelques kilomètres. \n\
+ nEt si on enlevait internet? Et si la bande passante coûtait cher? Et si ta
+  survie dépendait de ta capacité d’envoyer quelques bytes avant que ton lap
+ top s’éteigne? \n\nIl te reste **moins de 3h** pour découvrir LoRaWAN\, hac
+ ker le réseau de Gotham City en contournant l'enregistrement des devices et
+  permettre à ton/ta co-équipier(e) de communiquer avec l’extérieur et d’env
+ oyer sa position. \n\nLes Technologies? MQTT\, LoRaWAN\, Node.js et Raspber
+ ry Pi! \n\nOn nous dit dans l'oreillette que les premiers rescapés repartir
+ aient avec des **devkits** complets... \n\nAttention: Merci de cloner le re
+ pository et installer les assets avant le workshop ici [https://github.com/
+ resourcepool/save-lora](https://github.com/resourcepool/save-lora)\nUn port
+  USB est obligatoire pour ce workshop!
+DTSTART:20191022T130000
+DURATION:PT120M
+LOCATION:Le Hangar
+SUMMARY:Il faut sauver LoRa
+UID:4fsNGz0TPC0vV7AFqulV
+URL:https://devfest.gdgnantes.com/sessions/il_faut_sauver_lora
+TRANSP:TRANSPARENT
+CATEGORIES:🐱‍💻 SECURITY
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Docker Application Package est un vrai couteau suisse\, permett
+ ant de déployer une application sur plusieurs orchestrateurs (Swarm/Kuberne
+ tes).\nDurant ce workshop nous verrons:\n* comment ce nouvel outil s'articu
+ le autour de Docker Compose\n* comment partager son application sur une reg
+ istry et faciliter le passage de témoin entre devs et ops\n* comment utilis
+ er Docker App en client CNAB (Cloud Native Application Bundle) et écrire so
+ n propre bundle CNAB à la main\n\nNote: une connaissance de Docker Compose 
+ est un plus mais pas un pré-requis.
+DTSTART:20191022T151000
+DURATION:PT120M
+LOCATION:Le Hangar
+SUMMARY:Développer de nouvelles applications avec Docker App
+UID:uKwJIEHsXhL3khaI03mB
+URL:https://devfest.gdgnantes.com/sessions/developper_de_nouvelles_applicat
+ ions_avec_docker_app
+TRANSP:TRANSPARENT
+CATEGORIES:☁️ Cloud & DevOps
+END:VEVENT
+END:VCALENDAR

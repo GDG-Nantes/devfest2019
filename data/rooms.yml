@@ -1,0 +1,18 @@
+- key: lunchroom
+  label: Salle déjeuner
+  skip: true
+- key: halls
+  label: Halls
+  skip: true
+- key: room1
+  label: Titan
+- key: room2
+  label: Belem
+- key: room3
+  label: Tour de Bretagne
+- key: room4
+  label: Graslin
+- key: room_codelab1
+  label: Les Machines
+- key: room_codelab2
+  label: Le Hangar

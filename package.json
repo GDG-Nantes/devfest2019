@@ -1,0 +1,23 @@
+{
+  "name": "devfest2019",
+  "version": "1.0.0",
+  "repository": "https://github.com/GDG-Nantes/devfest2019",
+  "author": "Igor Laborie <ilaborie@gmail.com>",
+  "license": "Apache-2.0",
+  "scripts": {
+    "prebuild": "hugo",
+    "build:minify": "node tools/minify.js",
+    "build:pdf": "node tools/pdf.js",
+    "build": "run-s build:*"
+  },
+  "devDependencies": {
+    "firebase-tools": "^7.2.4",
+    "glob": "^7.1.4",
+    "html-minifier": "^4.0.0",
+    "npm-run-all": "^4.1.5",
+    "plop-logger": "^2.6.0",
+    "puppeteer": "^1.19.0",
+    "serve-handler": "^6.1.1",
+    "easy-pdf-merge": "^0.2.2"
+  }
+}

@@ -1,0 +1,13 @@
+---
+key: keynote_open_overflow
+title: Opening keynote (overflow) / Keynote d'ouverture (overflow)
+language: French
+talkType: keynote
+complexity: Beginner
+tags:
+  - keynote
+speakers:
+  - jean_baptiste_hardoin
+draft: false
+---
+Surprise!
