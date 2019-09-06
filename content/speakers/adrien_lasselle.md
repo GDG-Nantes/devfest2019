@@ -6,7 +6,7 @@ feature: false
 company: Sfeir
 companyLogo: /images/partners/sfeir.png
 city: 'Nantes, France'
-photo: /images/speakers/adrien_lasselle.png
+photo: /images/speakers/adrien_lasselle.jpg
 socials:
   - icon: twitter
     link: 'https://twitter.com/AdrienLASSELLE'

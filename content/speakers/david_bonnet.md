@@ -3,7 +3,7 @@ key: david_bonnet
 name: David Bonnet
 id: FdH8RDo6FERL1mCOAZLfjPMQ7Co1
 feature: false
-city: 'San Francisco, USA'
+city: 'Nantes, France'
 photo: /images/speakers/david_bonnet.jpg
 socials:
   - icon: twitter
