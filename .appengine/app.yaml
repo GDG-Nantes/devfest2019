@@ -25,7 +25,7 @@ handlers:
     upload: (.*)
     secure: always
   - url: /schedule
-    static_files: \1/schedule/
-    upload: schedule
+    static_files: \1/schedule/index.html
+    upload: schedule/index.html
     secure: always
 # gcloud app deploy --version dummy .
