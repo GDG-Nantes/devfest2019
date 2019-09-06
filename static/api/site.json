@@ -799,18 +799,18 @@
       "description": "The CAP theorem is widely known for distributed systems, but it's not the only tradeoff you should be aware of. For datastores there is also the FAB theory and just like with the CAP theorem you can only pick two:\n\n* Fast: Results are real-time or near real-time instead of batch oriented.\n* Accurate: Answers are exact and don't have a margin of error.\n* Big: You require horizontal scaling and need to distribute your data.\n\nWhile Fast and Big are relatively easy to understand, Accurate is a bit harder to picture. This talk shows some concrete examples of accuracy tradeoffs Elasticsearch can take for terms aggregations, cardinality aggregations with HyperLogLog++, and the IDF part of full-text search. Or how to trade some speed or the distribution for more accuracy."
     },
     {
-      "key": "new_and_emerging_web_platform_apis",
-      "title": "New and Emerging Web Platform APIs",
+      "key": "tbd_talk",
+      "title": "To be defined",
       "id": "3XPc1RWhOuIdTLCIBtu3",
       "language": "English",
       "format": "conference",
       "tags": ["_web"],
       "level": "intermediate",
-      "speakers": ["thomas_steiner"],
+      "speakers": ["tbd_speaker"],
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "In this talk, I will give an update on the  Capabilities project at Google, also known as project Fugu. In the context of this project, we work on closing the app gap by suggesting, standardizing, and trialing new APIs on the Web Platform. Some APIs that we look at include Wake Lock, Native File System, Shape Detection, WebNFC, Contact Picker, and several others (http://bit.ly/fugu-bugs). The exact list of the to-be-covered APIs is not yet known at this stage, but it will be an exciting collection, this I can promise :-)"
+      "description": "To be defined"
     },
     {
       "key": "pair_design___un_moyen_de_concevoir_a_deux_ou_plus",
@@ -2794,27 +2794,13 @@
       "description": "Consultant et développeur full-stack chez Zenika à Nantes, je réalise des projets webs pour nos différents clients. À la fois développeur front et back je m’intéresse à des technologies et des langages tels que angular, vueJS, Kotlin, Java."
     },
     {
-      "key": "thomas_steiner",
-      "name": "Thomas Steiner",
+      "key": "tbd_speaker",
+      "name": "To be defined",
       "id": "OkHKoybkESdA5gtspQdJYIzUhlm2",
       "feature": false,
-      "company": "Google",
-      "companyLogo": "/images/partners/google.svg",
-      "city": "Hamburg, Germany",
-      "photoURL": "/images/speakers/thomas_steiner.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/tomayac",
-          "name": "tomayac"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/tomayac",
-          "name": "tomayac"
-        }
-      ],
-      "description": "Please see https://twitter.com/tomayac for an evergreen biography."
+      "photoURL": "/images/speakers/default.jpg",
+      "socials": [],
+      "description": "To be defined"
     },
     {
       "key": "valentin_deleplace",
@@ -3848,7 +3834,7 @@
             },
             {
               "slot": "slot-3-day-2",
-              "talk": "new_and_emerging_web_platform_apis"
+              "talk": "tbd_talk"
             },
             {
               "slot": "lunch-day-2",

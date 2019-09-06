@@ -994,21 +994,13 @@ TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:In this talk\, I will give an update on the  Capabilities proje
- ct at Google\, also known as project Fugu. In the context of this project\,
-  we work on closing the app gap by suggesting\, standardizing\, and trialin
- g new APIs on the Web Platform. Some APIs that we look at include Wake Lock
- \, Native File System\, Shape Detection\, WebNFC\, Contact Picker\, and sev
- eral others (http://bit.ly/fugu-bugs). The exact list of the to-be-covered 
- APIs is not yet known at this stage\, but it will be an exciting collection
- \, this I can promise :-)
+DESCRIPTION:To be defined
 DTSTART:20191022T112000
 DURATION:PT50M
 LOCATION:Belem
-SUMMARY:New and Emerging Web Platform APIs
+SUMMARY:To be defined
 UID:3XPc1RWhOuIdTLCIBtu3
-URL:https://devfest.gdgnantes.com/sessions/new_and_emerging_web_platform_ap
- is
+URL:https://devfest.gdgnantes.com/sessions/tbd_talk
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
