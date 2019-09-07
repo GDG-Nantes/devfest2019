@@ -20,7 +20,7 @@ The DevFest Nantes 2019 in numbers:
     * 30% of the content in English and the rest in French
     * 1 overflow area for the smallest room 😉
 * 1 after-party and 1 surprise
-* 2000 participants per day
+* 2000 attendees per day
 
 Find the complete list of speakers at the following address: https://devfest.gdgnantes.com/speakers/
 
