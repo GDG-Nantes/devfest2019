@@ -9,13 +9,13 @@ draft: false
 ## Top Speakers
 Before the announcement of the program, here are some of our top speakers of this DevFest 2019! 🎶 ["Bruce Springsteen - Born to run"](https://www.youtube.com/watch?v=IxuThNgl3YA) 🎶
 
-{{<centered-img src="/images/blog/jen_looper.png" alt="Jen Looper" width="150">}} 
+{{<centered-img src="/images/speakers/jen_looper.jpg" alt="Jen Looper" width="150">}} 
 Jen Looper : I'm a Google Developer Expert and a Cloud Developer Advocate Lead at Microsoft with over 18 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. I'm a multilingual multiculturalist with a passion for hardware hacking, mobile apps, Vue.js, machine learning and discovering new things every day. I'm also the founder and CEO of Vue Vixens, an initiative promoting diversity in the Vue.js community. You can usually find me on Twitter [@jenlooper](http://twitter.com/jenlooper).
 
-{{<centered-img src="/images/blog/justin_fagnani.png" alt="Justin Fagnani" width="150">}} 
+{{<centered-img src="/images/speakers/justin_fagnani.jpg" alt="Justin Fagnani" width="150">}} 
 Justin Fagnani : He is a father, Oaklander, and a software engineer at Google working on Web Components and tools and libraries to help build them, like [lit-html](https://lit-html.polymer-project.org/), [LitElement](https://lit-element.polymer-project.org/) and [Polymer](https://www.polymer-project.org/). Previously at Google he worked on the [Dart](https://www.dartlang.org/) project, and founded the [Google App Maker](https://gsuite.google.com/products/app-maker/) project. Before Google he was an independent consultant, built educational software, and struggled as a musician for a while.
 
-{{<centered-img src="/images/blog/josh_long.png" alt="Josh Long" width="150">}} 
+{{<centered-img src="/images/speakers/josh_long.jpg" alt="Josh Long" width="150">}} 
 Josh Long : He ([@starbuxman](https://twitter.com/starbuxman)) is the Spring Developer Advocate at Pivotal and a Java Champion. He's host of ["A Bootiful Podcast"](https://soundcloud.com/a-bootiful-podcast), host of the ["Spring Tips Videos"](http://bit.ly/spring-tips-playlist), co-author of [6+ books](http://joshlong.com/books.html), and instructor on [8+ Livelessons Training Videos](http://joshlong.com/livelessons.html).
 
 ## CFP Stats
