@@ -24,7 +24,7 @@ The DevFest Nantes 2019 in numbers:
 
 Find the complete list of speakers at the following address: https://devfest.gdgnantes.com/speakers/
 
-## Speakers / speakers
+## Speakers
 Here are some of our top speakers from this DevFest 2019! 🎶 [Run Run Run - Shaka Ponk](https://www.youtube.com/watch?v=eVMBs_I8iqk) 🎶
 
 {{<centered-img src="/images/speakers/frederic_harper.jpg" alt="Frederick Harper" width="150">}}
