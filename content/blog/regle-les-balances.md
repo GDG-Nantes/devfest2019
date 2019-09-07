@@ -19,7 +19,7 @@ The DevFest Nantes 2019 in numbers:
     * 2 Keynotes
     * 30% of the content in English and the rest in French
     * 1 overflow area for the smallest room 😉
-* 1 sponsored after-party
+* 1 after-party and 1 surprise
 * 2000 participants per day
 
 Find the complete list of speakers at the following address: https://devfest.gdgnantes.com/speakers/
