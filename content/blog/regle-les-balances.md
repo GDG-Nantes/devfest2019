@@ -22,7 +22,7 @@ The DevFest Nantes 2019 in numbers:
 * 1 after-party and 1 surprise
 * 2000 attendees per day
 
-Find the complete list of speakers at the following address: https://devfest.gdgnantes.com/speakers/
+Find the complete list of speakers here: https://devfest.gdgnantes.com/speakers/
 
 ## Speakers
 Here are some of our top speakers from this DevFest 2019! 🎶 [Run Run Run - Shaka Ponk](https://www.youtube.com/watch?v=eVMBs_I8iqk) 🎶
