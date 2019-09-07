@@ -18,7 +18,7 @@ The DevFest Nantes 2019 in numbers:
     * 12 Codelabs
     * 2 Keynotes
     * 30% of the content in English and the rest in French
-    * 1 replay area for the smallest room;)
+    * 1 overflow area for the smallest room 😉
 * 1 sponsored after-party
 * 2000 participants per day
 
