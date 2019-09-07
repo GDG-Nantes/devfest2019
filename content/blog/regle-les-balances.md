@@ -9,7 +9,7 @@ draft: false
 ## Publication of the program
 You were waiting for it, the schedule of DevFest Nantes 2019 is available here: https://devfest.gdgnantes.com/schedule/. 🎶 [L'homme pressé - Noir Désir](https://www.youtube.com/watch?v=by1RRP9wa_Y) 🎶
 
-Know that this year, the DevFest Nantes 2019 is:
+The DevFest Nantes 2019 in numbers:
 
 * 96 Speakers
 * 70 Sessions
