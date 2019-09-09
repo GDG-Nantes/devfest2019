@@ -11,7 +11,7 @@ You were waiting for it, the schedule of DevFest Nantes 2019 is available here: 
 
 The DevFest Nantes 2019 in numbers:
 
-* 96 Speakers
+* 93 Speakers
 * 70 Sessions
     * 40 Conferences
     * 16 Quickies

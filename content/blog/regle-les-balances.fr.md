@@ -11,7 +11,7 @@ Vous l’attendiez, le voilà enfin ! Le programme du DevFest Nantes 2019 est di
 
 Sachez que cette année, le DevFest Nantes 2019 c’est :
 
-* 96 Speakers
+* 93 Speakers
 * 70 Sessions
     * 40 Conférences 
     * 16 Quickies
