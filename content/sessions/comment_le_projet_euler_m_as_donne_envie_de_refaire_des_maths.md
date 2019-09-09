@@ -2,6 +2,7 @@
 key: comment_le_projet_euler_m_as_donne_envie_de_refaire_des_maths
 title: Comment le projet Euler m'as donné envie de refaire des Maths
 id: NNTTBs25221x3lIXcewJ
+language: French
 talkType: quickie
 tags:
   - _discovery

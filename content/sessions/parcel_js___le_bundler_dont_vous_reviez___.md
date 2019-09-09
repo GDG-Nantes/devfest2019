@@ -2,6 +2,7 @@
 key: parcel_js___le_bundler_dont_vous_reviez___
 title: 'Parcel.js : le bundler dont vous rêviez ;)'
 id: d1Yng4mhbcD71ko9lKBu
+language: French
 talkType: quickie
 tags:
   - _web

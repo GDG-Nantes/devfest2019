@@ -1,6 +1,8 @@
 ---
 key: duniter___la_blockchain_ecolo
 title: 'Duniter : la blockchain écolo'
+id: aaPb7SVWpqCKWMD8rQ1F
+language: French
 talkType: conference
 tags:
   - _discovery

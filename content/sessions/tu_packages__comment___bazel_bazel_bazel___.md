@@ -2,6 +2,7 @@
 key: tu_packages__comment___bazel_bazel_bazel___
 title: "Tu packages  comment ? Bazel bazel bazel ! \U0001F4E6"
 id: 6YRBevpRuzvHpTahfu0M
+language: French
 talkType: conference
 tags:
   - _web

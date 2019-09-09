@@ -5,6 +5,7 @@ title: >-
   Le Web, ses frameworks et ses standards : déconstruire pour mieux
   (re?)construire
 id: b5hF6p3CkOqC09NEiGTI
+language: French
 talkType: conference
 tags:
   - _web

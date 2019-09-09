@@ -2,6 +2,7 @@
 key: vega_au_secours_de_vos_visualisations_de_donnees
 title: Vega au secours de vos visualisations de données
 id: orXBRWglkzkRXecgftv5
+language: French
 talkType: quickie
 tags:
   - _bigdata___ai

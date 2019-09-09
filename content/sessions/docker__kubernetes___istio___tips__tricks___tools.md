@@ -2,6 +2,7 @@
 key: docker__kubernetes___istio___tips__tricks___tools
 title: 'Docker, Kubernetes & Istio : Tips, tricks & tools'
 id: 0XqyD15XmnVBqKH26Y9O
+language: French
 talkType: conference
 tags:
   - _cloud___devops

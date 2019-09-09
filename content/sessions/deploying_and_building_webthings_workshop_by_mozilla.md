@@ -2,7 +2,7 @@
 key: deploying_and_building_webthings_workshop_by_mozilla
 title: 'Deploying and building webthings workshop by Mozilla '
 id: 7Cj0Rxozzh9vMWdR5WMV
-language: English/French
+language: English
 talkType: codelab
 tags:
   - _mobile___iot

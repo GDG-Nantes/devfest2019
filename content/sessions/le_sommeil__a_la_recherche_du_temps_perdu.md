@@ -2,6 +2,7 @@
 key: le_sommeil__a_la_recherche_du_temps_perdu
 title: 'Le sommeil, à la recherche du temps perdu'
 id: mqrd0iqqHellKFjJyVIX
+language: French
 talkType: quickie
 tags:
   - _discovery

@@ -2,6 +2,7 @@
 key: premiers_pas_avec_un_microcontroleur_et_google_cloud_iot_core
 title: Premiers pas avec un microcontrôleur et Google Cloud IoT Core
 id: R9O1S7M9oRMmwd0cNBaz
+language: French
 talkType: conference
 tags:
   - _mobile___iot
