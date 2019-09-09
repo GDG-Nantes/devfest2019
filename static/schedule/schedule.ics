@@ -372,7 +372,7 @@ DTSTART:20191021T140000
 DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Duniter : la blockchain écolo
-UID:duniter___la_blockchain_ecolo
+UID:aaPb7SVWpqCKWMD8rQ1F
 URL:https://devfest.gdgnantes.com/sessions/duniter___la_blockchain_ecolo
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -789,14 +789,24 @@ TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Let's see how a rich artistic tradition can inspire and inform 
- our craft as Vue.js developers.
+DESCRIPTION:Twist and shout with me as I walk through the creation of the u
+ ltimate Beatles tribute app\, over 50 years after the British Invasion. Usi
+ ng Vue.js to build a native mobile app\, you'll learn about the challenges 
+ inherent in building this kind of app into a truly multimedia experience. W
+ e’ll discuss building an art project within the app with an interactive alb
+ um-creator\, how to build a soundboard\, and how to use machine learning to
+  learn more about the poetry of the Beatles. We'll take a look\, finally\, 
+ on whether we can even improve on the classic songs by running their lyrics
+  through a recurrent neural network. Can generated lyrics be anywhere near 
+ as interesting as the original? Let's find out as we bring the 1960s into 2
+ 019.
 DTSTART:20191022T090000
 DURATION:PT50M
 LOCATION:Titan
-SUMMARY:Zen and The Art of VueJS
+SUMMARY:Lucy in the Sky with ML: Building the Ultimate Beatles Tribute App
 UID:hSGMgvMwUiXFxGIwnIrA
-URL:https://devfest.gdgnantes.com/sessions/zen_and_the_art_of_vuejs
+URL:https://devfest.gdgnantes.com/sessions/lucy_in_the_sky_with_ml__buildin
+ g_the_ultimate_beatles_tribute_app
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT

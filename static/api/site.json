@@ -963,8 +963,8 @@
         "description": "If you have been to any conference the last five years, you have probably heard about Progressive Web Apps (PWA). Web sites that can progressively turn into app like experiences and be installed on your devices. PWAs now also work on desktop systems, but usually desktop applications have different requirements as they are usually used for creating, in contract to consumption on mobile. As a user you want to be able to access your files, copy paste without issues, not having the screen turn off while giving a presentation, you want access to printers and other devices, access to local fonts. The list goes on! Currently most of those things are only available to native apps and are not things you want your random web sites to have access to. Project Fugu is the project to extend the web with more native like capabilities in a way that is safe and understood by the users. Join this talk to learn more about the exciting things we are working on as part of Project Fugu."
       },
       {
-      "key": "zen_and_the_art_of_vuejs",
-      "title": "Zen and The Art of VueJS",
+      "key": "lucy_in_the_sky_with_ml__building_the_ultimate_beatles_tribute_app",
+      "title": "Lucy in the Sky with ML: Building the Ultimate Beatles Tribute App",
       "id": "hSGMgvMwUiXFxGIwnIrA",
       "language": "English",
       "format": "conference",
@@ -974,7 +974,7 @@
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "Let's see how a rich artistic tradition can inspire and inform our craft as Vue.js developers."
+      "description": "Twist and shout with me as I walk through the creation of the ultimate Beatles tribute app, over 50 years after the British Invasion. Using Vue.js to build a native mobile app, you'll learn about the challenges inherent in building this kind of app into a truly multimedia experience. We’ll discuss building an art project within the app with an interactive album-creator, how to build a soundboard, and how to use machine learning to learn more about the poetry of the Beatles. We'll take a look, finally, on whether we can even improve on the classic songs by running their lyrics through a recurrent neural network. Can generated lyrics be anywhere near as interesting as the original? Let's find out as we bring the 1960s into 2019."
     },
     {
       "key": "building_a_complex_application_with_web_components_and_litelement",
@@ -3754,7 +3754,7 @@
             },
             {
               "slot": "slot-1-day-2",
-              "talk": "zen_and_the_art_of_vuejs"
+              "talk": "lucy_in_the_sky_with_ml__building_the_ultimate_beatles_tribute_app"
             },
             {
               "slot": "pause-1-day-2",

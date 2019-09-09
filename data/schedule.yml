@@ -157,7 +157,7 @@
         - slot: open-day-2
           talk: __open
         - slot: slot-1-day-2
-          talk: zen_and_the_art_of_vuejs
+          talk: lucy_in_the_sky_with_ml__building_the_ultimate_beatles_tribute_app
         - slot: pause-1-day-2
           talk: __pause
         - slot: slot-2-day-2
