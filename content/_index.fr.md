@@ -80,7 +80,7 @@ Le DevFest, ou 'Developer Festival', est une conférence technique destinée aux
            ends="2019-10-15"
            price="60€"
            info="Ticket 1 jour en vente à partir du 10 septembre 10h"
-           soldOut=""
+           soldOut="true"
            url="https://www.billetweb.fr/devfest-Nantes-2019" >}}</li>
 </ul>
 
