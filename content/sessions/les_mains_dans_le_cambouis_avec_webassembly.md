@@ -8,7 +8,7 @@ tags:
   - _web
 complexity: Beginner
 speakers:
-  - horacio_gonzalez__lostinbrittany_
+  - horacio_gonzalez
   - stephanie_moallic
 videoId: null
 presentation: null
