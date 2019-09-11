@@ -36,7 +36,7 @@ It is aimed at students, professionals or simply curious techies.
 ## Featured Speakers
 
 {{< button-link label="See all speakers"
-                url="./speakers"
+                url="./speakers/"
                 icon="right" >}}
 
 {{% /home-speakers %}}
