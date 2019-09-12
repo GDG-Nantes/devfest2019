@@ -79,23 +79,25 @@ TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:As developers\, it's important to think about our users first: 
- you need to create an awesome experience and part of the equation is to del
- iver quality\, fast. Unfortunately\, we lost the habit of being efficient w
- ith our code and assets\, getting used\, if you are lucky\, to more and mor
- e power from our devices and internet connections. But our users want their
-  data now. Waiting is painful\, you know it! It's not an option anymore... 
- Based on personal experience\, this presentation is about concrete tips and
-  tricks to help you optimize your masterpiece\, using HTML\, CSS\, and Java
- Script (most applicable to other languages).
+DESCRIPTION:Why should you\, a competent software developer or programmer\,
+  care about your own brand? After all\, it’s not like you’re an actor or mu
+ sician. \nIn fact\, as Success in Programming: How to Gain Recognition\, Po
+ wer\, and Influence Through Personal Branding demonstrates in many ways\, i
+ t’s never been more important for you to think about yourself as a brand. D
+ oing so will provide rocket fuel for your career. You’ll find better jobs a
+ nd become the “go-to” person in various situations. You’ll become known for
+  your expertise and leadership\, and you’ll find it easier to strike out on
+  your own. People will seek out your advice and point of view. You’ll get p
+ aid to speak\, write\, and consult. What’s not to like about becoming a roc
+ k star developer?
 DTSTART:20191021T151000
 DURATION:PT50M
 LOCATION:Titan
-SUMMARY:Building web apps that don’t suck
+SUMMARY:Success in Programming
 UID:1FYvsNqstRjBnJhXNdwf
-URL:https://devfest.gdgnantes.com/sessions/building_web_apps_that_dont_suck
+URL:https://devfest.gdgnantes.com/sessions/success_in_programming
 TRANSP:TRANSPARENT
-CATEGORIES:🌍 Web
+CATEGORIES:💡 Discovery
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:You can’t spell “introvert” without “IoT”\, which is why Chloe 
