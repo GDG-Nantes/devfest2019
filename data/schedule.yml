@@ -22,7 +22,7 @@
         - slot: pause-3-day-1
           talk: __pause
         - slot: slot-4-day-1
-          talk: building_web_apps_that_dont_suck
+          talk: success_in_programming
         - slot: pause-4-day-1
           talk: __pause
         - slot: slot-5-day-1

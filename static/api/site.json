@@ -213,18 +213,18 @@
       "description": "Front-end development has gotten trickier over the years. As new frameworks enable more complex behaviour, UX expectations have also risen.\nYet, we still work the old way: Product defines features, designers make mock-ups, then developers integrate them. Side effects include: blocking dependencies, rework, misunderstanding, frustration, for everyone involved.\n\nIn this talk, we will provide you with a proven starter kit to improve all your future collaborations, among other things how to:\n\n- define the right process from the first concept of the feature to its design to its implementation on the app\n- define the perfect mock-up for painless design handoff\n- provide technical insights during the design process\n- involve the designer in your development process for a finishing touch\n\nJoin our movement and start growing a DevUx culture on your projects: build better, work faster, be happier!"
     },
     {
-      "key": "building_web_apps_that_dont_suck",
-      "title": "Building web apps that don’t suck",
+      "key": "success_in_programming",
+      "title": "Success in Programming",
       "id": "1FYvsNqstRjBnJhXNdwf",
       "language": "English",
       "format": "conference",
-      "tags": ["_web"],
+      "tags": ["_discovery"],
       "level": "beginner",
       "speakers": ["frederic_harper"],
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "As developers, it's important to think about our users first: you need to create an awesome experience and part of the equation is to deliver quality, fast. Unfortunately, we lost the habit of being efficient with our code and assets, getting used, if you are lucky, to more and more power from our devices and internet connections. But our users want their data now. Waiting is painful, you know it! It's not an option anymore... Based on personal experience, this presentation is about concrete tips and tricks to help you optimize your masterpiece, using HTML, CSS, and JavaScript (most applicable to other languages)."
+      "description": "Why should you, a competent software developer or programmer, care about your own brand? After all, it’s not like you’re an actor or musician. \nIn fact, as Success in Programming: How to Gain Recognition, Power, and Influence Through Personal Branding demonstrates in many ways, it’s never been more important for you to think about yourself as a brand. Doing so will provide rocket fuel for your career. You’ll find better jobs and become the “go-to” person in various situations. You’ll become known for your expertise and leadership, and you’ll find it easier to strike out on your own. People will seek out your advice and point of view. You’ll get paid to speak, write, and consult. What’s not to like about becoming a rock star developer?"
     },
     {
       "key": "comment_j_ai_fini_par_deployer_a_2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_avec_un_velo_d_appartement_",
@@ -2186,7 +2186,7 @@
     },
     {
       "key": "mael_naccache",
-      "name": "Maël Naccache",
+      "name": "Maël Naccache Tüfekçi",
       "id": "a7bO0B6883M74pE6eOtepTZqzOQ2",
       "feature": false,
       "company": "Zenika",
@@ -3478,7 +3478,7 @@
             },
             {
               "slot": "slot-4-day-1",
-              "talk": "building_web_apps_that_dont_suck"
+              "talk": "success_in_programming"
             },
             {
               "slot": "pause-4-day-1",
