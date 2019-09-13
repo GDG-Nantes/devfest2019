@@ -4,6 +4,7 @@ name: Robin Caroff
 id: NEuHFOJuVlNis4dFxumpF3XaVYj2
 feature: false
 company: Toki
+companyLogo: /images/partners/toki.svg
 city: 'Nantes, France'
 photo: /images/speakers/robin_caroff.png
 socials:
