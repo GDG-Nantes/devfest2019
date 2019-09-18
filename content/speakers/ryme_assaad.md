@@ -3,6 +3,7 @@ key: ryme_assaad
 name: Ryme Assaad
 id: 7nHeRoVYvxbwMKFvufE010B4E273
 feature: false
+company: Kapstone Co
 photo: /images/speakers/ryme_assaad.jpg
 socials:
   - icon: twitter

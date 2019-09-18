@@ -329,8 +329,8 @@
       "description": "Temps de démarrage proche de la seconde, empreinte mémoire de 10 MB, pas de réflection, approche orientée \"cloud native\" : autant de caractéristiques qui font du framework Micronaut le compagnon idéal  de développement de vos microservices Java/Kotlin. Mais concrètement, comment on écrit du code avec Micronaut ?\n\nDans ce TP nous coderons quelques microservices en Java ou Kotlin, les builderons avec Gradle, y brancherons une petite base de donnée H2 ou MongoDB et bien sûr les feront interagir avec du service discovery. Ce TP permettra ainsi de couvrir les principales fonctionnalités de Micronaut comme :\n\n* L'injection de dépendance and l'inversion de contrôle (IoC)\n* La configuration et l'auto-configuration\n* Les services HTTP avec des clients et des serveurs HTTP\n* Les aspects cloud native\n* Le support des APIs réactives\n* Les tests\n* Le management et le monitoring de nos microservices\n* La compilation native avec GraalVM"
     },
     {
-      "key": "deploying_and_building_webthings_workshop_by_mozilla",
-      "title": "Deploying and building webthings workshop by Mozilla ",
+      "key": "developing_and_deploying_webthings_by_mozilla",
+      "title": "Developing and Deploying WebThings by Mozilla",
       "id": "7Cj0Rxozzh9vMWdR5WMV",
       "language": "English",
       "format": "codelab",
@@ -340,7 +340,7 @@
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "We will demonstrate Mozilla’s WebThings Gateway, an IoT framework to protect user privacy and security, and to improve cross-brand interoperability. We will also show how to develop and build your own custom \"web things\" out of microcontroller boards. \n\nHands-on :\n\nTo participate in microcontroller programming using MicroBlocks, come to the workshop with MicroBlocks pre-installed. You can download the installer for your operating system and follow the setup instructions.\n\nBio :\n\nRyme Assaad is cofounder & managing partner at Kapstone Co, myiolab and SEFY International\n\nShe was a TechWomen fellow 2018 and interned at Mozilla. \n\nShe is currently a TechSpeaker and working with the Mozilla Web of Things (WoT) community towards a decentralized Internet of Things with improved standards around security, privacy and interoperability.\n\n@rymeassaad"
+      "description": "We will demonstrate Mozilla’s WebThings Gateway, an IoT framework to protect user privacy and security, and to improve cross-brand interoperability. We will also show how to develop and build your own custom \"web things\" out of microcontroller boards then get “hands-on” using MicroBlocks.\n\nHands-on :\nTo participate in microcontroller programming using MicroBlocks, come to the workshop with MicroBlocks pre-installed. You can download the installer for your operating system and follow the setup instructions."
     },
     {
       "key": "developper_de_nouvelles_applications_avec_docker_app",
@@ -553,18 +553,18 @@
       "description": "The world is moving from processing the data in the Cloud to processing it on the Edge devices. Edge computing helps to break beyond the limitations imposed by, now, traditional cloud solutions. There are a few reasons to that, like privacy concerns, reducing the need for heavy processing resources, reducing the amount of data that is sent over the network – just to mention a few.\n\nIn this talk, we will introduce the concept and benefits of Edge Computing, how such devices can be built using affordable hardware and we will look at examples on how IoT Edge devices are in practice as well as comparing Edge Computing with other options.\n\nAs a demo, we have automated the manual job of counting the attendance for talks at a conference. We have built a live system while keeping the privacy of the people intact; without leaking faces and identity of the people to a 3rd party or Cloud providers. In addition to standard video processing, we added advanced ML techniques and models to the device to demonstrate the power and flexibility of the Edge devices nowadays."
     },
     {
-      "key": "iot_for_the_introvert",
-      "title": "IoT for the Introvert",
+      "key": "la_guitare_lag_hyvibe",
+      "title": "La guitare Lâg HyVibe",
       "id": "SHneT9Z4EuhEvtKuOLx9",
-      "language": "English",
+      "language": "French",
       "format": "conference",
-      "tags": ["_cloud___devops"],
+      "tags": ["_discovery"],
       "level": "beginner",
-      "speakers": ["chloe_condon"],
+      "speakers": ["adrien_mamou_mani"],
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "You can’t spell “introvert” without “IoT”, which is why Chloe is here to show us how she used Azure IoT services to help her get out of not-so-fun social situations. In this talk, she’ll walk through how you can use a simple Flic button and Azure to save yourself from your next awkward convo."
+      "description": "Il n’est pas étonnant qu’à une époque où notre vieux téléphone s’est transformé en un génial smartphone, un phénomène identique puisse enfin se réaliser avec la guitare acoustique.\nEn combinant les 7 années de recherche d’Adrien Mamou Mani au célèbre laboratoire de l’IRCAM à Paris, avec 40 années d’expertise de facture instrumentale, Lâg offre à tous les amoureux de la guitare une nouvelle génération d’instrument offrant le meilleur de la technologie et de la lutherie.\nEn effet, la HyVibe Smart guitar de Lâg révolutionne la relation entre les guitaristes et leur instrument favori.\nElle devient une partenaire idéale qui les accompagne au quotidien en transcendant chaque instant passé avec elle."
     },
     {
       "key": "jamstack__ou_comment_faire_des_sites_statiques_modernes_et_rapides",
@@ -583,10 +583,10 @@
     {
       "key": "keynote_close",
       "title": "Keynote de fermeture",
-      "language": "English",
+      "language": "French",
       "format": "keynote",
       "tags": ["keynote"],
-      "speakers": [],
+      "speakers": ["thomas_gx"],
       "videoId": null,
       "presentation": null,
       "draft": false,
@@ -595,10 +595,10 @@
     {
       "key": "keynote_close_overflow",
       "title": "Keynote de fermeture (overflow)",
-      "language": "English",
+      "language": "French",
       "format": "keynote",
       "tags": ["keynote"],
-      "speakers": [],
+      "speakers": ["thomas_gx"],
       "videoId": null,
       "presentation": null,
       "draft": false,
@@ -781,20 +781,6 @@
       "description": "Les jeux de société posent des problèmes de design et d'architecture qui sont uniques dans le monde du jeu vidéo. Puisant dans plus de 15 ans d'expérience faite d'échecs et de réussites, Yann Corno en décrira les spécificités. Après un rappel sur le marché du jeu de société physique et son développement récent dans le digital, nous couvrirons les principaux aspects d’architecture et de design, et nous verrons comment ils sont liés.\n\nCette introduction au monde des jeux de société numériques intéressera aussi bien les développeurs que les game designers."
     },
     {
-      "key": "let_me_entertain_you__using_the_arts_theatre_comedy_in_technology",
-      "title": "Let Me Entertain You: Using The Arts/Theatre/Comedy in Technology",
-      "id": "jKfKEIW0OhwQvM9AMPiG",
-      "language": "English",
-      "format": "conference",
-      "tags": ["_discovery"],
-      "level": "beginner",
-      "speakers": ["chloe_condon"],
-      "videoId": null,
-      "presentation": null,
-      "draft": false,
-      "description": "“Engineers are people, too: they like the be entertained”: this has been my mantra while helping build developer communities in the Bay Area as a Developer Evangelist/Advocate. As a former musical theatre actress, I found that many meet-ups, conferences, and events I went to lacked the “entertainment” I was used to consuming “on stage”. Yes, we’re giving highly technical talks, and yes the speakers may not be singing and dancing… but isn’t there a way to make these entertaining? Armed with a theatre, degree, a certificate from Hackbright (an all female software engineering school in SF), and all of the lines/lyrics of Legally Blonde the musical memorized, I set out to make a community events and content that were not only informational, but entertaining as well. In this talk, I’ll walk through the ways you can use art/comedy/theatre to make events and content gamified, entertaining, and engaging to the community. Turns out people like to have fun: who knew?\n\nAs an engineer with 20+ years of theatre experience, I never imagined my stage management, prop, costume, and acting skills would be so valuable- but here we are!"
-    },
-    {
       "key": "make_your_data_fabulous",
       "title": "Make Your Data FABulous",
       "id": "3bpYxNtnZ9IgdjDAV9Bn",
@@ -809,18 +795,18 @@
       "description": "The CAP theorem is widely known for distributed systems, but it's not the only tradeoff you should be aware of. For datastores there is also the FAB theory and just like with the CAP theorem you can only pick two:\n\n* Fast: Results are real-time or near real-time instead of batch oriented.\n* Accurate: Answers are exact and don't have a margin of error.\n* Big: You require horizontal scaling and need to distribute your data.\n\nWhile Fast and Big are relatively easy to understand, Accurate is a bit harder to picture. This talk shows some concrete examples of accuracy tradeoffs Elasticsearch can take for terms aggregations, cardinality aggregations with HyperLogLog++, and the IDF part of full-text search. Or how to trade some speed or the distribution for more accuracy."
     },
     {
-      "key": "tbd_talk",
-      "title": "To be defined",
+      "key": "cloud_rocks_my_si",
+      "title": "Cloud ROCKS my SI",
       "id": "3XPc1RWhOuIdTLCIBtu3",
-      "language": "English",
+      "language": "French",
       "format": "conference",
-      "tags": ["_web"],
-      "level": "intermediate",
-      "speakers": ["tbd_speaker"],
+      "tags": ["_cloud___devops"],
+      "level": "beginner",
+      "speakers": ["didier_girard", "cyril_balit"],
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "To be defined"
+      "description": "Le cloud n'a pas cessé d'évoluer et nous disposons donc d'un grand nombre de choix d'outils pour faciliter la mise à disposition de nos applications. Passons à l'étape suivante. Pourquoi ne pas organiser tout notre SI à l'aide de ces outils cloud ? Nous vous montrerons dans cette présentation comment déployer des applications très différentes (IaaS, PaaS, CaaS, FaaS) et les faire communiquer sur une ossature Cloud pour constituer un SI 100% cloud"
     },
     {
       "key": "pair_design___un_moyen_de_concevoir_a_deux_ou_plus",
@@ -1305,6 +1291,24 @@
       "description": "Lead Tech chez onepoint, passionné de technos web et de containers\nDeveloppeur Java, Kotlin, Typescript, Angular, React ..."
     },
     {
+      "key": "thomas_gx",
+      "name": "Thomas Gx",
+      "id": "AGSxEEUcCPcYeLv36fjSVo87yeI3",
+      "feature": false,
+      "compnay": "Commitstrip",
+      "companyLogo": "/images/partners/commitstrip.jpg",
+      "city": "Angers, France",
+      "photoURL": "/images/speakers/thomas_gx.jpg",
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/CommitStrip_fr",
+          "name": "CommitStrip_fr"
+        }
+      ],
+      "description": "Thomas Gx est le fondateur de CommitStrip, le blog BD bien connu des codeurs : c'est lui qui écrit chaque jour depuis 2012 une strip sur la vie quotidienne des codeurs. Pionner du développement des réseaux sociaux en France dès 2006 en lançant Cancoon, Thomas co-fonde en 2007 l'agence KRDS, première agence spécialisée en social media marketing et aujourd'hui leader en Europe et en Asie. Il y occupe aujourd'hui la Direction de la Production, dirigeant un studio primé et une équipe de développeurs web ayant produit près de 2000 projets."
+    },
+    {
       "key": "bob_van_luijt",
       "name": "Bob Van Luijt",
       "id": "B1ocr8AUfIZN8bKh8bEgYBjFZlB2",
@@ -1386,22 +1390,21 @@
       "description": "Tomber dans la soupe du design étant petite, je suis actuellement Product designer au sein de Zenika. Je parle avec autant de passion de typographie que de flow utilisateurs ! Issue du print et du branding, j’ai pris le choix de m’orienter vers le design d’interfaces à la fois en UI et en UX design. À cette occasion, j’ai découvert l’Atomic Design et ce que ce cadre peut apporter à une équipe et notamment dans un contexte Agile."
     },
     {
-      "key": "chloe_condon",
-      "name": "Chloe Condon",
+      "key": "adrien_mamou_mani",
+      "name": "Adrien Mamou-Mani",
       "id": "s4a9l8JREdUe38TG3XfbiPmtlaP2",
       "feature": true,
-      "company": "Microsoft",
-      "companyLogo": "/images/partners/microsoft.png",
-      "city": "San Francisco, USA",
-      "photoURL": "/images/speakers/chloe_condon.jpg",
+      "company": "HyVibe",
+      "companyLogo": "/images/partners/hyvibe.jpg",
+      "photoURL": "/images/speakers/adrien_mamou_mani.jpg",
       "socials": [
         {
           "icon": "twitter",
-          "link": "https://twitter.com/chloecondon",
-          "name": "chloecondon"
+          "link": "https://twitter.com/HyVibe_Audio",
+          "name": "HyVibe_Audio"
         }
       ],
-      "description": ""
+      "description": "Adrien Mamou-Mani est le fondateur et PDG de HyVibe.\nAncien responsable du département de recherche acoustique instrumentale de l’IRCAM, il est titulaire d’un doctorat en acoustique et en mécanique de l’université Pierre et Marie Curie (Paris), et fut également chercheur au musée de la Philharmonie de Paris et à l’Open University Acoustics Laboratory (Grande-Bretagne) en tant que Newton Fellow.\nSon expertise, dans la physique des vibrations et le contrôle des instruments de musique, est reconnue dans le monde entier.\nIl est par ailleurs violoncelliste et a souvent chanté et joué de la guitare sur les scènes rock parisiennes."
     },
     {
       "key": "chris_woodrow",
@@ -2569,6 +2572,7 @@
       "name": "Ryme Assaad",
       "id": "7nHeRoVYvxbwMKFvufE010B4E273",
       "feature": false,
+      "company": "Kapstone Co",
       "photoURL": "/images/speakers/ryme_assaad.jpg",
       "socials": [
         {
@@ -2796,13 +2800,40 @@
       "description": "Consultant et développeur full-stack chez Zenika à Nantes, je réalise des projets webs pour nos différents clients. À la fois développeur front et back je m’intéresse à des technologies et des langages tels que angular, vueJS, Kotlin, Java."
     },
     {
-      "key": "tbd_speaker",
-      "name": "To be defined",
+      "key": "didier_girard",
+      "name": "Didier Girard",
       "id": "OkHKoybkESdA5gtspQdJYIzUhlm2",
       "feature": false,
-      "photoURL": "/images/speakers/default.jpg",
-      "socials": [],
-      "description": "To be defined"
+      "company": "Sfeir",
+      "companyLogo": "/images/partners/sfeir.png",
+      "city": "Paris, France",
+      "photoURL": "/images/speakers/didier_girard.jpg",
+      "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/DidierGirard",
+            "name": "DidierGirard"
+        }
+      ],
+      "description": "Cloud Rider / GDE @Google / VP Engineering @Sfeir / PhD Machine Learning @EnsDeLyon"
+    },
+    {
+      "key": "cyril_balit",
+      "name": "Cyril Balit",
+      "id": "MkHKoybkESdA5gtspQdJYIzUhlm2",
+      "feature": false,
+      "company": "Sfeir",
+      "companyLogo": "/images/partners/sfeir.png",
+      "city": "Paris, France",
+      "photoURL": "/images/speakers/cyril_balit.jpg",
+      "socials": [
+        {
+            "icon": "twitter",
+            "link": "https://twitter.com/cbalit",
+            "name": "cbalit"
+        }
+      ],
+      "description": "Cyril Balit est CEO chez SFEIR et Goole Developer Expert sur les technologies Web. Développeur passionné, il construit des Single Page Application en javascript depuis 2003 et tombe amoureux d’Angular en 2013. Il est un membre actif de la communauté web français sur plusieurs sujets comme Angular, Vuejs et les Progressives Web App . Organisateur de conférences et de meetups , speaker et formateur , Cyril aime partager avec les communautés."
     },
     {
       "key": "valentin_deleplace",
@@ -3487,7 +3518,7 @@
             },
             {
               "slot": "slot-5-day-1",
-              "talk": "iot_for_the_introvert"
+              "talk": "la_guitare_lag_hyvibe"
             },
             {
               "slot": "pause-5-day-1",
@@ -3836,7 +3867,7 @@
             },
             {
               "slot": "slot-3-day-2",
-              "talk": "tbd_talk"
+              "talk": "cloud_rocks_my_si"
             },
             {
               "slot": "lunch-day-2",
@@ -4007,7 +4038,7 @@
             },
             {
               "slot": "codelab-3-day-2",
-              "talk": "deploying_and_building_webthings_workshop_by_mozilla"
+              "talk": "developing_and_deploying_webthings_by_mozilla"
             }
           ]
         },

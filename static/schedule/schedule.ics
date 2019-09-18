@@ -100,19 +100,24 @@ TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:You can’t spell “introvert” without “IoT”\, which is why Chloe 
- is here to show us how she used Azure IoT services to help her get out of n
- ot-so-fun social situations. In this talk\, she’ll walk through how you can
-  use a simple Flic button and Azure to save yourself from your next awkward
-  convo.
+DESCRIPTION:Il n’est pas étonnant qu’à une époque où notre vieux téléphone 
+ s’est transformé en un génial smartphone\, un phénomène identique puisse en
+ fin se réaliser avec la guitare acoustique.\nEn combinant les 7 années de r
+ echerche d’Adrien Mamou Mani au célèbre laboratoire de l’IRCAM à Paris\, av
+ ec 40 années d’expertise de facture instrumentale\, Lâg offre à tous les am
+ oureux de la guitare une nouvelle génération d’instrument offrant le meille
+ ur de la technologie et de la lutherie.\nEn effet\, la HyVibe Smart guitar 
+ de Lâg révolutionne la relation entre les guitaristes et leur instrument fa
+ vori.\nElle devient une partenaire idéale qui les accompagne au quotidien e
+ n transcendant chaque instant passé avec elle.
 DTSTART:20191021T162000
 DURATION:PT50M
 LOCATION:Titan
-SUMMARY:IoT for the Introvert
+SUMMARY:La guitare Lâg HyVibe
 UID:SHneT9Z4EuhEvtKuOLx9
-URL:https://devfest.gdgnantes.com/sessions/iot_for_the_introvert
+URL:https://devfest.gdgnantes.com/sessions/la_guitare_lag_hyvibe
 TRANSP:TRANSPARENT
-CATEGORIES:☁️ Cloud & DevOps
+CATEGORIES:💡 Discovery
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dr Gopher a décidé de comprendre comment fait le runtime Golang
@@ -964,6 +969,17 @@ TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191022T172000
+DURATION:PT50M
+LOCATION:Titan
+SUMMARY:Keynote de fermeture
+UID:keynote_close
+URL:https://devfest.gdgnantes.com/sessions/keynote_close
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Front-end development has gotten trickier over the years. As ne
  w frameworks enable more complex behaviour\, UX expectations have also rise
  n.\nYet\, we still work the old way: Product defines features\, designers m
@@ -1006,15 +1022,21 @@ TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:To be defined
+DESCRIPTION:Le cloud n'a pas cessé d'évoluer et nous disposons donc d'un gr
+ and nombre de choix d'outils pour faciliter la mise à disposition de nos ap
+ plications. Passons à l'étape suivante. Pourquoi ne pas organiser tout notr
+ e SI à l'aide de ces outils cloud ? Nous vous montrerons dans cette présent
+ ation comment déployer des applications très différentes (IaaS\, PaaS\, Caa
+ S\, FaaS) et les faire communiquer sur une ossature Cloud pour constituer u
+ n SI 100% cloud
 DTSTART:20191022T112000
 DURATION:PT50M
 LOCATION:Belem
-SUMMARY:To be defined
+SUMMARY:Cloud ROCKS my SI
 UID:3XPc1RWhOuIdTLCIBtu3
-URL:https://devfest.gdgnantes.com/sessions/tbd_talk
+URL:https://devfest.gdgnantes.com/sessions/cloud_rocks_my_si
 TRANSP:TRANSPARENT
-CATEGORIES:🌍 Web
+CATEGORIES:☁️ Cloud & DevOps
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:[Knative](http://www.knative.dev) is a Kubernetes-based platfor
@@ -1108,6 +1130,17 @@ URL:https://devfest.gdgnantes.com/sessions/informatique_quantique__je_suis_
  non_binaire
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191022T172000
+DURATION:PT50M
+LOCATION:Belem
+SUMMARY:Keynote de fermeture (overflow)
+UID:keynote_close_overflow
+URL:https://devfest.gdgnantes.com/sessions/keynote_close_overflow
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pour mieux aiguiller ses choix d’aujourd’hui\, quoi de mieux qu
@@ -1458,22 +1491,18 @@ BEGIN:VEVENT
 DESCRIPTION:We will demonstrate Mozilla’s WebThings Gateway\, an IoT framew
  ork to protect user privacy and security\, and to improve cross-brand inter
  operability. We will also show how to develop and build your own custom "we
- b things" out of microcontroller boards. \n\nHands-on :\n\nTo participate i
- n microcontroller programming using MicroBlocks\, come to the workshop with
-  MicroBlocks pre-installed. You can download the installer for your operati
- ng system and follow the setup instructions.\n\nBio :\n\nRyme Assaad is cof
- ounder & managing partner at Kapstone Co\, myiolab and SEFY International\n
- \nShe was a TechWomen fellow 2018 and interned at Mozilla. \n\nShe is curre
- ntly a TechSpeaker and working with the Mozilla Web of Things (WoT) communi
- ty towards a decentralized Internet of Things with improved standards aroun
- d security\, privacy and interoperability.\n\n@rymeassaad
+ b things" out of microcontroller boards then get “hands-on” using MicroBloc
+ ks.\n\nHands-on :\nTo participate in microcontroller programming using Micr
+ oBlocks\, come to the workshop with MicroBlocks pre-installed. You can down
+ load the installer for your operating system and follow the setup instructi
+ ons.
 DTSTART:20191022T151000
 DURATION:PT120M
 LOCATION:Les Machines
-SUMMARY:Deploying and building webthings workshop by Mozilla 
+SUMMARY:Developing and Deploying WebThings by Mozilla
 UID:7Cj0Rxozzh9vMWdR5WMV
-URL:https://devfest.gdgnantes.com/sessions/deploying_and_building_webthings
- _workshop_by_mozilla
+URL:https://devfest.gdgnantes.com/sessions/developing_and_deploying_webthin
+ gs_by_mozilla
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
 END:VEVENT

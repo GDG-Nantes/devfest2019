@@ -1,12 +1,13 @@
 ---
 key: keynote_close_overflow
 title: Ending keynote (overflow) / Keynote de fermeture (overflow)
-language: English
+language: French
 talkType: keynote
 complexity: Beginner
 tags:
   - keynote
-speakers: []
+speakers:
+  - thomas_gx
 draft: false
 ---
 Surprise!

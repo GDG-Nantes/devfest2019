@@ -26,7 +26,7 @@
         - slot: pause-4-day-1
           talk: __pause
         - slot: slot-5-day-1
-          talk: iot_for_the_introvert
+          talk: la_guitare_lag_hyvibe
         - slot: pause-5-day-1
           talk: __pause
         - slot: slot-6-day-1
@@ -197,7 +197,7 @@
         - slot: pause-2-day-2
           talk: __pause
         - slot: slot-3-day-2
-          talk: tbd_talk
+          talk: cloud_rocks_my_si
         - slot: lunch-day-2
           talk: __lunch
         - slot: slot-4-day-2
@@ -281,7 +281,7 @@
         - slot: codelab-2-day-2
           talk: creons_notre_premiere_api_avec_nestjs
         - slot: codelab-3-day-2
-          talk: deploying_and_building_webthings_workshop_by_mozilla
+          talk: developing_and_deploying_webthings_by_mozilla
     - room: room_codelab2
       slots: 
         - slot: codelab-1-day-2

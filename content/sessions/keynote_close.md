@@ -1,12 +1,13 @@
 ---
 key: keynote_close
 title: Ending keynote / Keynote de fermeture
-language: English
+language: French
 talkType: keynote
 complexity: Beginner
 tags:
   - keynote
-speakers: []
+speakers:
+  - thomas_gx
 draft: false
 ---
 Surprise!
