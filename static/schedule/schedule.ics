@@ -520,27 +520,25 @@ TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:The world is moving from processing the data in the Cloud to pr
- ocessing it on the Edge devices. Edge computing helps to break beyond the l
- imitations imposed by\, now\, traditional cloud solutions. There are a few 
- reasons to that\, like privacy concerns\, reducing the need for heavy proce
- ssing resources\, reducing the amount of data that is sent over the network
-  – just to mention a few.\n\nIn this talk\, we will introduce the concept a
- nd benefits of Edge Computing\, how such devices can be built using afforda
- ble hardware and we will look at examples on how IoT Edge devices are in pr
- actice as well as comparing Edge Computing with other options.\n\nAs a demo
- \, we have automated the manual job of counting the attendance for talks at
-  a conference. We have built a live system while keeping the privacy of the
-  people intact\; without leaking faces and identity of the people to a 3rd 
- party or Cloud providers. In addition to standard video processing\, we add
- ed advanced ML techniques and models to the device to demonstrate the power
-  and flexibility of the Edge devices nowadays.
+DESCRIPTION:Facebook\, Instagram\, Pinterest\, Skype\, UberEATS\, Lastminut
+ e\, Veepee : voici quelques-unes des plus belles références de React Native
+ . Cette solution portée par Facebook permet de développer des applications 
+ mobiles natives Android et iOS à partir d'un code source unique React. Les 
+ technologies du web pour développer de vraies applications mobiles !\nDepui
+ s plus de deux ans nous avons fait le pari de React Native et mené à bien d
+ es projets de développement d'applications mobiles. À travers un retour d’e
+ xpérience sur ces projets\, nous vous présenterons les grands principes de 
+ React Native\, ses points forts et les difficultés que nous avons rencontré
+ es lors de nos développements. Nous vous donnerons également quelques conse
+ ils sur les bons outils\, les bonnes librairies et les bonnes méthodes à me
+ ttre en place pour réussir votre projet React Native.
 DTSTART:20191021T111000
 DURATION:PT50M
 LOCATION:Graslin
-SUMMARY:IoT Edge to the rescue 🛡️
+SUMMARY:React Native : comment réussir son application mobile
 UID:YcYbzTiENcd0afk3oP7c
-URL:https://devfest.gdgnantes.com/sessions/iot_edge_to_the_rescue_
+URL:https://devfest.gdgnantes.com/sessions/react_native___comment_reussir_s
+ on_application_mobile
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
 END:VEVENT
