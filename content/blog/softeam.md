@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Softeam
-brief: Sponsor's word Softeam
+brief: Few words from our sponsor Softeam
 image: /images/blog/softeam.png
 date: 2019-10-16
 draft: false
