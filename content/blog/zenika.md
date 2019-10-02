@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Zenika
-brief: Sponsor's word Zenika
+brief: Few words from our sponsor Zenika
 image: /images/blog/zenika.png
 date: 2019-10-07
 draft: false
