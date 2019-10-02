@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Onepoint
-brief: Sponsor's word Onepoint
+brief: Few words from our sponsor Onepoint
 image: /images/blog/onepoint.png
 date: 2019-10-14
 draft: false
