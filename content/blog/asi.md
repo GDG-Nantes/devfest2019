@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor ASI
-brief: Sponsor's word ASI
+brief: Few words from our sponsor ASI
 image: /images/blog/asi.png
 date: 2019-10-15
 draft: false
