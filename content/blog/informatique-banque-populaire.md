@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Informatique Banque Populaire
-brief: Sponsor's word Informatique Banque Populaire
+brief: Few words from our sponsor Informatique Banque Populaire
 image: /images/blog/ibp.png
 date: 2019-10-02
 draft: false
