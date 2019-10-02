@@ -39,10 +39,6 @@
           talk: __party
     - room: room2
       slots:
-        - slot: keynote-open
-          talk: keynote_open_overflow
-        - slot: pause-1-day-1
-          talk: __pause
         - slot: slot-1-day-1
           talk: go_serverless_with_cloud_functions_for_firebase
         - slot: pause-2-day-1
@@ -71,6 +67,10 @@
           talk: le_futur_de_la_gestion_des_dependances_node
     - room: room3
       slots:
+        - slot: keynote-open
+          talk: keynote_open_overflow
+        - slot: pause-1-day-1
+          talk: __pause
         - slot: slot-1-day-1
           talk: au_dela_des_couleurs__des_interfaces_adaptees_au_daltonisme
         - slot: pause-2-day-1
@@ -216,8 +216,6 @@
           talk: informatique_quantique__je_suis_non_binaire
         - slot: pause-6-day-2
           talk: __pause
-        - slot: keynote-close
-          talk: keynote_close_overflow
     - room: room3
       slots: 
         - slot: slot-1-day-2

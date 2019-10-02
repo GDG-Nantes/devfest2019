@@ -3569,14 +3569,6 @@
           "room": "room2",
           "slots": [
             {
-              "slot": "keynote-open",
-              "talk": "keynote_open_overflow"
-            },
-            {
-              "slot": "pause-1-day-1",
-              "talk": "__pause"
-            },
-            {
               "slot": "slot-1-day-1",
               "talk": "go_serverless_with_cloud_functions_for_firebase"
             },
@@ -3633,6 +3625,14 @@
         {
           "room": "room3",
           "slots": [
+            {
+              "slot": "keynote-open",
+              "talk": "keynote_open_overflow"
+            },
+            {
+              "slot": "pause-1-day-1",
+              "talk": "__pause"
+            },
             {
               "slot": "slot-1-day-1",
               "talk": "au_dela_des_couleurs__des_interfaces_adaptees_au_daltonisme"
@@ -3927,10 +3927,6 @@
             {
               "slot": "pause-6-day-2",
               "talk": "__pause"
-            },
-            {
-              "slot": "keynote-close",
-              "talk": "keynote_close_overflow"
             }
           ]
         },

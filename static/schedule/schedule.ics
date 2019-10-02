@@ -162,17 +162,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Surprise!
-DTSTART:20191021T090000
-DURATION:PT40M
-LOCATION:Belem
-SUMMARY:Keynote d'ouverture (overflow)
-UID:keynote_open_overflow
-URL:https://devfest.gdgnantes.com/sessions/keynote_open_overflow
-TRANSP:TRANSPARENT
-CATEGORIES:Keynote
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Firebase makes it incredibly easy to write\, deploy\, and scale
   a serverless backend\, written in TypeScript\, for your app.  In this sess
  ion\, you’ll get to experience that using nothing more than a code editor a
@@ -316,6 +305,17 @@ URL:https://devfest.gdgnantes.com/sessions/le_futur_de_la_gestion_des_depen
  dances_node
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Surprise!
+DTSTART:20191021T090000
+DURATION:PT40M
+LOCATION:Tour de Bretagne
+SUMMARY:Keynote d'ouverture (overflow)
+UID:keynote_open_overflow
+URL:https://devfest.gdgnantes.com/sessions/keynote_open_overflow
+TRANSP:TRANSPARENT
+CATEGORIES:Keynote
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Nous ne percevons pas tous les couleurs de la même façon. Il es
@@ -1128,17 +1128,6 @@ URL:https://devfest.gdgnantes.com/sessions/informatique_quantique__je_suis_
  non_binaire
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Surprise!
-DTSTART:20191022T172000
-DURATION:PT50M
-LOCATION:Belem
-SUMMARY:Keynote de fermeture (overflow)
-UID:keynote_close_overflow
-URL:https://devfest.gdgnantes.com/sessions/keynote_close_overflow
-TRANSP:TRANSPARENT
-CATEGORIES:Keynote
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pour mieux aiguiller ses choix d’aujourd’hui\, quoi de mieux qu
