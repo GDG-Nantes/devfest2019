@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Conserto
-brief: Sponsor's word Conserto
+brief: Few words from our sponsor Conserto
 image: /images/blog/conserto.png
 date: 2019-10-09
 draft: false
