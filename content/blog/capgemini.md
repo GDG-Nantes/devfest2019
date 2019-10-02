@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Capgemini
-brief: Sponsor's word Capgemini
+brief: Few words from our sponsor Capgemini
 image: /images/blog/capgemini.png
 date: 2019-10-10
 draft: false
