@@ -1,6 +1,6 @@
 ---
 title: A few words from our sponsor Epitech
-brief: Sponsor's word Epitech
+brief: Few words from our sponsor Epitech
 image: /images/blog/epitech.png
 date: 2019-10-03
 draft: false
