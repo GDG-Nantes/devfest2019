@@ -1,7 +1,7 @@
 ---
 title: Marie Cauchy
 type: core
-subtitle: ADN Ouest
+subtitle: Head of Epitech Digital
 photo: marie.jpeg
 socials:
   - link: 'https://twitter.com/MarieCauchyy'
