@@ -13,7 +13,8 @@ Un Sfeirien propose un jour l’idée de l’axolotl, en vantant la proximité d
 
 ## Jeunesse éternelle
 Une des caractéristiques les plus étonnantes de l’Axolotl est sa tendance à maintenir des propriétés juvéniles au stade adulte. Cette capacité à rester jeune se rapproche des qualités des développeurs. Un état d’esprit jeune et agile, une soif d’apprentissage intarissable. 
-##Capacité d’adaptation
+
+## Capacité d’adaptation
 Une autre singularité de l’Axolotl est sa capacité à s’adapter à son écosystème. Être développeur demande un investissement régulier, tant notre écosystème est soumis aux innovations.
 
 ## Régénération
