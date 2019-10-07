@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## Prepare your coming!
-This is the DevFest is coming soon, it's time for you to organize! 🎶 [Burn to run - Bruce Springsteen](https://www.youtube.com/watch?v=IxuThNgl3YA) 🎶
+The DevFest is coming soon, it's time for you to organize! 🎶 [Burn to run - Bruce Springsteen](https://www.youtube.com/watch?v=IxuThNgl3YA) 🎶
 
 Here is the attendees checklist at DevFest → It's important to have:
 
