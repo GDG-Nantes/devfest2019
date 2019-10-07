@@ -14,7 +14,7 @@ Here is the attendees checklist at DevFest → It's important to bring:
 * the **badge always on you** :warning:
 * An ID to retrieve your ticket. Your laptop to participate in the codelabs (check installation prerequisites on the description of the talk).
 * Your phones and tablets loaded to tweet ([#DevFestNantes](https://twitter.com/search?q=%23devfestnantes))!
-* Its **good mood** and remember that there is a [Code Of Conduct](https://devfest.gdgnantes.com/code-of-conduct/) to adhere to for an inclusive and benevolent conference.
+* Your **good mood** and remember that there is a [Code Of Conduct](https://devfest.gdgnantes.com/code-of-conduct/) to create an inclusive and kindly conference.
 * Well **keep its cup** :warning: (Supplied with the bag given at the entrance). It will serve you coffee, tea and other drinks served during the event.
 * His agenda prepared in advance:
     * Download the sessions calendar directly on the [website](https://devfest.gdgnantes.com/schedule/),
