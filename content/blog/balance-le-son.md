@@ -35,7 +35,7 @@ To avoid long queues, you can withdraw your pass **from Saturday, October 19 fro
 This year's DevFest After Party will take place on Monday, October 21st. The party is organized by the GDG Nantes Team and promises to be Rock!
 All attendees with a DevFest Nantes badge are invited to the DevFest site on floor -1, next to the Titan room, to an After Party between 18:30 and 22:00.
 
-## Thursdays
+## Jobboard
 For this 8th edition, the DevFest Nantes continues the jobboard experience reserved for our sponsors. You can already consult the offers of our sponsors through our partner LesJeudis via this [dedicated page](https://devfest.lesjeudis.com/). Their platform will allow them to get in touch with companies and meet them on their booth. We thank the partners who played the game and ran very attractive ads!
 
 ## Reminder of the program
