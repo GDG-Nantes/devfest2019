@@ -36,7 +36,7 @@ This year's DevFest After Party will take place on Monday, October 21st. The par
 All attendees with a DevFest Nantes badge are invited to the DevFest site on floor -1, next to the Titan room, to an After Party between 18:30 and 22:00.
 
 ## Jobboard
-For this 8th edition, the DevFest Nantes continues the jobboard experience reserved for our sponsors. You can already consult the offers of our sponsors through our partner LesJeudis via this [dedicated page](https://devfest.lesjeudis.com/). Their platform will allow them to get in touch with companies and meet them on their booth. We thank the partners who played the game and ran very attractive ads!
+For this 8th edition, the DevFest Nantes continues the jobboard experience reserved for our sponsors. You can already consult the offers of our sponsors through our partner LesJeudis via this [dedicated page](https://devfest.lesjeudis.com/). Their platform allow you to get in touch with companies and meet them on their booth. We thank the partners who played the game and ran very attractive job posts!
 
 ## Reminder of the program
 We remind you that the program of DevFest Nantes 2019 is available here: https://devfest.gdgnantes.com/schedule/. 🎶 [Nothing Else Matters - Metallica](https://www.youtube.com/watch?v=tAGnKpE4NCI) 🎶
