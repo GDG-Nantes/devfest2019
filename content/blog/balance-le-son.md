@@ -15,7 +15,7 @@ Here is the attendees checklist at DevFest → It's important to bring:
 * An ID to retrieve your ticket. Your laptop to participate in the codelabs (check installation prerequisites on the description of the talk).
 * Your phones and tablets loaded to tweet ([#DevFestNantes](https://twitter.com/search?q=%23devfestnantes))!
 * Your **good mood** and remember that there is a [Code Of Conduct](https://devfest.gdgnantes.com/code-of-conduct/) to create an inclusive and kindly conference.
-* Well **keep its cup** :warning: (Supplied with the bag given at the entrance). It will serve you coffee, tea and other drinks served during the event.
+* Don't forget to **keep your ecocup** :warning: (provided at the entrance). Required for coffee, tea and other drinks during the event.
 * His agenda prepared in advance:
     * Download the sessions calendar directly on the [website](https://devfest.gdgnantes.com/schedule/),
     * Or the mobile app: [Google Play](https://play.google.com/store/apps/details?id=io.monkeypatch.mobile.konfetti) - [App Store](https://apps.apple.com/us/app/konfetti/id1480039275?app=itunes)
