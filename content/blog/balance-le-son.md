@@ -11,7 +11,7 @@ The DevFest is coming soon, it's time for you to organize! 🎶 [Burn to run - B
 
 Here is the attendees checklist at DevFest → It's important to bring:
 
-* Her **badge always on her** :warning:
+* the **badge always on you** :warning:
 * An ID to retrieve your ticket. Your laptop to participate in the codelabs (check installation prerequisites on the description of the talk).
 * Its phones and tablets loaded to block for tweeter ([#DevFestNantes](https://twitter.com/search?q=%23devfestnantes&src=typd))!
 * Its **good mood** and remember that there is a [Code Of Conduct](https://devfest.gdgnantes.com/code-of-conduct/) to adhere to for an inclusive and benevolent conference.
