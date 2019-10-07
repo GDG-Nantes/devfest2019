@@ -24,7 +24,7 @@ Here is the attendees checklist at DevFest → It's important to bring:
     * Enjoy the Lounge Zone #relaxation
     * Go listen to a concert on the open stage
 * Logistics with everything you need in the [Practical](https://devfest.gdgnantes.com/attending/) section
-* Avoid the big bags in vigipirate plan period, a search of the bags will be carried out. A cloakroom will be available.
+* Avoid big bags because a safety search of the bags at the entrance will be carried out. A cloakroom will be available.
 
 ## Removing seats
 There is no need to print your ticket to withdraw your place, but remember to have at least the **digital version of your pass**.
