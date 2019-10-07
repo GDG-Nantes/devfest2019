@@ -43,7 +43,7 @@ We remind you that the program of DevFest Nantes 2019 is available here: https:/
 Do not forget, you will be able to see all the conferences on video so feel free to step out of your comfort zone and discover new topics!
 
 ## DevFest4Kids
-DevFest being this year during the school holidays, we are organizing a DevFest4Kids on Tuesday morning! The opportunity to introduce programming to 20 children aged 8 to 12, girls and boys :)
+DevFest being this year during the school holidays, we are organizing a DevFest4Kids on Tuesday morning! It's a great opportunity to introduce programming to 20 children aged from 8 to 12, girls and boys :)
 As soon as the communication was out, the event was already SOLD OUT!
 
 **Code as you are and ... come as you are!**  
