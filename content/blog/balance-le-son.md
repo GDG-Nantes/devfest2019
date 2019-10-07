@@ -32,7 +32,7 @@ There is no need to print your ticket to withdraw your place, but remember to ha
 To avoid long queues, you can withdraw your pass **from Saturday, October 19 from 12h to 16h**. This will save you precious time on Monday morning. The doors open at 8am on Monday morning and the keynote will begin at 9am. 🎶 [Human Heat - Christine and the Queens](https://www.youtube.com/watch?v=FkWVD9w98ok) 🎶
 
 ## After Party
-This year's DevFest After Party will take place on Monday, October 21st. This evening is organized by Team GDG Nantes and it promises to be Rock!
+This year's DevFest After Party will take place on Monday, October 21st. The party is organized by the GDG Nantes Team and promises to be Rock!
 All participants with a DevFest Nantes badge are therefore invited to the DevFest site on floor -1, next to the Titan room, to an After Party between 18:30 and 22:00.
 
 ## Thursdays
