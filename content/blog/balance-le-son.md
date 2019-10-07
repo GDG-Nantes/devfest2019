@@ -9,7 +9,7 @@ draft: false
 ## Prepare your coming!
 The DevFest is coming soon, it's time for you to organize! 🎶 [Burn to run - Bruce Springsteen](https://www.youtube.com/watch?v=IxuThNgl3YA) 🎶
 
-Here is the attendees checklist at DevFest → It's important to have:
+Here is the attendees checklist at DevFest → It's important to bring:
 
 * Her **badge always on her** :warning:
 * An ID to withdraw your ticket. His laptop to participate in codelabs (check on the description of the talk installation prerequisites).
