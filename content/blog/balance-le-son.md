@@ -23,7 +23,7 @@ Here is the attendees checklist at DevFest → It's important to bring:
     * Keep a dedicated time to walk on the stands (exchanges, contests, animations, ...)
     * Enjoy the Lounge Zone #relaxation
     * Go listen to a concert on the open stage
-* Logistics with everything you need in the [Practical](https://devfest.gdgnantes.com/attending/) section to get to DevFest or know our partner hotel
+* Logistics with everything you need in the [Practical](https://devfest.gdgnantes.com/attending/) section
 * Avoid the big bags in vigipirate plan period, a search of the bags will be carried out. A cloakroom will be available.
 
 ## Removing seats
