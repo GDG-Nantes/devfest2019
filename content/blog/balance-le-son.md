@@ -29,7 +29,7 @@ Here is the attendees checklist at DevFest → It's important to bring:
 ## Registration
 There is no need to print your ticket but remember to have the **digital version of your pass**.
 
-To avoid long queues, you can withdraw your pass **from Saturday, October 19 from 12h to 16h**. This will save you precious time on Monday morning. The doors open at 8am on Monday morning and the keynote will begin at 9am. 🎶 [Human Heat - Christine and the Queens](https://www.youtube.com/watch?v=FkWVD9w98ok) 🎶
+To avoid long queues and save time the Monday morning, join us on  **Saturday, October 19 from 12h to 16h** to register. The doors open at 8am on Monday morning and the keynote will begin at 9am. 🎶 [Human Heat - Christine and the Queens](https://www.youtube.com/watch?v=FkWVD9w98ok) 🎶
 
 ## After Party
 This year's DevFest After Party will take place on Monday, October 21st. The party is organized by the GDG Nantes Team and promises to be Rock!
