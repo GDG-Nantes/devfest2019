@@ -1,6 +1,6 @@
 ---
-title: DevFest 2019 - Balance the sound
-brief: Balance the sound
+title: DevFest 2019 - Play music
+brief: Play music
 image: /images/blog/balance-le-son.jpg
 date: 2019-10-07
 draft: false
