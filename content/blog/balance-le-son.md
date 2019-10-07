@@ -26,7 +26,7 @@ Here is the attendees checklist at DevFest → It's important to bring:
 * Logistics with everything you need in the [Practical](https://devfest.gdgnantes.com/attending/) section
 * Avoid big bags because a safety search of the bags at the entrance will be carried out. A cloakroom will be available.
 
-## Removing seats
+## Registration
 There is no need to print your ticket to withdraw your place, but remember to have at least the **digital version of your pass**.
 
 To avoid long queues, you can withdraw your pass **from Saturday, October 19 from 12h to 16h**. This will save you precious time on Monday morning. The doors open at 8am on Monday morning and the keynote will begin at 9am. 🎶 [Human Heat - Christine and the Queens](https://www.youtube.com/watch?v=FkWVD9w98ok) 🎶
