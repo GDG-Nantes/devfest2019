@@ -19,11 +19,11 @@ handlers:
     secure: always
     http_headers:
       Link: "</theme.js>; rel=preload; as=script, </theme.css>; rel=preload; as=style, </images/backgrounds/back-0.jpg>; rel=preload; as=image"
-  - url: /schedule
+  - url: (.+)?/schedule
     static_files: schedule/index.html
     upload: schedule/index.html
     secure: always
-  - url: /speakers
+  - url: (.+)?/speakers
     static_files: speakers/index.html
     upload: speakers/index.html
     secure: always
