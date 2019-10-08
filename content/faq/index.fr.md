@@ -57,7 +57,7 @@ L'inscription au DevFest Nantes peut se faire directement depuis le site actuel 
 Nous déléguons toute notre billetterie au prestataire, vous pourrez donc annuler vos billets dans les conditions définies par celui-ci. Passé la date de l'événement, aucun remboursement ne sera fait.
 
 ### Je ne pourrais pas venir. Puis-je céder ma place à un ami ?
-Nous acceptons les transferts de billets. Si vous avez connaissance de ce changement 2 semaines avant l'événement, vous pouvez nous prévenir pour que pouvoir modifier le nom sur le billet. Passé le délai des 2 semaines, votre "ami" devra se présenter avec votre billet et portera sur son badge votre nom.
+Nous acceptons les transferts de billets. Si vous avez connaissance de ce changement 2 semaines avant l'événement, vous pouvez faire directement la modification en cliquant sur le lien "gérer ma commande" en bas de votre mail de confirmation de commande. Passé le délai des 2 semaines, votre "ami" devra se présenter avec votre billet et portera sur son badge votre nom.
 
 ### Les présentations sont-elles filmées ?
 Toutes les sessions à l'exception des codelabs seront filmées et mises à disposition sur la chaîne Youtube <a href='http://youtube.com/user/francegdg' target='_blank'>GDG France</a>
