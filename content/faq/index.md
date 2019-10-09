@@ -57,7 +57,7 @@ Registration for DevFest Nantes can be done directly from this site by clicking 
 Our entire ticketing is handled by a service provider, so you can cancel your tickets under the conditions defined by this one. After the date of the event, no refund will be made.
 
 ### I have registered but am unable to attend, can I give it to a friend?
-We can accept registration transfers. If you are aware of the change two weeks before the event, you can inform us so that we change the name on the attendee badge. If you are unable to inform us 2 weeks prior to the event (and are unable to make it), your "friend" must show up with your ticket and he/she will wear the badge registered in your name.
+We can accept registration transfers. If you are aware of the change two weeks before the event, you can make the modification directly by clicking on the link "manage my order" at the bottom of your order confirmation email. If you are unable to inform us 2 weeks prior to the event (and are unable to make it), your "friend" must show up with your ticket and he/she will wear the badge registered in your name.
 
 ### Are presentations recorded?
 All sessions except Codelabs will be recorded and made available on the Youtube channel <a href='http://youtube.com/user/francegdg' target='_blank'>GDG France</a>
