@@ -120,7 +120,7 @@
         - slot: pause-5-day-1
           talk: __pause
         - slot: slot-6-day-1
-          talk: la_confidentialite_assuree_par_les_math
+          talk: privacy_granted_by_maths
         - slot: pause-6-day-1
           talk: __pause
         - slot: slot-7-day-1

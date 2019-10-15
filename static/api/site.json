@@ -671,10 +671,10 @@
       "description": "Un petit parcours, côté technique, de l'évolution des fontes web à travers les différentes spécifications et technologies marquantes : font-family, @font-face, compression, Google Fonts, CSS3, icon-fonts, emojis, ligatures, font-display et enfin les Fontes Variables. Respirez à *font*, tout va bien se passer !"
     },
     {
-      "key": "la_confidentialite_assuree_par_les_math",
-      "title": "La confidentialité assurée par les math",
+      "key": "privacy_granted_by_maths",
+      "title": "Privacy granted by maths",
       "id": "TB6SIZVae6tKAp2iuTlx",
-      "language": "French",
+      "language": "English",
       "format": "quickie",
       "tags": ["_bigdata___ai"],
       "level": "advanced",
@@ -682,7 +682,7 @@
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "Depuis mars dernier la famille TensorFlow compte un nouveau membre *TensorFlow Privacy*. De quoi s’agit-il ? Quelles sont les théories mathématiques qui garantissent la confidentialité d'un modèle de Deep Learning et comment sont-elles implémentées ?"
+      "description": "Since March 2019 the TensorFlow family counts a new member *TensorFlow Privacy*. What is it about? What are the mathematical theories that guarantee the privacy of deep learning models and how they are implemented?"
     },
     {
       "key": "le_futur_de_la_gestion_des_dependances_node",
@@ -3732,7 +3732,7 @@
             },
             {
               "slot": "slot-6-day-1",
-              "talk": "la_confidentialite_assuree_par_les_math"
+              "talk": "privacy_granted_by_maths"
             },
             {
               "slot": "pause-6-day-1",

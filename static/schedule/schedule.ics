@@ -629,17 +629,16 @@ TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Depuis mars dernier la famille TensorFlow compte un nouveau mem
- bre *TensorFlow Privacy*. De quoi s’agit-il ? Quelles sont les théories mat
- hématiques qui garantissent la confidentialité d'un modèle de Deep Learning
-  et comment sont-elles implémentées ?
+DESCRIPTION:Since March 2019 the TensorFlow family counts a new member *Ten
+ sorFlow Privacy*. What is it about? What are the mathematical theories that
+  guarantee the privacy of deep learning models and how they are implemented
+ ?
 DTSTART:20191021T172000
 DURATION:PT20M
 LOCATION:Graslin
-SUMMARY:La confidentialité assurée par les math
+SUMMARY:Privacy granted by maths
 UID:TB6SIZVae6tKAp2iuTlx
-URL:https://devfest.gdgnantes.com/sessions/la_confidentialite_assuree_par_l
- es_math
+URL:https://devfest.gdgnantes.com/sessions/privacy_granted_by_maths
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
 END:VEVENT
