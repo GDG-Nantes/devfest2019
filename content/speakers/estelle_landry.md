@@ -4,7 +4,7 @@ name: Estelle Landry
 id: JkWN4X6967cvBrV2x8vKf1QrHS93
 feature: false
 company: Elium
-companyLogo: /images/partners/elium.png
+companyLogo: /images/partners/pix.png
 city: "Montpellier, France"
 photo: /images/speakers/estelle_landry.jpg
 socials:
