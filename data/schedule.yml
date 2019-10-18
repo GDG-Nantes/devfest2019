@@ -116,7 +116,7 @@
         - slot: pause-4-day-1
           talk: __pause
         - slot: slot-5-day-1
-          talk: authentication_authorization_starters_battle
+          talk: react_en_2019
         - slot: pause-5-day-1
           talk: __pause
         - slot: slot-6-day-1
@@ -278,8 +278,6 @@
           talk: una_gitlab__le_tp_a_roulette__
         - slot: codelab-2-day-2
           talk: creons_notre_premiere_api_avec_nestjs
-        - slot: codelab-3-day-2
-          talk: developing_and_deploying_webthings_by_mozilla
     - room: room_codelab2
       slots: 
         - slot: codelab-1-day-2

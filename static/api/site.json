@@ -144,18 +144,18 @@
       "description": "Nous ne percevons pas tous les couleurs de la même façon. Il est admis que 4,5% de la population a des difficultés à distinguer certaines teintes comme le rouge ou le vert. Et pourtant, nous continuons à utiliser ces couleurs comme des standards d'information dans nos interfaces. Erreurs en rouge, validations en vert… Malgré des recommandations d’accessibilité bien connues, le design d’interface actuel continue d’ignorer cette partie des utilisateurs au profit de certaines tendances visuelles. Pour les personnes daltoniennes, grand nombre de services en ligne sont tout simplement inutilisables.\n\nAlors comment renverser cette tendance ? Une interface accessibles aux daltoniens doit-elle forcément être moche ? Pénible à mettre en place ? Essayons ensemble de transformer cette contrainte d’accessibilité en moteur pour de meilleures expériences.\n\nNous verrons ensemble les bonnes pratiques et les outils à utiliser pour s’assurer que nos interfaces sont accessibles à tous les types de daltonisme. Mais surtout nous verrons comment sensibiliser vos équipes à ce sujet."
     },
     {
-      "key": "authentication_authorization_starters_battle",
-      "title": "Authentication/Authorization Starters Battle",
+      "key": "react_en_2019",
+      "title": "React en 2019",
       "id": "6E03tbU6L5w0IyjMi7yF",
       "language": "French",
       "format": "conference",
       "tags": ["_web"],
       "level": "beginner",
-      "speakers": ["valeriane_venance"],
+      "speakers": ["benjamin_cavy", "yvonnick_frin"],
       "videoId": null,
       "presentation": null,
       "draft": false,
-      "description": "When you start a brand new app or service, you need to think about how you will manage authentication and permissions. But if you are like everyone else, you genuinely do not want to actually think about this. If someone else could do that for you, life would be great. And this has actually happened, you have the choice between several boilerplate projects or authentication/authorization libraries. In fact, you have a lot of options. Which one to choose? Let's have a closer look to them!\n\nAt the end of this talk, you will have a good overview of the common existing solutions and their benefits."
+      "description": "React 16 a apporté son lot de nouveautés mais a aussi préparé le terrain pour des changements plus importants comme la refonte du cycle de vie des composants. Sans parler des annonces faites récemment à propos de Suspense… Vous l’aurez compris le monde React bouge beaucoup en ce moment. Il est temps de faire le point.\nEnsemble, parcourons les nouveautés comme la Context API, la gestion des références, lazy et memo mais aussi les propositions encore à l’écriture comme l’API Hooks ou Suspense. Nous présenterons ces concepts au travers d’explications théoriques appliquées à la migration d’une application React 15."
     },
     {
       "key": "back_in_black_hat___comment_se_faire_pogoter__hacker__bien_comme_il_faut_",
@@ -327,20 +327,6 @@
       "presentation": null,
       "draft": false,
       "description": "Temps de démarrage proche de la seconde, empreinte mémoire de 10 MB, pas de réflection, approche orientée \"cloud native\" : autant de caractéristiques qui font du framework Micronaut le compagnon idéal  de développement de vos microservices Java/Kotlin. Mais concrètement, comment on écrit du code avec Micronaut ?\n\nDans ce TP nous coderons quelques microservices en Java ou Kotlin, les builderons avec Gradle, y brancherons une petite base de donnée H2 ou MongoDB et bien sûr les feront interagir avec du service discovery. Ce TP permettra ainsi de couvrir les principales fonctionnalités de Micronaut comme :\n\n* L'injection de dépendance and l'inversion de contrôle (IoC)\n* La configuration et l'auto-configuration\n* Les services HTTP avec des clients et des serveurs HTTP\n* Les aspects cloud native\n* Le support des APIs réactives\n* Les tests\n* Le management et le monitoring de nos microservices\n* La compilation native avec GraalVM"
-    },
-    {
-      "key": "developing_and_deploying_webthings_by_mozilla",
-      "title": "Developing and Deploying WebThings by Mozilla",
-      "id": "7Cj0Rxozzh9vMWdR5WMV",
-      "language": "English",
-      "format": "codelab",
-      "tags": ["_mobile___iot"],
-      "level": "intermediate",
-      "speakers": ["ryme_assaad"],
-      "videoId": null,
-      "presentation": null,
-      "draft": false,
-      "description": "We will demonstrate Mozilla’s WebThings Gateway, an IoT framework to protect user privacy and security, and to improve cross-brand interoperability. We will also show how to develop and build your own custom \"web things\" out of microcontroller boards then get “hands-on” using MicroBlocks.\n\nHands-on :\nTo participate in microcontroller programming using MicroBlocks, come to the workshop with MicroBlocks pre-installed. You can download the installer for your operating system and follow the setup instructions."
     },
     {
       "key": "developper_de_nouvelles_applications_avec_docker_app",
@@ -1012,7 +998,7 @@
       "format": "codelab",
       "tags": ["_bigdata___ai"],
       "level": "intermediate",
-      "speakers": ["alex_bezzubov", "egor_bulychev", "hugo_mougard"],
+      "speakers": ["alex_bezzubov", "hugo_mougard"],
       "videoId": null,
       "presentation": null,
       "draft": false,
@@ -1536,34 +1522,6 @@
         }
       ],
       "description": "Doug is a veteran engineer, experienced public speaker, and developer advocate at Google with the Firebase team.  He developed web apps before the web had \"apps\", and developed for Android since the very first Android device was on the market.  In the SF bay area, he's bootstrapped the efforts of several startups.  Outside of work, Doug follows professional ice hockey and enjoys craft beer."
-    },
-    {
-      "key": "egor_bulychev",
-      "name": "Egor Bulychev",
-      "id": "5D010L90BldNjK0FZPmlhghvKTj2",
-      "feature": false,
-      "company": "source{d}",
-      "companyLogo": "/images/partners/source_d.jpg",
-      "city": "Madrid, Spain",
-      "photoURL": "/images/speakers/egor_bulychev.png",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/egor_bu",
-          "name": "egor_bu"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/egorbu",
-          "name": "egorbu"
-        },
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/egor-bulychev-028237118",
-          "name": "egor-bulychev"
-        }
-      ],
-      "description": "Currently, Egor is a Senior Machine Learning Engineer at source{d} where he works with “big code”, natural languages and deep learning. Egor is one of the developers of the distributed deep learning platform Veles (https://velesnet.ml) while working at Samsung Research Russia. Afterwards, Egor was responsible for the machine learning efforts to predict customer demography and preferences at Samsung Headquarters. In the past, Egor was a robotics engineer whose responsibility was to develop the computer vision system for an unmanned air vehicle while studying at Bauman Moscow State Technical University. He used to be an active participant of Eurobot international robotics competition."
     },
     {
       "key": "emmanuel_demey",
@@ -2591,22 +2549,6 @@
       "description": "En tant que Scrum Master, j'accompagne tout type de clients. Je fais partie d'équipes pluridisciplinaires sur des projets Digitaux (Back et Front), en particulier pour des applications mobiles. J'apporte une importance toute particulière à l'automatisation, l'industrialisation et l'assurance qualité via notamment les tests E2E."
     },
     {
-      "key": "ryme_assaad",
-      "name": "Ryme Assaad",
-      "id": "7nHeRoVYvxbwMKFvufE010B4E273",
-      "feature": false,
-      "company": "Kapstone Co",
-      "photoURL": "/images/speakers/ryme_assaad.jpg",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/rymeassaad",
-          "name": "rymeassaad"
-        }
-      ],
-      "description": "Ryme Assaad is cofounder & managing partner at Kapstone Co, myiolab and SEFY International\n\nShe was a TechWomen fellow 2018 and interned at Mozilla. \n\nShe is currently a TechSpeaker and working with the Mozilla Web of Things (WoT) community towards a decentralized Internet of Things with improved standards around security, privacy and interoperability."
-    },
-    {
       "key": "bertrand_presles",
       "name": "Bertrand Presles",
       "id": "AakMVtNmFpUCymvLgHcGhxVZEts1",
@@ -2882,27 +2824,28 @@
       "description": ""
     },
     {
-      "key": "valeriane_venance",
+      "key": "benjamin_cavy",
+      "name": "Benjamin Cavy",
+      "id": "15FXSY1pHlaP7wK14yGKBaxom6n1",
+      "feature": false,
+      "company": "MAIF",
+      "companyLogo": "/images/partners/maif.png",
+      "city": "Paris, France",
+      "photoURL": "/images/speakers/benjamin_cavy.png",
+      "socials": [],
+      "description": "Benjamin est développeur full-stack à la MAIF. Il s’intéresse en ce moment particulièrement à l’écosystème JavaScript : reactjs, vuejs, svelte, …"
+    },
+    {
+      "key": "yvonnick_frin",
       "name": "Valeriane Venance",
       "id": "05FXSY1pHlaP7wK14yGKBaxom6n1",
       "feature": false,
-      "company": "Clever Cloud",
-      "companyLogo": "/images/partners/clever_cloud.png",
+      "company": "Zenika",
+      "companyLogo": "/images/partners/zenika.png",
       "city": "Paris, France",
-      "photoURL": "/images/speakers/valeriane_venance.png",
-      "socials": [
-        {
-          "icon": "twitter",
-          "link": "https://twitter.com/valeriane_IT",
-          "name": "valeriane_IT"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/vvenance",
-          "name": "vvenance"
-        }
-      ],
-      "description": "Valériane had nothing to do with coding or anything related in her previous life, and she basically fell into computer science, internet, communities, philosophies and ethics at école 42.\nShe has learned web basics with Le wagon and started as freelancer in Paris right after.\nPassionate about the startup ecosystem she has been a backend developer, consultant and deputy CTO for many and started talking in local meetups by the time.\nNowadays she writes about the techs she loves as a developer advocate for Clever Cloud and organizes the DevRelSalon meetup in Paris."
+      "photoURL": "/images/speakers/yvonnick_frin.png",
+      "socials": [],
+      "description": "Yvonnick développeur javascript chez Zenika Nantes. Curieux et passionné, il aime découvrir les dernières technologies du Web. Adepte d’AngularJs par le passé, il se met à explorer le Flux avec React. Social, il co-organise NantesJS."
     },
     {
       "key": "vincent_demeester",
@@ -3424,15 +3367,6 @@
       }
     },
     {
-      "key": "codelab-3-day-2",
-      "start": "15:10",
-      "duration": 120,
-      "row": {
-        "start": 23,
-        "end": 34
-      }
-    },
-    {
       "key": "pause-4-day-2",
       "start": "16:00",
       "duration": 20,
@@ -3724,7 +3658,7 @@
             },
             {
               "slot": "slot-5-day-1",
-              "talk": "authentication_authorization_starters_battle"
+              "talk": "react_en_2019"
             },
             {
               "slot": "pause-5-day-1",
@@ -4054,10 +3988,6 @@
             {
               "slot": "codelab-2-day-2",
               "talk": "creons_notre_premiere_api_avec_nestjs"
-            },
-            {
-              "slot": "codelab-3-day-2",
-              "talk": "developing_and_deploying_webthings_by_mozilla"
             }
           ]
         },

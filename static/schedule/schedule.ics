@@ -609,22 +609,21 @@ TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:When you start a brand new app or service\, you need to think a
- bout how you will manage authentication and permissions. But if you are lik
- e everyone else\, you genuinely do not want to actually think about this. I
- f someone else could do that for you\, life would be great. And this has ac
- tually happened\, you have the choice between several boilerplate projects 
- or authentication/authorization libraries. In fact\, you have a lot of opti
- ons. Which one to choose? Let's have a closer look to them!\n\nAt the end o
- f this talk\, you will have a good overview of the common existing solution
- s and their benefits.
+DESCRIPTION:React 16 a apporté son lot de nouveautés mais a aussi préparé l
+ e terrain pour des changements plus importants comme la refonte du cycle de
+  vie des composants. Sans parler des annonces faites récemment à propos de 
+ Suspense… Vous l’aurez compris le monde React bouge beaucoup en ce moment. 
+ Il est temps de faire le point.\nEnsemble\, parcourons les nouveautés comme
+  la Context API\, la gestion des références\, lazy et memo mais aussi les p
+ ropositions encore à l’écriture comme l’API Hooks ou Suspense. Nous présent
+ erons ces concepts au travers d’explications théoriques appliquées à la mig
+ ration d’une application React 15.
 DTSTART:20191021T162000
 DURATION:PT50M
 LOCATION:Graslin
-SUMMARY:Authentication/Authorization Starters Battle
+SUMMARY:React en 2019
 UID:6E03tbU6L5w0IyjMi7yF
-URL:https://devfest.gdgnantes.com/sessions/authentication_authorization_sta
- rters_battle
+URL:https://devfest.gdgnantes.com/sessions/react_en_2019
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
@@ -1474,25 +1473,6 @@ TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:We will demonstrate Mozilla’s WebThings Gateway\, an IoT framew
- ork to protect user privacy and security\, and to improve cross-brand inter
- operability. We will also show how to develop and build your own custom "we
- b things" out of microcontroller boards then get “hands-on” using MicroBloc
- ks.\n\nHands-on :\nTo participate in microcontroller programming using Micr
- oBlocks\, come to the workshop with MicroBlocks pre-installed. You can down
- load the installer for your operating system and follow the setup instructi
- ons.
-DTSTART:20191022T151000
-DURATION:PT120M
-LOCATION:Les Machines
-SUMMARY:Developing and Deploying WebThings by Mozilla
-UID:7Cj0Rxozzh9vMWdR5WMV
-URL:https://devfest.gdgnantes.com/sessions/developing_and_deploying_webthin
- gs_by_mozilla
-TRANSP:TRANSPARENT
-CATEGORIES:📱 Mobile & IoT
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Vous avez\, sans doute\, entendu parler de WebAssembly\, vous a
  vez peut-être vu des talks\, lu des posts\, discuté à la machine à café... 
  mais avez-vous déjà essayé ?\n\nSupporté par [tous les navigateurs actuels]
@@ -1547,24 +1527,5 @@ UID:4fsNGz0TPC0vV7AFqulV
 URL:https://devfest.gdgnantes.com/sessions/il_faut_sauver_lora
 TRANSP:TRANSPARENT
 CATEGORIES:🐱‍💻 SECURITY
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Docker Application Package est un vrai couteau suisse\, permett
- ant de déployer une application sur plusieurs orchestrateurs (Swarm/Kuberne
- tes).\nDurant ce workshop nous verrons:\n* comment ce nouvel outil s'articu
- le autour de Docker Compose\n* comment partager son application sur une reg
- istry et faciliter le passage de témoin entre devs et ops\n* comment utilis
- er Docker App en client CNAB (Cloud Native Application Bundle) et écrire so
- n propre bundle CNAB à la main\n\nNote: une connaissance de Docker Compose 
- est un plus mais pas un pré-requis.
-DTSTART:20191022T151000
-DURATION:PT120M
-LOCATION:Le Hangar
-SUMMARY:Développer de nouvelles applications avec Docker App
-UID:uKwJIEHsXhL3khaI03mB
-URL:https://devfest.gdgnantes.com/sessions/developper_de_nouvelles_applicat
- ions_avec_docker_app
-TRANSP:TRANSPARENT
-CATEGORIES:☁️ Cloud & DevOps
 END:VEVENT
 END:VCALENDAR

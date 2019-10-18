@@ -9,7 +9,6 @@ tags:
 complexity: Intermediate
 speakers:
   - alex_bezzubov
-  - egor_bulychev
   - hugo_mougard
 videoId: null
 presentation: null
