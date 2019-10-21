@@ -191,6 +191,12 @@
   row:
     start: 23
     end: 26
+- key: codelab-3-day-2
+  start: '15:10'
+  duration: 120
+  row:
+    start: 23
+    end: 34    
 - key: pause-4-day-2
   start: '16:00'
   duration: 20
