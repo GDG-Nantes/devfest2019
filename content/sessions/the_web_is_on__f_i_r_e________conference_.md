@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - noel_mace
 videoId: null
-presentation: null
+presentation: https://devfestnantes-2019.wof.show/
 draft: false
 ---
 La Web platform évolue en permanence ! Et ça fait 4 ans qu'on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable & Engaging !

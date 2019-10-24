@@ -11,7 +11,7 @@ speakers:
   - fleur_ettwiller
   - michele_legait
 videoId: null
-presentation: null
+presentation: https://docs.google.com/presentation/d/1gA6auxOnjOy-FlTDaQFrgno9cJ1PYH0I-vXyTUhIGWA/edit
 draft: false
 ---
 Nous allons vous raconter une histoire merveilleuse où développeurs et designers collaborent au quotidien dans un même environnement appelé Design system. 

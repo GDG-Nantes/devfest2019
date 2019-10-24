@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - benoit_giraudou
 videoId: null
-presentation: null
+presentation: https://github.com/joow/sommeil
 draft: false
 ---
 Les nouveautés d'Angular 7, de React 16.8 ou encore de TypeScript 3.3.3333...  

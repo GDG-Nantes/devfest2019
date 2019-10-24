@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - mael_naccache
 videoId: null
-presentation: null
+presentation: https://github.com/maeln/gpgpu_devfest_2019
 draft: false
 ---
 En 2004, au SIGGRAPH (la plus importante conférence pour tout ce qui se rapporte au "computer graphics") des chercheurs de l'université de Stanford théorise le GPGPU : Ne plus se restreindre à de la 3D et pouvoir  faire du calcul "générique" sur GPU. Inspiré par ce papier, NVidia sortira CUDA en Juin 2007 permettant enfin au monde entier d'exploiter les GPU NVidia pour tout type de calcul. Suivra ensuite OpenCL, par Khronos Group (notamment responsable d'OpenGL), généralisant le GPGPU à tous les GPUs, et enfin, l'intégration du GPGPU dans toute les APIs graphiques majeurs (OpenGL, Metal, DirectX et Vulkan).
