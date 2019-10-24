@@ -10,7 +10,7 @@ talkType: conference
 speakers:
   - axel_cateland
 videoId: null
-presentation: null
+presentation: https://github.com/cateland/devfest-2019
 draft: false
 ---
 # Null, undefined and maybe, a tale of uncertainty
