@@ -9,8 +9,8 @@ city: 'Brest, France'
 photo: /images/speakers/steven_le_roux.png
 socials:
   - icon: twitter
-    link: 'https://twitter.com/StevenLeRoux'
-    name: StevenLeRoux
+    link: 'https://twitter.com/GwinizDu'
+    name: GwinizDu
   - icon: github
     link: 'https://github.com/stevenleroux'
     name: stevenleroux

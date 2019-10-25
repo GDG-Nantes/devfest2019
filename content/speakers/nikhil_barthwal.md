@@ -7,9 +7,6 @@ company: Google
 companyLogo: /images/partners/google.svg
 photo: /images/speakers/nikhil_barthwal.jpg
 socials:
-  - icon: twitter
-    link: 'https://twitter.com/nikhilbarthwal'
-    name: nikhilbarthwal
   - icon: github
     link: 'https://github.com/nikhilbarthwal'
     name: nikhilbarthwal

@@ -7,5 +7,8 @@ company: Zenika
 companyLogo: /images/partners/zenika.png
 city: 'Nantes, France'
 photo: /images/speakers/mael_naccache.png
-socials: []
+socials: 
+  - icon: twitter
+    link: 'https://twitter.com/MaelTufekci'
+    name: MaelTufekci
 ---
