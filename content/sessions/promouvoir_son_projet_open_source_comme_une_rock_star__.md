@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - franck_abgrall
   - thomas_betous
-videoId: null
+videoId: wgp1H3NlSEo
 presentation: https://speakerdeck.com/franckabgrall/comment-promouvoir-son-projet-open-source
 draft: false
 ---

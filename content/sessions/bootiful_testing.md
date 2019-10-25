@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - josh_long
-videoId: null
+videoId: yGhEYpApXg8
 presentation: null
 draft: false
 ---

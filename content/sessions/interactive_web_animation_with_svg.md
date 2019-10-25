@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - cassie_evans
-videoId: null
+videoId: 2vvMkv1osiU
 presentation: https://slides.com/cassiecodes/deck-4-5#/
 draft: false
 ---

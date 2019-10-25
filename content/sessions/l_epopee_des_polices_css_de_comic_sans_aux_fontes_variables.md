@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - raphael_goetter
-videoId: null
+videoId: PaHrqhbsuzs
 presentation: https://speakerdeck.com/goetter/lepopee-des-polices-web-de-comic-sans-aux-variable-fonts
 draft: false
 ---

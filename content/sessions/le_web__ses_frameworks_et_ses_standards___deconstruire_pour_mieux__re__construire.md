@@ -12,7 +12,7 @@ tags:
 complexity: Intermediate
 speakers:
   - hubert_sablonniere
-videoId: null
+videoId: HEELMZ29GwQ
 presentation: https://t.co/wqakGIfvA3?amp=1
 draft: false
 ---

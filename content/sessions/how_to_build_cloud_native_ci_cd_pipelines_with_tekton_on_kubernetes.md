@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - vincent_demeester
-videoId: null
+videoId: Bt-4LOkXJLU
 presentation: null
 draft: false
 ---

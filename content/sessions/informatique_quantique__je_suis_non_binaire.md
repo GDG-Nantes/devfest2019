@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - guillaume_briand
-videoId: null
+videoId: YnuVJK3tgDk
 presentation: null
 draft: false
 ---

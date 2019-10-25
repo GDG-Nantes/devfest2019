@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - kirell_benzi
-videoId: null
+videoId: Etdathp0Esg
 presentation: null
 draft: false
 ---
