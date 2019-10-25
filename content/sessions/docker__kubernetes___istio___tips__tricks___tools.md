@@ -11,7 +11,7 @@ speakers:
   - aurelie_vache
   - kevin_davin
 videoId: null
-presentation: null
+presentation: https://docs.google.com/presentation/d/1GEJLhFaks7MDZLV1TvN2tHqHgesZVP3gQ9wDSMUeADo/edit
 draft: false
 ---
 Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l'utilisation quotidienne peut être assez tricky.

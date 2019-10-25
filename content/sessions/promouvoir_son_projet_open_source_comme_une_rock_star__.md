@@ -11,7 +11,7 @@ speakers:
   - franck_abgrall
   - thomas_betous
 videoId: null
-presentation: null
+presentation: https://speakerdeck.com/franckabgrall/comment-promouvoir-son-projet-open-source
 draft: false
 ---
 En tant que développeur, nous utilisons quotidiennement l’open source. Aujourd’hui, nous avons tous le réflexe d’utiliser ces projets basés sur un modèle collaboratif pour répondre à des problématiques du quotidien et accélérer le développement. Créer un projet open-source est une excellente opportunité de devenir acteur de la communauté.

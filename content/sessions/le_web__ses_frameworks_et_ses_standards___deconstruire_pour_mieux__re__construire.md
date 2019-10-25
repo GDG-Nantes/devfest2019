@@ -13,7 +13,7 @@ complexity: Intermediate
 speakers:
   - hubert_sablonniere
 videoId: null
-presentation: null
+presentation: https://t.co/wqakGIfvA3?amp=1
 draft: false
 ---
 Dans le monde merveilleux du frontend Web, les frameworks et leurs écosystèmes vont et viennent.

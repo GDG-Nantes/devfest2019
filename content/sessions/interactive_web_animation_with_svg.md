@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - cassie_evans
 videoId: null
-presentation: null
+presentation: https://slides.com/cassiecodes/deck-4-5#/
 draft: false
 ---
 Have you ever felt uninspired by the every-day grind? Like coding is all work and no play?

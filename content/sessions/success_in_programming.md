@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - frederic_harper
 videoId: null
-presentation: null
+presentation: https://speaking.fred.dev/cX9DYB/personal-branding-for-developers-success-in-programming
 draft: false
 ---
 Why should you, a competent software developer or programmer, care about your own brand? After all, it’s not like you’re an actor or musician. 

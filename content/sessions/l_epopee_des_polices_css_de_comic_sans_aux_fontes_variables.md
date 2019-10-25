@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - raphael_goetter
 videoId: null
-presentation: null
+presentation: https://speakerdeck.com/goetter/lepopee-des-polices-web-de-comic-sans-aux-variable-fonts
 draft: false
 ---
 Un petit parcours, côté technique, de l'évolution des fontes web à travers les différentes spécifications et technologies marquantes : font-family, @font-face, compression, Google Fonts, CSS3, icon-fonts, emojis, ligatures, font-display et enfin les Fontes Variables. Respirez à *font*, tout va bien se passer !

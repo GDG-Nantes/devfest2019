@@ -11,7 +11,7 @@ speakers:
   - aurelien_loyer
   - emmanuel_demey
 videoId: null
-presentation: null
+presentation: https://aurelien-loyer.fr/bazel-bazel-bazel/
 draft: false
 ---
 Bazel, bazel, bazel, ... encore un outil de build dans notre boite à outil de développeurs front ? Webpack n'était pas déja la solution à tout ?

@@ -11,7 +11,7 @@ speakers:
   - olivier_thierry
   - nicolas_helfer
 videoId: null
-presentation: null
+presentation: https://drive.google.com/file/d/1W-aShAXurigVhK1y3JxHb_qi2E5r7j2K/view
 draft: false
 ---
 Facebook, Instagram, Pinterest, Skype, UberEATS, Lastminute, Veepee : voici quelques-unes des plus belles références de React Native. Cette solution portée par Facebook permet de développer des applications mobiles natives Android et iOS à partir d'un code source unique React. Les technologies du web pour développer de vraies applications mobiles !

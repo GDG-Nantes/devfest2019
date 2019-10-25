@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - julien_topcu
 videoId: null
-presentation: null
+presentation: https://slides.com/julientopcu/back-in-black-hat-comment-se-faire-pogoter-hacker-bien-comme-il-faut#/
 draft: false
 ---
 Et encore une fuite de numéros de cartes de crédit sur internet! https://www.infoq.com/news/2018/11/british-airways-data-breach

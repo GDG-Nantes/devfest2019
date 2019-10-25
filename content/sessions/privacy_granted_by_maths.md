@@ -10,7 +10,7 @@ complexity: Advanced
 speakers:
   - giulia_bianchi
 videoId: null
-presentation: null
+presentation: https://speakerdeck.com/giulbia/privacy-granted-by-maths
 draft: false
 ---
 Since March 2019 the TensorFlow family counts a new member *TensorFlow Privacy*. What is it about? What are the mathematical theories that guarantee the privacy of deep learning models and how they are implemented?

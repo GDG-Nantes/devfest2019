@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - alexis_jacomy
 videoId: null
-presentation: null
+presentation: https://slides.com/jacomyal/svelte#/
 draft: false
 ---
 J'ai récemment vu la conférence [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) de Rich Harris, sur son outil [Svelte](https://svelte.dev/). Je suis sûr que cette conférence fera date, et va influencer tout l'écosystème des outils JavaScript dans les années à venir.

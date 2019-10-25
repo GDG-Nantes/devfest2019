@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - zigazou
 videoId: null
-presentation: null
+presentation: https://github.com/Zigazou/fpga
 draft: false
 ---
 Le Raspberry Pi et l'Arduino ont ouvert les portes de l'électronique au plus grand nombre. Une autre technologie émerge, nous offrant de nouvelles possibilités : les FPGA. À travers la présentation du DE0-Nano-SoC et l’étude d'un cas concret, cette conférence explique aux développeur·euse·s ce que sont les FPGA et ce qu’ils apportent.

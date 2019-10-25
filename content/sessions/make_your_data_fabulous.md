@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - philipp_krenn
 videoId: null
-presentation: null
+presentation: https://xeraa.net/talks/make-your-data-fabulous/
 draft: false
 ---
 The CAP theorem is widely known for distributed systems, but it's not the only tradeoff you should be aware of. For datastores there is also the FAB theory and just like with the CAP theorem you can only pick two:

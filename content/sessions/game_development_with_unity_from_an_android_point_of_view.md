@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - julien_salvi
 videoId: null
-presentation: null
+presentation: https://speakerdeck.com/oleur/game-development-with-unity-from-an-android-point-of-view-at-devfestnantes
 draft: false
 ---
 Developing mobile games with Unity has become more and more popular these years, and Unity developers often need to tackle OS specific challenges.

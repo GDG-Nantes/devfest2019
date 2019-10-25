@@ -11,7 +11,7 @@ speakers:
   - cecile_freyd_foucault
   - estelle_landry
 videoId: null
-presentation: null
+presentation: https://docs.google.com/presentation/d/1qs-9SavH0zFciyTNn13IjOZjYkCka6M6EywPRrHyDqo/preview?slide=id.g35f391192_00
 draft: false
 ---
 Malgré l'application de cadres agiles, et l'amélioration de la communication grâce à l'arrivé du Game Storming et autres ateliers, un mur existe encore entre designers ("concepteurs") et développeurs.

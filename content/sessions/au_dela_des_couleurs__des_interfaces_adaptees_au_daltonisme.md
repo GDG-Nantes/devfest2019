@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - laura_wacrenier
 videoId: null
-presentation: null
+presentation: https://drive.google.com/file/d/1IUtL_4KIRtLPfuTKsYxjcWHAftXPXd6L/view
 draft: false
 ---
 Nous ne percevons pas tous les couleurs de la même façon. Il est admis que 4,5% de la population a des difficultés à distinguer certaines teintes comme le rouge ou le vert. Et pourtant, nous continuons à utiliser ces couleurs comme des standards d'information dans nos interfaces. Erreurs en rouge, validations en vert… Malgré des recommandations d’accessibilité bien connues, le design d’interface actuel continue d’ignorer cette partie des utilisateurs au profit de certaines tendances visuelles. Pour les personnes daltoniennes, grand nombre de services en ligne sont tout simplement inutilisables.
