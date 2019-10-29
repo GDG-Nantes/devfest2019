@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - emmanuel_lebeaupin
 videoId: null
-presentation: null
+presentation: https://elebeaup.github.io/pulumi-presentation/#/
 draft: false
 ---
 Quand on parle d'Infrastructure As Code, on pense souvent à Terraform. Cependant, il existe d'autres outils qui émergent et qui mériteraient d’être autant connu.

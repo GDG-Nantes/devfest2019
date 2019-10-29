@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - sebastien_moreno
 videoId: null
-presentation: null
+presentation: https://speakerdeck.com/sebastienmoreno/kubernetes-enfin-ultra-simple-et-leger-avec-k3s
 draft: false
 ---
 L'installation d'un cluster Kubernetes a longtemps été une tâche lourde pour l'Ops ou le Dev. Mais on arrive maintenant dans une ère de maturité dans les distributions Kubernetes, avec notamment Rancher, Openshift... mais aussi les installeurs du cloud comme EKS de AWS. Ici je propose d'explorer dans un Quickie une autre distribution issue de Rancher, ultra-légère, ultra simple, prête pour la prod et l'IOT.  K3S débarrasse Kubernetes de sa complexité de ses plugins superflus et change Kubernetes en simple binaire à lancer sur vos machines. Au programme: explication de ce que ça cache sous le capot et de la démo !

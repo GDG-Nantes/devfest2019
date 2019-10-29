@@ -11,7 +11,7 @@ speakers:
   - aurelien_loyer
   - emmanuel_demey
 videoId: null
-presentation: null
+presentation: https://aurelien-loyer.fr/codelab-nestjs/
 draft: false
 ---
 Depuis le temps que vous allez à des conférences, vous avez sûrement participé à des codelabs JavaScript essentiellement sur vos framework frontend. 
