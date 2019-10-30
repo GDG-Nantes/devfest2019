@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - julien_salvi
-videoId: null
+videoId: G8q7UK3LZlM
 presentation: https://speakerdeck.com/oleur/game-development-with-unity-from-an-android-point-of-view-at-devfestnantes
 draft: false
 ---

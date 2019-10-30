@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - sebastien_moreno
-videoId: null
+videoId: 6xBB8dUtsWA
 presentation: null
 draft: false
 ---

@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - bastien_cadiot
   - stephane_teyssier
-videoId: null
+videoId: lu7-7x5AS9c
 presentation: null
 draft: false
 ---

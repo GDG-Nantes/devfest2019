@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - bertrand_presles
   - adrien_lasselle
-videoId: null
+videoId: ewdqIoMGT5U
 presentation: https://www.cloud-libre.eu/index.php/s/8mWCezfq9zgo4wB#pdfviewer
 draft: false
 ---

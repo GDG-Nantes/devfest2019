@@ -1,6 +1,6 @@
 ---
 key: the_web_is_on__f_i_r_e________conference_
-title: "The Web is on \U0001F525 F.I.R.E. \U0001F525 !!! (conference)"
+title: "The Web is on \U0001F525 F.I.R.E. \U0001F525 !!!"
 id: O8kC0an3RuGqxTfPKHYp
 language: French
 talkType: conference
@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - noel_mace
-videoId: null
+videoId: _byWU9V4fXw
 presentation: https://devfestnantes-2019.wof.show/
 draft: false
 ---
