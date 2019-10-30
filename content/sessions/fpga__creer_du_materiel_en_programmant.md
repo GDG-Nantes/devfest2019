@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - zigazou
-videoId: null
+videoId: jGhq9Mkmjrc
 presentation: https://github.com/Zigazou/fpga
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - bob_van_luijt
-videoId: null
+videoId: hlG0vto2CdM
 presentation: null
 draft: false
 ---

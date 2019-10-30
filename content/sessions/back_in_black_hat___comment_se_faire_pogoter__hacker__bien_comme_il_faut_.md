@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - julien_topcu
-videoId: null
+videoId: NXS0z_HQVf8
 presentation: https://slides.com/julientopcu/back-in-black-hat-comment-se-faire-pogoter-hacker-bien-comme-il-faut#/
 draft: false
 ---

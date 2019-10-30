@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - mael_naccache
-videoId: null
+videoId: e8bReXUQe-0
 presentation: https://github.com/maeln/gpgpu_devfest_2019
 draft: false
 ---
