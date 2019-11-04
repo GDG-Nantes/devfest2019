@@ -12,11 +12,12 @@ menu:
 
 ### Cité des Congrès, Nantes, France
 
-<!--
-<a class="btn primary btn-lg" href="https://conference-hall.io/public/event/o2j0dYZDa0W1Ils3kO0z" target="_blank">
-    Proposer un talk
+<a class="btn primary btn-lg" href="https://www.youtube.com/playlist?list=PLuZ_sYdawLiUjPGPsOvBcgBxC6yP_HSA6" target="_blank">
+    Vidéos
 </a>
--->
+<a class="btn primary btn-lg" href="https://photos.app.goo.gl/1WWs9JJJtjHWhBiG6" target="_blank">
+    Photos
+</a>
 
 {{% /jumbo %}}
 
