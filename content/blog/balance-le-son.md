@@ -1,5 +1,5 @@
 ---
-title: DevFest 2019 - Play music
+title: DevFest Nantes 2019 - Play music
 brief: Play music
 image: /images/blog/balance-le-son.jpg
 date: 2019-10-07

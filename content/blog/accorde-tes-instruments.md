@@ -1,5 +1,5 @@
 ---
-title: DevFest 2019 - Tune your instruments
+title: DevFest Nantes 2019 - Tune your instruments
 brief: Tune your instruments
 image: /images/blog/accorde-tes-instruments.jpg
 date: 2019-06-14

@@ -1,5 +1,5 @@
 ---
-title: DevFest 2019 - Plug the guitars
+title: DevFest Nantes 2019 - Plug the guitars
 brief: Plug the guitars
 image: /images/blog/branche-les-guitares.jpg
 date: 2019-07-16
