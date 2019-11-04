@@ -6,9 +6,9 @@ date: 2019-11-04
 draft: false
 ---
 
-Wow but what DevFest! Thank you all for participating in this 100% Rock Edition   
+Wow, but what DevFest! Thank you all for participating in this 100% Rock Edition   
 We hope your experience as an attendee has lived up to your expectations!
-First of all we would like to thank you for your participation in the DevFest Nantes 2019!
+First of all, we would like to thank you for your participation in the DevFest Nantes 2019!
 We hope you had a good time, met many people and enjoyed a maximum of sessions.
 
 Please note that all photos of DevFest Nantes are available on [Google Photos](https://photos.app.goo.gl/1WWs9JJJtjHWhBiG6), and videos on our [Youtube channel](https://www.youtube.com/playlist?list=PLuZ_sYdawLiUjPGPsOvBcgBxC6yP_HSA6).
