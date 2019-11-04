@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - thomas_blaisot
-videoId: null
+videoId: taZ2rS-CjAs
 presentation: null
 draft: false
 ---

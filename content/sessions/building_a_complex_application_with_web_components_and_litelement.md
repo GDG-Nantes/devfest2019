@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - justin_fagnani
-videoId: null
+videoId: x9YDQUJx2uw
 presentation: null
 draft: false
 ---

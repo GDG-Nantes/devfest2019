@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - fabien_juif
-videoId: null
+videoId: dgVv6cArMD0
 presentation: null
 draft: false
 ---

@@ -12,7 +12,7 @@ tags:
 complexity: Beginner
 speakers:
   - nicolas_giraud
-videoId: null
+videoId: PYldMeoL9F0
 presentation: null
 draft: false
 ---

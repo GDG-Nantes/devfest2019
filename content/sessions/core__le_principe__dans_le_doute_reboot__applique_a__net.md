@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - francois_bouteruche
-videoId: null
+videoId: jEsE2PrDCQk
 presentation: https://fbouteruche.github.io/dansledoutereboot/#/
 draft: false
 ---

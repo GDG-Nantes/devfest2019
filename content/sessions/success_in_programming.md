@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - frederic_harper
-videoId: null
+videoId: qAk2pmiyWJg
 presentation: https://speaking.fred.dev/cX9DYB/personal-branding-for-developers-success-in-programming
 draft: false
 ---

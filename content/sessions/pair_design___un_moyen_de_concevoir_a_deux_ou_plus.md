@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - cecile_freyd_foucault
   - estelle_landry
-videoId: null
+videoId: rIZjbuEfyDs
 presentation: https://docs.google.com/presentation/d/1qs-9SavH0zFciyTNn13IjOZjYkCka6M6EywPRrHyDqo/preview?slide=id.g35f391192_00
 draft: false
 ---

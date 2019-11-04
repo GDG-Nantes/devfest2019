@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - loic_mathieu
-videoId: null
+videoId: 6VdChn13f3U
 presentation: null
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
 complexity: Advanced
 speakers:
   - giulia_bianchi
-videoId: null
+videoId: HUHDVhRGVi4
 presentation: https://speakerdeck.com/giulbia/privacy-granted-by-maths
 draft: false
 ---

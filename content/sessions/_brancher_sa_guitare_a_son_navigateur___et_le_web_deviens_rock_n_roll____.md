@@ -10,7 +10,7 @@ complexity: Intermediate
 speakers:
   - benjamin_plouzennec
   - benoit_laurent
-videoId: null
+videoId: DIuOk4DHI0E
 presentation: https://docs.google.com/presentation/d/e/2PACX-1vR7ReigtkKZMaA5hMKxvhYXv9wTQWGiuaoYNpAm83AADJ2DSYNenNy6VbdF1i8B1O2w2jyUEj2vf0ij/pub?start=false&loop=false&delayms=3000&slide=id.g35f391192_00
 draft: false
 ---

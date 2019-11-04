@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - kenneth_rohde_christiansen
-videoId: null
+videoId: 03M6FOz1J2M
 presentation: https://docs.google.com/presentation/d/1mbLNONNFQXi_YhkfbOO9Wwix6SV2oGS6HIYSPnG-V3c/edit
 draft: false
 ---

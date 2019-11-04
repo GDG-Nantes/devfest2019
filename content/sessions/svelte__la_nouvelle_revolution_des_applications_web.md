@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - alexis_jacomy
-videoId: null
+videoId: FY0VkYFZb3k
 presentation: https://slides.com/jacomyal/svelte#/
 draft: false
 ---

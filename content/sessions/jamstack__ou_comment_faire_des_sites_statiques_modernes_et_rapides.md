@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - konstantin_bifert
-videoId: null
+videoId: N6gaJUDDmqA
 presentation: null
 draft: false
 ---

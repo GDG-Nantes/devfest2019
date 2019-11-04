@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - laura_wacrenier
-videoId: null
+videoId: 29EpQDs0Td8
 presentation: https://drive.google.com/file/d/1IUtL_4KIRtLPfuTKsYxjcWHAftXPXd6L/view
 draft: false
 ---

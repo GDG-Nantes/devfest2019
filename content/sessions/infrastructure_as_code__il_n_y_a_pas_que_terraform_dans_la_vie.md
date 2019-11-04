@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - emmanuel_lebeaupin
-videoId: null
+videoId: CwqFpSByEI0
 presentation: https://elebeaup.github.io/pulumi-presentation/#/
 draft: false
 ---

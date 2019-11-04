@@ -9,7 +9,7 @@ tags:
 complexity: Beginner
 speakers:
   - gautier_mechling
-videoId: null
+videoId: kBKDAEIxGRk
 presentation: null
 draft: false
 ---

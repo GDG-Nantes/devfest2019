@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - benjamin_cavy
   - yvonnick_frin
-videoId: null
+videoId: uwampIQ-iS0
 presentation: https://docs.google.com/presentation/d/1f-i_33pn8gyLazFykF6xynvIeisfezBHAFNRwcvpj0s/edit#slide=id.g640578840d_1_3
 draft: false
 ---

@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - fleur_ettwiller
   - michele_legait
-videoId: null
+videoId: E3RX9sJvyIA
 presentation: https://docs.google.com/presentation/d/1gA6auxOnjOy-FlTDaQFrgno9cJ1PYH0I-vXyTUhIGWA/edit
 draft: false
 ---

@@ -10,7 +10,7 @@ complexity: Beginner
 speakers:
   - didier_girard
   - cyril_balit
-videoId: null
+videoId: tgqEzd61sPw
 presentation: null
 draft: false
 ---

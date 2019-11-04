@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - philipp_krenn
-videoId: null
+videoId: G0XGv8GrhMk
 presentation: https://xeraa.net/talks/make-your-data-fabulous/
 draft: false
 ---

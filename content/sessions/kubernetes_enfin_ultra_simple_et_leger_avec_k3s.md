@@ -9,7 +9,7 @@ tags:
 complexity: Intermediate
 speakers:
   - sebastien_moreno
-videoId: null
+videoId: 6xBB8dUtsWA
 presentation: https://speakerdeck.com/sebastienmoreno/kubernetes-enfin-ultra-simple-et-leger-avec-k3s
 draft: false
 ---
