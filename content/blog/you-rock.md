@@ -6,7 +6,7 @@ date: 2019-11-04
 draft: false
 ---
 
-Wow, but what DevFest! Thank you all for participating in this 100% Rock Edition   
+Wow! What a DevFest! Thank you all for participating in this 100% Rock Edition
 We hope your experience as an attendee has lived up to your expectations!
 First of all, we would like to thank you for your participation in the DevFest Nantes 2019!
 We hope you had a good time, met many people and enjoyed a maximum of sessions.
