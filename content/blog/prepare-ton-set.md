@@ -1,5 +1,5 @@
 ---
-title: DevFest 2019 - Prepare your live set
+title: DevFest Nantes 2019 - Prepare your live set
 brief: Prepare your live set
 image: /images/blog/prepare-your-set.jpg
 date: 2019-05-14

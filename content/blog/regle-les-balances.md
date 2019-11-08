@@ -1,5 +1,5 @@
 ---
-title: DevFest 2019 - Rule the scales
+title: DevFest Nantes 2019 - Rule the scales
 brief: Rule the scales
 image: /images/blog/regle-les-balances.jpg
 date: 2019-09-06
