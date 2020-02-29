@@ -1,3 +1,5 @@
 [submodule "themes/devfest-theme-hugo"]
 	path = themes/devfest-theme-hugo
 	url = git@github.com:GDG-Nantes/devfest-theme-hugo.git
+	branch = nantes-2019
+	

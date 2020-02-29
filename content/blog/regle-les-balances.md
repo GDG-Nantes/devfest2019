@@ -7,24 +7,26 @@ draft: false
 ---
 
 ## Announcement of the schedule
-You were waiting for it, the schedule of DevFest Nantes 2019 is available here: https://devfest.gdgnantes.com/schedule/. 🎶 [L'homme pressé - Noir Désir](https://www.youtube.com/watch?v=by1RRP9wa_Y) 🎶
+
+You were waiting for it, the schedule of DevFest Nantes 2019 is available here: https://devfest2019.gdgnantes.com/schedule/. 🎶 [L'homme pressé - Noir Désir](https://www.youtube.com/watch?v=by1RRP9wa_Y) 🎶
 
 The DevFest Nantes 2019 in numbers:
 
-* 93 Speakers
-* 70 Sessions
-    * 40 Conferences
-    * 16 Quickies
-    * 12 Codelabs
-    * 2 Keynotes
-    * 30% of the content in English and the rest in French
-    * 1 overflow area for the smallest room 😉
-* 1 after-party and 1 surprise
-* 2000 attendees per day
+- 93 Speakers
+- 70 Sessions
+  - 40 Conferences
+  - 16 Quickies
+  - 12 Codelabs
+  - 2 Keynotes
+  - 30% of the content in English and the rest in French
+  - 1 overflow area for the smallest room 😉
+- 1 after-party and 1 surprise
+- 2000 attendees per day
 
-Find the complete list of speakers here: https://devfest.gdgnantes.com/speakers/
+Find the complete list of speakers here: https://devfest2019.gdgnantes.com/speakers/
 
 ## Speakers
+
 Here are some of our top speakers from this DevFest 2019! 🎶 [Run Run Run - Shaka Ponk](https://www.youtube.com/watch?v=eVMBs_I8iqk) 🎶
 
 {{<centered-img src="/images/speakers/frederic_harper.jpg" alt="Frederick Harper" width="150">}}

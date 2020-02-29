@@ -11,7 +11,7 @@ DURATION:PT40M
 LOCATION:Titan
 SUMMARY:Keynote d'ouverture
 UID:keynote_open
-URL:https://devfest.gdgnantes.com/sessions/keynote_open
+URL:https://devfest2019.gdgnantes.com/sessions/keynote_open
 TRANSP:TRANSPARENT
 CATEGORIES:Keynote
 END:VEVENT
@@ -37,7 +37,7 @@ LOCATION:Titan
 SUMMARY:Le Web\, ses frameworks et ses standards : déconstruire pour mieux 
  (re?)construire
 UID:b5hF6p3CkOqC09NEiGTI
-URL:https://devfest.gdgnantes.com/sessions/le_web__ses_frameworks_et_ses_st
+URL:https://devfest2019.gdgnantes.com/sessions/le_web__ses_frameworks_et_ses_st
  andards___deconstruire_pour_mieux__re__construire
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -56,7 +56,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Building a Complex Application with Web Components and LitElement
 UID:vuByu8t2zUzhZwAaep6t
-URL:https://devfest.gdgnantes.com/sessions/building_a_complex_application_w
+URL:https://devfest2019.gdgnantes.com/sessions/building_a_complex_application_w
  ith_web_components_and_litelement
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -73,7 +73,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Interactive web animation with SVG
 UID:drey18HXZigxa1JHhrQg
-URL:https://devfest.gdgnantes.com/sessions/interactive_web_animation_with_s
+URL:https://devfest2019.gdgnantes.com/sessions/interactive_web_animation_with_s
  vg
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -95,7 +95,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Success in Programming
 UID:1FYvsNqstRjBnJhXNdwf
-URL:https://devfest.gdgnantes.com/sessions/success_in_programming
+URL:https://devfest2019.gdgnantes.com/sessions/success_in_programming
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
@@ -115,7 +115,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:La guitare Lâg HyVibe
 UID:SHneT9Z4EuhEvtKuOLx9
-URL:https://devfest.gdgnantes.com/sessions/la_guitare_lag_hyvibe
+URL:https://devfest2019.gdgnantes.com/sessions/la_guitare_lag_hyvibe
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
@@ -134,7 +134,7 @@ DURATION:PT20M
 LOCATION:Titan
 SUMMARY:Dr Gopher\, Anatomie du Scheduler Golang
 UID:gfMKNuH75Ksioc9rdRCB
-URL:https://devfest.gdgnantes.com/sessions/dr_gopher__anatomie_du_scheduler
+URL:https://devfest2019.gdgnantes.com/sessions/dr_gopher__anatomie_du_scheduler
  _golang
 TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
@@ -156,7 +156,7 @@ DURATION:PT20M
 LOCATION:Titan
 SUMMARY:Pair Design : Un moyen de concevoir à deux ou plus
 UID:vzGargOlA8voJIxO4BLz
-URL:https://devfest.gdgnantes.com/sessions/pair_design___un_moyen_de_concev
+URL:https://devfest2019.gdgnantes.com/sessions/pair_design___un_moyen_de_concev
  oir_a_deux_ou_plus
 TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
@@ -173,7 +173,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Go “serverless” with Cloud Functions for Firebase
 UID:soeAyOgC36jM3ARXsDEG
-URL:https://devfest.gdgnantes.com/sessions/go_serverless_with_cloud_functio
+URL:https://devfest2019.gdgnantes.com/sessions/go_serverless_with_cloud_functio
  ns_for_firebase
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -194,7 +194,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Développer une API Cloud Ready avec Quarkus
 UID:U1Qk0QLvBtJWTWsjMPTc
-URL:https://devfest.gdgnantes.com/sessions/developper_une_api_cloud_ready_a
+URL:https://devfest2019.gdgnantes.com/sessions/developper_une_api_cloud_ready_a
  vec_quarkus
 TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
@@ -218,7 +218,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Docker\, Kubernetes & Istio : Tips\, tricks & tools
 UID:0XqyD15XmnVBqKH26Y9O
-URL:https://devfest.gdgnantes.com/sessions/docker__kubernetes___istio___tip
+URL:https://devfest2019.gdgnantes.com/sessions/docker__kubernetes___istio___tip
  s__tricks___tools
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -243,7 +243,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Project FUGU\, reaching parity with native
 UID:ZT1MhdJMLlwJ0XE1TsYT
-URL:https://devfest.gdgnantes.com/sessions/project_fugu__reaching_parity_wi
+URL:https://devfest2019.gdgnantes.com/sessions/project_fugu__reaching_parity_wi
  th_native
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -259,7 +259,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:L'épopée des polices CSS de Comic Sans aux fontes variables
 UID:P39ti4I6J5PN4nn3oNll
-URL:https://devfest.gdgnantes.com/sessions/l_epopee_des_polices_css_de_comi
+URL:https://devfest2019.gdgnantes.com/sessions/l_epopee_des_polices_css_de_comi
  c_sans_aux_fontes_variables
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -281,7 +281,7 @@ DURATION:PT20M
 LOCATION:Belem
 SUMMARY:Promouvoir son projet open-source comme une rock star !
 UID:tTtqiqxJRs7FXh1FSoSI
-URL:https://devfest.gdgnantes.com/sessions/promouvoir_son_projet_open_sourc
+URL:https://devfest2019.gdgnantes.com/sessions/promouvoir_son_projet_open_sourc
  e_comme_une_rock_star__
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -301,7 +301,7 @@ DURATION:PT20M
 LOCATION:Belem
 SUMMARY:Le futur de la gestion des dépendances Node
 UID:uNGtKqNgZZ7ImmVxF6lS
-URL:https://devfest.gdgnantes.com/sessions/le_futur_de_la_gestion_des_depen
+URL:https://devfest2019.gdgnantes.com/sessions/le_futur_de_la_gestion_des_depen
  dances_node
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -313,7 +313,7 @@ DURATION:PT40M
 LOCATION:Tour de Bretagne
 SUMMARY:Keynote d'ouverture (overflow)
 UID:keynote_open_overflow
-URL:https://devfest.gdgnantes.com/sessions/keynote_open_overflow
+URL:https://devfest2019.gdgnantes.com/sessions/keynote_open_overflow
 TRANSP:TRANSPARENT
 CATEGORIES:Keynote
 END:VEVENT
@@ -338,7 +338,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Au delà des couleurs\, des interfaces adaptées au daltonisme
 UID:za8R64n8Oqm7Euuz78aN
-URL:https://devfest.gdgnantes.com/sessions/au_dela_des_couleurs__des_interf
+URL:https://devfest2019.gdgnantes.com/sessions/au_dela_des_couleurs__des_interf
  aces_adaptees_au_daltonisme
 TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
@@ -362,7 +362,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Tu packages  comment ? Bazel bazel bazel ! 📦
 UID:6YRBevpRuzvHpTahfu0M
-URL:https://devfest.gdgnantes.com/sessions/tu_packages__comment___bazel_baz
+URL:https://devfest2019.gdgnantes.com/sessions/tu_packages__comment___bazel_baz
  el_bazel___
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -380,7 +380,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Duniter : la blockchain écolo
 UID:aaPb7SVWpqCKWMD8rQ1F
-URL:https://devfest.gdgnantes.com/sessions/duniter___la_blockchain_ecolo
+URL:https://devfest2019.gdgnantes.com/sessions/duniter___la_blockchain_ecolo
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
@@ -399,7 +399,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Performance tuning of Go applications in Cloud
 UID:omD4YZC4aeDe3WlHQ6IA
-URL:https://devfest.gdgnantes.com/sessions/performance_tuning_of_go_applica
+URL:https://devfest2019.gdgnantes.com/sessions/performance_tuning_of_go_applica
  tions_in_cloud
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -418,7 +418,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Les spécificités des jeux de société numériques
 UID:4womBQjyPQa0CQXUrIEf
-URL:https://devfest.gdgnantes.com/sessions/les_specificites_des_jeux_de_soc
+URL:https://devfest2019.gdgnantes.com/sessions/les_specificites_des_jeux_de_soc
  iete_numeriques
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -438,7 +438,7 @@ DURATION:PT20M
 LOCATION:Tour de Bretagne
 SUMMARY:Kubernetes enfin ultra simple et léger avec K3S
 UID:OIjVxOH5t9EA0uP1CFmV
-URL:https://devfest.gdgnantes.com/sessions/kubernetes_enfin_ultra_simple_et
+URL:https://devfest2019.gdgnantes.com/sessions/kubernetes_enfin_ultra_simple_et
  _leger_avec_k3s
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -468,7 +468,7 @@ DURATION:PT20M
 LOCATION:Tour de Bretagne
 SUMMARY:Le sommeil\, à la recherche du temps perdu
 UID:mqrd0iqqHellKFjJyVIX
-URL:https://devfest.gdgnantes.com/sessions/le_sommeil__a_la_recherche_du_te
+URL:https://devfest2019.gdgnantes.com/sessions/le_sommeil__a_la_recherche_du_te
  mps_perdu
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -514,7 +514,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:GPGPU: Utiliser la carte graphique pour accélérer vos applications!
 UID:gLlR2d54uGV94NChK47Z
-URL:https://devfest.gdgnantes.com/sessions/gpgpu__utiliser_la_carte_graphiq
+URL:https://devfest2019.gdgnantes.com/sessions/gpgpu__utiliser_la_carte_graphiq
  ue_pour_accelerer_vos_applications_
 TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
@@ -537,7 +537,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:React Native : comment réussir son application mobile
 UID:YcYbzTiENcd0afk3oP7c
-URL:https://devfest.gdgnantes.com/sessions/react_native___comment_reussir_s
+URL:https://devfest2019.gdgnantes.com/sessions/react_native___comment_reussir_s
  on_application_mobile
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
@@ -559,7 +559,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:Make Your Data FABulous
 UID:3bpYxNtnZ9IgdjDAV9Bn
-URL:https://devfest.gdgnantes.com/sessions/make_your_data_fabulous
+URL:https://devfest2019.gdgnantes.com/sessions/make_your_data_fabulous
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
 END:VEVENT
@@ -603,7 +603,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:# Null\, undefined and maybe\, a tale of uncertainty
 UID:D2cYPUbo5VbsjmAadLGX
-URL:https://devfest.gdgnantes.com/sessions/null__undefined_and_maybe__a_tal
+URL:https://devfest2019.gdgnantes.com/sessions/null__undefined_and_maybe__a_tal
  e_of_uncertainty
 TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
@@ -623,7 +623,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:React en 2019
 UID:6E03tbU6L5w0IyjMi7yF
-URL:https://devfest.gdgnantes.com/sessions/react_en_2019
+URL:https://devfest2019.gdgnantes.com/sessions/react_en_2019
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
@@ -637,7 +637,7 @@ DURATION:PT20M
 LOCATION:Graslin
 SUMMARY:Privacy granted by maths
 UID:TB6SIZVae6tKAp2iuTlx
-URL:https://devfest.gdgnantes.com/sessions/privacy_granted_by_maths
+URL:https://devfest2019.gdgnantes.com/sessions/privacy_granted_by_maths
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
 END:VEVENT
@@ -658,7 +658,7 @@ LOCATION:Graslin
 SUMMARY:Comment j'ai fini par déployer à 2h du matin une application sur AW
  S pour piloter des voitures électriques avec un vélo d'appartement.
 UID:p0qINDWxKe7NNvcbZPRZ
-URL:https://devfest.gdgnantes.com/sessions/comment_j_ai_fini_par_deployer_a
+URL:https://devfest2019.gdgnantes.com/sessions/comment_j_ai_fini_par_deployer_a
  _2h_du_matin_une_application_sur_aws_pour_piloter_des_voitures_electriques_
  avec_un_velo_d_appartement_
 TRANSP:TRANSPARENT
@@ -678,7 +678,7 @@ DURATION:PT120M
 LOCATION:Les Machines
 SUMMARY:Apprenez à sécuriser votre cluster kubernetes par la pratique
 UID:k6r7HRlCQ9gsx7Drdt4n
-URL:https://devfest.gdgnantes.com/sessions/apprenez_a_securiser_votre_clust
+URL:https://devfest2019.gdgnantes.com/sessions/apprenez_a_securiser_votre_clust
  er_kubernetes_par_la_pratique
 TRANSP:TRANSPARENT
 CATEGORIES:🐱‍💻 SECURITY
@@ -702,7 +702,7 @@ DURATION:PT120M
 LOCATION:Les Machines
 SUMMARY:Découvrez Micronaut\, le framework qui va faire du bien à la JVM !
 UID:0Ka6ZU9876uQ2ZsBjCfc
-URL:https://devfest.gdgnantes.com/sessions/decouvrez_micronaut__le_framewor
+URL:https://devfest2019.gdgnantes.com/sessions/decouvrez_micronaut__le_framewor
  k_qui_va_faire_du_bien_a_la_jvm__
 TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
@@ -717,7 +717,7 @@ DURATION:PT120M
 LOCATION:Les Machines
 SUMMARY:Le graal d'AWS : Découverte et prise en main de Chalice
 UID:vaPb7SVWpqCKWMD8rQ1F
-URL:https://devfest.gdgnantes.com/sessions/le_graal_d_aws___decouverte_et_p
+URL:https://devfest2019.gdgnantes.com/sessions/le_graal_d_aws___decouverte_et_p
  rise_en_main_de_chalice
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -737,7 +737,7 @@ DURATION:PT120M
 LOCATION:Le Hangar
 SUMMARY:Créer votre device IoT connecté en quelques heures
 UID:Ew9a8XaJRV3NUmgkWR4K
-URL:https://devfest.gdgnantes.com/sessions/creer_votre_device_iot_connecte_
+URL:https://devfest2019.gdgnantes.com/sessions/creer_votre_device_iot_connecte_
  en_quelques_heures
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
@@ -762,7 +762,7 @@ LOCATION:Le Hangar
 SUMMARY:Workshop - Kotlin Multiplatform : mutualiser du code sur iOS et And
  roid
 UID:gevXHeoGYajrCygKBiwx
-URL:https://devfest.gdgnantes.com/sessions/workshop___kotlin_multiplatform_
+URL:https://devfest2019.gdgnantes.com/sessions/workshop___kotlin_multiplatform_
  __mutualiser_du_code_sur_ios_et_android
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
@@ -786,7 +786,7 @@ DURATION:PT120M
 LOCATION:Le Hangar
 SUMMARY:Understand your code with Machine Learning on Source Code
 UID:yqiyt3VtCEHOBGlMYSln
-URL:https://devfest.gdgnantes.com/sessions/understand_your_code_with_machin
+URL:https://devfest2019.gdgnantes.com/sessions/understand_your_code_with_machin
  e_learning_on_source_code
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
@@ -808,7 +808,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Lucy in the Sky with ML: Building the Ultimate Beatles Tribute App
 UID:hSGMgvMwUiXFxGIwnIrA
-URL:https://devfest.gdgnantes.com/sessions/lucy_in_the_sky_with_ml__buildin
+URL:https://devfest2019.gdgnantes.com/sessions/lucy_in_the_sky_with_ml__buildin
  g_the_ultimate_beatles_tribute_app
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -833,7 +833,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:How to Build Cloud-Native CI/CD Pipelines with Tekton on Kubernetes
 UID:RkTwW9vA7v3JI9lyYdju
-URL:https://devfest.gdgnantes.com/sessions/how_to_build_cloud_native_ci_cd_
+URL:https://devfest2019.gdgnantes.com/sessions/how_to_build_cloud_native_ci_cd_
  pipelines_with_tekton_on_kubernetes
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -859,7 +859,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Bootiful Testing
 UID:gsIF2uG4a6IyAv4YTuyt
-URL:https://devfest.gdgnantes.com/sessions/bootiful_testing
+URL:https://devfest2019.gdgnantes.com/sessions/bootiful_testing
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
 END:VEVENT
@@ -892,7 +892,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Svelte\, la nouvelle révolution des applications web
 UID:upyuHsqO0MNP8cz8ttwQ
-URL:https://devfest.gdgnantes.com/sessions/svelte__la_nouvelle_revolution_d
+URL:https://devfest2019.gdgnantes.com/sessions/svelte__la_nouvelle_revolution_d
  es_applications_web
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -913,7 +913,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Data + Art
 UID:1pPAH10fVgm728cNTxSY
-URL:https://devfest.gdgnantes.com/sessions/data___art
+URL:https://devfest2019.gdgnantes.com/sessions/data___art
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
@@ -942,7 +942,7 @@ DURATION:PT20M
 LOCATION:Titan
 SUMMARY:Parcel.js : le bundler dont vous rêviez \;)
 UID:d1Yng4mhbcD71ko9lKBu
-URL:https://devfest.gdgnantes.com/sessions/parcel_js___le_bundler_dont_vous
+URL:https://devfest2019.gdgnantes.com/sessions/parcel_js___le_bundler_dont_vous
  _reviez___
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -959,7 +959,7 @@ DURATION:PT20M
 LOCATION:Titan
 SUMMARY:Vega au secours de vos visualisations de données
 UID:orXBRWglkzkRXecgftv5
-URL:https://devfest.gdgnantes.com/sessions/vega_au_secours_de_vos_visualisa
+URL:https://devfest2019.gdgnantes.com/sessions/vega_au_secours_de_vos_visualisa
  tions_de_donnees
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
@@ -971,7 +971,7 @@ DURATION:PT50M
 LOCATION:Titan
 SUMMARY:Keynote de fermeture
 UID:keynote_close
-URL:https://devfest.gdgnantes.com/sessions/keynote_close
+URL:https://devfest2019.gdgnantes.com/sessions/keynote_close
 TRANSP:TRANSPARENT
 CATEGORIES:Keynote
 END:VEVENT
@@ -994,7 +994,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Building better products faster: DevUx is the new DevOps
 UID:fKXlhS3noQ2uhlTFeQ6s
-URL:https://devfest.gdgnantes.com/sessions/building_better_products_faster_
+URL:https://devfest2019.gdgnantes.com/sessions/building_better_products_faster_
  _devux_is_the_new_devops
 TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
@@ -1013,7 +1013,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:AI + Robot Cat = A Smart Cat
 UID:Euu7QJjcULbfWzrJWWPq
-URL:https://devfest.gdgnantes.com/sessions/ai___robot_cat___a_smart_cat
+URL:https://devfest2019.gdgnantes.com/sessions/ai___robot_cat___a_smart_cat
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
 END:VEVENT
@@ -1030,7 +1030,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Cloud ROCKS my SI
 UID:3XPc1RWhOuIdTLCIBtu3
-URL:https://devfest.gdgnantes.com/sessions/cloud_rocks_my_si
+URL:https://devfest2019.gdgnantes.com/sessions/cloud_rocks_my_si
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
 END:VEVENT
@@ -1056,7 +1056,7 @@ DURATION:PT50M
 LOCATION:Belem
 SUMMARY:Knative: A Kubernetes Framework to manage Serverless Workloads
 UID:zq0gscWBX23J8X2dl3Ae
-URL:https://devfest.gdgnantes.com/sessions/knative__a_kubernetes_framework_
+URL:https://devfest2019.gdgnantes.com/sessions/knative__a_kubernetes_framework_
  to_manage_serverless_workloads
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -1074,7 +1074,7 @@ LOCATION:Belem
 SUMMARY:🤘🎸 Brancher sa guitare a son navigateur : Et le web deviens rock'
  n'roll !  🤘🎸
 UID:imlHFq6TjUPfXNZ0vIfl
-URL:https://devfest.gdgnantes.com/sessions/_brancher_sa_guitare_a_son_navig
+URL:https://devfest2019.gdgnantes.com/sessions/_brancher_sa_guitare_a_son_navig
  ateur___et_le_web_deviens_rock_n_roll____
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -1097,7 +1097,7 @@ DURATION:PT20M
 LOCATION:Belem
 SUMMARY:Infrastructure As Code\, il n'y a pas que Terraform dans la vie
 UID:KZTtPMRanQO97kymurGQ
-URL:https://devfest.gdgnantes.com/sessions/infrastructure_as_code__il_n_y_a
+URL:https://devfest2019.gdgnantes.com/sessions/infrastructure_as_code__il_n_y_a
  _pas_que_terraform_dans_la_vie
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
@@ -1122,7 +1122,7 @@ DURATION:PT20M
 LOCATION:Belem
 SUMMARY:Informatique quantique\, je suis non binaire
 UID:zvbagtyYCZ51JAFpel53
-URL:https://devfest.gdgnantes.com/sessions/informatique_quantique__je_suis_
+URL:https://devfest2019.gdgnantes.com/sessions/informatique_quantique__je_suis_
  non_binaire
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -1141,7 +1141,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Dis moi DOC\, quelle IT en 2025 ?
 UID:DJLcE7Bm1GLDRzUt6Ipz
-URL:https://devfest.gdgnantes.com/sessions/dis_moi_doc__quelle_it_en_2025__
+URL:https://devfest2019.gdgnantes.com/sessions/dis_moi_doc__quelle_it_en_2025__
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
 END:VEVENT
@@ -1159,7 +1159,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Storybook pour votre design system\, un conte de fées ?
 UID:GOy9xsl5UNPVMwJKZzVf
-URL:https://devfest.gdgnantes.com/sessions/storybook_pour_votre_design_syst
+URL:https://devfest2019.gdgnantes.com/sessions/storybook_pour_votre_design_syst
  em__un_conte_de_fees__
 TRANSP:TRANSPARENT
 CATEGORIES:💚 UX / UI
@@ -1179,7 +1179,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:The Web is on 🔥 F.I.R.E. 🔥 !!! (conference)
 UID:O8kC0an3RuGqxTfPKHYp
-URL:https://devfest.gdgnantes.com/sessions/the_web_is_on__f_i_r_e________co
+URL:https://devfest2019.gdgnantes.com/sessions/the_web_is_on__f_i_r_e________co
  nference_
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -1205,7 +1205,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Apache Pulsar 101: architecture\, concepts et comparaison
 UID:zkxHfYw24KNpjHVWHiyB
-URL:https://devfest.gdgnantes.com/sessions/apache_pulsar_101__architecture_
+URL:https://devfest2019.gdgnantes.com/sessions/apache_pulsar_101__architecture_
  _concepts_et_comparaison
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
@@ -1226,7 +1226,7 @@ DURATION:PT50M
 LOCATION:Tour de Bretagne
 SUMMARY:Game Development with Unity from an Android Point of View
 UID:UpRamIk0828btXrN0UnP
-URL:https://devfest.gdgnantes.com/sessions/game_development_with_unity_from
+URL:https://devfest2019.gdgnantes.com/sessions/game_development_with_unity_from
  _an_android_point_of_view
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
@@ -1252,7 +1252,7 @@ DURATION:PT20M
 LOCATION:Tour de Bretagne
 SUMMARY:WebAuthn: Le renouveau de l'authentification
 UID:nDBENy1j3DZpCzgas4yX
-URL:https://devfest.gdgnantes.com/sessions/webauthn__le_renouveau_de_l_auth
+URL:https://devfest2019.gdgnantes.com/sessions/webauthn__le_renouveau_de_l_auth
  entification
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -1275,7 +1275,7 @@ DURATION:PT20M
 LOCATION:Tour de Bretagne
 SUMMARY:Comment le projet Euler m'as donné envie de refaire des Maths
 UID:NNTTBs25221x3lIXcewJ
-URL:https://devfest.gdgnantes.com/sessions/comment_le_projet_euler_m_as_don
+URL:https://devfest2019.gdgnantes.com/sessions/comment_le_projet_euler_m_as_don
  ne_envie_de_refaire_des_maths
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -1294,7 +1294,7 @@ LOCATION:Graslin
 SUMMARY:Back in Black Hat : Comment se faire pogoter (hacker) bien comme il
   faut!
 UID:f4ASANsuZhanDzd0mmai
-URL:https://devfest.gdgnantes.com/sessions/back_in_black_hat___comment_se_f
+URL:https://devfest2019.gdgnantes.com/sessions/back_in_black_hat___comment_se_f
  aire_pogoter__hacker__bien_comme_il_faut_
 TRANSP:TRANSPARENT
 CATEGORIES:🐱‍💻 SECURITY
@@ -1317,7 +1317,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:Premiers pas avec un microcontrôleur et Google Cloud IoT Core
 UID:R9O1S7M9oRMmwd0cNBaz
-URL:https://devfest.gdgnantes.com/sessions/premiers_pas_avec_un_microcontro
+URL:https://devfest2019.gdgnantes.com/sessions/premiers_pas_avec_un_microcontro
  leur_et_google_cloud_iot_core
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
@@ -1335,7 +1335,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:Core\, le principe "dans le doute reboot" appliqué à .NET
 UID:9UKGzjZ3bYCcoZtso63N
-URL:https://devfest.gdgnantes.com/sessions/core__le_principe__dans_le_doute
+URL:https://devfest2019.gdgnantes.com/sessions/core__le_principe__dans_le_doute
  _reboot__applique_a__net
 TRANSP:TRANSPARENT
 CATEGORIES:📝 Languages
@@ -1354,7 +1354,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:FPGA\, créer du matériel en programmant
 UID:d1a10CU19Y6I6Q4RtH3c
-URL:https://devfest.gdgnantes.com/sessions/fpga__creer_du_materiel_en_progr
+URL:https://devfest2019.gdgnantes.com/sessions/fpga__creer_du_materiel_en_progr
  ammant
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -1387,7 +1387,7 @@ DURATION:PT50M
 LOCATION:Graslin
 SUMMARY:Build your own Knowledge Graph with Weaviate on GCP
 UID:gaagH7gxrYaqzdJadyVG
-URL:https://devfest.gdgnantes.com/sessions/build_your_own_knowledge_graph_w
+URL:https://devfest2019.gdgnantes.com/sessions/build_your_own_knowledge_graph_w
  ith_weaviate_on_gcp
 TRANSP:TRANSPARENT
 CATEGORIES:🤖 BigData & AI
@@ -1403,7 +1403,7 @@ DURATION:PT20M
 LOCATION:Graslin
 SUMMARY:Swift Superpowers
 UID:6b3LCbMOXtilGDrd0UlZ
-URL:https://devfest.gdgnantes.com/sessions/swift_superpowers
+URL:https://devfest2019.gdgnantes.com/sessions/swift_superpowers
 TRANSP:TRANSPARENT
 CATEGORIES:📱 Mobile & IoT
 END:VEVENT
@@ -1422,7 +1422,7 @@ DURATION:PT20M
 LOCATION:Graslin
 SUMMARY:JAMstack\, ou comment faire des sites statiques modernes et rapides
 UID:47cEhp1uD5XSLoDvSpTL
-URL:https://devfest.gdgnantes.com/sessions/jamstack__ou_comment_faire_des_s
+URL:https://devfest2019.gdgnantes.com/sessions/jamstack__ou_comment_faire_des_s
  ites_statiques_modernes_et_rapides
 TRANSP:TRANSPARENT
 CATEGORIES:💡 Discovery
@@ -1447,7 +1447,7 @@ DURATION:PT120M
 LOCATION:Les Machines
 SUMMARY:Una-Gitlab\, le TP à roulette !
 UID:JZvPn9hrkr3IyWurF74D
-URL:https://devfest.gdgnantes.com/sessions/una_gitlab__le_tp_a_roulette__
+URL:https://devfest2019.gdgnantes.com/sessions/una_gitlab__le_tp_a_roulette__
 TRANSP:TRANSPARENT
 CATEGORIES:☁️ Cloud & DevOps
 END:VEVENT
@@ -1467,7 +1467,7 @@ DURATION:PT120M
 LOCATION:Les Machines
 SUMMARY:Créons notre première API avec NestJS
 UID:SDBi4eg0XEbDEubEqe60
-URL:https://devfest.gdgnantes.com/sessions/creons_notre_premiere_api_avec_n
+URL:https://devfest2019.gdgnantes.com/sessions/creons_notre_premiere_api_avec_n
  estjs
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -1496,7 +1496,7 @@ DURATION:PT120M
 LOCATION:Le Hangar
 SUMMARY:Les mains dans le cambouis avec WebAssembly 
 UID:l57BOfs0i2jU7GCpUgeo
-URL:https://devfest.gdgnantes.com/sessions/les_mains_dans_le_cambouis_avec_
+URL:https://devfest2019.gdgnantes.com/sessions/les_mains_dans_le_cambouis_avec_
  webassembly
 TRANSP:TRANSPARENT
 CATEGORIES:🌍 Web
@@ -1524,7 +1524,7 @@ DURATION:PT120M
 LOCATION:Le Hangar
 SUMMARY:Il faut sauver LoRa
 UID:4fsNGz0TPC0vV7AFqulV
-URL:https://devfest.gdgnantes.com/sessions/il_faut_sauver_lora
+URL:https://devfest2019.gdgnantes.com/sessions/il_faut_sauver_lora
 TRANSP:TRANSPARENT
 CATEGORIES:🐱‍💻 SECURITY
 END:VEVENT
